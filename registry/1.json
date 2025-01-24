@@ -54315,5 +54315,13 @@
     "symbol": "SLXD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53874/thumb/d-token-200.png?1737617906"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf1bb41f9ed87e6c7e1f70e921b7b4bee1df7ae9c",
+    "name": "Dogcoin",
+    "symbol": "DCOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53928/thumb/IMG_4806.jpeg?1737744626"
   }
 ]

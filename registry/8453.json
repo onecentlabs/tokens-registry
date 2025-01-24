@@ -12417,5 +12417,13 @@
     "symbol": "BID",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53878/thumb/creatorbid.jpg?1737623538"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x84a9aae8fcc085dbe11524f570716d89b772f430",
+    "name": "DTRXBT by Virtuals",
+    "symbol": "DTRXBT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53926/thumb/652f564a-4f1b-4d20-8bd4-8a57a86c204f.jpg?1737744026"
   }
 ]
