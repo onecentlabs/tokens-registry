@@ -1,0 +1,105 @@
+[
+  {
+    "chainId": 11155420,
+    "address": "0x1696baFBe18EFB141823a041E22E43d12B144407",
+    "name": "Boba Token",
+    "symbol": "BOBA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BOBA"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "ETH"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x819845b60A192167Ed1139040B4F8ecA31834f27",
+    "name": "IRARA Token",
+    "symbol": "IRARA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IRARA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "IRARA"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+    "name": "OptimismUselessToken-Bridged",
+    "symbol": "OUTb",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OUTb"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x0B5DAd18B8791ddb24252B433ec4f21f9e6e5Ed0",
+    "name": "Status Test Token",
+    "symbol": "STT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SNT"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x5fd84259d66Cd46123540766Be93DFE6D43130D7",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "extensions": {
+      "opListId": "default",
+      "opTokenId": "USDC"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x75bb6dcA2cD6F9a0189c478bBb8F7EE2fEF07C78",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WCT"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x24B47cd3A74f1799b32B2de11073764Cb1bb318B",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0xdBA2760246f315203F8B716b3a7590F0FFdc704a",
+      "opListId": "default",
+      "opTokenId": "wstETH"
+    }
+  }
+]

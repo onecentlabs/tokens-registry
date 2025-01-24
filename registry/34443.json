@@ -1,0 +1,131 @@
+[
+  {
+    "chainId": 34443,
+    "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+    "name": "Aave Token",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "AAVE"
+    }
+  },
+  {
+    "chainId": 34443,
+    "address": "0xD08a2917653d4E460893203471f0000826fb4034",
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "BAL"
+    }
+  },
+  {
+    "chainId": 34443,
+    "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "DAI"
+    }
+  },
+  {
+    "chainId": 34443,
+    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "LINK"
+    }
+  },
+  {
+    "chainId": 34443,
+    "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
+    "name": "Savings Dai",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/sDAI/logo.svg",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "sDAI"
+    }
+  },
+  {
+    "chainId": 34443,
+    "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+    "name": "Synthetix",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "SNX"
+    }
+  },
+  {
+    "chainId": 34443,
+    "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "UNI"
+    }
+  },
+  {
+    "chainId": 34443,
+    "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "extensions": {
+      "opListId": "default",
+      "opTokenId": "USDC"
+    }
+  },
+  {
+    "chainId": 34443,
+    "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "USDT"
+    }
+  },
+  {
+    "chainId": 34443,
+    "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "WBTC"
+    }
+  }
+]
