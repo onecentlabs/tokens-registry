@@ -9080,5 +9080,13 @@
     "symbol": "SLN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35397/thumb/sln.jpeg?1708488815"
+  },
+  {
+    "chainId": 137,
+    "address": "0xdd28ec6b06983d01d37dbd9ab581d8d884d95264",
+    "name": "Summer",
+    "symbol": "SUMMER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25365/thumb/summer.png?1696524498"
   }
 ]

@@ -12425,5 +12425,13 @@
     "symbol": "DTRXBT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53926/thumb/652f564a-4f1b-4d20-8bd4-8a57a86c204f.jpg?1737744026"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9704d2adbc02c085ff526a37ac64872027ac8a50",
+    "name": "Bsop",
+    "symbol": "BSOP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53930/thumb/IMG_20250123_195741_620.png?1737746583"
   }
 ]
