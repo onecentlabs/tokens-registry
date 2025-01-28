@@ -3901,5 +3901,26 @@
     "symbol": "MEED",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24281/thumb/s-YfFWYu_400x400.png?1696523464"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5eAA326fB2fc97fAcCe6A79A304876daD0F2e96c",
+    "name": "Dimo",
+    "symbol": "DIMO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DIMO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DIMO"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x895e15020c3f52ddd4d8e9514eb83c39f53b1579",
+    "name": "YieldFi yToken",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/IMG_2188.jpeg?1736873763"
   }
 ]

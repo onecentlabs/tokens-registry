@@ -3827,5 +3827,37 @@
     "symbol": "MMUI",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/16588/thumb/MMUI.jpg?1696516148"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x405eb25c5edbfd227a72d69e7ed9db8860637f00",
+    "name": "Bee Trade Finance",
+    "symbol": "BTF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53962/thumb/photo_2025-01-24_11-07-27.jpg?1737791708"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1c7c53aa86b49a28c627b6450091998e447a42f9",
+    "name": "Velvet AI",
+    "symbol": "VELAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53978/thumb/logo.png?1737871230"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "name": "Mountain Protocol USD",
+    "symbol": "USDM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31719/thumb/usdm.png?1696530540"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+    "name": "Wrapped USDM",
+    "symbol": "WUSDM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33785/thumb/wUSDM_PNG_240px.png?1702981552"
   }
 ]

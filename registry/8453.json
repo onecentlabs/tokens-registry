@@ -12433,5 +12433,262 @@
     "symbol": "BSOP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53930/thumb/IMG_20250123_195741_620.png?1737746583"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x60B407479ef0ddF6Cc146ceD609aa07d4296F204",
+    "name": "HEX",
+    "symbol": "HEX",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/HEX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "HEX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA866d0ffa4e9e52eAde4770Af11496E8d237086C",
+    "name": "Matr1x",
+    "symbol": "MAX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MAX/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MAX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xCD6dDDa305955AcD6b94b934f057E8b0daaD58dE",
+    "name": "Perpetual",
+    "symbol": "PERP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "PERP"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x09bE1692ca16e06f536F0038fF11D1dA8524aDB1",
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "decimals": 2,
+    "logoURI": "https://ethereum-optimism.github.io/data/TEL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TEL"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3628d69aa2d66E9efE95Ab1267d440dEc24389B6",
+    "name": "UOMI",
+    "symbol": "UOMI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UOMI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "UOMI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd758916365b361cf833bb9c4c465ecd501ddd984",
+    "name": "Token com",
+    "symbol": "TOKEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52923/thumb/200px_200px_ticker_logo.png?1734698277"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb7b4e8406673528e7dc3d787f3a42eb1ebc01cf6",
+    "name": "Liminal Agent by Virtuals",
+    "symbol": "LMNL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53975/thumb/Screenshot_2024-11-30_at_08.28.16.png?1737807564"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf878e27afb649744eec3c5c0d03bc9335703cfe3",
+    "name": "Eolas  ",
+    "symbol": "EOLAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53942/thumb/Image_%2851%29.png?1737786791"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdd78523217390bb0d49c7601e7e54c36d71622f0",
+    "name": "Chromia s EVAL by Virtuals",
+    "symbol": "EVAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54016/thumb/token1_%281%29.png?1737993873"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc1512b7023a97d54f8dd757b1f84e132297ca0d7",
+    "name": "Ballies",
+    "symbol": "BALL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52858/thumb/TOKEN_BALL_%281%29.png?1734539332"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3bf9a2a798c9b122747344da0276d30a267a80dc",
+    "name": "Fear of Missing Out",
+    "symbol": "FOMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53938/thumb/icon_200x200.png?1737784529"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x99956f143dcca77cddf4b4b2a0fa4d491703244d",
+    "name": "LYRA",
+    "symbol": "LYRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53984/thumb/WhatsApp_Image_2025-01-22_at_23.29.41.jpeg?1737876448"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x74b6b5c92b22c8b4da6dbeb0867dcd12c604afc5",
+    "name": "Price Ai",
+    "symbol": "PRICEAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53966/thumb/1000003672.jpg?1737792765"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7614f61fed79e0ff47aa0831d18d046cb3ee0ce6",
+    "name": "Nest AI by Virtuals",
+    "symbol": "NEST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53985/thumb/Nest_AI_Token.png?1737876691"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9a1b42f7f6d649b73bdb275972295acc940b153a",
+    "name": " gai16zbrielShai16zpr0",
+    "symbol": "GAIB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54011/thumb/cutelex.jpg?1737967746"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2f299be3b081e8cd47dc56c1932fcae7a91b5dcd",
+    "name": "XTTA",
+    "symbol": "XTTA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54021/thumb/hdtWTejS_400x400.jpg?1738008678"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4b959bb4c00d25e52a87cb1865401dd97cb5631d",
+    "name": "Dinari ARKB",
+    "symbol": "ARKBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53944/thumb/d-token-200.png?1737787573"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5aa9bd9364cc3644bb7f35f092283dae7fd17e11",
+    "name": "Dinari ETHE",
+    "symbol": "ETHED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53949/thumb/d-token-200.png?1737788495"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x24fdd77381d3dd36a9bd7029bcdac350a0342de3",
+    "name": "Dinari IBIT",
+    "symbol": "IBITD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53950/thumb/d-token-200.png?1737788536"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xab754c3998ba88e789329f250d90ea35fc87aea6",
+    "name": "Dinari JNJ",
+    "symbol": "JNJD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53951/thumb/d-token-200.png?1737788564"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x45afb331111126f5bf8d37c7816c540c1ec6f544",
+    "name": "Dinari BLK",
+    "symbol": "BLKD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53952/thumb/d-token-200.png?1737788600"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0150958b2b183a8e63264b8a6d82b4f747df3f62",
+    "name": "Dinari MCD",
+    "symbol": "MCDD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53954/thumb/d-token-200.png?1737789312"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0d404bc1a63f7fb5c0500772dc3c3d5444cafa3a",
+    "name": "Dinari QQQ",
+    "symbol": "QQQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53957/thumb/d-token-200.png?1737790123"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x525dcb13b0caf29f30f93305a5cbd10314815408",
+    "name": "Dinari TQQQ",
+    "symbol": "TQQQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53958/thumb/d-token-200.png?1737790158"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x895e15020c3f52ddd4d8e9514eb83c39f53b1579",
+    "name": "YieldFi yToken",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/IMG_2188.jpeg?1736873763"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6309645495f8f2bbeab5d5e18423b38fcd191dfe",
+    "name": "Dinari ARKK",
+    "symbol": "ARKKD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53945/thumb/d-token-200.png?1737787680"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb5cbdae23c5368557cc9a32337863eecf03cf9f",
+    "name": "BEPE",
+    "symbol": "BEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53980/thumb/Cabeza_Bram_Pepe__6__-_Copysmall-removebg-preview.png?1737873331"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x431c248257c1d3897fea3b99eb8e2e4de008cbdf",
+    "name": "Parifi",
+    "symbol": "PRF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34710/thumb/parifi200x200.png?1705894380"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa9c380050b07f8c2bb38dc57bcdbe267cc794fe8",
+    "name": "Dinari AZN",
+    "symbol": "AZND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53946/thumb/d-token-200.png?1737787723"
   }
 ]

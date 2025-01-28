@@ -8296,5 +8296,117 @@
     "symbol": "MEED",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24281/thumb/s-YfFWYu_400x400.png?1696523464"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x63ad78a6e2db3322d16943fc65e71a0010571521",
+    "name": "Dinari TQQQ",
+    "symbol": "TQQQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53958/thumb/d-token-200.png?1737790158"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1a4fd0e749c86eeb6f80d1047d6c25432c703d48",
+    "name": "Dinari ARKK",
+    "symbol": "ARKKD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53945/thumb/d-token-200.png?1737787680"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x44966bf47a494b36dfb407afb334a9226cdf90bc",
+    "name": "Dinari AZN",
+    "symbol": "AZND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53946/thumb/d-token-200.png?1737787723"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3619ca1e96c629f7d71c1b03dc0ee56479356228",
+    "name": "Dinari ARKB",
+    "symbol": "ARKBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53944/thumb/d-token-200.png?1737787573"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4cb894d1a5fc353ec18ba50cb087b88f6f73121f",
+    "name": "Dinari ETHE",
+    "symbol": "ETHED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53949/thumb/d-token-200.png?1737788495"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc1ba16afdcb3a41242944c9faaccd9fb6f2b428c",
+    "name": "Dinari IBIT",
+    "symbol": "IBITD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53950/thumb/d-token-200.png?1737788536"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x50e2b96f958133cbda56d1a62d156e812fe97828",
+    "name": "Dinari JNJ",
+    "symbol": "JNJD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53951/thumb/d-token-200.png?1737788564"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0c29891dc5060618c779e2a45fbe4808aa5ae6ad",
+    "name": "Dinari MCD",
+    "symbol": "MCDD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53954/thumb/d-token-200.png?1737789312"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x63db244bc895b3accec6698ce11b0dbd1d3e1c44",
+    "name": "TRUST AI",
+    "symbol": "TRT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33628/thumb/TRT_Transparent.png?1727376098"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf2f26eee8b40447f664f20ad3513e894153fe09e",
+    "name": "Dinari BLK",
+    "symbol": "BLKD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53952/thumb/d-token-200.png?1737788600"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xad84746c961bc3142b0aefeb0a51a2880bbe4795",
+    "name": "Dinari QQQ",
+    "symbol": "QQQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53957/thumb/d-token-200.png?1737790123"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x895e15020c3f52ddd4d8e9514eb83c39f53b1579",
+    "name": "YieldFi yToken",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/IMG_2188.jpeg?1736873763"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x71b3a0566f4bf80331d115d8026a7022bf670cce",
+    "name": "Diment Dollar",
+    "symbol": "DD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37047/thumb/200x200_DD.png?1713296168"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6e4cc0ab2b4d2edafa6723cfa1582229f1dd1be1",
+    "name": "ZUSD",
+    "symbol": "ZUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/14192/thumb/icon_zusd_200_200.png?1696513910"
   }
 ]

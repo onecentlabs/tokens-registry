@@ -9088,5 +9088,13 @@
     "symbol": "SUMMER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25365/thumb/summer.png?1696524498"
+  },
+  {
+    "chainId": 137,
+    "address": "0xfba4d30e964e40775c95b58acf6b5a621b929c0a",
+    "name": "Autumn",
+    "symbol": "AUTUMN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25366/thumb/autumn.png?1696524499"
   }
 ]

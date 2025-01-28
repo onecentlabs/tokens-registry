@@ -54323,5 +54323,170 @@
     "symbol": "DCOIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53928/thumb/IMG_4806.jpeg?1737744626"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6b4BCfeCcf80AB79EAE40475af34Cd986e583090",
+    "name": "UOMI",
+    "symbol": "UOMI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UOMI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "UOMI"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1",
+    "name": "Coinshift USDL Morpho Vault",
+    "symbol": "CSUSDL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52413/thumb/coinshift-usdl-vault.png?1734356399"
+  },
+  {
+    "chainId": 1,
+    "address": "0x56cfc19d8cbf7d417d370844249be9cb2d2e19a1",
+    "name": "Doge Caucus",
+    "symbol": "DOGECAUCUS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54007/thumb/output-onlinepngtools_%283%29.png?1737963995"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf2478a732e5232acd0acef5e410e230b49b35a12",
+    "name": "Rouge Studio",
+    "symbol": "ROUGE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54013/thumb/logo_nobg.png?1737968608"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb5274d9f803b4b15607c6e180ef8f68fe990f73b",
+    "name": "Neuravox",
+    "symbol": "VOX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/53940/thumb/logo_vox_.png?1737785787"
+  },
+  {
+    "chainId": 1,
+    "address": "0xda67b4284609d2d48e5d10cfac411572727dc1ed",
+    "name": "Noon USN",
+    "symbol": "USN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53948/thumb/image_%289%29.png?1737788246"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcacd6fd266af91b8aed52accc382b4e165586e29",
+    "name": "Frax USD",
+    "symbol": "FRXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+    "name": "Pell Network Token",
+    "symbol": "PELL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53967/thumb/logo-200*200.png?1737793038"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcf62f905562626cfcdd2261162a51fd02fc9c5b6",
+    "name": "Staked Frax USD",
+    "symbol": "SFRXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfa1b1f13080857bf373de0de93970c96d2c29fd0",
+    "name": "Ondo DeFAI",
+    "symbol": "ONDOAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53971/thumb/ondoai-logo.jpg?1737804840"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1c9b158e71bc274ea5519ca57a73e337cac72b3a",
+    "name": "SocialGrowAI",
+    "symbol": "GROWAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53977/thumb/sgailogo.jpg?1737870773"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa64c9f707bbb4cbc4e22f596a53d85b3ab7000f8",
+    "name": "Dinari ARKB",
+    "symbol": "ARKBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53944/thumb/d-token-200.png?1737787573"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4e4016eb5014468f3dba5883c70f9997026ea11e",
+    "name": "Dinari ETHE",
+    "symbol": "ETHED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53949/thumb/d-token-200.png?1737788495"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3c4024408efac2dbf7ed453c95d9d97889e4846a",
+    "name": "Dinari IBIT",
+    "symbol": "IBITD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53950/thumb/d-token-200.png?1737788536"
+  },
+  {
+    "chainId": 1,
+    "address": "0x97e4db79d2924f1c5ce2a821e7d5b111f9925e70",
+    "name": "Dinari JNJ",
+    "symbol": "JNJD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53951/thumb/d-token-200.png?1737788564"
+  },
+  {
+    "chainId": 1,
+    "address": "0xec3e2998c87ac9bced45381f84932c877cad6930",
+    "name": "Dinari MCD",
+    "symbol": "MCDD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53954/thumb/d-token-200.png?1737789312"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbb19ea4de2fcd217ca5e4bd413adc49b52855b2b",
+    "name": "Dinari QQQ",
+    "symbol": "QQQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53957/thumb/d-token-200.png?1737790123"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf7248e588f88655d4a5230c4cec2db2cf4438ff0",
+    "name": "Dinari TQQQ",
+    "symbol": "TQQQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53958/thumb/d-token-200.png?1737790158"
+  },
+  {
+    "chainId": 1,
+    "address": "0x103d7c5c657cb92f4acec796da416d52a6a86bf6",
+    "name": "Dinari AZN",
+    "symbol": "AZND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53946/thumb/d-token-200.png?1737787723"
+  },
+  {
+    "chainId": 1,
+    "address": "0x71b3a0566f4bf80331d115d8026a7022bf670cce",
+    "name": "Diment Dollar",
+    "symbol": "DD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37047/thumb/200x200_DD.png?1713296168"
   }
 ]

@@ -813,5 +813,85 @@
     "symbol": "SLXD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53874/thumb/d-token-200.png?1737617906"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x296c2186948712d66bef4778567c4d2f734bff3c",
+    "name": "Dinari ARKB",
+    "symbol": "ARKBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53944/thumb/d-token-200.png?1737787573"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x098dbfd917f59495fdfc30628c0a5dad4bda2b1e",
+    "name": "Dinari ETHE",
+    "symbol": "ETHED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53949/thumb/d-token-200.png?1737788495"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x28215d9e6444116e194405e93ccf68afde544d5c",
+    "name": "Dinari IBIT",
+    "symbol": "IBITD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53950/thumb/d-token-200.png?1737788536"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x9e23da6c963d9cfc929f3bda89e9e20984c008ef",
+    "name": "Dinari JNJ",
+    "symbol": "JNJD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53951/thumb/d-token-200.png?1737788564"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xbfdaa788366593d3c7d15f9abc0b1cab2b1694ba",
+    "name": "Dinari BLK",
+    "symbol": "BLKD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53952/thumb/d-token-200.png?1737788600"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xfcbe84b53fd3ed33b5dfa82fb005603daa5204a7",
+    "name": "Dinari MCD",
+    "symbol": "MCDD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53954/thumb/d-token-200.png?1737789312"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x87ec43715cd54b97e3da2bbebbeb919177aa2f6d",
+    "name": "Dinari QQQ",
+    "symbol": "QQQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53957/thumb/d-token-200.png?1737790123"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x0b96517fb729c6f6c00ab15abb3d72ae708d5960",
+    "name": "Dinari TQQQ",
+    "symbol": "TQQQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53958/thumb/d-token-200.png?1737790158"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x87084c981709878e3c806ad45fb01e3522e08123",
+    "name": "Dinari ARKK",
+    "symbol": "ARKKD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53945/thumb/d-token-200.png?1737787680"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xdd6a4d44987fc974c4113ef403b941fe09d0068c",
+    "name": "Dinari AZN",
+    "symbol": "AZND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53946/thumb/d-token-200.png?1737787723"
   }
 ]
