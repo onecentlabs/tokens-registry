@@ -82,7 +82,7 @@ const main = async () => {
       try {
         const banData: Array<Partial<Token>> = JSON.parse(fs.readFileSync(banPath, 'utf8'))
 
-        const bannedAddresses = new Set(banData.map((token) => token.address.toLowerCase()))
+        const bannedAddresses = new Set(banData.map((token) => token?.address?.toLowerCase()))
 
         finalTokens = finalTokens.filter(
           (token) => !bannedAddresses.has(token.address.toLowerCase())
@@ -134,7 +134,7 @@ const main = async () => {
       try {
         const majorData: Array<Partial<Token>> = JSON.parse(fs.readFileSync(majorPath, 'utf8'))
 
-        const majorAddresses = new Set(majorData.map((token) => token.address.toLowerCase()))
+        const majorAddresses = new Set(majorData.map((token) => token?.address?.toLowerCase()))
 
         finalTokens = finalTokens.map((token) => {
           if (majorAddresses.has(token.address.toLowerCase())) {

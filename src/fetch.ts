@@ -35,7 +35,7 @@ const getTokenList = async (
       continue;
     }
 
-    const json = await response.json();
+    const json: TokenList = await response.json() as TokenList;
 
     return json;
   }
