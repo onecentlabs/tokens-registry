@@ -8408,5 +8408,117 @@
     "symbol": "ZUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/14192/thumb/icon_zusd_200_200.png?1696513910"
+  },
+  {
+    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "chainId": 42161,
+    "decimals": 18,
+    "symbol": "ELK",
+    "name": "Elk",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png"
+  },
+  {
+    "address": "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa",
+    "chainId": 42161,
+    "decimals": 6,
+    "symbol": "deUSDC",
+    "name": "deBridge USD Coin",
+    "logoURI": "https://tokens.1inch.io/0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa_2.png"
+  },
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "chainId": 42161,
+    "decimals": 18,
+    "symbol": "ETH",
+    "name": "Ether",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+  },
+  {
+    "address": "0x7cfadfd5645b50be87d546f42699d863648251ad",
+    "chainId": 42161,
+    "decimals": 6,
+    "symbol": "stataArbUSDCn",
+    "name": "Static Aave Arbitrum USDCn",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x7cfadfd5645b50be87d546f42699d863648251ad.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x10ddf4850c43de1bcab504f53becdcd66a53d5c4",
+    "name": "Dinari ARKX",
+    "symbol": "ARKXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54037/thumb/d-token-200.png?1738075900"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6b8ba11c987795fe11fe23f15e1f3d0f3e4e0bba",
+    "name": "Dinari BA",
+    "symbol": "BAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54038/thumb/d-token-200.png?1738075918"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x23f318840a200fa488627849a369a138f66b3577",
+    "name": "Dinari BAC",
+    "symbol": "BACD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54049/thumb/d-token-200.png?1738103338"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2b7c643b42409f352b936bf07e0538ba20979bff",
+    "name": "Dinari BRRR",
+    "symbol": "BRRRD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54039/thumb/d-token-200.png?1738075951"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2824efe5cedb3bc8730e412981997dac7c7640c2",
+    "name": "Dinari BTCO",
+    "symbol": "BTCOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54048/thumb/d-token-200.png?1738103322"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc52915fe75dc8db9fb6306f43aaef1344e0837ab",
+    "name": "Dinari BTCW",
+    "symbol": "BTCWD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54050/thumb/d-token-200.png?1738103595"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe649980d1b911756f217e4b61de76a7d2a3b108a",
+    "name": "Dinari CAT",
+    "symbol": "CATD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54051/thumb/d-token-200.png?1738103623"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdd92f0723a7318e684a88532cac2421e3cc9968e",
+    "name": "Dinari DEFI",
+    "symbol": "DEFID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54052/thumb/d-token-200.png?1738103629"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0c59f6b96d3cac58240429c7659ec107f8b1efa7",
+    "name": "Dinari HODL",
+    "symbol": "HODLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54053/thumb/d-token-200.png?1738103664"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0753d920a5e37b0bf2114a7b4a71d46f66ce4b30",
+    "name": "Dinari HOOD",
+    "symbol": "HOODD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671"
   }
 ]

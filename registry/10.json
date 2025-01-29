@@ -3922,5 +3922,21 @@
     "symbol": "YUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/IMG_2188.jpeg?1736873763"
+  },
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "chainId": 10,
+    "decimals": 18,
+    "symbol": "ETH",
+    "name": "Ether",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+  },
+  {
+    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "chainId": 10,
+    "decimals": 18,
+    "symbol": "ELK",
+    "name": "Elk",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png"
   }
 ]

@@ -1,0 +1,194 @@
+[
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "KAIA",
+    "name": "Kaia",
+    "logoURI": "https://tokens-data.1inch.io/images/8217/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+  },
+  {
+    "address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "KDAI",
+    "name": "Dai",
+    "logoURI": "https://tokens.1inch.io/0x5c74070fdea071359b86082bd9f9b3deaafbe32b.png"
+  },
+  {
+    "address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "WKLAY",
+    "name": "Wrapped Klay",
+    "logoURI": "https://tokens.1inch.io/0xe4f05a66ec68b54a58b17c22107b02e0232cc817.png"
+  },
+  {
+    "address": "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
+    "chainId": 8217,
+    "decimals": 6,
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+  },
+  {
+    "address": "0xdcbacf3f7a069922e677912998c8d57423c37dfa",
+    "chainId": 8217,
+    "decimals": 8,
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
+  },
+  {
+    "address": "0xcd6f29dc9ca217d0973d3d21bf58edd3ca871a86",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "WETH",
+    "name": "Wrapped ETH",
+    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+  },
+  {
+    "address": "0x078db7827a5531359f6cb63f62cfa20183c4f10c",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "DAI",
+    "name": "Dai Stablecoin",
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+  },
+  {
+    "address": "0xff3e7cf0c007f919807b32b30a4a9e7bd7bc4121",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "WKLAY_2",
+    "name": "Wrapped KLAY v10",
+    "logoURI": "https://tokens.1inch.io/0xff3e7cf0c007f919807b32b30a4a9e7bd7bc4121.png"
+  },
+  {
+    "address": "0x976232eb7eb92287ff06c5d145bd0d1c033eca58",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "WALK",
+    "name": "Walk Token",
+    "logoURI": "https://tokens.1inch.io/0x976232eb7eb92287ff06c5d145bd0d1c033eca58.png"
+  },
+  {
+    "address": "0x34d21b1e550d73cee41151c77f3c73359527a396",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "oETH",
+    "name": "Orbit Bridge Klaytn Ethereum",
+    "logoURI": "https://tokens.1inch.io/0x34d21b1e550d73cee41151c77f3c73359527a396.png"
+  },
+  {
+    "address": "0x588c62ed9aa7367d7cd9c2a9aaac77e44fe8221b",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "AGOV",
+    "name": "Answer Governance",
+    "logoURI": "https://tokens.1inch.io/0x588c62ed9aa7367d7cd9c2a9aaac77e44fe8221b.png"
+  },
+  {
+    "address": "0x5096db80b21ef45230c9e423c373f1fc9c0198dd",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "WEMIX",
+    "name": "WEMIX TOKEN",
+    "logoURI": "https://tokens.1inch.io/0x5096db80b21ef45230c9e423c373f1fc9c0198dd.png"
+  },
+  {
+    "address": "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c",
+    "chainId": 8217,
+    "decimals": 8,
+    "symbol": "oWBTC",
+    "name": "Orbit Bridge Klaytn Wrapped BTC",
+    "logoURI": "https://tokens.1inch.io/0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c.png"
+  },
+  {
+    "address": "0xcf87f94fd8f6b6f0b479771f10df672f99eada63",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "CLA",
+    "name": "ClaimSwap",
+    "logoURI": "https://tokens.1inch.io/0xcf87f94fd8f6b6f0b479771f10df672f99eada63.png"
+  },
+  {
+    "address": "0x37c38b19a6ba325486da87f946e72dc93e0ab39a",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "PUNK",
+    "name": "NewKlayPunks",
+    "logoURI": "https://tokens.1inch.io/0x37c38b19a6ba325486da87f946e72dc93e0ab39a.png"
+  },
+  {
+    "address": "0xb15183d0d4d5e86ba702ce9bb7b633376e7db29f",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "KOKOA",
+    "name": "Kokoa",
+    "logoURI": "https://tokens.1inch.io/0xb15183d0d4d5e86ba702ce9bb7b633376e7db29f.png"
+  },
+  {
+    "address": "0x754288077d0ff82af7a5317c7cb8c444d421d103",
+    "chainId": 8217,
+    "decimals": 6,
+    "symbol": "oUSDC",
+    "name": "Orbit Bridge Klaytn USD Coin",
+    "logoURI": "https://tokens.1inch.io/0x754288077d0ff82af7a5317c7cb8c444d421d103.png"
+  },
+  {
+    "address": "0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f",
+    "chainId": 8217,
+    "decimals": 6,
+    "symbol": "oXRP",
+    "name": "Orbit Bridge Klaytn Ripple",
+    "logoURI": "https://tokens.1inch.io/0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f.png"
+  },
+  {
+    "address": "0x4fa62f1f404188ce860c8f0041d6ac3765a72e67",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "KSD",
+    "name": "Kokoa Stable Dollar",
+    "logoURI": "https://tokens.1inch.io/0x4fa62f1f404188ce860c8f0041d6ac3765a72e67.png"
+  },
+  {
+    "address": "0x02cbe46fb8a1f579254a9b485788f2d86cad51aa",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "BORA",
+    "name": "BORA",
+    "logoURI": "https://tokens.1inch.io/0x02cbe46fb8a1f579254a9b485788f2d86cad51aa.png"
+  },
+  {
+    "address": "0xdcd62c57182e780e23d2313c4782709da85b9d6c",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "SSX",
+    "name": "Somesing Exchange",
+    "logoURI": "https://tokens.1inch.io/0xdcd62c57182e780e23d2313c4782709da85b9d6c.png"
+  },
+  {
+    "address": "0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654",
+    "chainId": 8217,
+    "decimals": 18,
+    "symbol": "KSP",
+    "name": "KlaySwap Protocol",
+    "logoURI": "https://tokens.1inch.io/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654.png"
+  },
+  {
+    "address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
+    "chainId": 8217,
+    "decimals": 6,
+    "symbol": "oUSDT",
+    "name": "Orbit Bridge Klaytn USD Tether",
+    "logoURI": "https://tokens.1inch.io/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167.png"
+  },
+  {
+    "address": "0x27dcd181459bcddc63c37bab1e404a313c0dfd79",
+    "chainId": 8217,
+    "decimals": 6,
+    "symbol": "MNR",
+    "name": "Mineral",
+    "logoURI": "https://tokens.1inch.io/0x27dcd181459bcddc63c37bab1e404a313c0dfd79.png"
+  }
+]

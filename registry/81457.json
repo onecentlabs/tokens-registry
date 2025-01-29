@@ -893,5 +893,85 @@
     "symbol": "AZND",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53946/thumb/d-token-200.png?1737787723"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x76b584c9d5d6c925c7d6768b8430d5fccedba83e",
+    "name": "Dinari ARKX",
+    "symbol": "ARKXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54037/thumb/d-token-200.png?1738075900"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x00d7dd69a18e346cb5050ebff7529c11a57cac7f",
+    "name": "Dinari BA",
+    "symbol": "BAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54038/thumb/d-token-200.png?1738075918"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xf0a23fd4a51e9c5055b912e41a6052b56e6108b8",
+    "name": "Dinari BRRR",
+    "symbol": "BRRRD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54039/thumb/d-token-200.png?1738075951"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xbf286a9c026f02dd4d2e3fc3887e77e425d15a11",
+    "name": "Dinari BTCO",
+    "symbol": "BTCOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54048/thumb/d-token-200.png?1738103322"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xc6561ff3100d8b3c33898dfbfeb6e695134e6957",
+    "name": "Dinari BAC",
+    "symbol": "BACD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54049/thumb/d-token-200.png?1738103338"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xbe2019c75ebf9ead0ab3513fd3c1733f2eb490e7",
+    "name": "Dinari BTCW",
+    "symbol": "BTCWD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54050/thumb/d-token-200.png?1738103595"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x8ce131c8c8b8d46ffe2a72aadc8ebb3d5686613a",
+    "name": "Dinari CAT",
+    "symbol": "CATD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54051/thumb/d-token-200.png?1738103623"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x64931990e69b55ff7acaf0f20416d29b20855be6",
+    "name": "Dinari DEFI",
+    "symbol": "DEFID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54052/thumb/d-token-200.png?1738103629"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x01e8bd212f5f319e7126b62aa020831b92e19cd9",
+    "name": "Dinari HODL",
+    "symbol": "HODLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54053/thumb/d-token-200.png?1738103664"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xddcd99775b70bee3b1d06399b69e45465dea010c",
+    "name": "Dinari HOOD",
+    "symbol": "HOODD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671"
   }
 ]

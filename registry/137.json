@@ -9096,5 +9096,93 @@
     "symbol": "AUTUMN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25366/thumb/autumn.png?1696524499"
+  },
+  {
+    "address": "0xe46b4a950c389e80621d10dfc398e91613c7e25e",
+    "chainId": 137,
+    "decimals": 18,
+    "symbol": "pFi",
+    "name": "PartyFinance",
+    "logoURI": "https://tokens.1inch.io/0xe46b4a950c389e80621d10dfc398e91613c7e25e.png"
+  },
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "chainId": 137,
+    "decimals": 18,
+    "symbol": "POL",
+    "name": "Polygon Ecosystem Token",
+    "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png"
+  },
+  {
+    "address": "0xf84bd51eab957c2e7b7d646a3427c5a50848281d",
+    "chainId": 137,
+    "decimals": 8,
+    "symbol": "AGAr",
+    "name": "AGA Rewards",
+    "logoURI": "https://tokens.1inch.io/0xb453f1f2ee776daf2586501361c457db70e1ca0f.png"
+  },
+  {
+    "address": "0xb77e62709e39ad1cbeebe77cf493745aec0f453a",
+    "chainId": 137,
+    "decimals": 18,
+    "symbol": "WISE",
+    "name": "Wise Token",
+    "logoURI": "https://tokens.1inch.io/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6.png"
+  },
+  {
+    "address": "0x7075cab6bcca06613e2d071bd918d1a0241379e2",
+    "chainId": 137,
+    "decimals": 18,
+    "symbol": "GFARM2",
+    "name": "Gains V2",
+    "logoURI": "https://tokens.1inch.io/0x7075cab6bcca06613e2d071bd918d1a0241379e2.png"
+  },
+  {
+    "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+    "chainId": 137,
+    "decimals": 18,
+    "symbol": "QI",
+    "name": "Qi Dao",
+    "logoURI": "https://tokens.1inch.io/0x580a84c73811e1839f75d86d75d88cca0c241ff4.png"
+  },
+  {
+    "address": "0xb35fcbcf1fd489fce02ee146599e893fdcdc60e6",
+    "chainId": 137,
+    "decimals": 18,
+    "symbol": "DERC",
+    "name": "DeRace Token",
+    "logoURI": "https://tokens.1inch.io/0xb35fcbcf1fd489fce02ee146599e893fdcdc60e6.png"
+  },
+  {
+    "address": "0x30de46509dbc3a491128f97be0aaf70dc7ff33cb",
+    "chainId": 137,
+    "decimals": 18,
+    "symbol": "XZAR",
+    "name": "South African Tether (PoS)",
+    "logoURI": "https://tokens.1inch.io/0x30de46509dbc3a491128f97be0aaf70dc7ff33cb.png"
+  },
+  {
+    "address": "0xd4945a3d0de9923035521687d4bf18cc9b0c7c2a",
+    "chainId": 137,
+    "decimals": 18,
+    "symbol": "LUXY",
+    "name": "LUXY",
+    "logoURI": "https://tokens.1inch.io/0xd4945a3d0de9923035521687d4bf18cc9b0c7c2a.png"
+  },
+  {
+    "address": "0xdab625853c2b35d0a9c6bd8e5a097a664ef4ccfb",
+    "chainId": 137,
+    "decimals": 18,
+    "symbol": "eQUAD",
+    "name": "Quadrant Protocol",
+    "logoURI": "https://tokens.1inch.io/0xdab625853c2b35d0a9c6bd8e5a097a664ef4ccfb.png"
+  },
+  {
+    "address": "0xd3b71117e6c1558c1553305b44988cd944e97300",
+    "chainId": 137,
+    "decimals": 18,
+    "symbol": "YEL",
+    "name": "YEL Token",
+    "logoURI": "https://tokens.1inch.io/0xd3b71117e6c1558c1553305b44988cd944e97300.png"
   }
 ]

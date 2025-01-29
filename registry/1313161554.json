@@ -1,0 +1,130 @@
+[
+  {
+    "address": "0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "PLY",
+    "name": "Aurigami Token",
+    "logoURI": "https://tokens.1inch.io/0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f.png"
+  },
+  {
+    "address": "0x2bae00c8bc1868a5f7a216e881bae9e662630111",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "ABR",
+    "name": "Allbridge",
+    "logoURI": "https://tokens.1inch.io/0x2bae00c8bc1868a5f7a216e881bae9e662630111.png"
+  },
+  {
+    "address": "0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "WETH",
+    "name": "Wrapped ETH",
+    "logoURI": "https://tokens.1inch.io/0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb.png"
+  },
+  {
+    "address": "0xe3520349f477a5f6eb06107066048508498a291b",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "DAI",
+    "name": "Dai Stablecoin",
+    "logoURI": "https://tokens.1inch.io/0xe3520349f477a5f6eb06107066048508498a291b.png"
+  },
+  {
+    "address": "0x8bec47865ade3b172a928df8f990bc7f2a3b9f79",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "AURORA",
+    "name": "Aurora",
+    "logoURI": "https://tokens.1inch.io/0x8bec47865ade3b172a928df8f990bc7f2a3b9f79.png"
+  },
+  {
+    "address": "0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "atUST",
+    "name": "UST Terra",
+    "logoURI": "https://tokens.1inch.io/0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc.png"
+  },
+  {
+    "address": "0xfa94348467f64d5a457f75f8bc40495d33c65abb",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "TRI",
+    "name": "Trisolaris",
+    "logoURI": "https://tokens.1inch.io/0xfa94348467f64d5a457f75f8bc40495d33c65abb.png"
+  },
+  {
+    "address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
+    "chainId": 1313161554,
+    "decimals": 6,
+    "symbol": "USDC.e",
+    "name": "USD Coin",
+    "logoURI": "https://tokens.1inch.io/0xb12bfca5a55806aaf64e99521918a4bf0fc40802.png"
+  },
+  {
+    "address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
+    "chainId": 1313161554,
+    "decimals": 8,
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "logoURI": "https://tokens.1inch.io/0xf4eb217ba2454613b15dbdea6e5f22276410e89e.png"
+  },
+  {
+    "address": "0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d",
+    "chainId": 1313161554,
+    "decimals": 24,
+    "symbol": "NEAR",
+    "name": "NEAR",
+    "logoURI": "https://tokens.1inch.io/0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d.png"
+  },
+  {
+    "address": "0x7faa64faf54750a2e3ee621166635feaf406ab22",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "WANNA",
+    "name": "WannaSwap",
+    "logoURI": "https://tokens.1inch.io/0x7faa64faf54750a2e3ee621166635feaf406ab22.png"
+  },
+  {
+    "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
+    "chainId": 1313161554,
+    "decimals": 6,
+    "symbol": "USDT.e",
+    "name": "Tether USD",
+    "logoURI": "https://tokens.1inch.io/0x4988a896b1227218e4a686fde5eabdcabd91571f.png"
+  },
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "ETH",
+    "name": "Ether",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+  },
+  {
+    "address": "0xda2585430fef327ad8ee44af8f1f989a2a91a3d2",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "FRAX",
+    "name": "Frax",
+    "logoURI": "https://tokens.1inch.io/0xda2585430fef327ad8ee44af8f1f989a2a91a3d2.png"
+  },
+  {
+    "address": "0x885f8cf6e45bdd3fdcdc644efdcd0ac93880c781",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "PAD",
+    "name": "NearPad Token",
+    "logoURI": "https://tokens.1inch.io/0x885f8cf6e45bdd3fdcdc644efdcd0ac93880c781.png"
+  },
+  {
+    "address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
+    "chainId": 1313161554,
+    "decimals": 18,
+    "symbol": "FLX",
+    "name": "Flux Token",
+    "logoURI": "https://tokens.1inch.io/0xea62791aa682d455614eaa2a12ba3d9a2fd197af.png"
+  }
+]

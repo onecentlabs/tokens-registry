@@ -12690,5 +12690,181 @@
     "symbol": "AZND",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53946/thumb/d-token-200.png?1737787723"
+  },
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "chainId": 8453,
+    "decimals": 18,
+    "symbol": "ETH",
+    "name": "Ether",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+  },
+  {
+    "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
+    "chainId": 8453,
+    "decimals": 6,
+    "symbol": "axlUSDT",
+    "name": "Axelar Wrapped USDT",
+    "logoURI": "https://tokens.1inch.io/0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6.png"
+  },
+  {
+    "address": "0x63e71271719f03d7233f4fa306b6ea868d0f52ff",
+    "chainId": 8453,
+    "decimals": 18,
+    "symbol": "BINU",
+    "name": "BaseInu",
+    "logoURI": "https://tokens.1inch.io/0x63e71271719f03d7233f4fa306b6ea868d0f52ff.png"
+  },
+  {
+    "address": "0x6653dd4b92a0e5bf8ae570a98906d9d6fd2eec09",
+    "chainId": 8453,
+    "decimals": 18,
+    "symbol": "RCKT",
+    "name": "RocketSwap",
+    "logoURI": "https://tokens.1inch.io/0x6653dd4b92a0e5bf8ae570a98906d9d6fd2eec09.png"
+  },
+  {
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "chainId": 8453,
+    "decimals": 18,
+    "symbol": "sUSDe",
+    "name": "Staked USDe",
+    "logoURI": null
+  },
+  {
+    "address": "0x12418783e860997eb99e8acf682df952f721cf62",
+    "chainId": 8453,
+    "decimals": 8,
+    "symbol": "DLCBTC",
+    "name": "dlcBTC",
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x12418783e860997eb99e8acf682df952f721cf62_0xc9a6012457660b0d32b65293bf7464b7e07a9ad5062255be510441807922e8d6.png"
+  },
+  {
+    "address": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+    "chainId": 8453,
+    "decimals": 18,
+    "symbol": "OETHb",
+    "name": "Super OETH",
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xdbfefd2e8460a6ee4955a68582f85708baea60a3.png"
+  },
+  {
+    "address": "0x982f2df63fe38ab8d55f4b1464e8cfdc8ea5dec8",
+    "chainId": 8453,
+    "decimals": 18,
+    "symbol": "sUSDS",
+    "name": "Savings USDS",
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x982f2df63fe38ab8d55f4b1464e8cfdc8ea5dec8_0xc96b3b4c269e226d404e04a3538ab98af6a88a4db8ca856eb650e765973db6e7.svg"
+  },
+  {
+    "address": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+    "chainId": 8453,
+    "decimals": 18,
+    "symbol": "VVV",
+    "name": "Venice Token",
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf_0x8e98bab31ff6236a11085c788028c481cca033e7b3d1a1c24391ef156e2847a8.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7f0e9971d3320521fc88f863e173a4cddbb051ba",
+    "name": "Aquari",
+    "symbol": "AQUARI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54031/thumb/aquari.jpg?1738051220"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe74731ba9d1da6fd3c8c60ff363732bebac5273e",
+    "name": "maicrotrader",
+    "symbol": "MAICRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54070/thumb/maicrotrader.jpeg?1738141332"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb55fcd62ed44253c45735bde6703c44100935747",
+    "name": "APOLLO AI by Virtuals",
+    "symbol": "APL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54064/thumb/47dc8ba3-ccdc-4f1c-8b78-90d2c8690b69.png?1738138423"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x32224be543fb8f338a9a6c337d84478e256ee219",
+    "name": "Dinari ARKX",
+    "symbol": "ARKXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54037/thumb/d-token-200.png?1738075900"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8a2a4899316f302a05006ee6d2998afa26f96253",
+    "name": "Dinari BA",
+    "symbol": "BAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54038/thumb/d-token-200.png?1738075918"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc3c1bb150e48ca764fa9428339b63b21376fcafa",
+    "name": "Dinari BRRR",
+    "symbol": "BRRRD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54039/thumb/d-token-200.png?1738075951"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x69bd04ab9290d2919f228b87f9dccf728e2675cd",
+    "name": "Dinari BTCO",
+    "symbol": "BTCOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54048/thumb/d-token-200.png?1738103322"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x408e16d4e07812a963189dc15fa61806eb8a4e9d",
+    "name": "Dinari BAC",
+    "symbol": "BACD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54049/thumb/d-token-200.png?1738103338"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe1338b131647a4d6123b6af912f295954067a766",
+    "name": "Dinari BTCW",
+    "symbol": "BTCWD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54050/thumb/d-token-200.png?1738103595"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x903ce8c6196a78e5b6df62897a864951e71b6b34",
+    "name": "Dinari CAT",
+    "symbol": "CATD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54051/thumb/d-token-200.png?1738103623"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xac21cd6fe43240d90741d25858d0ff0940b11cc7",
+    "name": "Dinari DEFI",
+    "symbol": "DEFID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54052/thumb/d-token-200.png?1738103629"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x842d4a6d10e41eaae03b4df87e575be53b296fc6",
+    "name": "Dinari HODL",
+    "symbol": "HODLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54053/thumb/d-token-200.png?1738103664"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0c9b4fbff1971b5b1d7b50b1f3483cc5007c4621",
+    "name": "Dinari HOOD",
+    "symbol": "HOODD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671"
   }
 ]

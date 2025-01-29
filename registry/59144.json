@@ -678,5 +678,13 @@
     "symbol": "SLN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35397/thumb/sln.jpeg?1708488815"
+  },
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "chainId": 59144,
+    "decimals": 18,
+    "symbol": "ETH",
+    "name": "Ether",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
   }
 ]

@@ -3859,5 +3859,125 @@
     "symbol": "WUSDM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33785/thumb/wUSDM_PNG_240px.png?1702981552"
+  },
+  {
+    "address": "0x75739a693459f33b1fbcc02099eea3ebcf150cbe",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "TIC",
+    "name": "ElasticSwap Tic Token",
+    "logoURI": "https://tokens.1inch.io/0x75739a693459f33b1fbcc02099eea3ebcf150cbe.png"
+  },
+  {
+    "address": "0xbf1230bb63bfd7f5d628ab7b543bcefa8a24b81b",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "CHRO",
+    "name": "Chronicum",
+    "logoURI": "https://tokens.1inch.io/0xbf1230bb63bfd7f5d628ab7b543bcefa8a24b81b.png"
+  },
+  {
+    "address": "0xdfe521292ece2a4f44242efbcd66bc594ca9714b",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "avWAVAX",
+    "name": "Aave Avalanche Market WAVAX",
+    "logoURI": "https://tokens.1inch.io/0xdfe521292ece2a4f44242efbcd66bc594ca9714b.png"
+  },
+  {
+    "address": "0x488f73cddda1de3664775ffd91623637383d6404",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "YTS",
+    "name": "YetiSwap",
+    "logoURI": "https://tokens.1inch.io/0x488f73cddda1de3664775ffd91623637383d6404.png"
+  },
+  {
+    "address": "0x47afa96cdc9fab46904a55a6ad4bf6660b53c38a",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "avDAI",
+    "name": "Aave Avalanche Market DAI",
+    "logoURI": "https://tokens.1inch.io/0x028171bca77440897b824ca71d1c56cac55b68a3.png"
+  },
+  {
+    "address": "0x532e6537fea298397212f09a61e03311686f548e",
+    "chainId": 43114,
+    "decimals": 6,
+    "symbol": "avUSDT",
+    "name": "Aave Avalanche Market USDT",
+    "logoURI": "https://tokens.1inch.io/0x3ed3b47dd13ec9a98b44e6204a523e766b225811.png"
+  },
+  {
+    "address": "0x46a51127c3ce23fb7ab1de06226147f446e4a857",
+    "chainId": 43114,
+    "decimals": 6,
+    "symbol": "avUSDC",
+    "name": "Aave Avalanche Market USDC",
+    "logoURI": "https://tokens.1inch.io/0xbcca60bb61934080951369a648fb03df4f96263c.png"
+  },
+  {
+    "address": "0x938fe3788222a74924e062120e7bfac829c719fb",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "APEIN",
+    "name": "Ape In",
+    "logoURI": "https://tokens.1inch.io/0x938fe3788222a74924e062120e7bfac829c719fb.png"
+  },
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+  },
+  {
+    "address": "0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "avWETH",
+    "name": "Aave Avalanche Market WETH",
+    "logoURI": "https://tokens.1inch.io/0x030ba81f1c18d280636f32af80b9aad02cf0854e.png"
+  },
+  {
+    "address": "0xd45b7c061016102f9fa220502908f2c0f1add1d7",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "avAAVE",
+    "name": "Aave Avalanche Market AAVE",
+    "logoURI": "https://tokens.1inch.io/0xffc97d72e13e01096502cb8eb52dee56f74dad7b.png"
+  },
+  {
+    "address": "0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d",
+    "chainId": 43114,
+    "decimals": 8,
+    "symbol": "avWBTC",
+    "name": "Aave Avalanche Market WBTC",
+    "logoURI": "https://tokens.1inch.io/0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656.png"
+  },
+  {
+    "address": "0xff579d6259dedcc80488c9b89d2820bcb5609160",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "LVT",
+    "name": "Louverture",
+    "logoURI": "https://tokens.1inch.io/0xff579d6259dedcc80488c9b89d2820bcb5609160.png"
+  },
+  {
+    "address": "0x0f34919404a290e71fc6a510cb4a6acb8d764b24",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "BLZZ",
+    "name": "Blizz.Finance Protocol Token",
+    "logoURI": "https://tokens.1inch.io/0x0f34919404a290e71fc6a510cb4a6acb8d764b24.png"
+  },
+  {
+    "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+    "chainId": 43114,
+    "decimals": 18,
+    "symbol": "PENDLE",
+    "name": "Pendle",
+    "logoURI": "https://tokens.1inch.io/0x808507121b80c02388fad14726482e061b8da827.png"
   }
 ]
