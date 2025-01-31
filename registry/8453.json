@@ -12866,5 +12866,93 @@
     "symbol": "HOODD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb22a793a81ff5b6ad37f40d5fe1e0ac4184d52f3",
+    "name": "Big Tony",
+    "symbol": "TONY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54091/thumb/logo-128.png?1738220780"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa001dcc9a7974dae133a11d2800a7abf7b8f5f3c",
+    "name": "Do Your Own Research",
+    "symbol": "DYOR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54086/thumb/token_icon_200x200.png?1738187326"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x67543cf0304c19ca62ac95ba82fd4f4b40788dc1",
+    "name": "Rivalz Network",
+    "symbol": "RIZ",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/54076/thumb/rivalz-emblem-smsq-color.png?1738175385"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3de67b963766076a3e77e4bec067460523574694",
+    "name": "hardwAIre DAO",
+    "symbol": "HARD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54073/thumb/hardwaire_%28200_x_200_px%29.png?1738167850"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0400373ea12d84f578b8ab2c21556645333cc312",
+    "name": "Dinari HUT",
+    "symbol": "HUTD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54079/thumb/d-token-200.png?1738175759"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe6cf0d54079bfb0e441c1ef37e69a234e9e4e4c0",
+    "name": "Dinari IAU",
+    "symbol": "IAUD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54080/thumb/d-token-200.png?1738175780"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6743d7d8de84021b4fec049a1f1278be9cd95b6e",
+    "name": "Dinari V",
+    "symbol": "VD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54081/thumb/d-token-200.png?1738176162"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x51931a7acb6b08323fc0cdb2ff68309cd0fd44b7",
+    "name": "Dinari VWO",
+    "symbol": "VWOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54082/thumb/d-token-200.png?1738176178"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf1a7000000950c7ad8aff13118bb7ab561a448ee",
+    "name": "Flayer",
+    "symbol": "FLAY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50377/thumb/flay.jpg?1727401416"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x76e118fa6839ddad531411b8cc7a9dcdfd7d4fb0",
+    "name": "Balanced",
+    "symbol": "BALN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1696514953"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc1c37473079884cbfcf4905a97de361fed414b2b",
+    "name": "Satori Network",
+    "symbol": "SATORI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51759/thumb/satori-light-outlined-256x256_1_.png?1737993320"
   }
 ]

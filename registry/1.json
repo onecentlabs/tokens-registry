@@ -57264,5 +57264,93 @@
     "symbol": "HOODD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5c7cc28ff152c397dc2e17349661db67113d6ce3",
+    "name": "VORTEX",
+    "symbol": "VRTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54104/thumb/VORTEX_%281%29.jpg?1738265602"
+  },
+  {
+    "chainId": 1,
+    "address": "0xca76bf98b6e44df7360da8650e701f6d9d94bb58",
+    "name": "Memelinked",
+    "symbol": "MK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54072/thumb/IMG_2882.jpeg?1738151752"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4737d9b4592b40d51e110b94c9c043c6654067ae",
+    "name": "Level Staked USD",
+    "symbol": "SLVLUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54094/thumb/slvlusd.png?1738222536"
+  },
+  {
+    "chainId": 1,
+    "address": "0x525536d71848f21b66da0d239546c50ee4c1a358",
+    "name": "Crypto Task Force",
+    "symbol": "CTF",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54096/thumb/Crypto_Task_Force.png?1738224085"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4308135e3d92eeea3235085a1dd36b7293336938",
+    "name": "Cradle Games",
+    "symbol": "CRADLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54089/thumb/cradle_dext.jpg?1738219929"
+  },
+  {
+    "chainId": 1,
+    "address": "0x89ca762f778c82120c13c79a9bfbdf6e8e663ab4",
+    "name": "AdRise",
+    "symbol": "RISE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54077/thumb/AdRise.png?1738175527"
+  },
+  {
+    "chainId": 1,
+    "address": "0x195f5c217b96cd3dd75d39327161b8911a42e509",
+    "name": "Squirrel Wallet",
+    "symbol": "NUTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54098/thumb/NUTS.png?1738224791"
+  },
+  {
+    "chainId": 1,
+    "address": "0x47db0ac0d6ad7765007f983184b12ae137f8ccac",
+    "name": "Dinari HUT",
+    "symbol": "HUTD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54079/thumb/d-token-200.png?1738175759"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4be7aeda82870609cd934babc3a11b886b8cdb02",
+    "name": "Dinari IAU",
+    "symbol": "IAUD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54080/thumb/d-token-200.png?1738175780"
+  },
+  {
+    "chainId": 1,
+    "address": "0x842227039640c7d38e3b307a3ab556a7baeee730",
+    "name": "Dinari V",
+    "symbol": "VD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54081/thumb/d-token-200.png?1738176162"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9f9e5c45d95d66e85e8a878007bf27ca2d987394",
+    "name": "Dinari VWO",
+    "symbol": "VWOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54082/thumb/d-token-200.png?1738176178"
   }
 ]

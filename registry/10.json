@@ -3938,5 +3938,13 @@
     "symbol": "ELK",
     "name": "Elk",
     "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd336c74b840f9962cf2c666f8666d6d61ec24440",
+    "name": "Balanced",
+    "symbol": "BALN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1696514953"
   }
 ]

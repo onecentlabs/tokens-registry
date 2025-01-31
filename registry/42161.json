@@ -8520,5 +8520,68 @@
     "symbol": "HOODD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7639AB8599f1b417CbE4ceD492fB30162140AbbB",
+    "name": "USUAL",
+    "symbol": "USUAL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x808167ea744e02c6fec3f56636d19f3448b72981",
+    "name": "Dinari HUT",
+    "symbol": "HUTD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54079/thumb/d-token-200.png?1738175759"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x39bce681d72720f80424914800a78c63fdfaf645",
+    "name": "Dinari IAU",
+    "symbol": "IAUD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54080/thumb/d-token-200.png?1738175780"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x65c101e95d7dd475c7966330fa1a803205ff92ab",
+    "name": "Hall of Legends",
+    "symbol": "HOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54084/thumb/photo_2025-01-30_02.22.57.jpeg?1738181081"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x96e1951c8fcecc43e7366261f7e342a06047da8e",
+    "name": "Dinari V",
+    "symbol": "VD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54081/thumb/d-token-200.png?1738176162"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1bed98b79f8a5e32031b0d735022fc006db47d37",
+    "name": "Dinari VWO",
+    "symbol": "VWOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54082/thumb/d-token-200.png?1738176178"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xac7952d30850c9d214b0f44cbe213781b4dacf05",
+    "name": "Balanced",
+    "symbol": "BALN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1696514953"
   }
 ]

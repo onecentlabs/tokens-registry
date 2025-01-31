@@ -973,5 +973,45 @@
     "symbol": "HOODD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x08a51d066c12f5b020c3b34817feb6f200aa3ed1",
+    "name": "Dinari HUT",
+    "symbol": "HUTD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54079/thumb/d-token-200.png?1738175759"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xa5d7512c6a3b87ad7bf2f597b93845950f738fdd",
+    "name": "Dinari IAU",
+    "symbol": "IAUD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54080/thumb/d-token-200.png?1738175780"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x1ea5625399565fa0c3c2499ebf960eb9d9224212",
+    "name": "Dinari V",
+    "symbol": "VD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54081/thumb/d-token-200.png?1738176162"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x413e5687814841d65146c062c506c73992a57692",
+    "name": "Dinari VWO",
+    "symbol": "VWOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54082/thumb/d-token-200.png?1738176178"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xc19669a405067927865b40ea045a2baabbbe57f5",
+    "name": "Star",
+    "symbol": "STAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31277/thumb/coin-icon_Star-200x200.png?1732742256"
   }
 ]

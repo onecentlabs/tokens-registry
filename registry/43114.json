@@ -3979,5 +3979,13 @@
     "symbol": "PENDLE",
     "name": "Pendle",
     "logoURI": "https://tokens.1inch.io/0x808507121b80c02388fad14726482e061b8da827.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x542245f2b93b30994a4670121541b38226f1208c",
+    "name": "Balanced",
+    "symbol": "BALN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1696514953"
   }
 ]
