@@ -12954,5 +12954,13 @@
     "symbol": "SATORI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51759/thumb/satori-light-outlined-256x256_1_.png?1737993320"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4e99472385a2522aa292b008da294a78f420a367",
+    "name": "TCAP",
+    "symbol": "TCAP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54107/thumb/9678.png?1738306892"
   }
 ]
