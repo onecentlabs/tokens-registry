@@ -57440,5 +57440,45 @@
     "symbol": "SMOL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54182/thumb/smolcoin_%281%29.png?1738667346"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4026f916beda6ca2b347c44517a83f5efab3f569",
+    "name": "Dinari JPM",
+    "symbol": "JPMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54184/thumb/d-token-200.png?1738682276"
+  },
+  {
+    "chainId": 1,
+    "address": "0x05fed61f7a3eca96dc7f9a41b38fa7c5f0e62158",
+    "name": "Dinari KO",
+    "symbol": "KOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54185/thumb/d-token-200.png?1738682465"
+  },
+  {
+    "chainId": 1,
+    "address": "0x251530c7f24d6904a31425b9afa24b0e1e5aafde",
+    "name": "Dinari PHO",
+    "symbol": "PHOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54187/thumb/d-token-200.png?1738682583"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0af5b873df94efeba34c0b0a9fa34a8c13e078cd",
+    "name": "Dinari YUM",
+    "symbol": "YUMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54188/thumb/d-token-200.png?1738682602"
+  },
+  {
+    "chainId": 1,
+    "address": "0x52926f7f983d3d7ddcbe644a809d67bbe4a9e785",
+    "name": "Dinari XOM",
+    "symbol": "XOMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54189/thumb/d-token-200.png?1738682617"
   }
 ]
