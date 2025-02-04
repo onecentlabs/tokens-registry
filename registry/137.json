@@ -9517,5 +9517,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/zuzprotocol_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x2ab445c24c96db13383bb34678adae50c43b4baa",
+    "name": "Clay",
+    "symbol": "CLAY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54183/thumb/MW-CLAYpfp_%281%29.png?1738681645"
   }
 ]
