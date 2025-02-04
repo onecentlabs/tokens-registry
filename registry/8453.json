@@ -12962,5 +12962,116 @@
     "symbol": "TCAP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54107/thumb/9678.png?1738306892"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x88e9822965e39882839098eef2e972e2dd9ce56d",
+    "name": "Gameme Fi",
+    "symbol": "GMMF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54142/thumb/Rikka_Takanashi.jpg?1738398538"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5ae84075f0e34946821a8015dab5299a00992721",
+    "name": "Wrapped Cygnus USD",
+    "symbol": "WCGUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54136/thumb/wcgUSD.png?1738395298"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc3d64ee7056cfd33c8382679773f8d6277e5c2c9",
+    "name": "IAMAI",
+    "symbol": "IAMAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54161/thumb/xZkO4l5M_400x400_%281%29.jpg?1738482411"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x599899dbaa0b4d3110b53d1a4d05fcdcb1c81945",
+    "name": "MoonEdge",
+    "symbol": "MOONED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17393/thumb/ME_logo_200_200.png?1696516942"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf587b7116879a529353cc71ee959cd69fd5cae48",
+    "name": "cgETH Hashkey Cloud",
+    "symbol": "CGETHHASHKEY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54162/thumb/Cgeth_Hashkey.png?1738482570"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x194f360d130f2393a5e9f3117a6a1b78abea1624",
+    "name": "Summer",
+    "symbol": "SUMR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54144/thumb/Group_427320880.png?1738399205"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x000000000d564d5be76f7f0d28fe52605afc7cf8",
+    "name": "flETH",
+    "symbol": "FLETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1c93d155bd388241f9ab5df500d69eb529ce9583",
+    "name": "Flaunchy",
+    "symbol": "FLNCHY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54175/thumb/flaunchy.jpeg?1738580008"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4674f73545f1db4036250ff8c33a39ad1678d864",
+    "name": "Degenerate SQuiD",
+    "symbol": "SQDGN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54165/thumb/pepe_200_by_200.png?1738486688"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8d2757ea27aabf172da4cca4e5474c76016e3dc5",
+    "name": "clBTC",
+    "symbol": "CLBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4398c398e5ac747e6d51bf1db1dac346ca90fee0",
+    "name": "Wolf of Dumb Street",
+    "symbol": "WODS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54163/thumb/WODSLOGO.png?1738482779"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4b6104755afb5da4581b81c552da3a25608c73b8",
+    "name": " SKITTEN",
+    "symbol": "SKITTEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54128/thumb/rug_skitten.jpg?1738393460"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x084382d1cc4f4dfd1769b1cc1ac2a9b1f8365e90",
+    "name": "Mode",
+    "symbol": "MODE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x39d5313c3750140e5042887413ba8aa6145a9bd2",
+    "name": "Empyreal",
+    "symbol": "EMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31374/thumb/logomainblacktransparent.png?1719953450"
   }
 ]

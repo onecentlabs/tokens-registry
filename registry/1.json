@@ -57392,5 +57392,37 @@
     "symbol": "SRUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54118/thumb/srUSD.png?1738313910"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8c62ac3b71db8c81a764b84ffbc2a8d0bad7f111",
+    "name": "PREME Token",
+    "symbol": "PREME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36091/thumb/PREME_Token.png?1710477118"
+  },
+  {
+    "chainId": 1,
+    "address": "0x000000c396558ffbab5ea628f39658bdf61345b3",
+    "name": "Bunni",
+    "symbol": "BUNNI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54148/thumb/bunni_logo_v2_square.png?1738468465"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaf0db65b7296c02ab043f5cb17300c8ee949f247",
+    "name": "SHAO",
+    "symbol": "SHAO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54149/thumb/Shaolin-blackring200x200.png?1738475507"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f719591e2bcb6fcc3e68b16d2a88c89c6ae0d42",
+    "name": "EVOLVE NETWORK",
+    "symbol": "EVOLVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54171/thumb/IMG_8515.jpeg?1738560325"
   }
 ]

@@ -3987,5 +3987,13 @@
     "symbol": "BALN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1696514953"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe684f692bdf5b3b0db7e8e31a276de8a2e9f0025",
+    "name": "Restaked BTC b",
+    "symbol": "RBTCB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54156/thumb/rBTC.b_token_logo.png?1738479841"
   }
 ]
