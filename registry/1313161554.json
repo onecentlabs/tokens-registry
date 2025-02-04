@@ -13,7 +13,7 @@
     "decimals": 18,
     "symbol": "ABR",
     "name": "Allbridge",
-    "logoURI": "https://tokens.1inch.io/0x2bae00c8bc1868a5f7a216e881bae9e662630111.png"
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x2bae00c8bc1868a5f7a216e881bae9e662630111/dac637655fe8a6cf4d2cbadb16c10d5f.png"
   },
   {
     "address": "0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb",
@@ -21,7 +21,7 @@
     "decimals": 18,
     "symbol": "WETH",
     "name": "Wrapped ETH",
-    "logoURI": "https://tokens.1inch.io/0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb.png"
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/aurora/d61441782d4a08a7479d54aea211679e.png"
   },
   {
     "address": "0xe3520349f477a5f6eb06107066048508498a291b",
@@ -29,7 +29,7 @@
     "decimals": 18,
     "symbol": "DAI",
     "name": "Dai Stablecoin",
-    "logoURI": "https://tokens.1inch.io/0xe3520349f477a5f6eb06107066048508498a291b.png"
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xe3520349f477a5f6eb06107066048508498a291b/549c4205dbb199f1b8b03af783f35e71.png"
   },
   {
     "address": "0x8bec47865ade3b172a928df8f990bc7f2a3b9f79",
@@ -37,7 +37,7 @@
     "decimals": 18,
     "symbol": "AURORA",
     "name": "Aurora",
-    "logoURI": "https://tokens.1inch.io/0x8bec47865ade3b172a928df8f990bc7f2a3b9f79.png"
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x8bec47865ade3b172a928df8f990bc7f2a3b9f79/ec63b91b7247ce338caa842eb6439530.png"
   },
   {
     "address": "0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc",
@@ -45,7 +45,7 @@
     "decimals": 18,
     "symbol": "atUST",
     "name": "UST Terra",
-    "logoURI": "https://tokens.1inch.io/0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc.png"
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc/57ae3a082518049e3dcf26e142c0d699.png"
   },
   {
     "address": "0xfa94348467f64d5a457f75f8bc40495d33c65abb",
@@ -53,7 +53,7 @@
     "decimals": 18,
     "symbol": "TRI",
     "name": "Trisolaris",
-    "logoURI": "https://tokens.1inch.io/0xfa94348467f64d5a457f75f8bc40495d33c65abb.png"
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xfa94348467f64d5a457f75f8bc40495d33c65abb/9f25c0f07ee6d724529ab9e0d79bcf0d.png"
   },
   {
     "address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
@@ -61,7 +61,7 @@
     "decimals": 6,
     "symbol": "USDC.e",
     "name": "USD Coin",
-    "logoURI": "https://tokens.1inch.io/0xb12bfca5a55806aaf64e99521918a4bf0fc40802.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
@@ -69,7 +69,7 @@
     "decimals": 8,
     "symbol": "WBTC",
     "name": "Wrapped BTC",
-    "logoURI": "https://tokens.1inch.io/0xf4eb217ba2454613b15dbdea6e5f22276410e89e.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
     "address": "0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d",
@@ -77,7 +77,7 @@
     "decimals": 24,
     "symbol": "NEAR",
     "name": "NEAR",
-    "logoURI": "https://tokens.1inch.io/0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d.png"
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d/54f3009dc6b5e6f894c3e4a53babb65f.png"
   },
   {
     "address": "0x7faa64faf54750a2e3ee621166635feaf406ab22",
@@ -85,7 +85,7 @@
     "decimals": 18,
     "symbol": "WANNA",
     "name": "WannaSwap",
-    "logoURI": "https://tokens.1inch.io/0x7faa64faf54750a2e3ee621166635feaf406ab22.png"
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x7faa64faf54750a2e3ee621166635feaf406ab22/39bc4e4799f221ef91194c4363d5aa7a.png"
   },
   {
     "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
@@ -93,7 +93,7 @@
     "decimals": 6,
     "symbol": "USDT.e",
     "name": "Tether USD",
-    "logoURI": "https://tokens.1inch.io/0x4988a896b1227218e4a686fde5eabdcabd91571f.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
@@ -108,8 +108,7 @@
     "chainId": 1313161554,
     "decimals": 18,
     "symbol": "FRAX",
-    "name": "Frax",
-    "logoURI": "https://tokens.1inch.io/0xda2585430fef327ad8ee44af8f1f989a2a91a3d2.png"
+    "name": "Frax"
   },
   {
     "address": "0x885f8cf6e45bdd3fdcdc644efdcd0ac93880c781",
@@ -117,7 +116,7 @@
     "decimals": 18,
     "symbol": "PAD",
     "name": "NearPad Token",
-    "logoURI": "https://tokens.1inch.io/0x885f8cf6e45bdd3fdcdc644efdcd0ac93880c781.png"
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x885f8cf6e45bdd3fdcdc644efdcd0ac93880c781/2efa1aa7b840eacf11dead21b3ab0c26.png"
   },
   {
     "address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
@@ -125,6 +124,6 @@
     "decimals": 18,
     "symbol": "FLX",
     "name": "Flux Token",
-    "logoURI": "https://tokens.1inch.io/0xea62791aa682d455614eaa2a12ba3d9a2fd197af.png"
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xea62791aa682d455614eaa2a12ba3d9a2fd197af/f7c3db0a9c91742451fe928835f25c4b.png"
   }
 ]

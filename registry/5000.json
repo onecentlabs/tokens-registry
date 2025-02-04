@@ -5,7 +5,7 @@
     "name": "Mantle Inu",
     "symbol": "MINU",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed/a7e0aac809b534769f6ea64efddfec1d.png"
   },
   {
     "chainId": 5000,
@@ -13,7 +13,7 @@
     "name": "Mantle Bridged wstETH  Mantle ",
     "symbol": "WSTETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53101/thumb/mantle-bridged-wsteth-mantle.webp?1735227057"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0/7e931af8cb34b6f5671ca2eb1b847849.png"
   },
   {
     "chainId": 5000,
@@ -29,7 +29,7 @@
     "name": "Puff The Dragon",
     "symbol": "PUFF",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x26a6b0dcdcfb981362afa56d581e4a7dba3be140/89cc8d5fe06eddf9e495e16ac23dc260.png"
   },
   {
     "chainId": 5000,
@@ -37,7 +37,7 @@
     "name": "Cleopatra",
     "symbol": "CLEO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34150/thumb/CLEO_token.png?1704190970"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0xc1e0c8c30f251a07a894609616580ad2ceb547f2/c95eeb3a2781d66c8f183be6ddd2813c.png"
   },
   {
     "chainId": 5000,
@@ -45,7 +45,7 @@
     "name": "Stratum Exchange",
     "symbol": "STRAT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33646/thumb/coin_strat.png?1702541330"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x5a093a9c4f440c6b105f0af7f7c4f1fbe45567f9/110510fe589682ec8df9bb35fdb12669.png"
   },
   {
     "chainId": 5000,
@@ -53,7 +53,7 @@
     "name": "Lendle",
     "symbol": "LEND",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x25356aeca4210ef7553140edb9b8026089e49396/07f98ac529e67cb05adec6bfd4acfaab.png"
   },
   {
     "chainId": 5000,
@@ -68,7 +68,8 @@
     "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
     "name": "Mantle USD",
     "symbol": "MUSD",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0xab575258d37eaa5c8956efabe71f4ee8f6397cf3/23d25adadcf1fc1ce793a5a81f444f87.png"
   },
   {
     "chainId": 5000,
@@ -84,7 +85,7 @@
     "name": "Aurelius USD",
     "symbol": "AUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37318/thumb/aUSD.png?1713975421"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79/412693781fbbe5d4ce8ee8c5dcd9a033.png"
   },
   {
     "chainId": 5000,
@@ -92,7 +93,7 @@
     "name": "Mantle Bridged WBTC  Mantle ",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/39613/thumb/wrapped-bitcoin-wbtc-logo.png?1723094872"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
     "chainId": 5000,
@@ -100,7 +101,7 @@
     "name": "Mantle Bridged USDC  Mantle ",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "chainId": 5000,
@@ -108,7 +109,7 @@
     "name": "Mantle Bridged USDT  Mantle ",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "chainId": 5000,
@@ -116,7 +117,7 @@
     "name": "KTX Finance",
     "symbol": "KTC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1696529409"
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x545356d4d69d8cd1213ee7e339867574738751ca/4f141aad9c405d2300d177b89512abf9.png"
   },
   {
     "chainId": 5000,
@@ -124,7 +125,7 @@
     "name": "Wrapped Mantle",
     "symbol": "WMNT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8/a443c78c33704d48f06e5686bb87f85e.png"
   },
   {
     "chainId": 5000,
@@ -132,7 +133,7 @@
     "name": "IntentX",
     "symbol": "INTX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38241/thumb/PFP_IX_2.png?1716881240"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x4b7f28397b4294277e7825f224172944f4f5a877/fda9c76d5562c5fc92101bc9bfbdd22d.png"
   },
   {
     "chainId": 5000,
@@ -140,7 +141,7 @@
     "name": "MOE",
     "symbol": "MOE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9/9603cd76b71dbeb0385c9e03e0cffec4.png"
   },
   {
     "chainId": 5000,
@@ -148,7 +149,7 @@
     "name": "Wrapped Ether  Mantle Bridge ",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31013/thumb/wrapped-eth-mantle-bridge.png?1696529850"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
     "chainId": 5000,
@@ -172,7 +173,7 @@
     "name": "Ignition FBTC",
     "symbol": "FBTC",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/39182/thumb/FBTC_LOGO.png?1720850455"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc96de26018a54d51c097160568752c4e3bd6c364/fef24aea0e8d4cdd45f26eb5cd0e6c5e.png"
   },
   {
     "chainId": 5000,
@@ -204,7 +205,7 @@
     "name": "Universal BTC",
     "symbol": "UNIBTC",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x93919784c523f39cacaa98ee0a9d96c3f32b593e/3adc425af3410e7c7cedb1ce4f777eda.png"
   },
   {
     "chainId": 5000,
@@ -212,7 +213,7 @@
     "name": "Mantle Staked Ether",
     "symbol": "METH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33345/thumb/symbol_transparent_bg.png?1701697066"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa/64a2a03b592974721e4ca6dec7974b84.png"
   },
   {
     "chainId": 5000,
@@ -252,7 +253,7 @@
     "name": "Bridged FRAX",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x406cde76a3fd20e48bc1e0f60651e60ae204b040/050c3d20a748cadef0d181118f3f5f26.png"
   },
   {
     "chainId": 5000,
@@ -300,7 +301,7 @@
     "name": "Ondo US Dollar Yield",
     "symbol": "USDY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31700/thumb/usdy_%281%29.png?1696530524"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x96f6ef951840721adbf46ac996b59e0235cb985c/97c2e77af19822f6113485277496b32c.png"
   },
   {
     "chainId": 5000,
@@ -316,7 +317,7 @@
     "name": "Pichi Finance",
     "symbol": "PCH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39683/thumb/Group_1000003884.png?1723654999"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0xbe5acfd64358805616b5cbd5277b9a85011d7cf1/9c1b489902f3343ffaca244677750867.png"
   },
   {
     "chainId": 5000,
@@ -324,7 +325,7 @@
     "name": "Axelar Bridged USDC",
     "symbol": "AXLUSDC",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/uausdc_D_3x.png?1696525548"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "chainId": 5000,
@@ -348,7 +349,7 @@
     "name": "JOE",
     "symbol": "JOE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17569/thumb/LFJ_JOE_Logo.png?1727200941"
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/fe7142f3c74a8df4106bf2a68fac01d1.png"
   },
   {
     "chainId": 5000,
@@ -372,7 +373,7 @@
     "name": "Mantle Restaked ETH",
     "symbol": "CMETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51114/thumb/symbol.png?1730117724"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0xe6829d9a7ee3040e1276fa75293bde931859e8fa/e32fe58963f8c6711bbe52e8fd75adbe.png"
   },
   {
     "chainId": 5000,
@@ -380,7 +381,7 @@
     "name": "mETH Protocol",
     "symbol": "COOK",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50969/thumb/Logomark-Gradient_Official.png?1729620221"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9f0c013016e8656bc256f948cd4b79ab25c7b94d/7b16beb2a458f3f5052189783f46885c.png"
   },
   {
     "chainId": 5000,

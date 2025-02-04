@@ -13,7 +13,7 @@
     "name": "Aura Finance",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x1509706a6c66ca549ff0cb464de88231ddbe213b/logo.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc0c293ce456ff0ed870add98a0828dd4d2903dbf/f5bdc54131498b4bda381d301e855962.png"
   },
   {
     "symbol": "COW",
@@ -21,7 +21,7 @@
     "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x177127622c4a00f3d409b75571e12cb3c8973d3c/logo.png"
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cow.svg"
   },
   {
     "address": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
@@ -29,7 +29,7 @@
     "name": "Backed CSPX Core S&P 500",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59/f0f0286cb1e6296200a5fccadb45d459.png"
   },
   {
     "address": "0x2a22f9c3b484c3629090feed35f17ff8f88f76f0",
@@ -37,7 +37,7 @@
     "name": "Bridged USDC (Gnosis)",
     "decimals": 6,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x2a22f9c3b484c3629090feed35f17ff8f88f76f0/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
@@ -45,7 +45,7 @@
     "name": "Own a fraction (FRACTION)",
     "symbol": "FRACTION",
     "decimals": 18,
-    "logoURI": "https://fraction.fyi/i/FRACTION-TokenIcon.svg"
+    "logoURI": "https://fraction.fyi/static/FRACTION-TokenIcon-LIFI-256x256.png"
   },
   {
     "address": "0x3a97704a1b25F08aa230ae53B352e2e72ef52843",
@@ -53,7 +53,7 @@
     "name": "Agave Token",
     "symbol": "AGVE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/a7372dee979667852606fee7147f6355.png"
   },
   {
     "address": "0x44fA8E6f47987339850636F88629646662444217",
@@ -61,7 +61,7 @@
     "name": "Dai Stablecoin on Gnosis Chain",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x44fa8e6f47987339850636f88629646662444217/549c4205dbb199f1b8b03af783f35e71.png"
   },
   {
     "address": "0x4d18815d14fe5c3304e87b3fa18318baa5c23820",
@@ -69,7 +69,7 @@
     "name": "Safe Token",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x4d18815d14fe5c3304e87b3fa18318baa5c23820/logo.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x5afe3855358e112b5647b952709e6165e1c1eeee/46e9dd25f7a9df3b795d35232bc3c527.png"
   },
   {
     "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
@@ -77,7 +77,7 @@
     "name": "Tether USD on xDai",
     "decimals": 6,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x4ecaba5870353805a9f068101a40e0f32ed605c6/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "address": "0x5cb9073902f2035222b9749f8fb0c9bfe5527108",
@@ -93,7 +93,7 @@
     "name": "Minerva Wallet SuperToken",
     "symbol": "MIVA",
     "decimals": 18,
-    "logoURI": "https://minerva.digital/i/MIVA-Token.svg"
+    "logoURI": "https://minerva.digital/i/MIVA-Token_200x200.png"
   },
   {
     "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
@@ -101,7 +101,7 @@
     "name": "Wrapped Ether on Gnosis Chain",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
     "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
@@ -109,7 +109,7 @@
     "name": "Wrapped liquid staked Ether 2.0",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x6c76971f98945ae98dd7d4dfca8711ebea946ea6/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x6c76971f98945ae98dd7d4dfca8711ebea946ea6/7e931af8cb34b6f5671ca2eb1b847849.png"
   },
   {
     "address": "0x6de572faa138048ce8142c4a206eb09a8ec39e45",
@@ -125,7 +125,7 @@
     "name": "Honey",
     "symbol": "HNY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x71850b7e9ee3f13ab46d67167341e4bdc905eef9/d7a1c268a0f2d7f2cfca62c7d98a9b6c.png"
   },
   {
     "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
@@ -133,7 +133,7 @@
     "name": "Wrapped BTC on Gnosis Chain",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
     "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
@@ -141,7 +141,7 @@
     "name": "Gnosis",
     "symbol": "GNO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x9c58bacc331c9aa871afd802db6379a98e80cedb/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x9c58bacc331c9aa871afd802db6379a98e80cedb/69e5fedeca09913fe078a8dca5b7e48c.png"
   },
   {
     "address": "0xa34c5e0abe843e10461e2c9586ea03e55dbcc495",
@@ -157,7 +157,7 @@
     "name": "StakeWise Staked GNO (sGNO)",
     "symbol": "sGNO",
     "decimals": 18,
-    "logoURI": "https://app.stakewise.io/static/images/currencies/sgno.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xa4ef9da5ba71cc0d2e5e877a910a37ec43420445/27420d80ec2a5eeb9d2902a8b20d7245.png"
   },
   {
     "address": "0xabef652195f98a91e490f047a5006b71c85f058d",
@@ -165,7 +165,7 @@
     "name": "Curve.Fi USD Stablecoin from Mainnet",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xabef652195f98a91e490f047a5006b71c85f058d/logo.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e/c8e14f0d2abeda53a52c418094b7ea03.png"
   },
   {
     "address": "0xac28c9178acc8ba4a11a29e013a3a2627086e422",
@@ -181,7 +181,7 @@
     "name": "Savings xDAI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xaf204776c7245bf4147c2612bf6e5972ee483701/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xaf204776c7245bf4147c2612bf6e5972ee483701/8230d73bf3b22b0b095a61c79f1815cb.png"
   },
   {
     "address": "0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb",
@@ -197,7 +197,7 @@
     "name": "Stake on Gnosis Chain",
     "symbol": "STAKE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xb7d311e2eb55f2f68a9440da38e7989210b9a05e/40de992cef3fb71caa688d9b572280ce.png"
   },
   {
     "address": "0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9",
@@ -221,7 +221,7 @@
     "name": "Rocket Pool ETH from Mainnet",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xc791240d1f2def5938e2031364ff4ed887133c3d/logo.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xae78736cd615f374d3085123a210448e74fc6393/0a56aa87c04449332f88702b2bd5f45c.png"
   },
   {
     "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
@@ -237,7 +237,7 @@
     "address": "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xcb444e90d8198415266c6a2724b7900fb12fc56e/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xcb444e90d8198415266c6a2724b7900fb12fc56e/2b7c77728757af62032284b30b1ffd9d.png"
   },
   {
     "address": "0xccda41bd2ffe7d5b48212190b796c292982fce2e",
@@ -253,7 +253,7 @@
     "name": "Autonolas on Gnosis",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xcE11e14225575945b8E6Dc0D4F2dD4C570f79d9f/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xce11e14225575945b8e6dc0d4f2dd4c570f79d9f/74a203576022cc06c4b6691a8ee2b7c0.png"
   },
   {
     "address": "0xdbf3ea6f5bee45c02255b2c26a16f300502f68da",
@@ -261,7 +261,7 @@
     "name": "Swarm",
     "decimals": 16,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xdbf3ea6f5bee45c02255b2c26a16f300502f68da/logo.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/16509/standard/Circle_Orange_onWhite.png?1696516071"
   },
   {
     "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
@@ -269,7 +269,7 @@
     "name": "USDC (old)",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xddafbb505ad214d7b80b1f830fccc89b60fb7a83/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
@@ -277,7 +277,7 @@
     "name": "ChainLink Token on Gnosis Chain",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2/69425617db0ef93a7c21c4f9b81c7ca5.png"
   },
   {
     "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
@@ -285,7 +285,7 @@
     "name": "Wrapped XDAI",
     "symbol": "WXDAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d/3fedab836c5425fc3fc2eb542c34c81a.png"
   },
   {
     "address": "0xea50f402653c41cadbafd1f788341db7b7f37816",
@@ -333,7 +333,7 @@
     "decimals": 18,
     "symbol": "UNI",
     "name": "Uniswap",
-    "logoURI": "https://tokens-data.1inch.io/images/100/0x4537e328bf7e4efa29d05caea260d7fe26af9d74.webp"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x4537e328bf7e4efa29d05caea260d7fe26af9d74/fcee0c46fc9864f48ce6a40ed1cdd135.png"
   },
   {
     "address": "0x7349c9eaa538e118725a6130e0f8341509b9f8a0",
@@ -861,7 +861,7 @@
     "decimals": 18,
     "symbol": "FOX",
     "name": "FOX from Ethereum",
-    "logoURI": "https://tokens.1inch.io/0xc770eefad204b5180df6a14ee197d99d808ee52d.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x21a42669643f45bc0e086b8fc2ed70c23d67509d/a3ba70c14f1dfe0cd7bff6c759686b33.png"
   },
   {
     "address": "0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75",
@@ -869,7 +869,7 @@
     "decimals": 18,
     "symbol": "GIV",
     "name": "Giveth from Mainnet",
-    "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_200x200.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75/48a1779d740e93397c6204755092a146.png"
   },
   {
     "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
@@ -2829,7 +2829,7 @@
     "decimals": 18,
     "symbol": "BRIGHT",
     "name": "Bright from Ethereum",
-    "logoURI": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x83ff60e2f93f8edd0637ef669c69d5fb4f64ca8e/b4e2dafcc5a12a560eafa76879de7550.png"
   },
   {
     "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
@@ -2837,7 +2837,7 @@
     "decimals": 18,
     "symbol": "DATA",
     "name": "Streamr DATA on xDai",
-    "logoURI": "https://tokens.1inch.io/0x8f693ca8d21b157107184d29d398a8d082b38b76.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x256eb8a51f382650b2a1e946b8811953640ee47d/92d81b24f22a41ecae216001a0896690.png"
   },
   {
     "address": "0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3",
@@ -2845,7 +2845,7 @@
     "decimals": 18,
     "symbol": "PNK",
     "name": "Pinakion on xDai",
-    "logoURI": "https://tokens.1inch.io/0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3/ffe909ab0c5e1672ac29e2248ceb1c11.png"
   },
   {
     "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
@@ -3197,7 +3197,7 @@
     "decimals": 9,
     "symbol": "REALTOKEN-CH-S-RWA-HOLDINGS-SA-NEUCHATEL-NE",
     "name": "RealToken RWA Holdings SA, Neuchatel, NE, Suisse",
-    "logoURI": "https://tokens.1inch.io/0xe5f7ef61443fc36ae040650aa585b0395aef77c8.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xb80173756781960761aa59c9eeebe191f049f4c8/3f020ab59d83cddba077ae75f45f6a9a.png"
   },
   {
     "address": "0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce",
@@ -3205,7 +3205,7 @@
     "decimals": 18,
     "symbol": "REG",
     "name": "RealToken Ecosystem Governance",
-    "logoURI": "https://tokens.1inch.io/0xe5f7ef61443fc36ae040650aa585b0395aef77c8.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce/c56091d1d22e34e5e77aed0c64d19338.png"
   },
   {
     "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
@@ -3220,8 +3220,7 @@
     "address": "0x915742cb77124761015f63e079089ad0eff1b57c",
     "symbol": "$DG",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x915742cb77124761015f63e079089ad0eff1b57c/logo.png"
+    "chainId": 100
   },
   {
     "name": "0xMonero on Gnosis",
@@ -3237,15 +3236,14 @@
     "symbol": "1INCH",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7f7440c5098462f833e123b44b8a03e1d9785bab/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x7f7440c5098462f833e123b44b8a03e1d9785bab/2441b15b32406dc7d163ba4c1c6981d3.png"
   },
   {
     "name": "Curve.fi DAI/USDC/USDT on Gnosis",
     "address": "0x572036691d7c36cfd461ff936aa0e48db4ee9d3c",
     "symbol": "3Crv",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x572036691d7c36cfd461ff936aa0e48db4ee9d3c/logo.png"
+    "chainId": 100
   },
   {
     "name": "Aave Token on Gnosis",
@@ -3253,7 +3251,7 @@
     "symbol": "AAVE",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xdf613af6b44a31299e48131e9347f034347e2f00/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xdf613af6b44a31299e48131e9347f034347e2f00/eee087b66747b09dbfb4ba0b34fd3697.png"
   },
   {
     "name": "Aave Interest bearing DAI on Gnosis",
@@ -3261,7 +3259,7 @@
     "symbol": "ADAI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xbcfb2b889f7baa29dd7a7b447b6c87aca572f4f4/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xbcfb2b889f7baa29dd7a7b447b6c87aca572f4f4/24f33411d2269cb7d73cef6a0fda9ec0.png"
   },
   {
     "name": "AriesFinancial on Gnosis",
@@ -3277,7 +3275,7 @@
     "symbol": "agEUR",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4b1e2c2762667331bc91648052f646d1b0d35984/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
   },
   {
     "name": "Ajna Token on Gnosis",
@@ -3293,7 +3291,7 @@
     "symbol": "AKRO",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd27e1ecc4748f42e052331bea917d89beb883fc3/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xd27e1ecc4748f42e052331bea917d89beb883fc3/46d71fd497d2e925c4a45ce2e85c9969.png"
   },
   {
     "name": "AlbCoin on Gnosis",
@@ -3309,7 +3307,7 @@
     "symbol": "ALBT",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x3581cc6a09de85e9b91ef93f2a5ef837706b84a5/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x3581cc6a09de85e9b91ef93f2a5ef837706b84a5/9867892d0aaa519c537d8189a0551750.png"
   },
   {
     "name": "aleph.im v2 on Gnosis",
@@ -3317,7 +3315,7 @@
     "symbol": "ALEPH",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4bc97997883c0397f556bd0f9da6fb71da22f9a2/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x4bc97997883c0397f556bd0f9da6fb71da22f9a2/0ec66f70076a16ecf57f536c1320eeb0.png"
   },
   {
     "name": "Alvin",
@@ -3341,31 +3339,28 @@
     "symbol": "AMPL",
     "decimals": 9,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xc84dd5b971521b6c9fa5e10d25e6428b19710e05/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xc84dd5b971521b6c9fa5e10d25e6428b19710e05/9576ad5088bb9517bae3b081504a9813.png"
   },
   {
     "name": "Aragon Network Token on Gnosis",
     "address": "0x437a044fb4693890e61d2c1c88e3718e928b8e90",
     "symbol": "ANTv1",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x437a044fb4693890e61d2c1c88e3718e928b8e90/logo.png"
+    "chainId": 100
   },
   {
     "name": "Aragon Network Token on Gnosis v2",
     "address": "0x6eeceab954efdbd7a8a8d9387bc719959b04b9ca",
     "symbol": "ANTv2",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x6eeceab954efdbd7a8a8d9387bc719959b04b9ca/logo.png"
+    "chainId": 100
   },
   {
     "name": "API3",
     "address": "0x44b6bba599f100006143e82a60462d71ac1331da",
     "symbol": "API3",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x44b6bba599f100006143e82a60462d71ac1331da/logo.jpg"
+    "chainId": 100
   },
   {
     "name": "AirSwap Token on Gnosis",
@@ -3373,7 +3368,7 @@
     "symbol": "AST",
     "decimals": 4,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x743a991365ba94bfc90ad0002cad433c7a33cb4a/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x743a991365ba94bfc90ad0002cad433c7a33cb4a/8193d103d453bab7acd302740b9cd0a1.png"
   },
   {
     "name": "Audius on Gnosis",
@@ -3381,15 +3376,14 @@
     "symbol": "AUDIO",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x8a95ea379e1fa4c749dd0a7a21377162028c479e/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x8a95ea379e1fa4c749dd0a7a21377162028c479e/8c4d2409af350ab696f37b9fde9d378d.png"
   },
   {
     "name": "Axie Infinity",
     "address": "0xbde011911128f6bd4abb1d18f39fdc3614ca2cfe",
     "symbol": "AXS",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xbde011911128f6bd4abb1d18f39fdc3614ca2cfe/logo.png"
+    "chainId": 100
   },
   {
     "name": "Badger on Gnosis",
@@ -3397,7 +3391,7 @@
     "symbol": "BADGER",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xdfc20ae04ed70bd9c7d720f449eedae19f659d65/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xdfc20ae04ed70bd9c7d720f449eedae19f659d65/0e7643dba053739569d5b9f82225f4e5.png"
   },
   {
     "name": "Balancer on Gnosis",
@@ -3405,7 +3399,7 @@
     "symbol": "BAL",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7ef541e2a22058048904fe5744f9c7e4c57af717/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x7ef541e2a22058048904fe5744f9c7e4c57af717/52990c207f4001bd9090dfd90e54374a.png"
   },
   {
     "name": "BandToken on Gnosis",
@@ -3413,7 +3407,7 @@
     "symbol": "BAND",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xe154a435408211ac89757b76c4fbe4dc9ed2ef27/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xe154a435408211ac89757b76c4fbe4dc9ed2ef27/f2f29f5afbd645579576795924f08b18.png"
   },
   {
     "name": "BaoToken on Gnosis",
@@ -3437,7 +3431,7 @@
     "symbol": "BASE",
     "decimals": 9,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x699d001ef13b15335193bc5fad6cfc6747eee8be/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x699d001ef13b15335193bc5fad6cfc6747eee8be/ce8d38bf2c5202cf3eb9e53f1f8fbb37.png"
   },
   {
     "name": "Basic Attention Token on Gnosis",
@@ -3445,15 +3439,14 @@
     "symbol": "BAT",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xc6cc63f4aa25bbd4453eb5f3a0dfe546fef9b2f3/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xc6cc63f4aa25bbd4453eb5f3a0dfe546fef9b2f3/c5913bbde8a620ce2a47d8c4694e7dbb.png"
   },
   {
     "name": "Bincentive Token on Gnosis",
     "address": "0xe746a0476b833f2fa658e2b549dcfa5abbb9c3c9",
     "symbol": "BCNT",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xe746a0476b833f2fa658e2b549dcfa5abbb9c3c9/logo.png"
+    "chainId": 100
   },
   {
     "name": "Dai Token from BSC",
@@ -3461,7 +3454,7 @@
     "symbol": "bDAI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xfc8b2690f66b46fec8b3ceeb95ff4ac35a0054bc/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xfc8b2690f66b46fec8b3ceeb95ff4ac35a0054bc/565235f39aefd5fd94f9e9cb73634931.png"
   },
   {
     "name": "BlackDragon Token on Gnosis",
@@ -3477,7 +3470,7 @@
     "symbol": "BID",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x2977893f4c04bfbd6efc68d0e46598d27810d3db/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x2977893f4c04bfbd6efc68d0e46598d27810d3db/c24ca2d3d29e062ee19cd5589d263465.png"
   },
   {
     "name": "BNS Token on Gnosis",
@@ -3485,7 +3478,7 @@
     "symbol": "BNS",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xec84a3bb48d70553c2599ac2d0db07b2dfdf6364/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xec84a3bb48d70553c2599ac2d0db07b2dfdf6364/0188257b766afee147bd39fb591e290a.png"
   },
   {
     "name": "bns.finance on Gnosis",
@@ -3493,7 +3486,7 @@
     "symbol": "BNSD",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xbdb90bdadae84af0b07abf4cefcc7989f909f9bd/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xbdb90bdadae84af0b07abf4cefcc7989f909f9bd/2c0d403f79ce90d8f84aa83e0669716e.png"
   },
   {
     "name": "Bancor Network Token on Gnosis",
@@ -3501,15 +3494,14 @@
     "symbol": "BNT",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x9a495a281d959192343b0e007284bf130bd05f86/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x9a495a281d959192343b0e007284bf130bd05f86/87f35584a1f43c3770031e56f3751ce2.png"
   },
   {
     "name": "BarnBridge",
     "address": "0xb31a2595e4cf66efbc1fe348b1429e5730891382",
     "symbol": "BOND",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xb31a2595e4cf66efbc1fe348b1429e5730891382/logo.jpg"
+    "chainId": 100
   },
   {
     "name": "BTCCB",
@@ -3533,7 +3525,7 @@
     "symbol": "BUSDC",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd10cc63531a514bba7789682e487add1f15a51e2/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xd10cc63531a514bba7789682e487add1f15a51e2/22ea09f6bf3f57cd68e82688d3d33bdc.png"
   },
   {
     "name": "BZRX",
@@ -3548,8 +3540,7 @@
     "address": "0xe0cf6c7ed5ca334bd39f86366defbc3fc6dbbcab",
     "symbol": "cbETH",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xe0cf6c7ed5ca334bd39f86366defbc3fc6dbbcab/logo.png"
+    "chainId": 100
   },
   {
     "name": "Celsius on Gnosis",
@@ -3557,7 +3548,7 @@
     "symbol": "CEL",
     "decimals": 4,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x0acd91f92fe07606ab51ea97d8521e29d110fd09/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x0acd91f92fe07606ab51ea97d8521e29d110fd09/d9283c27cb8d7789581379f510f13b5b.png"
   },
   {
     "name": "CelerToken on Gnosis",
@@ -3565,7 +3556,7 @@
     "symbol": "CELR",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x248c54b3fc3bc8b20d0cdee059e17c67e4a3299d/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x248c54b3fc3bc8b20d0cdee059e17c67e4a3299d/1eb9c8f251098ea22a2cb30a877da86a.png"
   },
   {
     "name": "CFX Quantum on Gnosis",
@@ -3581,7 +3572,7 @@
     "symbol": "CHSB",
     "decimals": 8,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x76eafffa1873a8acd43864b66a728bd873c5e08a/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x76eafffa1873a8acd43864b66a728bd873c5e08a/ba301ecb75752ccf710505b05ac4f0ff.png"
   },
   {
     "name": "Colony Network Token on Gnosis",
@@ -3589,15 +3580,14 @@
     "symbol": "CLNY",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xc9b6218affe8aba68a13899cbf7cf7f14ddd304c/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xc9b6218affe8aba68a13899cbf7cf7f14ddd304c/d70433051d292c17e2a25fb7ab2fb751.png"
   },
   {
     "name": "coin_artist on Gnosis",
     "address": "0x14411aeca652f5131834bf0c8ff581b5ddf3bc03",
     "symbol": "COIN",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x14411aeca652f5131834bf0c8ff581b5ddf3bc03/logo.png"
+    "chainId": 100
   },
   {
     "name": "COLD TRUTH CASH",
@@ -3613,7 +3603,7 @@
     "symbol": "COMP",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xdf6ff92bfdc1e8be45177dc1f4845d391d3ad8fd/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xdf6ff92bfdc1e8be45177dc1f4845d391d3ad8fd/dd174d3d7083fa027a433dc50edaf0bc.png"
   },
   {
     "name": "Cream on Gnosis",
@@ -3621,7 +3611,7 @@
     "symbol": "CREAM",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x1939d3431cf0e44b1d63b86e2ce489e5a341b1bf/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x1939d3431cf0e44b1d63b86e2ce489e5a341b1bf/a5587c34049aadbc312d1847428235d9.png"
   },
   {
     "name": "Curve DAO Token on Gnosis",
@@ -3629,7 +3619,7 @@
     "symbol": "CRV",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x712b3d230f3c1c19db860d80619288b1f0bdd0bd/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x712b3d230f3c1c19db860d80619288b1f0bdd0bd/38f4cbac8fb4ac70c384a65ae0cca337.png"
   },
   {
     "name": "Concentrated Voting Power on Gnosis",
@@ -3637,15 +3627,14 @@
     "symbol": "CVP",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7da0bfe9d26c5b64c7580c04bb1425364273e4b0/logo.jpg"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1/da0feb272bb00e193dac8861cbfbe720.png"
   },
   {
     "name": "Prime on Gnosis",
     "address": "0x921557ac88f770aab08eef6ac32106f00c7a5e72",
     "symbol": "D2D",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x921557ac88f770aab08eef6ac32106f00c7a5e72/logo.jpg"
+    "chainId": 100
   },
   {
     "name": "Daibase xDAI v0.1.61",
@@ -3669,7 +3658,7 @@
     "symbol": "DHV",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xfbdd194376de19a88118e84e279b977f165d01b8/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xfbdd194376de19a88118e84e279b977f165d01b8/3dc5afb23cd358bfd56d33d7e7033c36.png"
   },
   {
     "name": "Decentralized Insurance Protoc on Gnosis",
@@ -3677,15 +3666,14 @@
     "symbol": "DIP",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x48b1b0d077b4919b65b4e4114806dd803901e1d9/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x48b1b0d077b4919b65b4e4114806dd803901e1d9/d8d6c9d32dc391b9236b279210929e1b.png"
   },
   {
     "name": "Davincij15 Token on Gnosis",
     "address": "0x7c16c63684d86bacc52e8793b08a5a1a3cb1ba1e",
     "symbol": "DJ15",
     "decimals": 9,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7c16c63684d86bacc52e8793b08a5a1a3cb1ba1e/logo.png"
+    "chainId": 100
   },
   {
     "name": "Donut on Gnosis",
@@ -3693,15 +3681,14 @@
     "symbol": "DONUT",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x524b969793a64a602342d89bc2789d43a016b13a/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x524b969793a64a602342d89bc2789d43a016b13a/89628ac4aaa272e2d3ed7820cb547dc7.png"
   },
   {
     "name": "PieDAO Dough",
     "address": "0x6d237bb2248d3b40b1a54f3417667b2f39984fc8",
     "symbol": "DOUGH",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x6d237bb2248d3b40b1a54f3417667b2f39984fc8/logo.png"
+    "chainId": 100
   },
   {
     "name": "DefiPulse Index on Gnosis",
@@ -3709,15 +3696,14 @@
     "symbol": "DPI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd3d47d5578e55c880505dc40648f7f9307c3e7a8/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xd3d47d5578e55c880505dc40648f7f9307c3e7a8/cac4b8786465385d6d4c4b7620db33f7.png"
   },
   {
     "name": "Unit Protocol",
     "address": "0x8e7ab03ca7d17996b097d5866bfaa1e251c35c6a",
     "symbol": "DUCK",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x8e7ab03ca7d17996b097d5866bfaa1e251c35c6a/logo.png"
+    "chainId": 100
   },
   {
     "name": "DXdao on Gnosis",
@@ -3740,8 +3726,7 @@
     "address": "0x5a757f0bcadfdb78651b7bdbe67e44e8fd7f7f6b",
     "symbol": "ENJ",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x5a757f0bcadfdb78651b7bdbe67e44e8fd7f7f6b/logo.png"
+    "chainId": 100
   },
   {
     "name": "Ethix on Gnosis",
@@ -3749,7 +3734,7 @@
     "symbol": "ETHIX",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xec3f3e6d7907acda3a7431abd230196cda3fbb19/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xec3f3e6d7907acda3a7431abd230196cda3fbb19/9aa0c8c8a184562384e2fb066d97762f.png"
   },
   {
     "name": "Ethereum Meta on Gnosis",
@@ -3773,7 +3758,7 @@
     "symbol": "EURC.e",
     "decimals": 6,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x54e4cb2a4fa0ee46e3d9a98d13bea119666e09f6/logo.png"
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xc891eb4cbdeff6e073e859e987815ed1505c2acd/790d0c3a6da87111b66255c0d57108fa.png"
   },
   {
     "name": "Energy Web Token Bridged on Gnosis",
@@ -3781,23 +3766,21 @@
     "symbol": "EWTB",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2/27d5b4bc56287bcf58081eba0ce708e8.png"
   },
   {
     "name": "Flex Ungovernance Token on Gnosis",
     "address": "0xd87eaa26dcfb0c0a6160ccf8c8a01beb1c15fb00",
     "symbol": "FLX",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd87eaa26dcfb0c0a6160ccf8c8a01beb1c15fb00/logo.jpg"
+    "chainId": 100
   },
   {
     "name": "The 4th Pillar Token on Gnosis",
     "address": "0xe6ff35dc3227a0c46e92b640bcb5c5895ad8c687",
     "symbol": "FOUR",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xe6ff35dc3227a0c46e92b640bcb5c5895ad8c687/logo.png"
+    "chainId": 100
   },
   {
     "name": "Freedom Reserve on Gnosis",
@@ -3805,7 +3788,7 @@
     "symbol": "FR",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x270de58f54649608d316faa795a9941b355a2bd0/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x270de58f54649608d316faa795a9941b355a2bd0/7e2373df6d8cb353648cc2038452bb11.png"
   },
   {
     "name": "FreeToken",
@@ -3820,24 +3803,21 @@
     "address": "0x1bbca7491f14b46788ff9c834d97a668c4886523",
     "symbol": "FRONT",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x1bbca7491f14b46788ff9c834d97a668c4886523/logo.png"
+    "chainId": 100
   },
   {
     "name": "FalconSwap Token on Gnosis",
     "address": "0xde1e70ed71936e4c249a7d43e550f0b99fccddfc",
     "symbol": "FSW",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xde1e70ed71936e4c249a7d43e550f0b99fccddfc/logo.png"
+    "chainId": 100
   },
   {
     "name": "FTX Token",
     "address": "0x75886f00c1a20ec1511111fb4ec3c51de65b1fe7",
     "symbol": "FTT",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x75886f00c1a20ec1511111fb4ec3c51de65b1fe7/logo.png"
+    "chainId": 100
   },
   {
     "name": "Bitgear on Gnosis",
@@ -3845,15 +3825,14 @@
     "symbol": "GEAR",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x6f09cf96558d44584db07f8477dd3490599aa63e/logo.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x1b980e05943de3db3a459c72325338d327b6f5a9/f657b4fe1eccab388d3c92059294cf71.png"
   },
   {
     "name": "DAOstack on Gnosis",
     "address": "0x12dabe79cffc1fde82fcd3b96dbe09fa4d8cd599",
     "symbol": "GEN",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x12dabe79cffc1fde82fcd3b96dbe09fa4d8cd599/logo.png"
+    "chainId": 100
   },
   {
     "name": "Golden Bull Token on xDAI",
@@ -3868,24 +3847,21 @@
     "address": "0xfadc59d012ba3c110b08a15b7755a5cb7cbe77d7",
     "symbol": "GRT",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xfadc59d012ba3c110b08a15b7755a5cb7cbe77d7/logo.png"
+    "chainId": 100
   },
   {
     "name": "Hakka Finance on Gnosis",
     "address": "0xad601530859513371fa107ae6a7e18e08d69f155",
     "symbol": "HAKKA",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xad601530859513371fa107ae6a7e18e08d69f155/logo.png"
+    "chainId": 100
   },
   {
     "name": "HEX on Gnosis",
     "address": "0xd9fa47e33d4ff7a1aca489de1865ac36c042b07a",
     "symbol": "HEX",
     "decimals": 8,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd9fa47e33d4ff7a1aca489de1865ac36c042b07a/logo.png"
+    "chainId": 100
   },
   {
     "name": "hiveWater",
@@ -3893,7 +3869,7 @@
     "symbol": "HIVEWATER",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x3a3e9715018d80916740e8ac300713fdf6614d19/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x3a3e9715018d80916740e8ac300713fdf6614d19/e1fbdc3616b4512ba639dad7a19615ce.png"
   },
   {
     "name": "Hop",
@@ -3901,7 +3877,7 @@
     "symbol": "HOP",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc/c8be411deb2585a3dba7e5df36b53bc5.png"
   },
   {
     "name": "HOPR Token on Gnosis",
@@ -3909,7 +3885,7 @@
     "symbol": "HOPR",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd057604a14982fe8d88c5fc25aac3267ea142a08/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xd057604a14982fe8d88c5fc25aac3267ea142a08/875f1e3fee066eacf48612e4a419aec3.png"
   },
   {
     "name": "HoloToken on Gnosis",
@@ -3917,7 +3893,7 @@
     "symbol": "HOT",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x346b2968508d32f0192cd7a60ef3d9c39a3cf549/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x346b2968508d32f0192cd7a60ef3d9c39a3cf549/4b92285f601767417001b1bd30cf90c2.png"
   },
   {
     "name": "HUSD on Gnosis",
@@ -3932,8 +3908,7 @@
     "address": "0x6052245ec516d0f653794052d24efca8a39fcbc3",
     "symbol": "INDEX",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x6052245ec516d0f653794052d24efca8a39fcbc3/logo.png"
+    "chainId": 100
   },
   {
     "name": "JOON on Gnosis",
@@ -3949,23 +3924,21 @@
     "symbol": "JPYC",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x417602f4fbdd471a431ae29fb5fe0a681964c11b/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x417602f4fbdd471a431ae29fb5fe0a681964c11b/ace37007349b9cecb59c3c7bb0fbbc68.png"
   },
   {
     "name": "Kyber Network Crystal on Gnosis",
     "address": "0x1534fb3e82849314360c267fe20df3901a2ed3f9",
     "symbol": "KNC",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x1534fb3e82849314360c267fe20df3901a2ed3f9/logo.png"
+    "chainId": 100
   },
   {
     "name": "Unilayer on Gnosis",
     "address": "0x8fbedd16904b561e30ea402f459900e9d90614af",
     "symbol": "LAYER",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x8fbedd16904b561e30ea402f459900e9d90614af/logo.png"
+    "chainId": 100
   },
   {
     "name": "EthLend Token on Gnosis",
@@ -3980,56 +3953,49 @@
     "address": "0x6062ec2a1ecfcd0026d9bd67aa5ad743adc03995",
     "symbol": "LIEN",
     "decimals": 8,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x6062ec2a1ecfcd0026d9bd67aa5ad743adc03995/logo.png"
+    "chainId": 100
   },
   {
     "name": "Meridian Network on Gnosis",
     "address": "0xf99efeb34aff6d3099c41605e9ee778caec39317",
     "symbol": "LOCK",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xf99efeb34aff6d3099c41605e9ee778caec39317/logo.png"
+    "chainId": 100
   },
   {
     "name": "Livepeer Token on Gnosis",
     "address": "0x7db0be7a41b5395268e065776e800e27181c81ab",
     "symbol": "LPT",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7db0be7a41b5395268e065776e800e27181c81ab/logo.png"
+    "chainId": 100
   },
   {
     "name": "LoopringCoin V2 on Gnosis",
     "address": "0x2be73bfeec620aa9b67535a4d3827bb1e29436d1",
     "symbol": "LRC",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x2be73bfeec620aa9b67535a4d3827bb1e29436d1/logo.png"
+    "chainId": 100
   },
   {
     "name": "Layer 2 Index on Gnosis",
     "address": "0xcf9dc2de2a67d7db1a7171e3b8456d2171e4da75",
     "symbol": "LTI",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xcf9dc2de2a67d7db1a7171e3b8456d2171e4da75/logo.png"
+    "chainId": 100
   },
   {
     "name": "LUKSO Token on Gnosis",
     "address": "0x79cf2029717e2e78c8927f65f079ab8da21781ee",
     "symbol": "LYXe",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x79cf2029717e2e78c8927f65f079ab8da21781ee/logo.png"
+    "chainId": 100
   },
   {
     "name": "Mai Stablecoin on Gnosis",
     "address": "0xe959db3c04376b017b37c95618bbaeb59f51abba",
     "symbol": "MAI",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xe959db3c04376b017b37c95618bbaeb59f51abba/logo.png"
+    "chainId": 100
   },
   {
     "name": "Decentraland MANA on Gnosis",
@@ -4037,23 +4003,21 @@
     "symbol": "MANA",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7838796b6802b18d7ef58fc8b757705d6c9d12b3/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x7838796b6802b18d7ef58fc8b757705d6c9d12b3/c83dcbf8bae0f6cd1e31c6e176ce5155.png"
   },
   {
     "name": "Mask Network on Gnosis",
     "address": "0x4e1a2bffe81000f7be4807faf0315173c817d6f4",
     "symbol": "MASK",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4e1a2bffe81000f7be4807faf0315173c817d6f4/logo.jpg"
+    "chainId": 100
   },
   {
     "name": "MATH Token on Gnosis",
     "address": "0xaf4d17a2077e1de12de66a44de1b4f14c120d32d",
     "symbol": "MATH",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xaf4d17a2077e1de12de66a44de1b4f14c120d32d/logo.png"
+    "chainId": 100
   },
   {
     "name": "Matic Token on Gnosis",
@@ -4061,15 +4025,14 @@
     "symbol": "MATIC",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7122d7661c4564b7c6cd4878b06766489a6028a2/logo.png"
+    "logoURI": "https://static.debank.com/image/matic_token/logo_url/matic/6f5a6b6f0732a7a235131bd7804d357c.png"
   },
   {
     "name": "MCDEX Token on Gnosis",
     "address": "0xd361c1fd663d8f2dc36ae07ff6f3623532cabdd3",
     "symbol": "MCB",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd361c1fd663d8f2dc36ae07ff6f3623532cabdd3/logo.png"
+    "chainId": 100
   },
   {
     "name": "McDonaldsCoin on Gnosis",
@@ -4093,7 +4056,7 @@
     "symbol": "MEME",
     "decimals": 8,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x512a2eb0277573ae9be0d48c782590b624048fdf/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x512a2eb0277573ae9be0d48c782590b624048fdf/8287113212c164da580eb326ccab717d.png"
   },
   {
     "name": "BLOCKMESH",
@@ -4116,8 +4079,7 @@
     "address": "0x5fd896d248fbfa54d26855c267859eb1b4daee72",
     "symbol": "MKR",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x5fd896d248fbfa54d26855c267859eb1b4daee72/logo.png"
+    "chainId": 100
   },
   {
     "name": "MoonToken on Gnosis",
@@ -4125,7 +4087,7 @@
     "symbol": "MOON",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x5b917d4fb9b27591353211c32f1552a527987afc/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x5b917d4fb9b27591353211c32f1552a527987afc/a45c803105b3630e02c4c22aefb50d67.png"
   },
   {
     "name": "MtPelerin Shares",
@@ -4133,7 +4095,7 @@
     "symbol": "MPS",
     "decimals": 0,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb/154c929e3772922279fa0f104a195b85.png"
   },
   {
     "name": "MORPHINE",
@@ -4148,24 +4110,21 @@
     "address": "0x26dc03e492763068ccfe7c39b93a22442807c360",
     "symbol": "NEXO",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x26dc03e492763068ccfe7c39b93a22442807c360/logo.png"
+    "chainId": 100
   },
   {
     "name": "NFTX on Gnosis",
     "address": "0x8e1a12da00bbf9db10d48bd66ff818be933964d5",
     "symbol": "NFTX",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x8e1a12da00bbf9db10d48bd66ff818be933964d5/logo.jpg"
+    "chainId": 100
   },
   {
     "name": "Numeraire on Gnosis",
     "address": "0x0b7a1c1a3d314dcc271ea576da400b24e9ad3094",
     "symbol": "NMR",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x0b7a1c1a3d314dcc271ea576da400b24e9ad3094/logo.png"
+    "chainId": 100
   },
   {
     "name": "DAppNode DAO Token on Gnosis",
@@ -4188,40 +4147,35 @@
     "address": "0x0dcfed2c3041e66b2d8c4ea39782c60355716316",
     "symbol": "NRGE",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x0dcfed2c3041e66b2d8c4ea39782c60355716316/logo.png"
+    "chainId": 100
   },
   {
     "name": "Ocean Token on Gnosis",
     "address": "0x51732a6fc4673d1acca4c047f5465922716508ad",
     "symbol": "OCEAN",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x51732a6fc4673d1acca4c047f5465922716508ad/logo.png"
+    "chainId": 100
   },
   {
     "name": "OKB on Gnosis",
     "address": "0x4efdfbb7cca540a79a7e4dcad1cb6ed14f21c43e",
     "symbol": "OKB",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4efdfbb7cca540a79a7e4dcad1cb6ed14f21c43e/logo.png"
+    "chainId": 100
   },
   {
     "name": "OM Token on Gnosis",
     "address": "0x309bc6dbcbfb9c84d26fdf65e8924367efccbdb9",
     "symbol": "OM",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x309bc6dbcbfb9c84d26fdf65e8924367efccbdb9/logo.png"
+    "chainId": 100
   },
   {
     "name": "OMGToken on Gnosis",
     "address": "0x8395f7123ba3ffad52e7414433d825931c81c879",
     "symbol": "OMG",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x8395f7123ba3ffad52e7414433d825931c81c879/logo.png"
+    "chainId": 100
   },
   {
     "name": "OWL on Gnosis",
@@ -4244,8 +4198,7 @@
     "address": "0x0dae13fae64180d3cadcad22329a4abcaef15ca6",
     "symbol": "PANTS",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x0dae13fae64180d3cadcad22329a4abcaef15ca6/logo.png"
+    "chainId": 100
   },
   {
     "name": "Perpetual on Gnosis",
@@ -4253,39 +4206,35 @@
     "symbol": "PERP",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7ecf26cd9a36990b8ea477853663092333f59979/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x7ecf26cd9a36990b8ea477853663092333f59979/f70e08dbc055f3728e7fb8053612906d.png"
   },
   {
     "name": "Polyient Games Governance Token",
     "address": "0x6099280dc5fc97cbb61b456246316a1b8f79534b",
     "symbol": "PGT",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x6099280dc5fc97cbb61b456246316a1b8f79534b/logo.png"
+    "chainId": 100
   },
   {
     "name": "Phala on Gnosis",
     "address": "0x7ea8af7301b763451b7fb25f8fc2406819a7e36f",
     "symbol": "PHA",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7ea8af7301b763451b7fb25f8fc2406819a7e36f/logo.png"
+    "chainId": 100
   },
   {
     "name": "DeFiPIE Token on Gnosis",
     "address": "0x317eab07380d670ea814025cba40f5624354a32f",
     "symbol": "PIE",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x317eab07380d670ea814025cba40f5624354a32f/logo.png"
+    "chainId": 100
   },
   {
     "name": "PILLAR on Gnosis",
     "address": "0x10beea85519a704a63765d396415f9ea5aa30a17",
     "symbol": "PLR",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x10beea85519a704a63765d396415f9ea5aa30a17/logo.png"
+    "chainId": 100
   },
   {
     "name": "POA20 on Gnosis",
@@ -4300,8 +4249,7 @@
     "address": "0x75481a953a4bba6b3c445907db403e4b5d222174",
     "symbol": "POLS",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x75481a953a4bba6b3c445907db403e4b5d222174/logo.png"
+    "chainId": 100
   },
   {
     "name": "prophet.finance on Gnosis",
@@ -4317,15 +4265,14 @@
     "symbol": "PRTCLE",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300/7e04733074d2a9cb5cbb4f771eed50c6.png"
   },
   {
     "name": "PowerTrade Fuel Token on Gnosis",
     "address": "0x53ef00be819a062533a0e699077c621a28eaded1",
     "symbol": "PTF",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x53ef00be819a062533a0e699077c621a28eaded1/logo.png"
+    "chainId": 100
   },
   {
     "name": "Rare Coin v2",
@@ -4340,8 +4287,7 @@
     "address": "0x4be85acc1cd711f403dc7bde9e6cadfc5a94744b",
     "symbol": "RARI",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4be85acc1cd711f403dc7bde9e6cadfc5a94744b/logo.png"
+    "chainId": 100
   },
   {
     "name": "Republic Token on Gnosis",
@@ -4349,7 +4295,7 @@
     "symbol": "REN",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x0da1a02cdf84c44021671d183d616925164e08aa/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x0da1a02cdf84c44021671d183d616925164e08aa/d0ef6c3fa48075b6f129bfe11f6b3364.png"
   },
   {
     "name": "renBTC on Gnosis",
@@ -4357,15 +4303,14 @@
     "symbol": "renBTC",
     "decimals": 8,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb/7ec502c1a24ea6d4cee9f31595acf6d7.png"
   },
   {
     "name": "renZEC on Gnosis",
     "address": "0x5f2852afd20c39849f6f56f4102b8c29ee141add",
     "symbol": "renZEC",
     "decimals": 8,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x5f2852afd20c39849f6f56f4102b8c29ee141add/logo.png"
+    "chainId": 100
   },
   {
     "name": "StakeWise Reward GNO",
@@ -4373,15 +4318,14 @@
     "symbol": "rGNO",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x6ac78efae880282396a335ca2f79863a1e6831d4/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x6ac78efae880282396a335ca2f79863a1e6831d4/533c52c428341dc6f03b99f6b277e409.png"
   },
   {
     "name": "Rari Governance Token on Gnosis",
     "address": "0x417ae38b3053a736b4274aed8dbd1a8a6fdbc974",
     "symbol": "RGT",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x417ae38b3053a736b4274aed8dbd1a8a6fdbc974/logo.png"
+    "chainId": 100
   },
   {
     "name": "DAOSquare Governance Token on Gnosis",
@@ -4396,32 +4340,28 @@
     "address": "0x1479ebfe327b62bff255c0749a242748d3e7347a",
     "symbol": "RING",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x1479ebfe327b62bff255c0749a242748d3e7347a/logo.png"
+    "chainId": 100
   },
   {
     "name": "iEx.ec Network Token on Gnosis",
     "address": "0x60e668f54106222adc1da80c169281b3355b8e5d",
     "symbol": "RLC",
     "decimals": 9,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x60e668f54106222adc1da80c169281b3355b8e5d/logo.png"
+    "chainId": 100
   },
   {
     "name": "MetaFactory on Gnosis",
     "address": "0x8d02b73904856de6998ffdf6e7ee18cc21137a79",
     "symbol": "ROBOT",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x8d02b73904856de6998ffdf6e7ee18cc21137a79/logo.png"
+    "chainId": 100
   },
   {
     "name": "Rocket Pool on Gnosis",
     "address": "0x2f0e755efe6b58238a67db420ff3513ec1fb31ef",
     "symbol": "RPL",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x2f0e755efe6b58238a67db420ff3513ec1fb31ef/logo.png"
+    "chainId": 100
   },
   {
     "name": "Reserve Rights on Gnosis",
@@ -4452,16 +4392,14 @@
     "address": "0xc439e5b1dee4f866b681e7c5e5df140aa47fbf19",
     "symbol": "SAI",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xc439e5b1dee4f866b681e7c5e5df140aa47fbf19/logo.png"
+    "chainId": 100
   },
   {
     "name": "Synth sETH on Gnosis",
     "address": "0x8f365b41b98fe84acb287540b4b4ab633e07edb2",
     "symbol": "SETH",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x8f365b41b98fe84acb287540b4b4ab633e07edb2/logo.png"
+    "chainId": 100
   },
   {
     "name": "SHIBA INU on Gnosis",
@@ -4484,24 +4422,21 @@
     "address": "0x044f6ae3aef34fdb8fddc7c05f9cc17f19acd516",
     "symbol": "SNT",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x044f6ae3aef34fdb8fddc7c05f9cc17f19acd516/logo.png"
+    "chainId": 100
   },
   {
     "name": "Synthetix Network Token on Gnosis",
     "address": "0x3a00e08544d589e19a8e7d97d0294331341cdbf6",
     "symbol": "SNX",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x3a00e08544d589e19a8e7d97d0294331341cdbf6/logo.png"
+    "chainId": 100
   },
   {
     "name": "Unisocks",
     "address": "0x35f346cb4149746272974a92d719fd48ae2f72fa",
     "symbol": "SOCKS",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x35f346cb4149746272974a92d719fd48ae2f72fa/logo.png"
+    "chainId": 100
   },
   {
     "name": "Sora Token on Gnosis",
@@ -4516,40 +4451,35 @@
     "address": "0x3ae8c08cd61d05ad6e22973e4b675a92d412ee3c",
     "symbol": "SRM",
     "decimals": 6,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x3ae8c08cd61d05ad6e22973e4b675a92d412ee3c/logo.png"
+    "chainId": 100
   },
   {
     "name": "Liquid staked Ether 2.0 on Gnosis",
     "address": "0x3c037849a8ffcf19886e2f5b04f293b7847d0377",
     "symbol": "stETH",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x3c037849a8ffcf19886e2f5b04f293b7847d0377/logo.png"
+    "chainId": 100
   },
   {
     "name": "StorjToken on Gnosis",
     "address": "0xbc650b9cc12db4da14b2417c60ccd6f4d77c3998",
     "symbol": "STORJ",
     "decimals": 8,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xbc650b9cc12db4da14b2417c60ccd6f4d77c3998/logo.png"
+    "chainId": 100
   },
   {
     "name": "SURF.Finance on Gnosis",
     "address": "0xc12956b840b403b600014a3092f6ebd9259738fe",
     "symbol": "SURF",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xc12956b840b403b600014a3092f6ebd9259738fe/logo.png"
+    "chainId": 100
   },
   {
     "name": "Synthetix USD on Gnosis",
     "address": "0xb1950fb2c9c0cbc8553578c67db52aa110a93393",
     "symbol": "sUSD",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xb1950fb2c9c0cbc8553578c67db52aa110a93393/logo.png"
+    "chainId": 100
   },
   {
     "name": "SushiToken on Gnosis",
@@ -4557,15 +4487,14 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
   },
   {
     "name": "TrustSwap Token on Gnosis",
     "address": "0xeaacce3e5bcc10fb32c2553f8d6fc4c3888ffdad",
     "symbol": "SWAP",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xeaacce3e5bcc10fb32c2553f8d6fc4c3888ffdad/logo.png"
+    "chainId": 100
   },
   {
     "name": "Swapr on Gnosis",
@@ -4580,8 +4509,7 @@
     "address": "0x0811e451447d5819976a95a02f130c3b00d59346",
     "symbol": "TBTC",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x0811e451447d5819976a95a02f130c3b00d59346/logo.png"
+    "chainId": 100
   },
   {
     "name": "Token Engineering Commons",
@@ -4596,8 +4524,7 @@
     "address": "0x16afe6e6754fa3694afd0ce48f4bea102efacc17",
     "symbol": "TESTA",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x16afe6e6754fa3694afd0ce48f4bea102efacc17/logo.png"
+    "chainId": 100
   },
   {
     "name": "Trace Token on Gnosis",
@@ -4605,15 +4532,14 @@
     "symbol": "TRAC",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xeddd81e0792e764501aae206eb432399a0268db5/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xeddd81e0792e764501aae206eb432399a0268db5/05e3fd9bfbd1edb268c2d150077336cc.png"
   },
   {
     "name": "UniTrade on Gnosis",
     "address": "0x860182180e146300df38aab8d328c6e80bec9547",
     "symbol": "TRADE",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x860182180e146300df38aab8d328c6e80bec9547/logo.png"
+    "chainId": 100
   },
   {
     "name": "Tellor Tributes on Gnosis",
@@ -4621,7 +4547,7 @@
     "symbol": "TRB",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xaad66432d27737ecf6ed183160adc5ef36ab99f2/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xaad66432d27737ecf6ed183160adc5ef36ab99f2/d0a6887fce34243d63aa3986e458aca6.png"
   },
   {
     "name": "Contribute on Gnosis",
@@ -4644,32 +4570,28 @@
     "address": "0x4384a7c9498f905e433ee06b6552a18e1d7cd3a4",
     "symbol": "TRU",
     "decimals": 8,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4384a7c9498f905e433ee06b6552a18e1d7cd3a4/logo.png"
+    "chainId": 100
   },
   {
     "name": "TrueUSD on Gnosis",
     "address": "0xb714654e905edad1ca1940b7790a8239ece5a9ff",
     "symbol": "TUSD",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xb714654e905edad1ca1940b7790a8239ece5a9ff/logo.png"
+    "chainId": 100
   },
   {
     "name": "Terra Virtua Kolect",
     "address": "0xeb2bcabb0cdc099978a74cfe4ab4d45e7e677a45",
     "symbol": "TVK",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xeb2bcabb0cdc099978a74cfe4ab4d45e7e677a45/logo.png"
+    "chainId": 100
   },
   {
     "name": "UniBright on Gnosis",
     "address": "0xd3b93ff74e43ba9568e5019b38addb804fef719b",
     "symbol": "UBT",
     "decimals": 8,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd3b93ff74e43ba9568e5019b38addb804fef719b/logo.png"
+    "chainId": 100
   },
   {
     "name": "UNCL on Gnosis",
@@ -4685,7 +4607,7 @@
     "symbol": "UNCX",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x0116e28b43a358162b96f70b4de14c98a4465f25/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x0116e28b43a358162b96f70b4de14c98a4465f25/8466837ada2fcdf0ab19e0d60bf5d056.png"
   },
   {
     "name": "USDP Stablecoin on Gnosis",
@@ -4693,7 +4615,7 @@
     "symbol": "USDP",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xfe7ed09c4956f7cdb54ec4ffcb9818db2d7025b8/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xfe7ed09c4956f7cdb54ec4ffcb9818db2d7025b8/a0577db751d5f0598b65930fb4a0176d.png"
   },
   {
     "name": "VitaDAO on Gnosis",
@@ -4701,15 +4623,14 @@
     "symbol": "VITA",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x0939a7c3f8d37c1ce67fada4963ae7e0bd112ff3/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x0939a7c3f8d37c1ce67fada4963ae7e0bd112ff3/9ffeb8c902a261553fc4cd8b2706b112.png"
   },
   {
     "name": "VectorspaceAI on Gnosis",
     "address": "0x020ae8fc1c19f4d1312cf6a72291f52849791e7c",
     "symbol": "VXV",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x020ae8fc1c19f4d1312cf6a72291f52849791e7c/logo.png"
+    "chainId": 100
   },
   {
     "name": "Water Token",
@@ -4725,7 +4646,7 @@
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xca8d20f3e0144a72c6b5d576e9bd3fd8557e2b04/logo.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
   },
   {
     "name": "Wrapped CHI on Gnosis",
@@ -4733,15 +4654,14 @@
     "symbol": "WCHI",
     "decimals": 8,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7211ab649a4139561a152b787de52d257cbaaee9/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x7211ab649a4139561a152b787de52d257cbaaee9/a5dc1fc4b76813cc619195af72d975a4.png"
   },
   {
     "name": "Wrapped NXM on Gnosis",
     "address": "0x01e92e3791f8c1d6599b2f80a4bff9b43949ac7c",
     "symbol": "wNXM",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x01e92e3791f8c1d6599b2f80a4bff9b43949ac7c/logo.png"
+    "chainId": 100
   },
   {
     "name": "Wrapped xHOPR Token",
@@ -4749,15 +4669,14 @@
     "symbol": "wxHOPR",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd4fdec44db9d44b8f2b6d529620f9c0c7066a2c1/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xd057604a14982fe8d88c5fc25aac3267ea142a08/875f1e3fee066eacf48612e4a419aec3.png"
   },
   {
     "name": "Wrapped XRP on Gnosis",
     "address": "0x10a82313a4daef47c1ab9ef2bb00b22b3b0cc14c",
     "symbol": "WXRP",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x10a82313a4daef47c1ab9ef2bb00b22b3b0cc14c/logo.png"
+    "chainId": 100
   },
   {
     "name": "Bricks on Gnosis",
@@ -4773,7 +4692,7 @@
     "symbol": "xCOMB",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7/0a5224d820fb0e6968fea1f3cc44e71e.png"
   },
   {
     "name": "Xion Global Token",
@@ -4781,15 +4700,14 @@
     "symbol": "XGT",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xc25af3123d2420054c8fcd144c21113aa2853f39/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xc25af3123d2420054c8fcd144c21113aa2853f39/c68517b433de00687fbb69d1f43a20f1.png"
   },
   {
     "name": "Standard on Gnosis",
     "address": "0x3e33cf23073fd8d5ad1d48d1860a96c0d8e56193",
     "symbol": "xMARK",
     "decimals": 9,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x3e33cf23073fd8d5ad1d48d1860a96c0d8e56193/logo.png"
+    "chainId": 100
   },
   {
     "name": "xMOON on Gnosis",
@@ -4797,7 +4715,7 @@
     "symbol": "XMOON",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x1e16aa4df73d29c029d94ceda3e3114ec191e25a/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x1e16aa4df73d29c029d94ceda3e3114ec191e25a/bd9cd767c5404e14233c30ac8c102e61.png"
   },
   {
     "name": "xREAP",
@@ -4812,8 +4730,7 @@
     "address": "0xf54b47b00b6916974c73b81b7d9929a4f443db49",
     "symbol": "XRT",
     "decimals": 9,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xf54b47b00b6916974c73b81b7d9929a4f443db49/logo.png"
+    "chainId": 100
   },
   {
     "name": "Seed on Gnosis",
@@ -4828,16 +4745,14 @@
     "address": "0xfd4e5f45ea24ec50c4db4367380b014875caf219",
     "symbol": "XYO",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xfd4e5f45ea24ec50c4db4367380b014875caf219/logo.png"
+    "chainId": 100
   },
   {
     "name": "yCurve on Gnosis",
     "address": "0x22bd2a732b39dace37ae7e8f50a186f3d9702e87",
     "symbol": "yCRV",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x22bd2a732b39dace37ae7e8f50a186f3d9702e87/logo.png"
+    "chainId": 100
   },
   {
     "name": "Yearn Finance on Gnosis",
@@ -4845,7 +4760,7 @@
     "symbol": "YFI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd/logo.png"
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239/f14ac7f4efe5c51e1c6b32add3dea10c.png"
   },
   {
     "name": "Yield on Gnosis",
@@ -4853,7 +4768,7 @@
     "symbol": "YLD",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xa2fec95b3d3fecb39098e81f108533e1abf22ccf/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xa2fec95b3d3fecb39098e81f108533e1abf22ccf/9525ccfb75bdbc6d72af5105eaeab73c.png"
   },
   {
     "name": "0x Protocol Token on Gnosis",
@@ -4861,6 +4776,6 @@
     "symbol": "ZRX",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x226bcf0e417428a25012d0fa2183d37f92bcedf6/logo.png"
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x226bcf0e417428a25012d0fa2183d37f92bcedf6/d7005102d4df2f6f8a79a5e8abe93b06.png"
   }
 ]

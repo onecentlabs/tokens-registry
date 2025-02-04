@@ -5,7 +5,7 @@
     "decimals": 18,
     "symbol": "MMY",
     "name": "MUMMY",
-    "logoURI": "https://tokens.1inch.io/0x01e77288b38b416f972428d562454fb329350bac.png"
+    "logoURI": "https://ftmscan.com/token/images/mummyfinance_32.png"
   },
   {
     "address": "0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6",
@@ -13,7 +13,7 @@
     "decimals": 18,
     "symbol": "EQUAL",
     "name": "Equalizer",
-    "logoURI": "https://tokens.1inch.io/0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6/cea2cc415d9a89dd40d499ed9afa6297.png"
   },
   {
     "address": "0xe0654c8e6fd4d733349ac7e09f6f23da256bf475",
@@ -21,7 +21,7 @@
     "decimals": 18,
     "symbol": "SCREAM",
     "name": "Scream",
-    "logoURI": "https://tokens.1inch.io/0xe0654c8e6fd4d733349ac7e09f6f23da256bf475.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xe0654c8e6fd4d733349ac7e09f6f23da256bf475/0f7db99e42372eba9c464ea167f5e410.png"
   },
   {
     "address": "0x1d43697d67cb5d0436cc38d583ca473a1bfebc7a",
@@ -37,7 +37,7 @@
     "decimals": 18,
     "symbol": "1ART",
     "name": "ArtWallet",
-    "logoURI": "https://tokens.1inch.io/0xd3c325848d7c6e29b574cb0789998b2ff901f17e.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xd3c325848d7c6e29b574cb0789998b2ff901f17e/136963cf3a4bf10b92efe37bfb99ab8e.png"
   },
   {
     "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
@@ -45,7 +45,7 @@
     "decimals": 18,
     "symbol": "HND",
     "name": "Hundred Finance",
-    "logoURI": "https://tokens.1inch.io/0x10010078a54396f62c96df8532dc2b4847d47ed3.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x10010078a54396f62c96df8532dc2b4847d47ed3/cae168ae659748f245f0d57b76521952.png"
   },
   {
     "address": "0xc54a1684fd1bef1f077a336e6be4bd9a3096a6ca",
@@ -53,7 +53,7 @@
     "decimals": 18,
     "symbol": "2SHARES",
     "name": "2SHARE Token",
-    "logoURI": "https://tokens.1inch.io/0xc54a1684fd1bef1f077a336e6be4bd9a3096a6ca.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xc54a1684fd1bef1f077a336e6be4bd9a3096a6ca/7bc950992b80579fdb495c4fb1f27f24.png"
   },
   {
     "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
@@ -61,7 +61,7 @@
     "decimals": 18,
     "symbol": "IB",
     "name": "IronBank",
-    "logoURI": "https://tokens.1inch.io/0x00a35fd824c717879bf370e70ac6868b95870dfb.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x00a35fd824c717879bf370e70ac6868b95870dfb/a9e26d6d027f53c3585a20dc0f16d5c3.png"
   },
   {
     "address": "0x582423c10c9e83387a96d00a69ba3d11ee47b7b5",
@@ -69,7 +69,7 @@
     "decimals": 18,
     "symbol": "RING",
     "name": "OneRing",
-    "logoURI": "https://tokens.1inch.io/0x9469d013805bffb7d3debe5e7839237e535ec483.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x582423c10c9e83387a96d00a69ba3d11ee47b7b5/3413c495b6c2f676b0d48ec5dcdda429.png"
   },
   {
     "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
@@ -77,7 +77,7 @@
     "decimals": 18,
     "symbol": "MIM",
     "name": "Magic Internet Money",
-    "logoURI": "https://tokens.1inch.io/0x130966628846bfd36ff31a822705796e8cb8c18d.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x82f0b8b456c1a451378467398982d4834b6829c1/7d0c0fb6eab1b7a8a9bfb7dcc04cb11e.png"
   },
   {
     "address": "0xc5e2b037d30a390e62180970b3aa4e91868764cd",
@@ -85,7 +85,7 @@
     "decimals": 18,
     "symbol": "TAROT",
     "name": "Tarot",
-    "logoURI": "https://tokens.1inch.io/0xc5e2b037d30a390e62180970b3aa4e91868764cd.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xc5e2b037d30a390e62180970b3aa4e91868764cd/279c43a0188f1a56de7921e454091a52.png"
   },
   {
     "address": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9",
@@ -93,7 +93,7 @@
     "decimals": 18,
     "symbol": "LQDR",
     "name": "Liquid Driver",
-    "logoURI": "https://tokens.1inch.io/0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9/b46cf1195025d57208259938cb13cdfe.png"
   },
   {
     "address": "0xd8321aa83fb0a4ecd6348d4577431310a6e0814d",
@@ -101,7 +101,7 @@
     "decimals": 18,
     "symbol": "GEIST",
     "name": "Geist.Finance Protocol Token",
-    "logoURI": "https://tokens.1inch.io/0xd8321aa83fb0a4ecd6348d4577431310a6e0814d.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xd8321aa83fb0a4ecd6348d4577431310a6e0814d/2822172da50007ce952f96c74cd6f39d.png"
   },
   {
     "address": "0x85dec8c4b2680793661bca91a8f129607571863d",
@@ -109,7 +109,7 @@
     "decimals": 18,
     "symbol": "BRUSH",
     "name": "PaintSwap Token",
-    "logoURI": "https://tokens.1inch.io/0x85dec8c4b2680793661bca91a8f129607571863d.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x85dec8c4b2680793661bca91a8f129607571863d/0a97c4333ecb98466f9d74b7eaff754f.png"
   },
   {
     "address": "0x112df7e3b4b7ab424f07319d4e92f41e6608c48b",
@@ -117,7 +117,7 @@
     "decimals": 18,
     "symbol": "pFTM",
     "name": "pFTM",
-    "logoURI": "https://tokens.1inch.io/0x112df7e3b4b7ab424f07319d4e92f41e6608c48b.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x112df7e3b4b7ab424f07319d4e92f41e6608c48b/9c529f23205198eb1cfd904b5eaaf7bb.png"
   },
   {
     "address": "0x91fa20244fb509e8289ca630e5db3e9166233fdc",
@@ -125,7 +125,7 @@
     "decimals": 18,
     "symbol": "gOHM",
     "name": "Governance OHM",
-    "logoURI": "https://tokens.1inch.io/0x91fa20244fb509e8289ca630e5db3e9166233fdc.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x91fa20244fb509e8289ca630e5db3e9166233fdc/12fe973b168eac090a036fa234e77382.png"
   },
   {
     "address": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
@@ -133,7 +133,7 @@
     "decimals": 18,
     "symbol": "BNB",
     "name": "BNB",
-    "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c_1.png"
+    "logoURI": "https://static.debank.com/image/coin/logo_url/bnb/9784283a36f23a58982fc964574ea530.png"
   },
   {
     "address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
@@ -141,7 +141,7 @@
     "decimals": 18,
     "symbol": "SPIRIT",
     "name": "SpiritSwap Token",
-    "logoURI": "https://tokens.1inch.io/0x5cc61a78f164885776aa610fb0fe1257df78e59b.png"
+    "logoURI": "https://github.com/Layer3Org/spiritswap-tokens-list-icon/blob/master/token-list/images/0x5cc61a78f164885776aa610fb0fe1257df78e59b.png?raw=true"
   },
   {
     "address": "0xd7028092c830b5c8fce061af2e593413ebbc1fc1",
@@ -149,7 +149,7 @@
     "decimals": 18,
     "symbol": "sFTMX",
     "name": "sFTMX",
-    "logoURI": "https://tokens.1inch.io/0xd7028092c830b5c8fce061af2e593413ebbc1fc1.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xd7028092c830b5c8fce061af2e593413ebbc1fc1/6fd255dabffb1244c74b6b9e79bf634d.png"
   },
   {
     "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
@@ -157,7 +157,7 @@
     "decimals": 18,
     "symbol": "STG",
     "name": "StargateToken",
-    "logoURI": "https://tokens.1inch.io/0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590/55886c6280173254776780fd8340cca7.png"
   },
   {
     "address": "0xddcb3ffd12750b45d32e084887fdf1aabab34239",
@@ -165,7 +165,7 @@
     "decimals": 18,
     "symbol": "ANY",
     "name": "Anyswap",
-    "logoURI": "https://tokens.1inch.io/0xf99d58e463a2e07e5692127302c20a191861b4d6.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xddcb3ffd12750b45d32e084887fdf1aabab34239/6ce2f5d90629213c1669f76edfd706ec.png"
   },
   {
     "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
@@ -173,7 +173,7 @@
     "decimals": 18,
     "symbol": "FRAX",
     "name": "Frax",
-    "logoURI": "https://tokens.1inch.io/0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64.png"
+    "logoURI": "https://static.debank.com/image/movr_token/logo_url/0x965f84d915a9efa2dd81b653e3ae736555d945f4/1f2c42cba1add081f314ee899ab67816.png"
   },
   {
     "address": "0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a",
@@ -181,7 +181,7 @@
     "decimals": 18,
     "symbol": "WOO",
     "name": "Wootrade Network",
-    "logoURI": "https://tokens.1inch.io/0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a/c20b98e87358c365844d4f27fabd1c44.png"
   },
   {
     "address": "0x5602df4a94eb6c680190accfa2a475621e0ddbdc",
@@ -189,7 +189,7 @@
     "decimals": 9,
     "symbol": "SPA",
     "name": "Spartacus",
-    "logoURI": "https://tokens.1inch.io/0x5602df4a94eb6c680190accfa2a475621e0ddbdc.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x5602df4a94eb6c680190accfa2a475621e0ddbdc/1ab97c6ad1c8c9ac084b09828d50a15e.png"
   },
   {
     "address": "0x248cb87dda803028dfead98101c9465a2fbda0d4",
@@ -205,7 +205,7 @@
     "decimals": 18,
     "symbol": "DUCAT",
     "name": "Ducat",
-    "logoURI": "https://tokens.1inch.io/0xc3118248e7a3b2c103d87392fca5eb6ed8daa754.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xc3118248e7a3b2c103d87392fca5eb6ed8daa754/c6da1909f4b9fa0c7e72b486a3258ae0.png"
   },
   {
     "address": "0x40df1ae6074c35047bff66675488aa2f9f6384f3",
@@ -213,7 +213,7 @@
     "decimals": 18,
     "symbol": "MATIC",
     "name": "MATIC",
-    "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x40df1ae6074c35047bff66675488aa2f9f6384f3/971fb189dddeb61cd933d9faa804f017.png"
   },
   {
     "address": "0x33333ee26a7d02e41c33828b42fb1e0889143477",
@@ -221,7 +221,7 @@
     "decimals": 18,
     "symbol": "LIQR",
     "name": "LIQR",
-    "logoURI": "https://tokens.1inch.io/0x33333ee26a7d02e41c33828b42fb1e0889143477.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x33333ee26a7d02e41c33828b42fb1e0889143477/28d9f55d047c9af26d257fb8d52b935c.png"
   },
   {
     "address": "0x7a6e4e3cc2ac9924605dca4ba31d1831c84b44ae",
@@ -229,7 +229,7 @@
     "decimals": 18,
     "symbol": "2OMB",
     "name": "2omb Token",
-    "logoURI": "https://tokens.1inch.io/0x7a6e4e3cc2ac9924605dca4ba31d1831c84b44ae.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x7a6e4e3cc2ac9924605dca4ba31d1831c84b44ae/7bc950992b80579fdb495c4fb1f27f24.png"
   },
   {
     "address": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e",
@@ -237,7 +237,7 @@
     "decimals": 18,
     "symbol": "BEETS",
     "name": "BeethovenxToken",
-    "logoURI": "https://tokens.1inch.io/0xf24bcf4d1e507740041c9cfd2dddb29585adce1e.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xf24bcf4d1e507740041c9cfd2dddb29585adce1e/773899071d560a0f6ea95955b41dc050.png"
   },
   {
     "address": "0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e",
@@ -245,7 +245,7 @@
     "decimals": 18,
     "symbol": "TOR",
     "name": "TOR",
-    "logoURI": "https://tokens.1inch.io/0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e/01fdc5a58de24d4941538e89722656ca.png"
   },
   {
     "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
@@ -253,7 +253,7 @@
     "decimals": 18,
     "symbol": "WFTM",
     "name": "Wrapped Fantom",
-    "logoURI": "https://tokens.1inch.io/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/2b7d91858f9c62aafc8d7778b9c22f57.png"
   },
   {
     "address": "0x6c021ae822bea943b2e66552bde1d2696a53fbb7",
@@ -261,7 +261,7 @@
     "decimals": 18,
     "symbol": "TOMB",
     "name": "TOMB",
-    "logoURI": "https://tokens.1inch.io/0x6c021ae822bea943b2e66552bde1d2696a53fbb7.png"
+    "logoURI": "https://ftmscan.com/token/images/tomb_32.png"
   },
   {
     "address": "0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37",
@@ -269,7 +269,7 @@
     "decimals": 18,
     "symbol": "FTMO",
     "name": "Fantom Oasis Token",
-    "logoURI": "https://tokens.1inch.io/0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37/59c9029eeb5ef0548886d49a139c72fb.png"
   },
   {
     "address": "0x468003b688943977e6130f4f68f23aad939a1040",
@@ -277,7 +277,7 @@
     "decimals": 18,
     "symbol": "SPELL",
     "name": "Spell Token",
-    "logoURI": "https://tokens.1inch.io/0xce1bffbd5374dac86a2893119683f4911a2f7814.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x468003b688943977e6130f4f68f23aad939a1040/a1b1003790d9ee1463cacba03eecc1a6.png"
   },
   {
     "address": "0x3dc57b391262e3aae37a08d91241f9ba9d58b570",
@@ -285,7 +285,7 @@
     "decimals": 18,
     "symbol": "YOSHI",
     "name": "Yoshi.exchange",
-    "logoURI": "https://tokens.1inch.io/0x3dc57b391262e3aae37a08d91241f9ba9d58b570.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x3dc57b391262e3aae37a08d91241f9ba9d58b570/2935276c50b87dfdb23b9f34e192a29b.png"
   },
   {
     "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
@@ -293,7 +293,7 @@
     "decimals": 18,
     "symbol": "miMATIC",
     "name": "miMATIC",
-    "logoURI": "https://tokens.1inch.io/0xa3fa99a148fa48d14ed51d610c367c61876997f1.png"
+    "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xa3fa99a148fa48d14ed51d610c367c61876997f1/be77e8e47016b1e9d3f01b7edc9b8d4f.png"
   },
   {
     "address": "0x152888854378201e173490956085c711f1ded565",
@@ -301,7 +301,7 @@
     "decimals": 18,
     "symbol": "MST",
     "name": "Monster",
-    "logoURI": "https://tokens.1inch.io/0x152888854378201e173490956085c711f1ded565.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x152888854378201e173490956085c711f1ded565/314a3d2a93a4d5c41cfa5449dfb828cb.png"
   },
   {
     "address": "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
@@ -309,7 +309,7 @@
     "decimals": 18,
     "symbol": "AVAX",
     "name": "Avalanche",
-    "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x511d35c52a3c244e7b8bd92c0c297755fbd89212/d7cac371ce9428942c92a0e8cb55b182.png"
   },
   {
     "address": "0x131c7afb4e5f5c94a27611f7210dfec2215e85ae",
@@ -317,7 +317,7 @@
     "decimals": 18,
     "symbol": "POWER",
     "name": "Power",
-    "logoURI": "https://tokens.1inch.io/0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x131c7afb4e5f5c94a27611f7210dfec2215e85ae/8d44391e8bee720f70a6e9ccb38966c5.png"
   },
   {
     "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
@@ -325,7 +325,7 @@
     "decimals": 18,
     "symbol": "CRV",
     "name": "Curve DAO",
-    "logoURI": "https://tokens.1inch.io/0xd533a949740bb3306d119cc777fa900ba034cd52.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x1e4f97b9f9f913c46f1632781732927b9019c68b/38f4cbac8fb4ac70c384a65ae0cca337.png"
   },
   {
     "address": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
@@ -333,7 +333,7 @@
     "decimals": 18,
     "symbol": "SUSHI",
     "name": "Sushi",
-    "logoURI": "https://tokens.1inch.io/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
   },
   {
     "address": "0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37",
@@ -341,7 +341,7 @@
     "decimals": 18,
     "symbol": "TSHARE",
     "name": "TSHARE",
-    "logoURI": "https://tokens.1inch.io/0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37/7fd47807cddfc22e34dfd117d8ab4771.png"
   },
   {
     "address": "0xc60d7067dfbc6f2caf30523a064f416a5af52963",
@@ -357,7 +357,7 @@
     "decimals": 9,
     "symbol": "HEC",
     "name": "Hector",
-    "logoURI": "https://tokens.1inch.io/0x5c4fdfc5233f935f20d2adba572f770c2e377ab0.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x5c4fdfc5233f935f20d2adba572f770c2e377ab0/08244535303774ed72b563dfab418926.png"
   },
   {
     "address": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe",
@@ -365,7 +365,7 @@
     "decimals": 18,
     "symbol": "BOO",
     "name": "SpookyToken",
-    "logoURI": "https://tokens.1inch.io/0xbd83010eb60f12112908774998f65761cf9f6f9a.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x841fad6eae12c286d1fd18d1d525dffa75c7effe/f458ad2808f8b60df271f216bcf4e531.png"
   },
   {
     "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
@@ -381,7 +381,7 @@
     "decimals": 18,
     "symbol": "ICE",
     "name": "IceToken",
-    "logoURI": "https://tokens.1inch.io/0xe0ce60af0850bf54072635e66e79df17082a1109.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xf16e81dce15b08f326220742020379b855b87df9/e7a766dfa717182ab11805d4582638d5.png"
   },
   {
     "address": "0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb",
@@ -389,7 +389,7 @@
     "decimals": 18,
     "symbol": "MPX",
     "name": "MPX",
-    "logoURI": "https://tokens.1inch.io/0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb/be84f2a720d389a0f2694662717ab9e1.png"
   },
   {
     "address": "0xe992beab6659bff447893641a378fbbf031c5bd6",
@@ -397,7 +397,7 @@
     "decimals": 18,
     "symbol": "WIGO",
     "name": "WigoSwap Token",
-    "logoURI": "https://tokens-data.1inch.io/images/250/0xe992beab6659bff447893641a378fbbf031c5bd6_0x8bbcfba6a7bf6743a2218d45f65e534fbfff35c20515c31f58d8ff1c9a2f9b06.png"
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xe992beab6659bff447893641a378fbbf031c5bd6/0df8a3e6d63347be8f907e6fb8b80b6e.png"
   },
   {
     "address": "0x1b6382dbdea11d97f24495c9a90b7c88469134a4",
@@ -405,7 +405,7 @@
     "decimals": 6,
     "symbol": "axlUSDC",
     "name": "Axelar USDC",
-    "logoURI": "https://tokens-data.1inch.io/images/250/0x1b6382dbdea11d97f24495c9a90b7c88469134a4.webp"
+    "logoURI": "https://ftmscan.com/token/images/axlusdc_32.png"
   },
   {
     "address": "0x28a92dde19d9989f39a49905d7c9c2fac7799bdf",
@@ -413,6 +413,6 @@
     "decimals": 6,
     "symbol": "lzUSDC",
     "name": "LayerZero USDC",
-    "logoURI": "https://tokens.1inch.io/0x28a92dde19d9989f39a49905d7c9c2fac7799bdf.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   }
 ]

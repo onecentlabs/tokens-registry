@@ -31,7 +31,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6b175474e89094c44da98b954eedeac495271d0f/549c4205dbb199f1b8b03af783f35e71.png",
     "extensions": {
       "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
@@ -96,7 +96,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
     "extensions": {
       "opListId": "default",
       "opTokenId": "USDC"
@@ -108,7 +108,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
     "extensions": {
       "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
@@ -121,7 +121,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/d3c52e7c7449afa8bd4fad1c93f50d93.png",
     "extensions": {
       "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",

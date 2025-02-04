@@ -5,7 +5,7 @@
     "name": "Blast",
     "symbol": "BLAST",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35494/standard/Blast.jpg?1719385662"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad/b4e512695ffca06a48f86664e85879af.png"
   },
   {
     "chainId": 81457,
@@ -53,7 +53,7 @@
     "name": "BladeSwap",
     "symbol": "BLADE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37331/thumb/BLADE_CoinGecko.png?1714030403"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xd1fedd031b92f50a50c05e2c45af1adb4cea82f4/c660d6b08113db3599d7e3552ae9de1b.png"
   },
   {
     "chainId": 81457,
@@ -61,7 +61,7 @@
     "name": "PacMoon",
     "symbol": "PAC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36459/thumb/pacmoon.png?1711501114"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06/9dd26b267668b3107a771f1c4b94a4d4.png"
   },
   {
     "chainId": 81457,
@@ -77,7 +77,7 @@
     "name": "BlastOff",
     "symbol": "OFF",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/37828/thumb/profile-3_1.png?1715669157"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xd55edfc79c0d14084260d16f38bda75e28abfb6a/ead8923642ca307b4447ef08dd5ce1a3.png"
   },
   {
     "chainId": 81457,
@@ -85,7 +85,7 @@
     "name": "Hyper",
     "symbol": "HYPER",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50634/thumb/Group_427320575.png?1728546751"
+    "logoURI": "https://static.debank.com/image/project/logo_url/blast_hyperlock/258b3987f25d9b24c3dad3346a6f77bf.png"
   },
   {
     "chainId": 81457,
@@ -93,7 +93,7 @@
     "name": "YOLO Games",
     "symbol": "YOLO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38723/thumb/token-yolo.png?1718477580"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xf77dd21c5ce38ac08786be35ef1d1dec1a6a15f3/a11d206fd617e0c1445332df82cb8cd4.png"
   },
   {
     "chainId": 81457,
@@ -101,7 +101,7 @@
     "name": "Overnight fi USD   Blast ",
     "symbol": "USD+",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39627/thumb/usd_plus.png?1723181444"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x4fee793d435c6d2c10c135983bb9d6d4fc7b9bbd/4ab091d83d5510fdfb020193fd6d6d5e.png"
   },
   {
     "chainId": 81457,
@@ -109,7 +109,7 @@
     "name": "CYBRO",
     "symbol": "CYBRO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36941/thumb/3xhsAKWd_400x400.jpg?1712853902"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x963eec23618bbc8e1766661d5f263f18094ae4d5/493d3923b822619a88af16e1464200b8.png"
   },
   {
     "chainId": 81457,
@@ -117,7 +117,7 @@
     "name": "EarlyFans",
     "symbol": "EARLY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37614/thumb/Logo_200x200.png?1715061001"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x7135b32e9903bdb4e19a8b1d22fc2038964b8451/1d792156daafe151454d3173b608f806.png"
   },
   {
     "chainId": 81457,
@@ -133,7 +133,7 @@
     "name": "Oh no",
     "symbol": "OHNO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36488/thumb/ohno.jpeg?1711563729"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x000000daa580e54635a043d2773f2c698593836a/f1e91f4a152904ce227ec192ef8a55e4.png"
   },
   {
     "chainId": 81457,
@@ -141,7 +141,7 @@
     "name": "HyperBlast",
     "symbol": "HYPE",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35783/thumb/cg200x200.png?1709798351"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x9fe9991daf6b9a5d79280f48cbb6827d46de2ea4/e0b818bbad1d28350f51ecb393f46ee1.png"
   },
   {
     "chainId": 81457,
@@ -197,7 +197,7 @@
     "name": "Juice Finance",
     "symbol": "JUICE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36503/thumb/juice-logo-purple-200x200_%281%29.png?1711619018"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923/3ee93b511153a61a27be54cfaa28a98f.png"
   },
   {
     "chainId": 81457,
@@ -205,7 +205,7 @@
     "name": "BlastUP",
     "symbol": "BLASTUP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36054/thumb/blastup_icon_logo.png?1710403683"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6/899d6de9772560afeb39ac8fc7f4f833.png"
   },
   {
     "chainId": 81457,
@@ -229,7 +229,7 @@
     "name": "Pump",
     "symbol": "PUMP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35676/thumb/pump_%281%29.jpg?1709520871"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x216a5a1135a9dab49fa9ad865e0f22fe22b5630a/f3d61765cd7b531f7d85e205d15a9136.png"
   },
   {
     "chainId": 81457,
@@ -245,7 +245,7 @@
     "name": "Magic Internet Money  Blast ",
     "symbol": "MIM",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37657/thumb/mim.png?1715162647"
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0xdd3b8084af79b9bae3d1b668c0de08ccc2c9429a/95c3c6e088933acaf8edf11631c2253a.png"
   },
   {
     "chainId": 81457,
@@ -325,7 +325,7 @@
     "name": "Ring Protocol",
     "symbol": "RING",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39470/thumb/200X200.png?1722401232"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x25f233c3e3676f9e900a89644a3fe5404d643c84/1251193b54522d0ce75d17e62fb2b375.png"
   },
   {
     "chainId": 81457,
@@ -333,7 +333,7 @@
     "name": "Thruster",
     "symbol": "THRUST",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50959/thumb/Logo200.png?1729588656"
+    "logoURI": "https://static.debank.com/image/project/logo_url/thruster/c72296f886e0264e27fe3b4d64cfaef7.png"
   },
   {
     "chainId": 81457,
@@ -349,7 +349,7 @@
     "name": "Sekai Glory",
     "symbol": "GLORY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35599/thumb/glory.png?1709527698"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xd582879453337bd149ae53ec2092b0af5281d1d7/09593fe3a8a4f594cde9e27a760ef118.png"
   },
   {
     "chainId": 81457,
@@ -357,7 +357,7 @@
     "name": "L2 Standard Bridged WETH  Blast ",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39727/thumb/weth.png?1723758119"
+    "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png"
   },
   {
     "chainId": 81457,
@@ -365,7 +365,7 @@
     "name": "AndyBlast",
     "symbol": "ANDY",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35767/thumb/IMG_0310.jpeg?1711371918"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8/ca6b764ff927e640b4948d9b7d60bd68.png"
   },
   {
     "chainId": 81457,
@@ -381,7 +381,7 @@
     "name": "USDB",
     "symbol": "USDB",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35595/thumb/65c67f0ebf2f6a1bd0feb13c_usdb-icon-yellow.png?1709255427"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x4300000000000000000000000000000000000003/43c9fafca023ddd62f7900f357b26714.png"
   },
   {
     "chainId": 81457,
@@ -389,7 +389,7 @@
     "name": "Particle Trade",
     "symbol": "PTC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39020/thumb/logo_200_200.png?1719939510"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xa027a3a04b44f79560153234e999b17c88e22db9/5e53462cff145717415343aa006108ec.png"
   },
   {
     "chainId": 81457,
@@ -445,7 +445,7 @@
     "name": "Impermax",
     "symbol": "IBEX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27606/thumb/IqwOmX-c_400x400.jpeg?1696526637"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x9f04b6cefd5bcd67d76ab708f17553ce40188e6a/df160f5069a1827fa70fb51cde3e966b.png"
   },
   {
     "chainId": 81457,
@@ -493,7 +493,7 @@
     "name": "Wrapped rsETH",
     "symbol": "WRSETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7/9b29efed86aff5a64f238d6d30032f40.png"
   },
   {
     "chainId": 81457,
@@ -580,7 +580,7 @@
     "name": "Ankr Network",
     "symbol": "ANKR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1696504928"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x3580ac35bed2981d6bdd671a5982c2467d301241/7184a29596bf7517a912b57ce6797562.png"
   },
   {
     "chainId": 81457,
@@ -596,7 +596,7 @@
     "name": "Eesee",
     "symbol": "ESE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35182/thumb/Eesee.jpg?1707796753"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x491e6de43b55c8eae702edc263e32339da42f58c/e190ef1f25559cc171c00f46264437b0.png"
   },
   {
     "chainId": 81457,
@@ -604,7 +604,7 @@
     "name": "Bag",
     "symbol": "BAG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35417/thumb/bag-logo-token-listing.png?1727120395"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f/961e7a71c9a33b2c57b469158ff23915.png"
   },
   {
     "chainId": 81457,
@@ -612,7 +612,7 @@
     "name": "Renzo Restaked ETH",
     "symbol": "EZETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbf5495efe5db9ce00f80364c8b423567e58d2110/e4cac3df2fe7caa7122de22911e72a41.png"
   },
   {
     "chainId": 81457,
@@ -628,7 +628,7 @@
     "name": "Yel Finance",
     "symbol": "YEL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17429/thumb/Logo200.png?1696516976"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x949185d3be66775ea648f4a306740ea9eff9c567/016e49a74995b34a761508e2550ed44c.png"
   },
   {
     "chainId": 81457,
@@ -676,7 +676,7 @@
     "name": "Zaibot",
     "symbol": "ZAI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35781/thumb/zai.jpeg?1709795384"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x68449870eea84453044bd430822827e21fd8f101/e9aa94fb238bf207cafaafce1901fa26.png"
   },
   {
     "chainId": 81457,
@@ -724,7 +724,7 @@
     "name": "pSTAKE Finance",
     "symbol": "PSTAKE",
     "decimals": 16,
-    "logoURI": "https://assets.coingecko.com/coins/images/23931/thumb/512_x_512_Dark.png?1721243699"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xfb5c6815ca3ac72ce9f5006869ae67f18bf77006/ef76634a0f233f63e864d8ea238c9928.png"
   },
   {
     "chainId": 81457,

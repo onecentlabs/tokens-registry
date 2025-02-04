@@ -5,7 +5,7 @@
     "name": "Bridged USDC (Lisk)",
     "symbol": "USDC.e",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
     "extensions": {
       "liskBridgeAddress": "0x3b1ac69368eb6447F5db2d4E1641380Fa9e40d29",
       "opListId": "extended",
@@ -18,7 +18,7 @@
     "name": "Lisk",
     "symbol": "LSK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
+    "logoURI": "https://static.debank.com/image/lisk_token/logo_url/0xac485391eb2d7d88253a7f1ef18c37f4242d1a24/b8f1b2ca1cb34102fe9118b5670c07e2.png",
     "extensions": {
       "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
@@ -44,7 +44,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
     "extensions": {
       "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
@@ -57,7 +57,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
     "extensions": {
       "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",

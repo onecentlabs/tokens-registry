@@ -5,7 +5,7 @@
     "name": "Wrapped Bitcoin",
     "symbol": "BTC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xd629eb00deced2a080b7ec630ef6ac117e614f1b/58568be16793bcf1a71c1a2c0067f514.png"
   },
   {
     "chainId": 42220,
@@ -13,7 +13,7 @@
     "name": "Celo",
     "symbol": "CELO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5567.png"
   },
   {
     "name": "USDCoin",
@@ -21,7 +21,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xceba9300f2b948710d2653dd7b07f33a8b32118c/fffcd27b9efff5a86ab942084c05924d.png",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -36,7 +36,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -51,7 +51,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x2def4285787d58a2f811af24755a8150622f4361/1e59620be2b4f3fc249fdc840c447b62.png",
     "extensions": {
       "bridgeInfo": {
         "1": {

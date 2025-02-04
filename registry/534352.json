@@ -5,7 +5,7 @@
     "name": "Bridged Wrapped Lido Staked Ether  Scro",
     "symbol": "WSTETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32615/thumb/wsteth.png?1698735772"
+    "logoURI": "https://static.debank.com/image/canto_token/logo_url/0xc71aaf8e486e3f33841bb56ca3fd2ac3fa8d29a8/ba9510019b6fe342763515973115cc3c.png"
   },
   {
     "chainId": 534352,
@@ -29,7 +29,7 @@
     "name": "Venium",
     "symbol": "VENIUM",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36346/thumb/scrolliumlogo.png?1711187400"
+    "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0x690f1d2da47d9a759a93dd2b0ace3c1627f216ba/4cf60722c06310eae660aa922eee439e.png"
   },
   {
     "chainId": 534352,
@@ -45,7 +45,7 @@
     "name": "KelpDAO Bridged rsETH  Scroll ",
     "symbol": "RSETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7/9b29efed86aff5a64f238d6d30032f40.png"
   },
   {
     "chainId": 534352,
@@ -53,7 +53,7 @@
     "name": "Bridged Tether  Scroll ",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "chainId": 534352,
@@ -69,7 +69,7 @@
     "name": "Scroll",
     "symbol": "SCR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
+    "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0xd29687c813d741e2f938f4ac377128810e217b1b/0eabb4976c99ba1e66fdb9b3e5139dcf.png"
   },
   {
     "chainId": 534352,
@@ -77,7 +77,7 @@
     "name": "Bridged Wrapped Bitcoin  Scroll ",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
     "chainId": 534352,
@@ -93,7 +93,7 @@
     "name": "Bridged Wrapped Ether  Scroll ",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
+    "logoURI": "https://static.debank.com/image/era_token/logo_url/0x5aea5775959fbc2557cc8789bc1bf90a239d9a91/61844453e63cf81301f845d7864236f6.png"
   },
   {
     "chainId": 534352,
@@ -133,7 +133,7 @@
     "name": "Skydrome",
     "symbol": "SKY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
+    "logoURI": "https://static.debank.com/image/project/logo_url/scrl_skydrome/1e327a3489bd7457afa7078eb6d80800.png"
   },
   {
     "chainId": 534352,
@@ -141,7 +141,7 @@
     "name": "Axelar Bridged Frax Ether",
     "symbol": "AXLFRXETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38976/thumb/Screen_Shot_2024-06-18_at_12.55.54_PM_2.png?1719714886"
+    "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png"
   },
   {
     "chainId": 534352,
@@ -149,7 +149,7 @@
     "name": "Nuri Exchange",
     "symbol": "NURI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38831/thumb/nuri_discord.png?1723623524"
+    "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0xaaae8378809bb8815c08d3c59eb0c7d1529ad769/a8d3cd4269ca15424452a19e7cad8606.png"
   },
   {
     "chainId": 534352,
@@ -157,7 +157,7 @@
     "name": "Bridged Axelar Wrapped USD Coin  Scroll",
     "symbol": "AXLUSDC",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/32612/thumb/USDC.png?1698734090"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "chainId": 534352,
@@ -165,7 +165,7 @@
     "name": "Bridged USD Coin  Scroll ",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "chainId": 534352,
@@ -173,7 +173,7 @@
     "name": "StakeStone ETH",
     "symbol": "STONE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672"
+    "logoURI": "https://static.debank.com/image/manta_token/logo_url/0x80137510979822322193fc997d400d5a6c747bf7/459d9fa5e0183355044954fe46dff73a.png"
   },
   {
     "chainId": 534352,
@@ -181,7 +181,7 @@
     "name": "Impermax",
     "symbol": "IBEX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27606/thumb/IqwOmX-c_400x400.jpeg?1696526637"
+    "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xf972daced7c6b03223710c11413036d17eb298f6/745f187404f358ca4be43eb19d5a4fb0.png"
   },
   {
     "chainId": 534352,
@@ -197,7 +197,7 @@
     "name": "Wrapped rsETH",
     "symbol": "WRSETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438"
+    "logoURI": "https://static.debank.com/image/mode_token/logo_url/0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd/570bd8c5a7c151124d71d35ccbfaaefb.png"
   },
   {
     "chainId": 534352,
@@ -205,7 +205,7 @@
     "name": "Metavault Trade",
     "symbol": "MVX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25402/thumb/mvx.png?1696524534"
+    "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0x0018d96c579121a94307249d47f053e2d687b5e7/911bc607f15eda046d4946afc3c077f2.png"
   },
   {
     "chainId": 534352,
@@ -229,7 +229,7 @@
     "name": "Symbiosis",
     "symbol": "SIS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20805/thumb/SymbiosisFinance_logo-150x150.jpeg?1696520198"
+    "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0x1467b62a6ae5cdcb10a6a8173cfe187dd2c5a136/f2a59df196e9e3933fd33f76abbfeb19.png"
   },
   {
     "chainId": 534352,
@@ -237,7 +237,7 @@
     "name": "Pencils Protocol",
     "symbol": "DAPP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36569/thumb/Pencils_Protocol_Profile_Pic.png?1722658792"
+    "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0xb0643f7b3e2e2f10fe4e38728a763ec05f4adec3/344b8514de10c1cb90623011826001e4.png"
   },
   {
     "chainId": 534352,
@@ -253,7 +253,7 @@
     "name": "iZUMi Finance",
     "symbol": "IZI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21791/thumb/izumi-logo-symbol.png?1696521144"
+    "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747/291f5b685acd06b1410514eab0579845.png"
   },
   {
     "chainId": 534352,
@@ -261,7 +261,7 @@
     "name": "PunkSwap",
     "symbol": "PUNK",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32270/thumb/punk.jpg?1697178661"
+    "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0xddeb23905f6987d5f786a93c00bbed3d97af1ccc/e33a63c02a0477708186688d83a3de9e.png"
   },
   {
     "chainId": 534352,
@@ -269,7 +269,7 @@
     "name": "Interport Token",
     "symbol": "ITP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28338/thumb/ITP_Logo_200.png?1696527344"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31/63a7b04f3ae71cecb9385976aa05dde3.png"
   },
   {
     "chainId": 534352,
@@ -277,7 +277,7 @@
     "name": "Bridged FRAX",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x853d955acef822db058eb8505911ed77f175b99e/4f323e33bfffa864c577e7bd2a3257c9.png"
   },
   {
     "chainId": 534352,
