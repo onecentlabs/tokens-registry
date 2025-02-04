@@ -6,7 +6,7 @@
         "coin": "ETH",
         "id": 1,
         "mainnet": true,
-        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/ethereum.svg",
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/ethereum.svg",
         "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/1.json",
         "metamask": {
             "chainId": "0x1",
@@ -43,7 +43,7 @@
         "coin": "BNB",
         "id": 56,
         "mainnet": true,
-        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/bsc.svg",
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/bsc.svg",
         "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/56.json",
         "faucetUrls": [
             "https://stakely.io/faucet/bsc-chain-bnb"
@@ -84,7 +84,7 @@
         "coin": "ETH",
         "id": 42161,
         "mainnet": true,
-        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/arbitrum.svg",
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/arbitrum.svg",
         "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/42161.json",
         "faucetUrls": [
             "https://bridge.arbitrum.io/"
@@ -124,7 +124,7 @@
         "coin": "ETH",
         "id": 8453,
         "mainnet": true,
-        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/base.svg",
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/base.svg",
         "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/8453.json",
         "metamask": {
             "chainId": "0x2105",
@@ -161,7 +161,7 @@
         "coin": "AVAX",
         "id": 43114,
         "mainnet": true,
-        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/avalanche.svg",
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/avalanche.svg",
         "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/43114.json",
         "metamask": {
             "chainId": "0xa86a",
@@ -199,7 +199,7 @@
         "coin": "DAI",
         "id": 100,
         "mainnet": true,
-        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/gnosis.svg",
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/gnosis.svg",
         "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/43114.json",
         "faucetUrls": [
             "https://stakely.io/faucet/xdai-chain"
