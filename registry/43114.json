@@ -3995,5 +3995,13 @@
     "symbol": "RBTCB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54156/thumb/rBTC.b_token_logo.png?1738479841"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xf2536e4301a428af9686ed73e42b50c1f9aed517",
+    "name": "Akitavax",
+    "symbol": "AKITAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23043/thumb/coingeckologoakitax.png?1696522336"
   }
 ]

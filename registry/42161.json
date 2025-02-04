@@ -8583,5 +8583,61 @@
     "symbol": "BALN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1696514953"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x42ba3ac0c2d9b611623e1e48f51757606a105d9e",
+    "name": "Dinari KO",
+    "symbol": "KOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54185/thumb/d-token-200.png?1738682465"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x893ff58cd1e34eac0c8ce4fa92b30adee4e14986",
+    "name": "Dinari LMT",
+    "symbol": "LMTD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54186/thumb/d-token-200.png?1738682483"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xad6a646c1b262586ef3a8b6c6304e7c9218ecac4",
+    "name": "Dinari PHO",
+    "symbol": "PHOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54187/thumb/d-token-200.png?1738682583"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xeb0d1360a14c3b162f2974daa5d218e0c1090146",
+    "name": "Dinari YUM",
+    "symbol": "YUMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54188/thumb/d-token-200.png?1738682602"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x315a2dca4b1b633d3a707c71d96243534c02f7c4",
+    "name": "Dinari XOM",
+    "symbol": "XOMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54189/thumb/d-token-200.png?1738682617"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe15602ceeb794feb4163b049fe82a1f8432781b2",
+    "name": "Dinari JPM",
+    "symbol": "JPMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54184/thumb/d-token-200.png?1738682276"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaeac3b55c3522157ecda7ec8fcb86c832faa28af",
+    "name": "XYRO",
+    "symbol": "XYRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53895/thumb/xyro_logo_200px.png?1737665070"
   }
 ]

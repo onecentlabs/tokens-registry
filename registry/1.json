@@ -57424,5 +57424,21 @@
     "symbol": "EVOLVE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54171/thumb/IMG_8515.jpeg?1738560325"
+  },
+  {
+    "chainId": 1,
+    "address": "0x781d201db8c837ea2aefea7394554071da45ff0f",
+    "name": "ArtemisAI",
+    "symbol": "ATAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34452/thumb/black_logo_big.png?1704931121"
+  },
+  {
+    "chainId": 1,
+    "address": "0x53cce6d10e43d1b3d11872ad22ec2acd8d2537b8",
+    "name": "Smolcoin",
+    "symbol": "SMOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54182/thumb/smolcoin_%281%29.png?1738667346"
   }
 ]
