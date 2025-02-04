@@ -1,0 +1,235 @@
+[
+    {
+        "key": "ethereum",
+        "chainType": "EVM",
+        "name": "Ethereum",
+        "coin": "ETH",
+        "id": 1,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/ethereum.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/1.json",
+        "metamask": {
+            "chainId": "0x1",
+            "blockExplorerUrls": [
+                "https://etherscan.io/"
+            ],
+            "chainName": "Ethereum Mainnet",
+            "nativeCurrency": {
+                "name": "ETH",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://ethereum-rpc.publicnode.com",
+                "https://eth.drpc.org",
+                "https://eth.public-rpc.com",
+                "https://rpc.ankr.com/eth"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 1,
+            "symbol": "ETH",
+            "decimals": 18,
+            "name": "ETH",
+            "coinKey": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        }
+    },
+    {
+        "key": "bnb",
+        "chainType": "EVM",
+        "name": "BSC",
+        "coin": "BNB",
+        "id": 56,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/bsc.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/56.json",
+        "faucetUrls": [
+            "https://stakely.io/faucet/bsc-chain-bnb"
+        ],
+        "metamask": {
+            "chainId": "0x38",
+            "blockExplorerUrls": [
+                "https://bscscan.com/"
+            ],
+            "chainName": "BNB Smart Chain Mainnet",
+            "nativeCurrency": {
+                "name": "BNB",
+                "symbol": "BNB",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://bsc-dataseed.binance.org",
+                "https://bsc-dataseed.bnbchain.org",
+                "https://bsc-rpc.publicnode.com",
+                "https://bsc-dataseed1.defibit.io",
+                "https://bsc-dataseed1.ninicoin.io"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 56,
+            "symbol": "BNB",
+            "decimals": 18,
+            "name": "BNB",
+            "coinKey": "BNB",
+            "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
+        }
+    },
+    {
+        "key": "arbitrum",
+        "chainType": "EVM",
+        "name": "Arbitrum",
+        "coin": "ETH",
+        "id": 42161,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/arbitrum.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/42161.json",
+        "faucetUrls": [
+            "https://bridge.arbitrum.io/"
+        ],
+        "metamask": {
+            "chainId": "0xa4b1",
+            "blockExplorerUrls": [
+                "https://arbiscan.io/"
+            ],
+            "chainName": "Arbitrum One",
+            "nativeCurrency": {
+                "name": "ETH",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://arb1.arbitrum.io/rpc",
+                "https://arbitrum-one-rpc.publicnode.com",
+                "https://arbitrum.drpc.org",
+                "https://rpc.ankr.com/arbitrum"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 42161,
+            "symbol": "ETH",
+            "decimals": 18,
+            "name": "ETH",
+            "coinKey": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        }
+    },
+    {
+        "key": "base",
+        "chainType": "EVM",
+        "name": "Base",
+        "coin": "ETH",
+        "id": 8453,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/base.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/8453.json",
+        "metamask": {
+            "chainId": "0x2105",
+            "blockExplorerUrls": [
+                "https://basescan.org/"
+            ],
+            "chainName": "Base",
+            "nativeCurrency": {
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://mainnet.base.org",
+                "https://base-rpc.publicnode.com",
+                "https://base.drpc.org",
+                "https://rpc.ankr.com/base"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 8453,
+            "symbol": "ETH",
+            "decimals": 18,
+            "name": "ETH",
+            "coinKey": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        }
+    },
+    {
+        "key": "avalanche",
+        "chainType": "EVM",
+        "name": "Avalanche",
+        "coin": "AVAX",
+        "id": 43114,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/avalanche.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/43114.json",
+        "metamask": {
+            "chainId": "0xa86a",
+            "blockExplorerUrls": [
+                "https://snowtrace.io/"
+            ],
+            "chainName": "Avalanche C-Chain",
+            "nativeCurrency": {
+                "name": "AVAX",
+                "symbol": "AVAX",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://api.avax.network/ext/bc/C/rpc",
+                "https://avalanche-c-chain-rpc.publicnode.com",
+                "https://avalanche.drpc.org",
+                "https://avalanche.public-rpc.com",
+                "https://rpc.ankr.com/avalanche"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 43114,
+            "symbol": "AVAX",
+            "decimals": 18,
+            "name": "AVAX",
+            "coinKey": "AVAX",
+            "logoURI": "https://static.debank.com/image/avax_token/logo_url/avax/0b9c84359c84d6bdd5bfda9c2d4c4a82.png"
+        }
+    },
+    {
+        "key": "gnosis",
+        "chainType": "EVM",
+        "name": "Gnosis",
+        "coin": "DAI",
+        "id": 100,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/assets/chains/gnosis.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/43114.json",
+        "faucetUrls": [
+            "https://stakely.io/faucet/xdai-chain"
+        ],
+        "metamask": {
+            "chainId": "0x64",
+            "blockExplorerUrls": [
+                "https://gnosis.blockscout.com/"
+            ],
+            "chainName": "Gnosis",
+            "nativeCurrency": {
+                "name": "XDAI",
+                "symbol": "XDAI",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://rpc.gnosischain.com",
+                "https://gnosis-rpc.publicnode.com",
+                "https://gnosis.drpc.org",
+                "https://rpc.ankr.com/gnosis"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 100,
+            "symbol": "xDAI",
+            "decimals": 18,
+            "name": "xDAI Native Token",
+            "coinKey": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        }
+    }
+]
