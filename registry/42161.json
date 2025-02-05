@@ -8522,5 +8522,28 @@
     "name": "XYRO",
     "symbol": "XYRO",
     "decimals": 18
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf7e17BA61973bcDB61f471eFb989E47d13bD565D",
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "BITCOIN",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0c06ccf38114ddfc35e07427b9424adcca9f44f8",
+    "name": "Monerium EUR emoney",
+    "symbol": "EURE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23354/thumb/eur.png?1696522569"
   }
 ]

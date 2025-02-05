@@ -12817,5 +12817,77 @@
     "symbol": "EMP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31374/thumb/logomainblacktransparent.png?1719953450"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdc5eb0fc6d3f64689290595ebe8943155ed4a73a",
+    "name": "Klink Finance",
+    "symbol": "KLINK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54192/thumb/CMC_Logo.png?1738722266"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x687838649383f180024435b96fe014b351854a2d",
+    "name": "Dinari JPM",
+    "symbol": "JPMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54184/thumb/d-token-200.png?1738682276"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x000804047791c8e0fbd04f1a9f4567114130b9a7",
+    "name": "Dinari KO",
+    "symbol": "KOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54185/thumb/d-token-200.png?1738682465"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcc69d36075d563d010d829db7a9caa50b3487bb0",
+    "name": "Dinari PHO",
+    "symbol": "PHOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54187/thumb/d-token-200.png?1738682583"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x48a0ea70c2c7d025cc95672b9ebe6ad026129b44",
+    "name": "Dinari YUM",
+    "symbol": "YUMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54188/thumb/d-token-200.png?1738682602"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x78bb8ff6baa486c31ce0ef1a157798f7a606565c",
+    "name": "Dinari XOM",
+    "symbol": "XOMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54189/thumb/d-token-200.png?1738682617"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x84054a6b72dd5c58da8106e410e62658083a80e4",
+    "name": "believe in something",
+    "symbol": "DTF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51561/thumb/Chad_Franklin_200x200.jpeg?1735373619"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc4d137def384ee0f8857887f5950669ba04984ec",
+    "name": "BonzAI DePIN",
+    "symbol": "BONZAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36032/thumb/bonzai.jpeg?1710394145"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x53cb59d32a8d08fc6d3f81454f150946a028a44d",
+    "name": "DexFi Governance",
+    "symbol": "GDEX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30671/thumb/gDEX-Icon.png?1738702041"
   }
 ]
