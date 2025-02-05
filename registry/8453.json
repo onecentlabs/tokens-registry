@@ -12889,5 +12889,13 @@
     "symbol": "GDEX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/30671/thumb/gDEX-Icon.png?1738702041"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb27e7b18aba8d6ef2467b93486be600860a1395e",
+    "name": "5TARS",
+    "symbol": "5TARS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54199/thumb/5tars_token_S.png?1738749419"
   }
 ]
