@@ -34,48 +34,24 @@
             "name": "ETH",
             "coinKey": "ETH",
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-        }
-    },
-    {
-        "key": "bnb",
-        "chainType": "EVM",
-        "name": "BSC",
-        "coin": "BNB",
-        "id": 56,
-        "mainnet": true,
-        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/bsc.svg",
-        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/56.json",
-        "faucetUrls": [
-            "https://stakely.io/faucet/bsc-chain-bnb"
-        ],
-        "metamask": {
-            "chainId": "0x38",
-            "blockExplorerUrls": [
-                "https://bscscan.com/"
-            ],
-            "chainName": "BNB Smart Chain Mainnet",
-            "nativeCurrency": {
-                "name": "BNB",
-                "symbol": "BNB",
-                "decimals": 18
-            },
-            "rpcUrls": [
-                "https://bsc-dataseed.binance.org",
-                "https://bsc-dataseed.bnbchain.org",
-                "https://bsc-rpc.publicnode.com",
-                "https://bsc-dataseed1.defibit.io",
-                "https://bsc-dataseed1.ninicoin.io"
-            ]
         },
-        "nativeToken": {
-            "address": "0x0000000000000000000000000000000000000000",
-            "chainId": 56,
-            "symbol": "BNB",
-            "decimals": 18,
-            "name": "BNB",
-            "coinKey": "BNB",
-            "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
-        }
+        "stablecoins": [
+            {
+                "name": "USDC",
+                "address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+            },
+            {
+                "name": "USDT",
+                "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+            },
+            {
+                "name": "DAI",
+                "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+            }
+        ]
     },
     {
         "key": "arbitrum",
@@ -115,7 +91,24 @@
             "name": "ETH",
             "coinKey": "ETH",
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-        }
+        },
+        "stablecoins": [
+            {
+                "name": "USDC",
+                "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png"
+            },
+            {
+                "name": "USDT",
+                "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png"
+            },
+            {
+                "name": "DAI",
+                "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+            }
+        ]
     },
     {
         "key": "base",
@@ -152,45 +145,19 @@
             "name": "ETH",
             "coinKey": "ETH",
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-        }
-    },
-    {
-        "key": "avalanche",
-        "chainType": "EVM",
-        "name": "Avalanche",
-        "coin": "AVAX",
-        "id": 43114,
-        "mainnet": true,
-        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/avalanche.svg",
-        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/43114.json",
-        "metamask": {
-            "chainId": "0xa86a",
-            "blockExplorerUrls": [
-                "https://snowtrace.io/"
-            ],
-            "chainName": "Avalanche C-Chain",
-            "nativeCurrency": {
-                "name": "AVAX",
-                "symbol": "AVAX",
-                "decimals": 18
-            },
-            "rpcUrls": [
-                "https://api.avax.network/ext/bc/C/rpc",
-                "https://avalanche-c-chain-rpc.publicnode.com",
-                "https://avalanche.drpc.org",
-                "https://avalanche.public-rpc.com",
-                "https://rpc.ankr.com/avalanche"
-            ]
         },
-        "nativeToken": {
-            "address": "0x0000000000000000000000000000000000000000",
-            "chainId": 43114,
-            "symbol": "AVAX",
-            "decimals": 18,
-            "name": "AVAX",
-            "coinKey": "AVAX",
-            "logoURI": "https://static.debank.com/image/avax_token/logo_url/avax/0b9c84359c84d6bdd5bfda9c2d4c4a82.png"
-        }
+        "stablecoins": [
+            {
+                "name": "USDC",
+                "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913/logo.png"
+            },
+            {
+                "name": "USDS",
+                "address": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x820C137fa70C8691f0e44Dc420a5e53c168921Dc/logo.png"
+            }
+        ]
     },
     {
         "key": "gnosis",
@@ -230,6 +197,13 @@
             "name": "xDAI Native Token",
             "coinKey": "DAI",
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-        }
+        },
+        "stablecoins": [
+            {
+                "name": "xDAI",
+                "address": "0x0000000000000000000000000000000000000000",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+            }
+        ]
     }
 ]
