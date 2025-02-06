@@ -110,7 +110,12 @@ export class TokenRegistry {
     if (isAddress(tokenName)) {
         return chainData.find((token: Token) => token.address.toLowerCase() === tokenName.toLowerCase());
     }
-    return chainData.find((token: Token) => token.symbol.toLowerCase() === tokenName.toLowerCase());
+    return chainData.find((token: Token) =>{
+        if (tokenName.toLowerCase() === 'eth' && chainId === '1') {
+            return token.symbol.toLowerCase() === 'eth' && token.address.toLowerCase() === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee';
+        }
+        return token.symbol.toLowerCase() === tokenName.toLowerCase()
+    }) ;
   }
 
   public getAllTokens(chains: string[]| null): Map<string, Token[]> {
