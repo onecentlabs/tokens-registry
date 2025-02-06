@@ -48946,10 +48946,18 @@
   {
     "chainId": 1,
     "address": "0xbeefc01767ed5086f35decb6c00e6c12bc7476c1",
-    "name": "Coinshift USDL Morpho Vault",
+    "name": "Coinshift USDL Morpho Vault (v1.0)",
     "symbol": "CSUSDL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52413/thumb/coinshift-usdl-vault.png?1734356399"
+    "logoURI": "https://raw.githubusercontent.com/karthiks373/assets/refs/heads/master/blockchains/ethereum/assets/0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7204b7dbf9412567835633b6f00c3edc3a8d6330",
+    "name": "Coinshift USDC", 
+    "symbol": "csUSDC",
+    "decimals": 18,
+    "logoURI": "https://cdn.morpho.org/v2/assets/images/coinshift-usdc-vault.svg"
   },
   {
     "chainId": 1,
@@ -54800,7 +54808,7 @@
     "name": "Coinshift USDL Morpho Vault",
     "symbol": "CSUSDL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52413/thumb/coinshift-usdl-vault.png?1734356399"
+    "logoURI": "https://raw.githubusercontent.com/karthiks373/assets/refs/heads/master/blockchains/ethereum/assets/0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1/logo.png"
   },
   {
     "chainId": 1,
