@@ -19,6 +19,11 @@
     "name": "Aave",
     "symbol": "AAVE",
     "decimals": 18,
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
     "extensions": {
       "bridgeInfo": {
@@ -63,7 +68,13 @@
     "name": "Aerodrome Finance",
     "symbol": "AERO",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x940181a94a35a4569e4529a3cdfb74e38fd98631/bb455b8557be5d08ad67f4314f899e15.png"
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x940181a94a35a4569e4529a3cdfb74e38fd98631/bb455b8557be5d08ad67f4314f899e15.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED",
+      "POPULAR",
+      "UTILITY"
+    ]
   },
   {
     "chainId": 8453,
@@ -203,7 +214,13 @@
     "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
     "symbol": "cbBTC",
     "decimals": 8,
-    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cbbtc.svg"
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cbbtc.svg",
+    "tags": [
+      "WRAPPED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 8453,
@@ -212,6 +229,11 @@
     "symbol": "cbETH",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbe9895146f7af43049ca1c1ae358b0541ea49704/1f287272a7d8439af0f6b281ebf0143e.png",
+    "tags": [
+      "WRAPPED",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -564,6 +586,13 @@
     "symbol": "MORPHO",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/base_token/logo_url/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842/c092d2c513136e17883955cdd2c62ff1.png",
+    "tags": [
+      "POPULAR",
+      "UTILITY",
+      "VERIFIED",
+      "TRADE_VOLUME",
+      "GOVERNANCE"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -763,7 +792,11 @@
     "name": "Toshi",
     "symbol": "TOSHI",
     "decimals": 18,
-    "logoURI": "https://strapi.jumper.exchange/uploads/toshi_51fef7e455.webp"
+    "logoURI": "https://strapi.jumper.exchange/uploads/toshi_51fef7e455.webp",
+    "tags": [
+      "MEME",
+      "POPULAR"
+    ]
   },
   {
     "chainId": 8453,
@@ -823,6 +856,12 @@
     "decimals": 6,
     "chainId": 8453,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -875,6 +914,12 @@
     "decimals": 18,
     "chainId": 8453,
     "logoURI": "https://static.debank.com/image/coin/logo_url/eth/d61441782d4a08a7479d54aea211679e.png",
+    "tags": [
+      "WRAPPED",
+      "POPULAR",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -2445,6 +2490,13 @@
     "symbol": "PENDLE",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/base_token/logo_url/0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e/ca9b6baf41e5f4f2469bb8930fcafb92.png",
+    "tags": [
+      "POPULAR",
+      "GOVERNANCE",
+      "VERIFIED",
+      "UTILITY",
+      "TRADE_VOLUME"
+    ],
     "extensions": {
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
@@ -2621,6 +2673,11 @@
     "symbol": "rETH",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8/6c8aa3f550d300ce84e06f95c496af69.png",
+    "tags": [
+      "WRAPPED",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ],
     "extensions": {
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
@@ -4742,7 +4799,11 @@
     "address": "0xb33ff54b9f7242ef1593d2c9bcd8f9df46c77935",
     "name": "Freysa AI",
     "symbol": "FAI",
-    "decimals": 18
+    "decimals": 18,
+    "tags": [
+      "UTILITY",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 8453,
@@ -6569,7 +6630,10 @@
     "name": "aixbt by Virtuals",
     "symbol": "AIXBT",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825/7f5fe4bbbdef4c25e9748013019a9bb1.png"
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825/7f5fe4bbbdef4c25e9748013019a9bb1.png",
+    "tags": [
+      "UTILITY"
+    ]
   },
   {
     "chainId": 8453,
@@ -10705,7 +10769,12 @@
     "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
     "name": "Lombard Staked BTC",
     "symbol": "LBTC",
-    "decimals": 8
+    "decimals": 8,
+    "tags": [
+      "WRAPPED",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 8453,
@@ -11131,7 +11200,12 @@
     "name": "PancakeSwap",
     "symbol": "CAKE",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x3055913c90fcc1a6ce9a358911721eeb942013a1/9003539eb61139bd494b7412b785d482.png"
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x3055913c90fcc1a6ce9a358911721eeb942013a1/9003539eb61139bd494b7412b785d482.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "UTILITY"
+    ]
   },
   {
     "chainId": 8453,
@@ -11201,7 +11275,12 @@
     "name": "Onyxcoin",
     "symbol": "XCN",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x9c632e6aaa3ea73f91554f8a3cb2ed2f29605e0c/7865d3bdb9e3743f8e1449ad41bddff2.png"
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x9c632e6aaa3ea73f91554f8a3cb2ed2f29605e0c/7865d3bdb9e3743f8e1449ad41bddff2.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "UTILITY"
+    ]
   },
   {
     "chainId": 8453,
@@ -11297,7 +11376,12 @@
     "name": "Virtuals Protocol",
     "symbol": "VIRTUAL",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x44ff8620b8ca30902395a7bd3f2407e1a091bf73/cbb70834d9442214c846833e47648255.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x44ff8620b8ca30902395a7bd3f2407e1a091bf73/cbb70834d9442214c846833e47648255.png",
+    "tags": [
+      "UTILITY",
+      "VERIFIED",
+      "POPULAR"
+    ]
   },
   {
     "chainId": 8453,
@@ -11391,7 +11475,12 @@
     "name": "Renzo Restaked ETH",
     "symbol": "EZETH",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbf5495efe5db9ce00f80364c8b423567e58d2110/e4cac3df2fe7caa7122de22911e72a41.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbf5495efe5db9ce00f80364c8b423567e58d2110/e4cac3df2fe7caa7122de22911e72a41.png",
+    "tags": [
+      "WRAPPED",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 8453,
@@ -11811,7 +11900,12 @@
     "name": "Solv Protocol SolvBTC",
     "symbol": "SOLVBTC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684"
+    "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
+    "tags": [
+      "WRAPPED",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 8453,
@@ -12513,7 +12607,10 @@
     "chainId": 8453,
     "decimals": 18,
     "symbol": "VVV",
-    "name": "Venice Token"
+    "name": "Venice Token",
+    "tags": [
+      "UTILITY"
+    ]
   },
   {
     "chainId": 8453,
