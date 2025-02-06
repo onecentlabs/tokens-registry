@@ -71,11 +71,12 @@ export class TokenRegistry {
         for (const i in this.tags) {
             const tag = this.tags[i]
             const chainTagData: Token[] = chainData.filter((token: Token) => {
-                if (token.tags?.includes(tag) && collected_addresses.includes(token.address)) {
+                if (!collected_addresses.includes(token.address) &&token.tags?.includes(tag)) {
                     return true
                 }
                 return false
             })
+
             updatedTokenData.set(tag, chainTagData)
             collected_addresses.push(...chainTagData.map((token: Token) => token.address))
         }
@@ -89,6 +90,7 @@ export class TokenRegistry {
         const newTokenData: Token[] = []
         for (const i in this.tags) {
             const tag = this.tags[i]
+
             const tokenList : Token[]| undefined = updatedTokenData.get(tag)
             if (tokenList) {
                 newTokenData.push(...tokenList)
