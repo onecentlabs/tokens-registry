@@ -48954,7 +48954,7 @@
   {
     "chainId": 1,
     "address": "0x7204b7dbf9412567835633b6f00c3edc3a8d6330",
-    "name": "Coinshift USDC", 
+    "name": "Coinshift USDC",
     "symbol": "csUSDC",
     "decimals": 18,
     "logoURI": "https://cdn.morpho.org/v2/assets/images/coinshift-usdc-vault.svg"
