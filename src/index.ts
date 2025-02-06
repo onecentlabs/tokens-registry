@@ -18,6 +18,7 @@ app.get("/", (req: Request, res: Response) => {
 app.get("/tokens", (req: Request, res: Response) => {
     const chains: string[] | null = req.query.chains ? req.query.chains.toString().split(',') : null;
     const tokens = tokenRegisry.getAllTokens(chains);
+    // console.log(tokens);
     const response: Record<string, any> = Object.fromEntries(tokens.entries());
     res.json({
         tokens: response
