@@ -21,6 +21,12 @@
     "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
     "decimals": 18,
     "chainId": 100,
+    "tags": [
+      "GOVERNANCE",
+      "UTILITY",
+      "POPULAR",
+      "FEATURED"
+    ],
     "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cow.svg"
   },
   {
@@ -61,6 +67,11 @@
     "name": "Dai Stablecoin on Gnosis Chain",
     "symbol": "DAI",
     "decimals": 18,
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x44fa8e6f47987339850636f88629646662444217/549c4205dbb199f1b8b03af783f35e71.png"
   },
   {
@@ -69,6 +80,11 @@
     "name": "Safe Token",
     "decimals": 18,
     "chainId": 100,
+    "tags": [
+      "POPULAR",
+      "UTILITY",
+      "VERIFIED"
+    ],
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x5afe3855358e112b5647b952709e6165e1c1eeee/46e9dd25f7a9df3b795d35232bc3c527.png"
   },
   {
@@ -101,6 +117,11 @@
     "name": "Wrapped Ether on Gnosis Chain",
     "decimals": 18,
     "chainId": 100,
+    "tags": [
+      "WRAPPED",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
@@ -141,6 +162,12 @@
     "name": "Gnosis",
     "symbol": "GNO",
     "decimals": 18,
+    "tags": [
+      "GOVERNANCE",
+      "NATIVE",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x9c58bacc331c9aa871afd802db6379a98e80cedb/69e5fedeca09913fe078a8dca5b7e48c.png"
   },
   {
@@ -269,6 +296,12 @@
     "name": "USDC (old)",
     "symbol": "USDC",
     "decimals": 6,
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
@@ -2821,6 +2854,13 @@
     "decimals": 18,
     "symbol": "xDAI",
     "name": "xDAI",
+    "tags": [
+      "NATIVE",
+      "STABLE",
+      "POPULAR",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ],
     "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee_1.png"
   },
   {
