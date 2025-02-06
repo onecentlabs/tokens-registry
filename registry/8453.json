@@ -13024,5 +13024,13 @@
     "symbol": "KENDU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35722/thumb/photo_2024-03-05_01-23-59_%281%29.jpg?1709632285"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb170000aeefa790fa61d6e837d1035906839a3c8",
+    "name": "Pinto",
+    "symbol": "PINTO",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54217/thumb/pinto.png?1738829146"
   }
 ]
