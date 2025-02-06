@@ -13032,5 +13032,85 @@
     "symbol": "PINTO",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/54217/thumb/pinto.png?1738829146"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8c62ac3b71db8c81a764b84ffbc2a8d0bad7f111",
+    "name": "PREME Token",
+    "symbol": "PREME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36091/thumb/PREME_Token.png?1710477118"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xacacc8241a57a23106af94f2fffda000384cb4d2",
+    "name": "Dinari WALRF",
+    "symbol": "WALRFD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54222/thumb/d-token-200.png?1738860922"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb51c78989fb8d1bf2c957dd0522235c92d0443a5",
+    "name": "Dinari RBLX",
+    "symbol": "RBLXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54223/thumb/d-token-200.png?1738860997"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2b98ba07619c3ee14854983a83fe1f0aecff19c8",
+    "name": "Dinari SIVR",
+    "symbol": "SIVRD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54224/thumb/d-token-200.png?1738861015"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x62cc07128dec1451ca55d20465cca80dbc24ca6d",
+    "name": "Dinari SONY",
+    "symbol": "SONYD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54225/thumb/d-token-200.png?1738861032"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x70e97cac0d4eb845872cd41ae848e47d070ef45c",
+    "name": "Dinari COST",
+    "symbol": "COSTD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54226/thumb/d-token-200.png?1738861053"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd021ad9bc28dcbcb04801638937351f6b9045f33",
+    "name": "Dinari DAL",
+    "symbol": "DALD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54227/thumb/d-token-200.png?1738861070"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf3ec90ea681561ce77120976bcfe985f83d182d8",
+    "name": "Dinari GLD",
+    "symbol": "GLDD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54228/thumb/d-token-200.png?1738861086"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd5eab2d9e01442bfca720f6f15451555dd003f40",
+    "name": "Dinari SQ",
+    "symbol": "SQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54229/thumb/d-token-200.png?1738861102"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xba921e840fb60adb0f92b2a977427fe8e5dd208c",
+    "name": "Dinari ERO",
+    "symbol": "EROD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54230/thumb/d-token-200.png?1738861119"
   }
 ]

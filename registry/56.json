@@ -6268,5 +6268,12 @@
     "decimals": 18,
     "address": "0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
     "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xc0041ef357b183448b235a8ea73ce4e4ec8c265f/fce64ea700f2de0144b7d05e8a742fe4.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "TST",
+    "name": "Test",
+    "decimals": 18,
+    "address": "0x86Bb94DdD16Efc8bc58e6b056e8df71D9e666429"
   }
 ]
