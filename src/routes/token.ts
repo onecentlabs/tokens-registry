@@ -1,6 +1,7 @@
 import { readFileSync, readdirSync } from 'fs';
 import { join } from 'path';
 import {isAddress} from '../isAddress.js';
+import { Token } from '../types.js';
 
 interface TokenData {
   // Add specific token properties here
@@ -8,9 +9,10 @@ interface TokenData {
 }
 
 export class TokenRegistry {
-  private tokens: Map<string, TokenData>;
+  private tokens: Map<string, Token[]>;
   private registryPath: string;
   private chainMap: Record<string, string>;
+  private tags: string[];
 
   constructor(registryPath: string) {
     this.tokens = new Map();
@@ -22,6 +24,16 @@ export class TokenRegistry {
         "BASE": "8453",
         "GNOSIS": "100",
     }
+    this.tags = [ 'FEATURED',
+    'NATIVE',
+    'TRADE_VOLUME',
+    'STABLE',
+    'POPULAR',
+    'GOVERNANCE',
+    'WRAPPED',
+    'MEME',
+    'UTILITY',
+    'VERIFIED']
     this.loadTokens();
   }
 
@@ -51,24 +63,62 @@ export class TokenRegistry {
     }
   }
 
-  public getToken(tokenName: string, chainName: string): TokenData | undefined {
+  private sortTokens(tokens: Map<string, Token[]>): Map<string, Token[]> {
+    const returntokens: Map<string, Token[]> = new Map()
+    for (const [chainKey, chainData] of tokens.entries()) {
+        const collected_addresses: string[] = []
+        const updatedTokenData: Map<string, Token[]> = new Map()
+        for (const i in this.tags) {
+            const tag = this.tags[i]
+            const chainTagData: Token[] = chainData.filter((token: Token) => {
+                if (token.tags?.includes(tag) && collected_addresses.includes(token.address)) {
+                    return true
+                }
+                return false
+            })
+            updatedTokenData.set(tag, chainTagData)
+            collected_addresses.push(...chainTagData.map((token: Token) => token.address))
+        }
+        const remainingTokens: Token[] = chainData.filter((token: Token) => {
+            if (collected_addresses.includes(token.address)) {
+                return false
+            }
+            return true
+        })
+        
+        const newTokenData: Token[] = []
+        for (const i in this.tags) {
+            const tag = this.tags[i]
+            const tokenList : Token[]| undefined = updatedTokenData.get(tag)
+            if (tokenList) {
+                newTokenData.push(...tokenList)
+            }
+        }
+        newTokenData.push(...remainingTokens)
+        returntokens.set(chainKey, newTokenData)
+    }
+    return returntokens;
+
+  }
+
+  public getToken(tokenName: string, chainName: string): Token | undefined {
     const chainId = this.chainMap[chainName] || chainName;
     const chainData = this.tokens.get(chainId);
     if (!chainData) {
         return undefined;
     }
     if (isAddress(tokenName)) {
-        return chainData.find((token: TokenData) => token.address.toLowerCase() === tokenName.toLowerCase());
+        return chainData.find((token: Token) => token.address.toLowerCase() === tokenName.toLowerCase());
     }
-    return chainData.find((token: TokenData) => token.symbol.toLowerCase() === tokenName.toLowerCase());
+    return chainData.find((token: Token) => token.symbol.toLowerCase() === tokenName.toLowerCase());
   }
 
-  public getAllTokens(chains: string[]| null): Map<string, TokenData> {
+  public getAllTokens(chains: string[]| null): Map<string, Token[]> {
     if (chains === null || chains.length === 0) {
 
-        return this.tokens;
+        return this.sortTokens(this.tokens);
     }
-    const tokens = new Map<string, TokenData>();
+    const tokens = new Map<string, Token[]>();
     chains.forEach(chain => {
         chain = this.chainMap[chain] || chain;
         const chainData = this.tokens.get(chain);
@@ -76,7 +126,7 @@ export class TokenRegistry {
             tokens.set(chain, chainData);
         }
     });
-    return tokens;
+    return this.sortTokens(tokens);
   }
 
   // Optional: Method to reload tokens if needed
