@@ -12897,5 +12897,29 @@
     "symbol": "5TARS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54199/thumb/5tars_token_S.png?1738749419"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2bd8880e7424dfb94597429de7253de73694de01",
+    "name": "Gia by DexFi",
+    "symbol": "GIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54203/thumb/Gia_Token_Icon.png?1738761416"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbc7755a153e852cf76cccddb4c2e7c368f6259d8",
+    "name": "Hestia",
+    "symbol": "HESTIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54202/thumb/logo.png?1738750723"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xef73611f98da6e57e0776317957af61b59e09ed7",
+    "name": "Kendu Inu",
+    "symbol": "KENDU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35722/thumb/photo_2024-03-05_01-23-59_%281%29.jpg?1709632285"
   }
 ]

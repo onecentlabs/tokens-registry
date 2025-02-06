@@ -8545,5 +8545,13 @@
     "symbol": "EURE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/23354/thumb/eur.png?1696522569"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x083fb956333f9c1568f66fc0d0be451f31f8c46c",
+    "name": "Rivalz Network",
+    "symbol": "RIZ",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/54076/thumb/RIZ.png?1738784822"
   }
 ]

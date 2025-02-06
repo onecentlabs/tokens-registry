@@ -151,6 +151,30 @@ const main = async () => {
       }
     }
 
+    // Validate token tags based on a whitelist
+    // Tokens must have tags only if they are entirely in this list
+    const WHITELISTED_TAGS = new Set([
+      'FEATURED',
+      'POPULAR',
+      'VERIFIED',
+      'STABLE',
+      'TRADE_VOLUME',
+      'CEX',
+      'GOVERNANCE',
+      'NATIVE',
+      'MEME',
+      'UTILITY',
+      'WRAPPED',
+    ])
+    finalTokens = finalTokens.map((token) => {
+      if (Array.isArray(token.tags)) {
+        if (!token.tags.every((tag) => WHITELISTED_TAGS.has(tag))) {
+          delete token.tags
+        }
+      }
+      return token
+    })
+
     fs.writeFileSync(registryPath, JSON.stringify(finalTokens, null, 2), 'utf8')
 
     console.log(`✅ Wrote ${finalTokens.length} tokens to ${registryPath}`)

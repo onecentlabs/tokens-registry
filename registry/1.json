@@ -5,14 +5,24 @@
     "symbol": "LINK",
     "name": "Chainlink",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x514910771af9ca656af840dff83e8264ecf986ca/69425617db0ef93a7c21c4f9b81c7ca5.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x514910771af9ca656af840dff83e8264ecf986ca/69425617db0ef93a7c21c4f9b81c7ca5.png",
+    "tags": [
+      "POPULAR",
+      "UTILITY",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 1,
     "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
     "symbol": "UMA",
     "name": "UMA",
-    "decimals": 18
+    "decimals": 18,
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -27,26 +37,37 @@
     "symbol": "YFI",
     "name": "yearn.finance",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/coin/logo_url/yearn/f14ac7f4efe5c51e1c6b32add3dea10c.png"
+    "logoURI": "https://static.debank.com/image/coin/logo_url/yearn/f14ac7f4efe5c51e1c6b32add3dea10c.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
     "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
-    "popular": true,
     "symbol": "MKR",
     "name": "Maker",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/1d0390168de63ca803e8db7990e4f6ec.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/1d0390168de63ca803e8db7990e4f6ec.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
-    "popular": true,
     "base": true,
     "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
     "symbol": "WBTC",
     "name": "Wrapped Bitcoin",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 1,
@@ -62,17 +83,25 @@
     "symbol": "COMP",
     "name": "Compound",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc00e94cb662c3520282e6f5717214004a7f26888/dd174d3d7083fa027a433dc50edaf0bc.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc00e94cb662c3520282e6f5717214004a7f26888/dd174d3d7083fa027a433dc50edaf0bc.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
-    "popular": true,
     "base": true,
     "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
     "symbol": "DAI",
     "name": "Dai",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -109,11 +138,16 @@
   {
     "chainId": 1,
     "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
-    "popular": true,
     "symbol": "SUSHI",
     "name": "SushiSwap",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 1,
@@ -149,12 +183,15 @@
   },
   {
     "chainId": 1,
-    "popular": true,
     "address": "0xba100000625a3754423978a60c9317c58a424e3d",
     "symbol": "BAL",
     "name": "Balancer",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xba100000625a3754423978a60c9317c58a424e3d/52990c207f4001bd9090dfd90e54374a.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xba100000625a3754423978a60c9317c58a424e3d/52990c207f4001bd9090dfd90e54374a.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -204,12 +241,15 @@
   },
   {
     "chainId": 1,
-    "popular": true,
     "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
     "symbol": "CRV",
     "name": "Curve DAO Token",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd533a949740bb3306d119cc777fa900ba034cd52/e803d7c570b983ab84d1963cb5c03f86.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd533a949740bb3306d119cc777fa900ba034cd52/e803d7c570b983ab84d1963cb5c03f86.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -233,7 +273,11 @@
     "symbol": "GNO",
     "name": "Gnosis",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6810e776880c02933d47db1b9fc05908e5386b96/69e5fedeca09913fe078a8dca5b7e48c.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6810e776880c02933d47db1b9fc05908e5386b96/69e5fedeca09913fe078a8dca5b7e48c.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -726,12 +770,16 @@
   },
   {
     "chainId": 1,
-    "popular": true,
     "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
     "symbol": "AAVE",
     "name": "Aave",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9/eee087b66747b09dbfb4ba0b34fd3697.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9/eee087b66747b09dbfb4ba0b34fd3697.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -753,7 +801,11 @@
     "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
     "symbol": "PERP",
     "name": "Perpetual Protocol",
-    "decimals": 18
+    "decimals": 18,
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -791,7 +843,11 @@
     "symbol": "INJ",
     "name": "Injective Protocol",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe28b3b32b6c345a34ff64674606124dd5aceca30/f254a215e85a46b97a0dcc9f036097d4.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe28b3b32b6c345a34ff64674606124dd5aceca30/f254a215e85a46b97a0dcc9f036097d4.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -980,11 +1036,15 @@
   {
     "chainId": 1,
     "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-    "popular": true,
     "symbol": "UNI",
     "name": "Uniswap",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984/fcee0c46fc9864f48ce6a40ed1cdd135.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984/fcee0c46fc9864f48ce6a40ed1cdd135.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -1106,17 +1166,26 @@
     "symbol": "ALPHA",
     "name": "Alpha Finance Lab",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa1faa113cbe53436df28ff0aee54275c13b40975/3ce3f702e9346fa024924dcbcb7c2ab8.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa1faa113cbe53436df28ff0aee54275c13b40975/3ce3f702e9346fa024924dcbcb7c2ab8.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
-    "popular": true,
     "base": true,
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "symbol": "USDT",
     "name": "Tether",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 1,
@@ -1136,11 +1205,16 @@
   },
   {
     "chainId": 1,
-    "popular": true,
     "base": true,
     "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
     "symbol": "USDC",
     "name": "USD Coin",
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
@@ -1173,7 +1247,12 @@
     "symbol": "OKB",
     "name": "OKB",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x75231f58b43240c9718dd58b4967c5114342a86c/b58d6980429c56560d9241765bdf9c2b.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x75231f58b43240c9718dd58b4967c5114342a86c/b58d6980429c56560d9241765bdf9c2b.png",
+    "tags": [
+      "UTILITY",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -1301,7 +1380,11 @@
     "symbol": "MATIC",
     "name": "Matic Network",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/matic_token/logo_url/matic/6f5a6b6f0732a7a235131bd7804d357c.png"
+    "logoURI": "https://static.debank.com/image/matic_token/logo_url/matic/6f5a6b6f0732a7a235131bd7804d357c.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -1505,10 +1588,7 @@
     "symbol": "sAAVE",
     "name": "Synth Aave",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sAAVE.svg",
-    "tags": [
-      "synth"
-    ]
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sAAVE.svg"
   },
   {
     "chainId": 1,
@@ -1516,10 +1596,7 @@
     "symbol": "sADA",
     "name": "Synth Cardano",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sADA.svg",
-    "tags": [
-      "synth"
-    ]
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sADA.svg"
   },
   {
     "chainId": 1,
@@ -1527,10 +1604,7 @@
     "symbol": "sAUD",
     "name": "Synth Australian Dollars",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sAUD.svg",
-    "tags": [
-      "synth"
-    ]
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sAUD.svg"
   },
   {
     "chainId": 1,
@@ -1538,10 +1612,7 @@
     "symbol": "sCHF",
     "name": "Synth Swiss Franc",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sCHF.svg",
-    "tags": [
-      "synth"
-    ]
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sCHF.svg"
   },
   {
     "chainId": 1,
@@ -1549,10 +1620,7 @@
     "symbol": "sDOT",
     "name": "Synth Polkadot",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sDOT.svg",
-    "tags": [
-      "synth"
-    ]
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sDOT.svg"
   },
   {
     "chainId": 1,
@@ -1560,10 +1628,7 @@
     "symbol": "sETHBTC",
     "name": "Synth ETH / BTC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sETHBTC.svg",
-    "tags": [
-      "synth"
-    ]
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sETHBTC.svg"
   },
   {
     "chainId": 1,
@@ -1571,10 +1636,7 @@
     "symbol": "sEUR",
     "name": "Synth Euros",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd71ecff9342a5ced620049e616c5035f1db98620/043ba1a8d3b29f9cccff268768937057.png",
-    "tags": [
-      "synth"
-    ]
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd71ecff9342a5ced620049e616c5035f1db98620/043ba1a8d3b29f9cccff268768937057.png"
   },
   {
     "chainId": 1,
@@ -1582,10 +1644,7 @@
     "symbol": "sGBP",
     "name": "Synth Pound Sterling",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sGBP.svg",
-    "tags": [
-      "synth"
-    ]
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sGBP.svg"
   },
   {
     "chainId": 1,
@@ -1593,10 +1652,7 @@
     "symbol": "sJPY",
     "name": "Synth Japanese Yen",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sJPY.svg",
-    "tags": [
-      "synth"
-    ]
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sJPY.svg"
   },
   {
     "chainId": 1,
@@ -1604,10 +1660,7 @@
     "symbol": "sKRW",
     "name": "Synth South Korean Won",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sKRW.svg",
-    "tags": [
-      "synth"
-    ]
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sKRW.svg"
   },
   {
     "chainId": 1,
@@ -1615,10 +1668,7 @@
     "symbol": "sLINK",
     "name": "Synth Chainlink",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sLINK.svg",
-    "tags": [
-      "synth"
-    ]
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.12/synths/sLINK.svg"
   },
   {
     "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
@@ -1894,12 +1944,16 @@
   },
   {
     "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-    "popular": true,
     "chainId": 1,
     "name": "BinanceUSD",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png",
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
@@ -1931,7 +1985,10 @@
     "name": "LivepeerToken",
     "symbol": "LPT",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x58b6a8a3302369daec383334672404ee733ab239/3bf454e30e5f4b18011ea5e31d2e0e59.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x58b6a8a3302369daec383334672404ee733ab239/3bf454e30e5f4b18011ea5e31d2e0e59.png",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
@@ -2131,7 +2188,10 @@
     "name": "OceanToken",
     "symbol": "OCEAN",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x967da4048cd07ab37855c090aaf366e4ce1b9f48/d525ff9a0f6cf40367e7d74ef403f86d.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x967da4048cd07ab37855c090aaf366e4ce1b9f48/d525ff9a0f6cf40367e7d74ef403f86d.png",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x990f341946A3fdB507aE7e52d17851B87168017c",
@@ -2287,13 +2347,17 @@
   },
   {
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "popular": true,
     "base": true,
     "chainId": 1,
     "name": "WrappedEther",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "NATIVE"
+    ]
   },
   {
     "address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
@@ -2682,7 +2746,11 @@
     "name": "Geminidollar",
     "symbol": "GUSD",
     "decimals": 2,
-    "logoURI": "https://tokens.1inch.io/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd.png"
+    "logoURI": "https://tokens.1inch.io/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd.png",
+    "tags": [
+      "STABLE",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
@@ -3615,7 +3683,11 @@
     "name": "Badger",
     "symbol": "BADGER",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3472a5a71965499acd81997a54bba8d852c6e53d/0e7643dba053739569d5b9f82225f4e5.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3472a5a71965499acd81997a54bba8d852c6e53d/0e7643dba053739569d5b9f82225f4e5.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
@@ -3623,16 +3695,23 @@
     "name": "GraphToken",
     "symbol": "GRT",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc944e90c64b2c07662a292be6244bdf05cda44a7/8a3fcf468cdf3ae0c7a56cfb12ab4816.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc944e90c64b2c07662a292be6244bdf05cda44a7/8a3fcf468cdf3ae0c7a56cfb12ab4816.png",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
-    "popular": true,
     "chainId": 1,
     "name": "LidoDAOToken",
     "symbol": "LDO",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x5a98fcbea516cf06857215779fd812ca3bef1b32/3a1a90da5ccd4849de3e83755f1fd8b5.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x5a98fcbea516cf06857215779fd812ca3bef1b32/3a1a90da5ccd4849de3e83755f1fd8b5.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
@@ -3672,7 +3751,12 @@
     "name": "MANTRADAO",
     "symbol": "OMv2",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3593d125a4f7849a1b059e64f4517a86dd60c95d/28c95b40e383ea67fad32996cb5f215d.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3593d125a4f7849a1b059e64f4517a86dd60c95d/28c95b40e383ea67fad32996cb5f215d.png",
+    "tags": [
+      "UTILITY",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
@@ -3696,7 +3780,12 @@
     "name": "1INCHToken",
     "symbol": "1INCH",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x111111111117dc0aa78b770fa6a738034120c302/2441b15b32406dc7d163ba4c1c6981d3.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x111111111117dc0aa78b770fa6a738034120c302/2441b15b32406dc7d163ba4c1c6981d3.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
@@ -3856,7 +3945,11 @@
     "name": "RariGovernanceToken",
     "symbol": "RGT",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd291e7a03283640fdc51b121ac401383a46cc623/b2d0952d782d2b5b5931ecbbaf8467ea.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd291e7a03283640fdc51b121ac401383a46cc623/b2d0952d782d2b5b5931ecbbaf8467ea.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
@@ -4104,7 +4197,11 @@
     "name": "SAND",
     "symbol": "SAND",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3845badade8e6dff049820680d1f14bd3903a5d0/81853b2ea8c205afa8ebbdf213637520.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3845badade8e6dff049820680d1f14bd3903a5d0/81853b2ea8c205afa8ebbdf213637520.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6",
@@ -4408,7 +4505,11 @@
     "name": "SHIBAINU",
     "symbol": "SHIB",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png"
+    "logoURI": "https://tokens.1inch.io/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png",
+    "tags": [
+      "MEME",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x6D0F5149c502faf215C89ab306ec3E50b15e2892",
@@ -6852,7 +6953,6 @@
   },
   {
     "address": "0x808507121B80c02388fAd14726482e061B8da827",
-    "popular": true,
     "chainId": 1,
     "name": "Pendle",
     "symbol": "PENDLE",
@@ -7825,7 +7925,12 @@
     "name": "EthereumNameService",
     "symbol": "ENS",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72/034d454d78d7be7f9675066fdb63e114.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72/034d454d78d7be7f9675066fdb63e114.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0xf14b9ADF84812bA463799357f4dc716b4384010B",
@@ -7877,7 +7982,6 @@
   },
   {
     "address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
-    "popular": true,
     "chainId": 1,
     "name": "ParaSwap",
     "symbol": "PSP",
@@ -13977,10 +14081,7 @@
     "symbol": "stkAAVE",
     "address": "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
     "chainId": 1,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4da27a545c0c5b758a6ba100e3a049001de870f5/b69eeb5171b3bb0f6f6ec0929e603450.png",
-    "tags": [
-      "stktoken"
-    ]
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4da27a545c0c5b758a6ba100e3a049001de870f5/b69eeb5171b3bb0f6f6ec0929e603450.png"
   },
   {
     "name": "Uniswap LEND LP",
@@ -13988,53 +14089,35 @@
     "symbol": "UniLENDETH",
     "address": "0xcaA7e4656f6A2B59f5f99c745F91AB26D1210DCe",
     "chainId": 1,
-    "logoURI": "ipfs://Qmcbin86EXd14LhbqLknH9kM3N7oueBYt9qQmZdmMWqrgu",
-    "tags": [
-      "unilpv1"
-    ]
+    "logoURI": "ipfs://Qmcbin86EXd14LhbqLknH9kM3N7oueBYt9qQmZdmMWqrgu"
   },
   {
     "name": "Aave Interest bearing UniETH",
     "decimals": 18,
     "symbol": "aUniETH",
     "address": "0x6179078872605396Ee62960917128F9477a5DdbB",
-    "chainId": 1,
-    "tags": [
-      "atokenv1"
-    ]
+    "chainId": 1
   },
   {
     "name": "Aave Interest bearing UniDAI",
     "decimals": 18,
     "symbol": "aUniDAI",
     "address": "0x048930eec73c91B44b0844aEACdEBADC2F2b6efb",
-    "chainId": 1,
-    "tags": [
-      "atokenv1",
-      "stablecoin"
-    ]
+    "chainId": 1
   },
   {
     "name": "Aave Interest bearing UniUSDC",
     "decimals": 6,
     "symbol": "aUniUSDC",
     "address": "0xe02b2Ad63eFF3Ac1D5827cBd7AB9DD3DaC4f4AD0",
-    "chainId": 1,
-    "tags": [
-      "atokenv1",
-      "stablecoin"
-    ]
+    "chainId": 1
   },
   {
     "name": "Aave Interest bearing UniUSDT",
     "decimals": 6,
     "symbol": "aUniUSDT",
     "address": "0xb977ee318010A5252774171494a1bCB98E7fab65",
-    "chainId": 1,
-    "tags": [
-      "atokenv1",
-      "stablecoin"
-    ]
+    "chainId": 1
   },
   {
     "name": "Aave Interest bearing UniDAIETH",
@@ -14042,10 +14125,7 @@
     "symbol": "aUniDAIETH",
     "address": "0xBbBb7F2aC04484F7F04A2C2C16f20479791BbB44",
     "chainId": 1,
-    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20DAI%20ETH.svg",
-    "tags": [
-      "atokenv1"
-    ]
+    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20DAI%20ETH.svg"
   },
   {
     "name": "Aave Interest bearing UniUSDCETH",
@@ -14053,10 +14133,7 @@
     "symbol": "aUniUSDCETH",
     "address": "0x1D0e53A0e524E3CC92C1f0f33Ae268FfF8D7E7a5",
     "chainId": 1,
-    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20USDC%20ETH.svg",
-    "tags": [
-      "atokenv1"
-    ]
+    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20USDC%20ETH.svg"
   },
   {
     "name": "Aave Interest bearing UniSETHETH",
@@ -14064,10 +14141,7 @@
     "symbol": "aUniSETHETH",
     "address": "0x84BBcaB430717ff832c3904fa6515f97fc63C76F",
     "chainId": 1,
-    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20sETH%20ETH.svg",
-    "tags": [
-      "atokenv1"
-    ]
+    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20sETH%20ETH.svg"
   },
   {
     "name": "Aave Interest bearing UniLENDETH",
@@ -14075,10 +14149,7 @@
     "symbol": "aUniLENDETH",
     "address": "0xc88ebbf7C523f38Ef3eB8A151273C0F0dA421e63",
     "chainId": 1,
-    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20LEND%20ETH.svg",
-    "tags": [
-      "atokenv1"
-    ]
+    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20LEND%20ETH.svg"
   },
   {
     "name": "Aave Interest bearing UniMKRETH",
@@ -14086,10 +14157,7 @@
     "symbol": "aUniMKRETH",
     "address": "0x8c69f7A4C9B38F1b48005D216c398Efb2F1Ce3e4",
     "chainId": 1,
-    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20MKR%20ETH.svg",
-    "tags": [
-      "atokenv1"
-    ]
+    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20MKR%20ETH.svg"
   },
   {
     "name": "Aave Interest bearing UniLINKETH",
@@ -14097,10 +14165,7 @@
     "symbol": "aUniLINKETH",
     "address": "0x9548DB8b1cA9b6c757485e7861918b640390169c",
     "chainId": 1,
-    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20LINK%20ETH.svg",
-    "tags": [
-      "atokenv1"
-    ]
+    "logoURI": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20LINK%20ETH.svg"
   },
   {
     "chainId": 1,
@@ -14115,10 +14180,7 @@
     "address": "0x261efcdd24cea98652b9700800a13dfbca4103ff",
     "symbol": "sXAU",
     "name": "Synth sXAU",
-    "decimals": 18,
-    "tags": [
-      "synthetic"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14160,10 +14222,7 @@
     "address": "0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a",
     "symbol": "sXMR",
     "name": "Synth sXMR",
-    "decimals": 18,
-    "tags": [
-      "synthetic"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14184,10 +14243,7 @@
     "address": "0x1453dbb8a29551ade11d89825ca812e05317eaeb",
     "symbol": "TEND",
     "name": "Tendies Token",
-    "decimals": 18,
-    "tags": [
-      "farming"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14210,11 +14266,7 @@
     "symbol": "WZEC",
     "name": "Wrapped ZEC",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/token/logo_url/0x4a64515e5e1d1073e83f30cb97bed20400b66e10/7e2cde7cdb3b074566eca2c56e93f44c.png",
-    "tags": [
-      "zec",
-      "zcash"
-    ]
+    "logoURI": "https://static.debank.com/image/token/logo_url/0x4a64515e5e1d1073e83f30cb97bed20400b66e10/7e2cde7cdb3b074566eca2c56e93f44c.png"
   },
   {
     "chainId": 1,
@@ -14222,21 +14274,14 @@
     "symbol": "WFIL",
     "name": "Wrapped FIL",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6e1a19f235be7ed8e3369ef73b196c07257494de/b5df8fb9729e06e574986295172b2ae9.png",
-    "tags": [
-      "fil",
-      "filecoin"
-    ]
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6e1a19f235be7ed8e3369ef73b196c07257494de/b5df8fb9729e06e574986295172b2ae9.png"
   },
   {
     "chainId": 1,
     "address": "0xA3865E64121537b5b59B5e239Db4aCBe6F36aa74",
     "symbol": "WXTZ",
     "name": "Wrapped Tezos",
-    "decimals": 18,
-    "tags": [
-      "tezos"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14244,10 +14289,7 @@
     "symbol": "WXLM",
     "name": "Wrapped Stellar",
     "logoURI": "https://cloudflare-ipfs.com/ipfs/QmPkYr86Qzo2rRQcYAwM9wgY9jVCy9cVLfiM2WQqvdhPKg",
-    "decimals": 18,
-    "tags": [
-      "stellar"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14255,10 +14297,7 @@
     "symbol": "WLTC",
     "name": "Wrapped Litecoin",
     "logoURI": "https://cloudflare-ipfs.com/ipfs/QmYKA2tnBQWSdxSQnSv4j3Dfnfp87VDC3LpCe7BqAjnqxY",
-    "decimals": 18,
-    "tags": [
-      "litecoin"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14266,10 +14305,7 @@
     "symbol": "wCELO",
     "name": "Wrapped Celo",
     "logoURI": "https://cloudflare-ipfs.com/ipfs/QmZonfTMoBVkvom5bxuDT2mgWQ6yjh1aaoA7erVnTUxoWV",
-    "decimals": 18,
-    "tags": [
-      "celo"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14277,12 +14313,7 @@
     "symbol": "wCUSD",
     "name": "Wrapped Celo Dollars",
     "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
-    "decimals": 18,
-    "tags": [
-      "celo",
-      "dollar",
-      "USD"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14290,11 +14321,7 @@
     "symbol": "wDASH",
     "name": "Wrapped DASH",
     "logoURI": "https://etherscan.io/token/images/wrappeddash_32.png",
-    "decimals": 18,
-    "tags": [
-      "wrapped",
-      "dash"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14302,12 +14329,7 @@
     "symbol": "BDOT",
     "name": "Binance Wrapped DOT",
     "logoURI": "https://etherscan.io/token/images/binance-dot_32.png",
-    "decimals": 10,
-    "tags": [
-      "binance",
-      "wrapped",
-      "polkadot"
-    ]
+    "decimals": 10
   },
   {
     "chainId": 1,
@@ -14315,12 +14337,7 @@
     "symbol": "BFIL",
     "name": "Binance Wrapped FIL",
     "logoURI": "https://etherscan.io/token/images/binance-filecoin_32.png",
-    "decimals": 18,
-    "tags": [
-      "binance",
-      "wrapped",
-      "filecoin"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14328,14 +14345,7 @@
     "symbol": "BBCH",
     "name": "Binance Wrapped BCH",
     "logoURI": "https://etherscan.io/token/images/binance-bch_32.png",
-    "decimals": 8,
-    "tags": [
-      "binance",
-      "wrapped",
-      "bitcoin",
-      "cash",
-      "bcash"
-    ]
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -14343,12 +14353,7 @@
     "symbol": "wCRES",
     "name": "Wrapped CRES",
     "logoURI": "https://etherscan.io/token/images/wrappedcres_32.png",
-    "decimals": 18,
-    "tags": [
-      "wrapped",
-      "cres",
-      "crescofin"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14356,11 +14361,7 @@
     "symbol": "wXZC",
     "name": "Wrapped Zcoin",
     "logoURI": "https://etherscan.io/token/images/wrappedzcoin_32.png",
-    "decimals": 18,
-    "tags": [
-      "wrapped",
-      "zcoin"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14368,11 +14369,7 @@
     "symbol": "xLON",
     "name": "Wrapped Tokenlon",
     "logoURI": "https://etherscan.io/token/images/xLON_32.png",
-    "decimals": 18,
-    "tags": [
-      "wrapped",
-      "tokenlon"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14380,12 +14377,7 @@
     "symbol": "cyWETH",
     "name": "Yearn Wrapped Ether",
     "logoURI": "https://etherscan.io/token/images/cyWETH_32.png",
-    "decimals": 8,
-    "tags": [
-      "wrapped",
-      "yearn",
-      "ether"
-    ]
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -14393,12 +14385,7 @@
     "symbol": "WOA",
     "name": "Wrapped Origin Axie",
     "logoURI": "https://etherscan.io/token/images/axieinfinity_32.png",
-    "decimals": 18,
-    "tags": [
-      "wrapped",
-      "origin",
-      "axie"
-    ]
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14406,11 +14393,7 @@
     "symbol": "wBIND",
     "name": "Wrapped BIND",
     "logoURI": "https://etherscan.io/token/images/wrappedbind_32.png",
-    "decimals": 8,
-    "tags": [
-      "wrapped",
-      "bind"
-    ]
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -14418,13 +14401,7 @@
     "symbol": "WUTN",
     "name": "Wrapped Universa",
     "decimals": 18,
-    "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVDL8ji6HKEmt5gFo6Gi1roXk6SNifL3omG5RjRCGRMDH",
-    "tags": [
-      "wrapped",
-      "utn",
-      "utnp",
-      "universa"
-    ]
+    "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVDL8ji6HKEmt5gFo6Gi1roXk6SNifL3omG5RjRCGRMDH"
   },
   {
     "chainId": 1,
@@ -14432,12 +14409,7 @@
     "symbol": "eCFX",
     "name": "Wrapped CFX",
     "decimals": 18,
-    "logoURI": "https://pbs.twimg.com/profile_images/1365344971948179466/DoTPVgGu_400x400.jpg",
-    "tags": [
-      "cfx",
-      "ecfx",
-      "conflux"
-    ]
+    "logoURI": "https://pbs.twimg.com/profile_images/1365344971948179466/DoTPVgGu_400x400.jpg"
   },
   {
     "chainId": 1,
@@ -14679,6 +14651,11 @@
     "symbol": "AXL",
     "decimals": 6,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x467719ad09025fcc6cf6f8311755809d45a5e5f3/41180471c6922ea4cb57584478330418.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "56": {
@@ -14965,6 +14942,11 @@
     "name": "EigenLayer",
     "symbol": "EIGEN",
     "decimals": 18,
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "42161": {
@@ -14988,6 +14970,11 @@
     "symbol": "ENA",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x57e114b691db790c35207b2e685d4a43181e6061/bb8bd15480078225e9eca0f9b52415d4.png",
+    "tags": [
+      "UTILITY",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "42161": {
@@ -15002,6 +14989,11 @@
     "name": "Ether.fi",
     "symbol": "ETHFI",
     "decimals": 18,
+    "tags": [
+      "UTILITY",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "42161": {
@@ -15284,6 +15276,11 @@
     "symbol": "MORPHO",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x58d97b57bb95320f9a05dc918aef65434969c2b2/c092d2c513136e17883955cdd2c62ff1.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "8453": {
@@ -15297,7 +15294,12 @@
     "address": "0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073",
     "name": "Movement",
     "symbol": "MOVE",
-    "decimals": 8
+    "decimals": 8,
+    "tags": [
+      "UTILITY",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -15373,6 +15375,11 @@
     "symbol": "ONDO",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3/5afbedf06f5827e346deada3dc7d7c39.png",
+    "tags": [
+      "UTILITY",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "42161": {
@@ -15403,6 +15410,10 @@
     "symbol": "PEPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725",
+    "tags": [
+      "MEME",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "10": {
@@ -15555,7 +15566,12 @@
     "name": "Safe",
     "symbol": "SAFE",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x5afe3855358e112b5647b952709e6165e1c1eeee/46e9dd25f7a9df3b795d35232bc3c527.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x5afe3855358e112b5647b952709e6165e1c1eeee/46e9dd25f7a9df3b795d35232bc3c527.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -15594,7 +15610,6 @@
   {
     "chainId": 1,
     "address": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
-    "popular": true,
     "name": "SOL Wormhole ",
     "symbol": "SOL",
     "decimals": 9,
@@ -15833,6 +15848,11 @@
     "symbol": "ZRO",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6985884c4392d348587b19cb9eaaf157f13271cd/3ecef8f42218c978abb7d12c14df3fef.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "42161": {
@@ -15844,7 +15864,7 @@
   {
     "chainId": 1,
     "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
-    "name": "Binance Coin  Wormhole ",
+    "name": "Binance Coin Wormhole ",
     "symbol": "BNB",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/coin/logo_url/bnb/9784283a36f23a58982fc964574ea530.png"
@@ -15855,7 +15875,12 @@
     "name": "BNB",
     "symbol": "BNB",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
+    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 1,
@@ -16567,7 +16592,12 @@
     "name": "PancakeSwap Token",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x152649ea73beab28c5b49b26eb48f7ead6d4c898/9003539eb61139bd494b7412b785d482.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x152649ea73beab28c5b49b26eb48f7ead6d4c898/9003539eb61139bd494b7412b785d482.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x163f8c2467924be0ae7b5347228cabf260318753",
@@ -16575,7 +16605,12 @@
     "name": "Worldcoin",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x163f8c2467924be0ae7b5347228cabf260318753/30ac094d49a4b6e7561810c16ddc8c69.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x163f8c2467924be0ae7b5347228cabf260318753/30ac094d49a4b6e7561810c16ddc8c69.png",
+    "tags": [
+      "UTILITY",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
@@ -16695,7 +16730,12 @@
     "name": "USDe",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png",
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
@@ -16859,7 +16899,6 @@
   },
   {
     "symbol": "AURA",
-    "popular": true,
     "name": "Aura Finance",
     "address": "0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF",
     "decimals": 18,
@@ -16911,7 +16950,11 @@
     "name": "Rocket Pool Token",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd33526068d116ce69f19a9ee46f0bd304f21a51f/0dac0c5e1dd543fb62581f0756e0b11f.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd33526068d116ce69f19a9ee46f0bd304f21a51f/0dac0c5e1dd543fb62581f0756e0b11f.png",
+    "tags": [
+      "GOVERNANCE",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
@@ -18380,12 +18423,16 @@
   },
   {
     "chainId": 1,
-    "popular": true,
     "base": true,
     "address": "0x0000000000000000000000000000000000000000",
     "name": "Ether",
     "symbol": "ETH",
     "decimals": 18,
+    "tags": [
+      "NATIVE",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
@@ -19926,6 +19973,11 @@
     "symbol": "TRX",
     "decimals": 6,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x50327c6c5a14dcade707abad2e27eb517df87ab5/dc0c451aa6c377c885cf5dc69eaaa9a3.png",
+    "tags": [
+      "UTILITY",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ],
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
@@ -21917,7 +21969,13 @@
     "name": "Virtuals Protocol",
     "symbol": "VIRTUAL",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x44ff8620b8ca30902395a7bd3f2407e1a091bf73/cbb70834d9442214c846833e47648255.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x44ff8620b8ca30902395a7bd3f2407e1a091bf73/cbb70834d9442214c846833e47648255.png",
+    "tags": [
+      "GOVERNANCE",
+      "UTILITY",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -33274,7 +33332,12 @@
     "name": "Mantle",
     "symbol": "MNT",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8/a443c78c33704d48f06e5686bb87f85e.png"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8/a443c78c33704d48f06e5686bb87f85e.png",
+    "tags": [
+      "UTILITY",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -44670,7 +44733,12 @@
     "name": "Bitget Token",
     "symbol": "BGB",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x54d2252757e1672eead234d27b1270728ff90581/36f5b8138cf232c901ac1295176a21df.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x54d2252757e1672eead234d27b1270728ff90581/36f5b8138cf232c901ac1295176a21df.png",
+    "tags": [
+      "UTILITY",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -50150,7 +50218,12 @@
     "name": "First Digital USD",
     "symbol": "FDUSD",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc5f0f7b66764f6ec8c8dff7ba683102295e16409/9c61b134f82d8780005895d8fb6b19ab.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc5f0f7b66764f6ec8c8dff7ba683102295e16409/9c61b134f82d8780005895d8fb6b19ab.png",
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -53995,7 +54068,12 @@
     "name": "Wormhole",
     "symbol": "W",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91/e5b418b93d981b9b5dcd170347369465.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91/e5b418b93d981b9b5dcd170347369465.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
@@ -57499,5 +57577,13 @@
     "symbol": "XOMD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54189/thumb/d-token-200.png?1738682617"
+  },
+  {
+    "chainId": 1,
+    "address": "0x058d411ab9911f90c74f471bdc9d2bb4cf9b309c",
+    "name": "Rivalz Network",
+    "symbol": "RIZ",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/54076/thumb/RIZ.png?1738784822"
   }
 ]

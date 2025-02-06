@@ -4000,5 +4000,13 @@
     "symbol": "AKITAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/23043/thumb/coingeckologoakitax.png?1696522336"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8c8d2a7d8d9cf26f5ee1bbfc0ba56e93f4a4a7ac",
+    "name": "AIvalanche DeFAI Agents",
+    "symbol": "AVAXAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54213/thumb/AIvalanche_DeFAI_Agents.jpg?1738798952"
   }
 ]
