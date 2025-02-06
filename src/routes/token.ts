@@ -71,6 +71,9 @@ export class TokenRegistry {
         for (const i in this.tags) {
             const tag = this.tags[i]
             const chainTagData: Token[] = chainData.filter((token: Token) => {
+                if (chainKey === '1' && token.symbol.toLowerCase() === 'eth' && token.address === '0x0000000000000000000000000000000000000000') {
+                    return false
+                }
                 if (!collected_addresses.includes(token.address) &&token.tags?.includes(tag)) {
                     return true
                 }
@@ -81,6 +84,9 @@ export class TokenRegistry {
             collected_addresses.push(...chainTagData.map((token: Token) => token.address))
         }
         const remainingTokens: Token[] = chainData.filter((token: Token) => {
+            if (chainKey === '1' && token.symbol.toLowerCase() === 'eth' && token.address === '0x0000000000000000000000000000000000000000') {
+                return false
+            }
             if (collected_addresses.includes(token.address)) {
                 return false
             }
