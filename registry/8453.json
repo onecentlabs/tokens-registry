@@ -916,6 +916,7 @@
     "logoURI": "https://static.debank.com/image/coin/logo_url/eth/d61441782d4a08a7479d54aea211679e.png",
     "tags": [
       "WRAPPED",
+      "NATIVE",
       "POPULAR",
       "TRADE_VOLUME",
       "VERIFIED"
@@ -12545,6 +12546,11 @@
     "decimals": 18,
     "symbol": "ETH",
     "name": "Ether",
+    "tags": [
+      "NATIVE",
+      "TRADE_VOLUME",
+      "POPULAR"
+    ],
     "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
   },
   {

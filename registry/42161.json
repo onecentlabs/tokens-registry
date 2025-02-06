@@ -193,6 +193,12 @@
     "symbol": "ARB",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/coin/logo_url/arbitrum/854f629937ce94bebeb2cd38fb336de7.png",
+    "tags": [
+      "NATIVE",
+      "POPULAR",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -1150,6 +1156,11 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xf97f4df75117a78c1a5a0dbb814af92458539fb4/69425617db0ef93a7c21c4f9b81c7ca5.png",
+    "tags": [
+      "UTILITY",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -2162,6 +2173,11 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0/fcee0c46fc9864f48ce6a40ed1cdd135.png",
+    "tags": [
+      "GOVERNANCE",
+      "POPULAR",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -2176,6 +2192,12 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 42161,
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
     "extensions": {
       "bridgeInfo": {
@@ -2243,6 +2265,12 @@
     "decimals": 8,
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "tags": [
+      "WRAPPED",
+      "POPULAR",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -2258,6 +2286,12 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://static.debank.com/image/era_token/logo_url/0x5aea5775959fbc2557cc8789bc1bf90a239d9a91/61844453e63cf81301f845d7864236f6.png",
+    "tags": [
+      "NATIVE",
+      "WRAPPED",
+      "TRADE_VOLUME",
+      "POPULAR"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -3331,7 +3365,12 @@
     "address": "0x37a645648df29205c6261289983fb04ecd70b4b3",
     "name": "Animecoin",
     "symbol": "ANIME",
-    "decimals": 18
+    "decimals": 18,
+    "tags": [
+      "MEME",
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 42161,
@@ -6930,7 +6969,11 @@
     "name": "Pepe",
     "symbol": "PEPE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29850/thumb/pepe-token.jpeg?1696528776"
+    "logoURI": "https://assets.coingecko.com/coins/images/29850/thumb/pepe-token.jpeg?1696528776",
+    "tags": [
+      "MEME",
+      "POPULAR"
+    ]
   },
   {
     "chainId": 42161,
@@ -8315,6 +8358,11 @@
     "chainId": 42161,
     "decimals": 18,
     "symbol": "ETH",
+    "tags": [
+      "NATIVE",
+      "TRADE_VOLUME",
+      "POPULAR"
+    ],
     "name": "Ether",
     "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
   },
