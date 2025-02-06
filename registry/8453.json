@@ -12583,7 +12583,7 @@
     "decimals": 18,
     "symbol": "sUSDe",
     "name": "Staked USDe",
-    "logoURI": null
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9d39a5de30e57443bff2a8307a4256c8797a3497/a9969be31b8f85c69b4cdf7b1a6f5dc5.png"
   },
   {
     "address": "0x12418783e860997eb99e8acf682df952f721cf62",

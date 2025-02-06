@@ -3886,7 +3886,8 @@
     "address": "0x1aae7de64d9ae1487e95858bbf98185f21e926fd",
     "name": "AICORE",
     "symbol": "AICORE",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x1aae7de64d9ae1487e95858bbf98185f21e926fd/65b47d3cdf509306f7aa779dedb334b5.png"
   },
   {
     "chainId": 42161,
