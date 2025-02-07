@@ -4016,5 +4016,13 @@
     "symbol": "PLSR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54221/thumb/_PLSR_256x256.png?1738859327"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc4B06F17ECcB2215a5DBf042C672101Fc20daF55",
+    "name": "Flux",
+    "symbol": "FLUX",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x720CD16b011b987Da3518fbf38c3071d4F0D1495/logo.png"
   }
 ]

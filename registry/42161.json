@@ -8674,5 +8674,51 @@
     "symbol": "COSTD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54226/thumb/d-token-200.png?1738861053"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x63806C056Fa458c548Fb416B15E358A9D685710A",
+    "name": "Flux",
+    "symbol": "FLUX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x720CD16b011b987Da3518fbf38c3071d4F0D1495/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x720CD16b011b987Da3518fbf38c3071d4F0D1495"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf75eE6D319741057a82a88Eeff1DbAFAB7307b69",
+    "name": "KRYLL",
+    "symbol": "KRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2807/thumb/krl.png?1547036979",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0ce45dd53affbb011884ef1866e0738f58ab7969",
+    "name": "cgETH Hashkey Cloud",
+    "symbol": "CGETHHASHKEY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54162/thumb/Cgeth_Hashkey.png?1738482570"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1792865d493fe4dfdd504010d3c0f6da11e8046d",
+    "name": "clBTC",
+    "symbol": "CLBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999"
   }
 ]

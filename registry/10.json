@@ -3921,5 +3921,21 @@
     "symbol": "BALN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1696514953"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0ce45dd53affbb011884ef1866e0738f58ab7969",
+    "name": "cgETH Hashkey Cloud",
+    "symbol": "CGETHHASHKEY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54162/thumb/Cgeth_Hashkey.png?1738482570"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1792865d493fe4dfdd504010d3c0f6da11e8046d",
+    "name": "clBTC",
+    "symbol": "CLBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999"
   }
 ]

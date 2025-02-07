@@ -58023,5 +58023,37 @@
     "symbol": "EROD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54230/thumb/d-token-200.png?1738861119"
+  },
+  {
+    "chainId": 1,
+    "address": "0xafb942e2a12ac0861ad81b5c37682f588912c1d9",
+    "name": "Privix",
+    "symbol": "PRIVIX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54239/thumb/Privix.png?1738873277"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc60a9145d9e9f1152218e7da6df634b7a74ae444",
+    "name": "cgETH Hashkey Cloud",
+    "symbol": "CGETHHASHKEY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54162/thumb/Cgeth_Hashkey.png?1738482570"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe7ae30c03395d66f30a26c49c91edae151747911",
+    "name": "clBTC",
+    "symbol": "CLBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999"
+  },
+  {
+    "chainId": 1,
+    "address": "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16",
+    "name": "Soil",
+    "symbol": "SOIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32050/thumb/SOIL_sygnet_dark_blue.png?1696530847"
   }
 ]

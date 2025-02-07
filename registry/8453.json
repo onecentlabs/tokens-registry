@@ -13112,5 +13112,13 @@
     "symbol": "EROD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54230/thumb/d-token-200.png?1738861119"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb59167235bf3588b357de6cd98ca6f94d753c76",
+    "name": "MetaInside by Virtuals",
+    "symbol": "MIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54236/thumb/metainside-logo.png?1738871801"
   }
 ]
