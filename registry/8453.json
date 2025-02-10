@@ -13120,5 +13120,133 @@
     "symbol": "MIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54236/thumb/metainside-logo.png?1738871801"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x47e316d1951568b4fbc7a1bcd641c5624a756a05",
+    "name": "Wrapped AGC",
+    "symbol": "WAGC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34256/thumb/Argocoin.jpg?1729941668"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1c61629598e4a901136a81bc138e5828dc150d67",
+    "name": "Wormhole Bridged Wrapped SOL  Base ",
+    "symbol": "WSOL",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54252/thumb/solana.jpg?1738911214"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3",
+    "name": "B3",
+    "symbol": "B3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54287/thumb/B3.png?1739001374"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x46a157f74503a7b32c3fffcf424227e00d7dfdc9",
+    "name": "Hippo Swap",
+    "symbol": "HIPPO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54245/thumb/fcI57MiB_400x400.jpg?1738904939"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x90ec58ef4cc9f37b96de1e203b65bd4e6e79580e",
+    "name": "Alpha City",
+    "symbol": "AMETA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54292/thumb/200x200.png?1739083747"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x323ae144409a9758331f4e20cd3d24c216cfb37b",
+    "name": "Motoko",
+    "symbol": "MOTOKO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54249/thumb/Motoko-NFT_OS.jpg?1738907304"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd45a01a729a0d4ccbe1523e58eb4ff8bdc3607d7",
+    "name": "Dinari EZBC",
+    "symbol": "EZBCD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54267/thumb/d-token-200.png?1738994496"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x437b5acc7d6f0eacb97431e649c61e98badb3f92",
+    "name": "Dinari PG",
+    "symbol": "PGD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54269/thumb/d-token-200.png?1738994720"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x314936e9cdc0df06941d2e84949a58e0f5f82e6a",
+    "name": "Dinari PALL",
+    "symbol": "PALLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54270/thumb/d-token-200.png?1738994765"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd5e8dc8ba0c459a97a79d8ee2b4fec186e4af078",
+    "name": "Dinari CCL",
+    "symbol": "CCLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54275/thumb/d-token-200.png?1738998063"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb9c229a7aac1c67c7468baf37ef056a91d7df118",
+    "name": "Dinari F",
+    "symbol": "FD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54276/thumb/d-token-200.png?1738998264"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa26a3903cbba4e6c2c757d7601fbc569efc479ef",
+    "name": "Dinari RKLB",
+    "symbol": "RKLBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54280/thumb/d-token-200.png?1738998854"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdae49c25fad3a62a8e8bfb6da12c46be611f9f7a",
+    "name": "KRYLL",
+    "symbol": "KRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2807/thumb/krl-ticker_%282%29.png?1716353733"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x341c9b4e5566a2ae22a337c84e3c006064731925",
+    "name": "Dinari CSCO",
+    "symbol": "CSCOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54277/thumb/d-token-200.png?1738998301"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x116b3ad9ba8f4e6fb83a5bcad8ba2e97114f9568",
+    "name": "Dinari ITA",
+    "symbol": "ITAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54278/thumb/d-token-200.png?1738998357"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11a2021368f518fa390d20308076b25c57292e83",
+    "name": "HealthSci AI",
+    "symbol": "HSAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51384/thumb/logo-200.jpg?1730967315"
   }
 ]

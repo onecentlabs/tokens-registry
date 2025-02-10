@@ -58055,5 +58055,125 @@
     "symbol": "SOIL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32050/thumb/SOIL_sygnet_dark_blue.png?1696530847"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9ea59db651a3c79a8d52a394a49da8e9a214d6ae",
+    "name": "Big Balls",
+    "symbol": "BALLS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54293/thumb/egg9rn4C_400x400.jpg?1739084947"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe86142af1321eaac4270422081c1eda31eecff0c",
+    "name": "Yay StakeStone Ether",
+    "symbol": "YAYSTONE",
+    "decimals": 15,
+    "logoURI": "https://assets.coingecko.com/coins/images/54279/thumb/logo_type.png?1738998748"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf",
+    "name": "Singularity Finance",
+    "symbol": "SFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54242/thumb/uvrV4k4z_400x400.jpg?1738886449"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4e9623b7e5b6438542458f5ee828d65c24d3af8c",
+    "name": "Jerry The Turtle By Matt Furie",
+    "symbol": "JYAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54259/thumb/200x200_logo.jpg?1738950729"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0341d2c2ce65b62af8887e905245b8cfea2a3b97",
+    "name": "Yay Kelp DAO s Airdrop Gain ETH",
+    "symbol": "YAYAGETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54281/thumb/logo_type.png?1738999005"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8074836637eb9cc73a01a65d5700907fc639c4e9",
+    "name": "DuelNow",
+    "symbol": "DNOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54289/thumb/token-logo-square-200.png?1739008717"
+  },
+  {
+    "chainId": 1,
+    "address": "0x71d898c440af10566cea48e12c01f435ec788c7a",
+    "name": "MAI",
+    "symbol": "MAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54290/thumb/mai-logo.jpg?1739009398"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc4c6213024d9adc5132707942905918df7fbbbe8",
+    "name": "Dinari EZBC",
+    "symbol": "EZBCD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54267/thumb/d-token-200.png?1738994496"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaa88ab7413f909eef5bd69bb2a2b6f97dc6743b8",
+    "name": "Dinari PG",
+    "symbol": "PGD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54269/thumb/d-token-200.png?1738994720"
+  },
+  {
+    "chainId": 1,
+    "address": "0x328a9bc033b22de0b82762c49762ce1440b45d4b",
+    "name": "Dinari PALL",
+    "symbol": "PALLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54270/thumb/d-token-200.png?1738994765"
+  },
+  {
+    "chainId": 1,
+    "address": "0x09de9c8fbe90271e8886b55d66e3b37130e3a3da",
+    "name": "Dinari CCL",
+    "symbol": "CCLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54275/thumb/d-token-200.png?1738998063"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9ba08fa0428db35dde85d6c515184642c6301199",
+    "name": "Dinari F",
+    "symbol": "FD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54276/thumb/d-token-200.png?1738998264"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc3260a0e1dd1f7ac6508ae29cb00f4fa4b544ba7",
+    "name": "Dinari RKLB",
+    "symbol": "RKLBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54280/thumb/d-token-200.png?1738998854"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0a27c31f087cd3d30cdad339731bede4194531a4",
+    "name": "Dinari CSCO",
+    "symbol": "CSCOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54277/thumb/d-token-200.png?1738998301"
+  },
+  {
+    "chainId": 1,
+    "address": "0x993d9ca16686746fef44e320e7f091578710cd18",
+    "name": "Dinari ITA",
+    "symbol": "ITAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54278/thumb/d-token-200.png?1738998357"
   }
 ]

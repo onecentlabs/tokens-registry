@@ -1125,5 +1125,69 @@
     "symbol": "EROD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54230/thumb/d-token-200.png?1738861119"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x665b080affb4a7e0ceae3ce88ba0401c864635d8",
+    "name": "Dinari EZBC",
+    "symbol": "EZBCD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54267/thumb/d-token-200.png?1738994496"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x8ad2b97b7fca40af71bfef9857d10bc1bfe70175",
+    "name": "Dinari PG",
+    "symbol": "PGD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54269/thumb/d-token-200.png?1738994720"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x56de5c6c56f92ecf2da286ea81a0fb74b25f9579",
+    "name": "Dinari PALL",
+    "symbol": "PALLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54270/thumb/d-token-200.png?1738994765"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xbffaea400b56da7b7085a27676d4b72361217e35",
+    "name": "Dinari CCL",
+    "symbol": "CCLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54275/thumb/d-token-200.png?1738998063"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xfafda868581ce31b7ef7fe0b146a24dbb4717a5f",
+    "name": "Dinari F",
+    "symbol": "FD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54276/thumb/d-token-200.png?1738998264"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x771952e0d7701f9d9eeeaf69c51bfdd57cbd6a6a",
+    "name": "Dinari RKLB",
+    "symbol": "RKLBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54280/thumb/d-token-200.png?1738998854"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x4040fe823164384d2b719546557f01136990395b",
+    "name": "Dinari CSCO",
+    "symbol": "CSCOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54277/thumb/d-token-200.png?1738998301"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xbb4ca8935edcafba90dac55652bb938eb961cb36",
+    "name": "Dinari ITA",
+    "symbol": "ITAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54278/thumb/d-token-200.png?1738998357"
   }
 ]

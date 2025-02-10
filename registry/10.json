@@ -3937,5 +3937,13 @@
     "symbol": "CLBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999"
+  },
+  {
+    "chainId": 10,
+    "address": "0x2ed6222cb75e353b8789bec7bb443b7ec9022021",
+    "name": "KRYLL",
+    "symbol": "KRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2807/thumb/krl-ticker_%282%29.png?1716353733"
   }
 ]

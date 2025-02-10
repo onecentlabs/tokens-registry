@@ -4024,5 +4024,13 @@
     "symbol": "FLUX",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x720CD16b011b987Da3518fbf38c3071d4F0D1495/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x66db035009efbcfe9a3decaeafe9fb4ebc5df812",
+    "name": "Bee Trade Finance",
+    "symbol": "BTF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53962/thumb/photo_2025-01-24_11-07-27.jpg?1737791708"
   }
 ]

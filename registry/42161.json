@@ -8720,5 +8720,85 @@
     "symbol": "CLBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf1f313acc8c65dc2e7eebeb166c7c30be634eb38",
+    "name": "Dinari ITA",
+    "symbol": "ITAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54278/thumb/d-token-200.png?1738998357"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa6f344abc6e2501b2b303fcbba99cd89f136b5fb",
+    "name": "Dinari EZBC",
+    "symbol": "EZBCD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54267/thumb/d-token-200.png?1738994496"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb90e1ee5f4194388e71c11dc2a4eea16da391ce4",
+    "name": "Dinari PG",
+    "symbol": "PGD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54269/thumb/d-token-200.png?1738994720"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7a2abf0543674ba1bb618b1e88118e8a4fefab48",
+    "name": "Dinari PALL",
+    "symbol": "PALLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54270/thumb/d-token-200.png?1738994765"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa81323f79c4f3887e18cc2702b31635a56ec606e",
+    "name": "Dinari CCL",
+    "symbol": "CCLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54275/thumb/d-token-200.png?1738998063"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3774a2e7c66bc9371424c3edc67503cadd7c882b",
+    "name": "Dinari PPLT",
+    "symbol": "PPLTD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54271/thumb/d-token-200.png?1738994803"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe3b82cfbfeda73dc6870d76090061bc3c97d25ac",
+    "name": "Dinari RKLB",
+    "symbol": "RKLBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54280/thumb/d-token-200.png?1738998854"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7af89514dadd0a39b5e87f013b0f3fd2ed591c88",
+    "name": "Dinari F",
+    "symbol": "FD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54276/thumb/d-token-200.png?1738998264"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x337842843512192b798a5592053ce8e2245651f8",
+    "name": "Dinari CSCO",
+    "symbol": "CSCOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54277/thumb/d-token-200.png?1738998301"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x064f8b858c2a603e1b106a2039f5446d32dc81c1",
+    "name": "Autonolas",
+    "symbol": "OLAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31099/thumb/OLAS-token.png?1696529930"
   }
 ]
