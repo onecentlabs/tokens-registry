@@ -4032,5 +4032,13 @@
     "symbol": "BTF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53962/thumb/photo_2025-01-24_11-07-27.jpg?1737791708"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x73831e7c5577859fb0583af97c9c68f96a43fcb6",
+    "name": "AIGG",
+    "symbol": "AIGG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54314/thumb/238291d4-6441-456d-90d5-aa9c8805d50c.jpeg?1739212682"
   }
 ]

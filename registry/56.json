@@ -6275,5 +6275,13 @@
     "name": "Test",
     "decimals": 18,
     "address": "0x86Bb94DdD16Efc8bc58e6b056e8df71D9e666429"
+  },
+  {
+    "chainId": 56,
+    "symbol": "USDF",
+    "name": "Astherus USDF",
+    "decimals": 18,
+    "address": "0x5A110fC00474038f6c02E89C707D638602EA44B5",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5A110fC00474038f6c02E89C707D638602EA44B5.png"
   }
 ]

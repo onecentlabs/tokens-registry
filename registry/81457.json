@@ -1189,5 +1189,77 @@
     "symbol": "ITAD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54278/thumb/d-token-200.png?1738998357"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xe0ced15bc8ea1335bec573819f1813ffc5e38878",
+    "name": "Dinari BOXX",
+    "symbol": "BOXXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54359/thumb/d-token-200.png?1739401220"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xd2c500a8dd36eee1082314d624a46b5ab37c426e",
+    "name": "Dinari SBUX",
+    "symbol": "SBUXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54364/thumb/d-token-200.png?1739401368"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xa8ef52a9c4010e20f3811f0a8606c788fccc7a2a",
+    "name": "Dinari CVX",
+    "symbol": "CVXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54360/thumb/d-token-200.png?1739401251"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xe99292ca55f6e01765b900dadd471c63136e6760",
+    "name": "Dinari EEM",
+    "symbol": "EEMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54361/thumb/d-token-200.png?1739401272"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xf020a139d2346cdd2c0e1523395346756f42ad7e",
+    "name": "Dinari HYMB",
+    "symbol": "HYMBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54362/thumb/d-token-200.png?1739401319"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x45907acf1c9f45450ded33e3f06f96dc298c5d70",
+    "name": "Dinari MELI",
+    "symbol": "MELID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54363/thumb/d-token-200.png?1739401339"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xb127e5d53df0c2056cf337081ec56f01efd5c8bc",
+    "name": "Dinari SNOW",
+    "symbol": "SNOWD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54365/thumb/d-token-200.png?1739401375"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xdd31c8b5c899c0f85fb4738accac44180e4d7390",
+    "name": "Dinari SOXL",
+    "symbol": "SOXLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54366/thumb/d-token-200.png?1739401385"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x0e8c94ce5f658b52a8d4e30933520b2106a9397c",
+    "name": "Dinari USHY",
+    "symbol": "USHYD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54367/thumb/d-token-200.png?1739401403"
   }
 ]

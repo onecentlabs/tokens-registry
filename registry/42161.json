@@ -8800,5 +8800,37 @@
     "symbol": "OLAS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31099/thumb/OLAS-token.png?1696529930"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdd1ddd4d978ac0baef4bfa9c7e91853bfce90f11",
+    "name": "The Lux Network",
+    "symbol": "TLN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40147/thumb/THE_LUX_NETWORK_LOGO.webp?1726051439"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xcd3246f6173217dbecf63ffab83d477b266679da",
+    "name": "Dinari BOXX",
+    "symbol": "BOXXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54359/thumb/d-token-200.png?1739401220"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf",
+    "name": "Primex Finance",
+    "symbol": "PMX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28344/thumb/Primex_Finance_Updated_Logo.png?1697995403"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6e401189c8a68d05562c9bab7f674f910821eacf",
+    "name": "Kernel",
+    "symbol": "KERNEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54326/thumb/kernel.png?1739292685"
   }
 ]

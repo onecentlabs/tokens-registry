@@ -58175,5 +58175,133 @@
     "symbol": "ITAD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54278/thumb/d-token-200.png?1738998357"
+  },
+  {
+    "chainId": 1,
+    "address": "0x39b8b6385416f4ca36a20319f70d28621895279d",
+    "name": "Monerium EUR emoney",
+    "symbol": "EURE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54303/thumb/eure.jpg?1739167959"
+  },
+  {
+    "chainId": 1,
+    "address": "0x28cfe98c33b8a8bb5f5ac5068a95d9db6bee5ffd",
+    "name": "soup game",
+    "symbol": "SOUP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54298/thumb/SOUP_LOGO_200x200_.jpg?1739164200"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0cf7356e2d13ae2b57e77286284984a5fc8f88b3",
+    "name": "Scotcoin",
+    "symbol": "SCOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54356/thumb/logo.png?1739384345"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3f80b1c54ae920be41a77f8b902259d48cf24ccf",
+    "name": "Kernel",
+    "symbol": "KERNEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54326/thumb/kernel.png?1739292685"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf",
+    "name": "Primex Finance",
+    "symbol": "PMX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28344/thumb/Primex_Finance_Updated_Logo.png?1697995403"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6967f0974d76d34e140cae27efea32cdf546b58e",
+    "name": "Gamer Tag",
+    "symbol": "GMRT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54343/thumb/Token-transparent.png?1739354572"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe94db607eba8f76a377d9bcc327c9856ed90fbde",
+    "name": "Nina",
+    "symbol": "NINA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54353/thumb/1000161703.png?1739382520"
+  },
+  {
+    "chainId": 1,
+    "address": "0x088828f0a8e2dc8511e957230f4681371451fa1d",
+    "name": "Dinari BOXX",
+    "symbol": "BOXXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54359/thumb/d-token-200.png?1739401220"
+  },
+  {
+    "chainId": 1,
+    "address": "0x86ccbf2471be7ebca2c2c92a12fcf7089a44b4df",
+    "name": "Dinari SBUX",
+    "symbol": "SBUXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54364/thumb/d-token-200.png?1739401368"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc49da7892155ccc603f0b88eaedaa3b57910096f",
+    "name": "Dinari CVX",
+    "symbol": "CVXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54360/thumb/d-token-200.png?1739401251"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf0e9e98ef4b78ddfbbfafba519345d877eb7a81e",
+    "name": "Dinari EEM",
+    "symbol": "EEMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54361/thumb/d-token-200.png?1739401272"
+  },
+  {
+    "chainId": 1,
+    "address": "0x88cee7bf66435f6fdbb681a6a522f26598fe39a2",
+    "name": "Dinari HYMB",
+    "symbol": "HYMBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54362/thumb/d-token-200.png?1739401319"
+  },
+  {
+    "chainId": 1,
+    "address": "0x52bd2411f090af9b1fc688fcf3c4242ab0e7ddaf",
+    "name": "Dinari MELI",
+    "symbol": "MELID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54363/thumb/d-token-200.png?1739401339"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3482968ed0e10bf7446706a6680e8a8f486f61b0",
+    "name": "Dinari SNOW",
+    "symbol": "SNOWD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54365/thumb/d-token-200.png?1739401375"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc580919e2e4b083321f9e4c5ed56bc862f275916",
+    "name": "Dinari SOXL",
+    "symbol": "SOXLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54366/thumb/d-token-200.png?1739401385"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd16acb3147bcafd8469ffb288f45db52cc04ae68",
+    "name": "Dinari USHY",
+    "symbol": "USHYD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54367/thumb/d-token-200.png?1739401403"
   }
 ]
