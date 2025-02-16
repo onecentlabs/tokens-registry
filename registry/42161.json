@@ -8832,5 +8832,180 @@
     "symbol": "KERNEL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54326/thumb/kernel.png?1739292685"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xac7CE9F2794e01c0D27b096C52f592e343D77cbf",
+    "name": "Pirate Nation",
+    "symbol": "PIRATE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38524/standard/_Pirate_Transparent_200x200.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x7613C48E0cd50E42dD9Bf0f6c235063145f6f8DC"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x41c9954ff544c2376385afc15d11d9bcfac777ab",
+    "name": "Dinari MELI",
+    "symbol": "MELID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54363/thumb/d-token-200.png?1739401339"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4b72de2da8be112cad87773b47537cf550676ffa",
+    "name": "Dinari SBUX",
+    "symbol": "SBUXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54364/thumb/d-token-200.png?1739401368"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xef5713f65e32332b604e1096e68a6d78a0e927cf",
+    "name": "Dinari HYMB",
+    "symbol": "HYMBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54362/thumb/d-token-200.png?1739401319"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa213072a726062aca3c07839b7e531f101740c5c",
+    "name": "Dinari SPSK",
+    "symbol": "SPSKD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54391/thumb/d-token-200.png?1739485728"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2594a6392832b341b76b60e8b00f42094e30b1b3",
+    "name": "Dinari SPUS",
+    "symbol": "SPUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54393/thumb/d-token-200.png?1739485765"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1795eeacbf98f08e7ee5af0a8913d5a54c24bb40",
+    "name": "Dinari SPTE",
+    "symbol": "SPTED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54392/thumb/d-token-200.png?1739485749"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xccf43c38fe53c633425e14f6aba50a98e5ab1408",
+    "name": "Dinari SPWO",
+    "symbol": "SPWOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54394/thumb/d-token-200.png?1739485782"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x50f7b76a0b888e5d7196f1a472d2e567d425c761",
+    "name": "Dinari TJX",
+    "symbol": "TJXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54397/thumb/d-token-200.png?1739485840"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3f29fda039ee80f7d30fa5eb4e3b40691329f020",
+    "name": "Dinari UFO",
+    "symbol": "UFOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54395/thumb/d-token-200.png?1739485800"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5b041a4e76b08c5afc1e0b9a789cbfab5ebec993",
+    "name": "Dinari EEM",
+    "symbol": "EEMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54361/thumb/d-token-200.png?1739401272"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x40914f6007da3fcee3c8a6db211b5797848f8882",
+    "name": "Dinari VXX",
+    "symbol": "VXXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54396/thumb/d-token-200.png?1739485820"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0e929101c4fa7c91eaa64d7216161ba3eee387fe",
+    "name": "Dinari CVX",
+    "symbol": "CVXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54360/thumb/d-token-200.png?1739401251"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xeb32d26ab45b5c6cfe6c924adf00f8d5953dadf3",
+    "name": "Dinari USHY",
+    "symbol": "USHYD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54367/thumb/d-token-200.png?1739401403"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1ae31840d492993a58baf558180b5ee83ce2f8ce",
+    "name": "Dinari SNOW",
+    "symbol": "SNOWD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54365/thumb/d-token-200.png?1739401375"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9fe6002c876972d8d84124ec25000a6fa14c88ec",
+    "name": "Dinari SOXL",
+    "symbol": "SOXLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54366/thumb/d-token-200.png?1739401385"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa78d8321b20c4ef90ecd72f2588aa985a4bdb684",
+    "name": "Autonomi",
+    "symbol": "ANT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54388/thumb/Screenshot_2024-05-13_at_10.17.57.png?1739468481"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6491c05a82219b8d1479057361ff1654749b876b",
+    "name": "USDS",
+    "symbol": "USDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39926/thumb/usds.webp?1726666683"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xddb46999f8891663a8f2828d25298f70416d7610",
+    "name": "sUSDS",
+    "symbol": "SUSDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52721/thumb/sUSDS_Coin.png?1734086971"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf18e4466f26b4ca55bbab890b314a54976e45b17",
+    "name": "Game7",
+    "symbol": "G7",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37207/thumb/game7token-800x800.png?1738143341"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa6525ae43edcd03dc08e775774dcabd3bb925872",
+    "name": "BlackRock USD Institutional Digital Liq",
+    "symbol": "BUIDL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/36291/thumb/blackrock.png?1711013223"
   }
 ]

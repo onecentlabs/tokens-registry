@@ -3945,5 +3945,39 @@
     "symbol": "KRL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/2807/thumb/krl-ticker_%282%29.png?1716353733"
+  },
+  {
+    "chainId": 10,
+    "address": "0xEB528F54676dC39e8D62EEc1d4C1AFB25c1b9bB1",
+    "name": "Darwinia Commitment xKTON",
+    "symbol": "xKTON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XKTON/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XKTON"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x5ac3F9EDB4896DB1EdC0EF9d91421e740083e6e8",
+    "name": "Darwinia Network xRING",
+    "symbol": "xRING",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XRING/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XRING"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xa1cdab15bba75a80df4089cafba013e376957cf5",
+    "name": "BlackRock USD Institutional Digital Liq",
+    "symbol": "BUIDL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/36291/thumb/blackrock.png?1711013223"
   }
 ]

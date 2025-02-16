@@ -6283,5 +6283,29 @@
     "decimals": 18,
     "address": "0x5A110fC00474038f6c02E89C707D638602EA44B5",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x5A110fC00474038f6c02E89C707D638602EA44B5.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "KOMA",
+    "name": "Koma Inu",
+    "decimals": 18,
+    "address": "0xd5eaAaC47bD1993d661bc087E15dfb079a7f3C19",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xd5eaAaC47bD1993d661bc087E15dfb079a7f3C19.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "asUSDF",
+    "name": "Astherus asUSDF",
+    "decimals": 18,
+    "address": "0x917AF46B3C3c6e1Bb7286B9F59637Fb7C65851Fb",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x917AF46B3C3c6e1Bb7286B9F59637Fb7C65851Fb.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "Broccoli",
+    "name": "CZ'S DOG",
+    "decimals": 18,
+    "address": "0x6d5AD1592ed9D6D1dF9b93c793AB759573Ed6714",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6d5AD1592ed9D6D1dF9b93c793AB759573Ed6714.png"
   }
 ]

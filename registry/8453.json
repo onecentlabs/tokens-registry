@@ -13424,5 +13424,201 @@
     "symbol": "USHYD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54367/thumb/d-token-200.png?1739401403"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2CcC99A0a27D52F529A541B8A13E2440376ea3B9",
+    "name": "FEAR",
+    "symbol": "FEAR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FEAR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FEAR"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x624e2e7fDc8903165F64891672267AB0FCB98831",
+    "name": "SoSoValue",
+    "symbol": "SOSO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SOSO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SOSO"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x166d48F5449315F90cC5543886Bf74bbe6EA3Fb0",
+    "name": "Darwinia Commitment xKTON",
+    "symbol": "xKTON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XKTON/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XKTON"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x77Eb290DF0a5aaB15f681085FaeA1F653A3fc9b7",
+    "name": "Darwinia Network xRING",
+    "symbol": "xRING",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XRING/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XRING"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392",
+    "name": "Wrapped bNVDA",
+    "symbol": "WBNVDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54430/thumb/bNVDA_200x200.png?1739606241"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb0c565c2d422cca812cce15c42d21f4276df8560",
+    "name": "Mind AI",
+    "symbol": "MA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54373/thumb/-omHaGH-_400x400.jpg?1739427292"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xca57b8d3edd0bedc6c1087bd35d782c3518b2a52",
+    "name": "Lottery Token",
+    "symbol": "LOT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54432/thumb/1000161712.png?1739607416"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc799ada44171b741abf41ee54fb1b47fda5960be",
+    "name": "XO Protocol",
+    "symbol": "XOXO",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54426/thumb/token_256_256.png?1739605473"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3849cc93e7b71b37885237cd91a215974135cd8d",
+    "name": "Create",
+    "symbol": "CREATE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54410/thumb/based_creator_token.png?1739552390"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf598797d9c160aef2a14712c20b7731cbe5861da",
+    "name": "Perion",
+    "symbol": "PERC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23302/thumb/PERC.png?1696522520"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc63529297de076eb15fcbe873ae9136e446cfbb9",
+    "name": "Gyroscope",
+    "symbol": "GYFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23584/thumb/Gov_stellar_resized.png?1739476497"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9fd7bc3de3c1dd6041efbcbac43250da7b718a43",
+    "name": "Dinari SPSK",
+    "symbol": "SPSKD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54391/thumb/d-token-200.png?1739485728"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb0169ad580aa888467bbac4a4b650812dee74939",
+    "name": "Dinari SPTE",
+    "symbol": "SPTED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54392/thumb/d-token-200.png?1739485749"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x69fe3ee4f41e85a5431bb95bbe897f967845e5aa",
+    "name": "Dinari SPUS",
+    "symbol": "SPUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54393/thumb/d-token-200.png?1739485765"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1bc7cd640fba3d157f152665b7bf5cbe4a50d26a",
+    "name": "Dinari SPWO",
+    "symbol": "SPWOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54394/thumb/d-token-200.png?1739485782"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3ac60413b5ad95fc02409d6e8c5b316e19c962e1",
+    "name": "Dinari UFO",
+    "symbol": "UFOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54395/thumb/d-token-200.png?1739485800"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0ed151c9749d39c3ca8e537125fb4053e0c9b55f",
+    "name": "Dawae",
+    "symbol": "DAWAE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54403/thumb/IMG_0775.png?1739519972"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+    "name": "Wrapped bTSLA",
+    "symbol": "WBTSLA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54428/thumb/bTSLA_200x200.png?1739605965"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0dbff26347082381f035ed54dea12edb6d9ed2f4",
+    "name": "Dinari VXX",
+    "symbol": "VXXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54396/thumb/d-token-200.png?1739485820"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
+    "name": "Wrapped bCOIN",
+    "symbol": "WBCOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54429/thumb/bCOIN_200x200.png?1739606057"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf61558b2bc330c55ae85679be03a76dc0a8c9ed2",
+    "name": "Dinari TJX",
+    "symbol": "TJXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54397/thumb/d-token-200.png?1739485840"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+    "name": "Wrapped bMSTR",
+    "symbol": "WBMSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54431/thumb/bMSTR_200x200.png?1739606375"
   }
 ]

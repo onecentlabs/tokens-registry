@@ -11,5 +11,18 @@
       "opListId": "extended",
       "opTokenId": "LSK"
     }
+  },
+  {
+    "chainId": 4202,
+    "address": "0x03F1259b4986b8ae9040E250f958CEf09DaD8b6C",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0xb150759C71073Edf7D90d3D053aB5e67ea731Aa2",
+      "opListId": "default",
+      "opTokenId": "wstETH"
+    }
   }
 ]

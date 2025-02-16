@@ -1261,5 +1261,61 @@
     "symbol": "USHYD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54367/thumb/d-token-200.png?1739401403"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x0e576b0c554fbaef9893a2cd7b866af516bab581",
+    "name": "Dinari SPSK",
+    "symbol": "SPSKD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54391/thumb/d-token-200.png?1739485728"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xca838b9437eb20ada32703a8b912922088cf90b5",
+    "name": "Dinari SPTE",
+    "symbol": "SPTED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54392/thumb/d-token-200.png?1739485749"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x5e9e14b2386a9cd3d2ed510285d3389b34d48640",
+    "name": "Dinari SPUS",
+    "symbol": "SPUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54393/thumb/d-token-200.png?1739485765"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x09bc998f64d32b83d4a534bb2d5a4806a04c855d",
+    "name": "Dinari SPWO",
+    "symbol": "SPWOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54394/thumb/d-token-200.png?1739485782"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x8f6a976b6c7fe18e31870eadfae09b3cb447541a",
+    "name": "Dinari UFO",
+    "symbol": "UFOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54395/thumb/d-token-200.png?1739485800"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x32cbb8cdacd90dbec250f9b1e8b06232c6f3297b",
+    "name": "Dinari VXX",
+    "symbol": "VXXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54396/thumb/d-token-200.png?1739485820"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x1b91eb087e128a0514b9eb8d0804b586641a0849",
+    "name": "Dinari TJX",
+    "symbol": "TJXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54397/thumb/d-token-200.png?1739485840"
   }
 ]
