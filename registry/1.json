@@ -58451,5 +58451,45 @@
     "symbol": "USDD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25380/thumb/UUSD.jpg?1696524513"
+  },
+  {
+    "chainId": 1,
+    "address": "0xae3013789c836345dfd63a9df713e3c23fb3a664",
+    "name": "Geoff",
+    "symbol": "GEOFF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54434/thumb/logo__%281%29.jpeg?1739706446"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a9da2d710bb9b700acde7cb81f10f1ff8c89041",
+    "name": "BlackRock USD Institutional Digital Liq",
+    "symbol": "BUIDL-I",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54441/thumb/buidl.png?1739771414"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1de6289894e1763b6ea01401ed638dc1184b0e9b",
+    "name": "Infinity AI",
+    "symbol": "INFY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54453/thumb/infy.jpg?1739783440"
+  },
+  {
+    "chainId": 1,
+    "address": "0xccb365d2e11ae4d6d74715c680f56cf58bf4bf10",
+    "name": "Wall Street Pepe",
+    "symbol": "WEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54457/thumb/Wepe_Logo_200x200.png?1739795587"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
+    "name": "Rings scETH",
+    "symbol": "SCETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54461/thumb/sceth.png?1739847097"
   }
 ]

@@ -13620,5 +13620,53 @@
     "symbol": "WBMSTR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54431/thumb/bMSTR_200x200.png?1739606375"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc0d3700000c0e32716863323bfd936b54a1633d1",
+    "name": "Cod3x",
+    "symbol": "CDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54460/thumb/Token_white.png?1739846199"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb4d4ff3fcbd6965962a79229aa94631d394217cb",
+    "name": "Brat",
+    "symbol": "BRAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54444/thumb/Brat.png?1739772733"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8217aef424b8ed7279d90ec29315a6295dc73d16",
+    "name": "Airtok",
+    "symbol": "AIRTOK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54451/thumb/airtok.jpg?1739778722"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x739f93504a9e26d5973862dbc4a44178cc264852",
+    "name": "Locked Money",
+    "symbol": "LMY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54435/thumb/Locked_Money.png?1739707091"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9cfe02eb040c6f5718126128dbba0c1d364d9c07",
+    "name": "Shieldeum",
+    "symbol": "SDM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52254/thumb/Shieldeum_Coingecko.webp?1732834963"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x946f8b0ef009f3f5b1b35e6511a82a58b09d8d4e",
+    "name": "DexKit",
+    "symbol": "KIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13187/thumb/7739.png?1696512969"
   }
 ]

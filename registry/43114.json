@@ -4088,5 +4088,21 @@
     "symbol": "BUIDL",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/36291/thumb/blackrock.png?1711013223"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xff24003428fb2e969c39edee4e9f464b0b78313d",
+    "name": "Scarlet Waifu Capital Management",
+    "symbol": "WAIFU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54442/thumb/SWCM.png?1739864267"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x7698a5311da174a95253ce86c21ca7272b9b05f8",
+    "name": "Wink",
+    "symbol": "WINK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54466/thumb/Jc8Xgw8j_400x400.jpg?1739897165"
   }
 ]

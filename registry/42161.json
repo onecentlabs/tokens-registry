@@ -9007,5 +9007,21 @@
     "symbol": "BUIDL",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/36291/thumb/blackrock.png?1711013223"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+    "name": "Frax USD",
+    "symbol": "FRXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+    "name": "Staked Frax USD",
+    "symbol": "SFRXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232"
   }
 ]
