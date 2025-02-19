@@ -1,1 +1,1 @@
-export { default as constructUrl } from "./construct-url";
+export { default as constructUrl } from './construct-url'
