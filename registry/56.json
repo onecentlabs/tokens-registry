@@ -6323,5 +6323,21 @@
     "decimals": 18,
     "address": "0xC6c4575DC40aC63A5f89b5C4aE0B3A9134c52C4C",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xC6c4575DC40aC63A5f89b5C4aE0B3A9134c52C4C.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BROCCOLI",
+    "name": "Broccoli",
+    "decimals": 18,
+    "address": "0x23D3F4EaaA515403C6765bb623F287a8Cca28F2b",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x23D3F4EaaA515403C6765bb623F287a8Cca28F2b.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "Broccoli",
+    "name": "Broccoli",
+    "decimals": 18,
+    "address": "0x12B4356C65340Fb02cdff01293F95FEBb1512F3b",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x12B4356C65340Fb02cdff01293F95FEBb1512F3b.png"
   }
 ]

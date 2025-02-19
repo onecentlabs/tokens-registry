@@ -13684,5 +13684,13 @@
     "symbol": "ZYGO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/40022/thumb/1000000333.jpg?1725345968"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x98d0baa52b2d063e780de12f615f963fe8537553",
+    "name": "KAITO",
+    "symbol": "KAITO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54411/thumb/Qm4DW488_400x400.jpg?1739552780"
   }
 ]
