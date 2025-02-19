@@ -6315,5 +6315,13 @@
     "decimals": 18,
     "address": "0xa4c3497b57C8b6D510F3707A1e9694fD791f45FB",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xa4c3497b57C8b6D510F3707A1e9694fD791f45FB.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "nml",
+    "name": "zoey - your longevity coach by NetMind XYZ",
+    "decimals": 18,
+    "address": "0xC6c4575DC40aC63A5f89b5C4aE0B3A9134c52C4C",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xC6c4575DC40aC63A5f89b5C4aE0B3A9134c52C4C.png"
   }
 ]

@@ -9023,5 +9023,13 @@
     "symbol": "SFRXUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+    "name": "Layer3",
+    "symbol": "L3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37768/thumb/Square.png?1722045128"
   }
 ]

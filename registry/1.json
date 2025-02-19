@@ -58491,5 +58491,13 @@
     "symbol": "SCETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54461/thumb/sceth.png?1739847097"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa73b792906c79509d73fdfaaa78561e195010706",
+    "name": "Pipo",
+    "symbol": "PIPO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54474/thumb/Pipo.jpg?1739951527"
   }
 ]

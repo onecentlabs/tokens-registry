@@ -13668,5 +13668,21 @@
     "symbol": "KIT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13187/thumb/7739.png?1696512969"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x473c1656373b3715805f647911e75aaa49c39813",
+    "name": "Shitzu",
+    "symbol": "SHITZU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24857/thumb/sFChtaUA_400x400.jpg?1696524017"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaf4c1405aa8ab2a4f267a9700f9230ddc592f63f",
+    "name": "Zygo The Frog",
+    "symbol": "ZYGO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40022/thumb/1000000333.jpg?1725345968"
   }
 ]
