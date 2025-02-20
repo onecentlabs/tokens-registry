@@ -43,17 +43,17 @@ export class RPCFetch {
     } catch (error) {
       console.error('Error loading metadata:', error)
       this.rpcMap = {
-        1: ['https://ethereum-rpc.publicnode.com'],
-        42161: ['https://arb1.arbitrum.io/rpc'],
-        8453: ['https://mainnet.base.org'],
-        100: ['https://rpc.gnosischain.com'],
+        '1': ['https://ethereum-rpc.publicnode.com'],
+        '42161': ['https://arb1.arbitrum.io/rpc'],
+        '8453': ['https://mainnet.base.org'],
+        '100': ['https://rpc.gnosischain.com'],
       }
     }
   }
 
   // TODO: Current support limited to EVM chains and ERC20 tokens
   public async getToken(tokenAddress: string, chainName: string): Promise<Token | undefined> {
-    const chainId = isNaN(chainName) ? this.chainMap[chainName] : Number.parseInt(chainName)
+    const chainId = isNaN(chainName) ? this.chainMap[chainName] : chainName
     const rpc = this.rpcMap[chainId]
     if (!rpc || rpc.length === 0) {
       return undefined
