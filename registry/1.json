@@ -58507,5 +58507,29 @@
     "symbol": "RBNT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34372/thumb/RBNT.jpg?1704728914"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd89cc9d79ad3c49e2cd477a8bbc8e63dee53f82e",
+    "name": "Keeshond",
+    "symbol": "KEE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54484/thumb/kee200transp.png?1739989781"
+  },
+  {
+    "chainId": 1,
+    "address": "0x129e5915326ed86f831b0e035acda34b209633d5",
+    "name": "Pineapple",
+    "symbol": "PAPPLE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54488/thumb/IMG_3321.png?1739993107"
+  },
+  {
+    "chainId": 1,
+    "address": "0x957c7fa189a408e78543113412f6ae1a9b4022c4",
+    "name": "LF",
+    "symbol": "LF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54491/thumb/Zm2W3yS2_400x400.jpg?1739996813"
   }
 ]

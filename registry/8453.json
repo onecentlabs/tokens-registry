@@ -13692,5 +13692,21 @@
     "symbol": "KAITO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54411/thumb/Qm4DW488_400x400.jpg?1739552780"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x387627b2bceb9ba5b476f6597727a7acf47f5b6c",
+    "name": "YapTrade",
+    "symbol": "YT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54494/thumb/2kx2k_Size_Yap.png?1740027561"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x04bc5918a08a526653e83420044b1a26ff34863b",
+    "name": "SkyNity SkyDust",
+    "symbol": "SDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54490/thumb/logoSDT.png?1739994201"
   }
 ]
