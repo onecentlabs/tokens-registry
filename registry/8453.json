@@ -13708,5 +13708,84 @@
     "symbol": "SDT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54490/thumb/logoSDT.png?1739994201"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2192607C3CBA9Ec3D490206d10d831E68E5F3c97",
+    "name": "Boson Token",
+    "symbol": "BOSON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOSON/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BOSON"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3Cf255a7A03d74B6F9D58456cBedbc0705626354",
+    "name": "NEUY",
+    "symbol": "NEUY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NEUY/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "NEUY"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x55365c9E68E70122020184F4441B498E8bf06AC6",
+    "name": "Qawalla Token",
+    "symbol": "QWLA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/QWLA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "QWLA"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3c07ef1bd575b5f5b1ffcb868353f5bc501ed482",
+    "name": "Wrapped 1inch  Universal ",
+    "symbol": "U1INCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54498/thumb/UA-1INCH_200x200.png?1740031787"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf383074c4b993d1ccd196188d27d0ddf22ad463c",
+    "name": "Wrapped Aave  Universal ",
+    "symbol": "UAAVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54499/thumb/UA-AAVE_200x200.png?1740031894"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe248c0bce837b8dfb21fdfa51fb31d22fbbb4380",
+    "name": "FLEX",
+    "symbol": "FDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54497/thumb/Dextools_Banner.jpg?1740031533"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9af46f95a0a8be5c2e0a0274a8b153c72d617e85",
+    "name": "Wrapped ApeCoin  Universal ",
+    "symbol": "UAPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54500/thumb/UA-APE_200x200.png?1740031977"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6b34d1c35689dba179c2eddf6a01530bbb1d28a8",
+    "name": "Agentlauncher",
+    "symbol": "CVAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54408/thumb/Logo_CVAI_TICKER.png?1739539559"
   }
 ]

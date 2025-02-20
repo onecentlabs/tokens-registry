@@ -6339,5 +6339,13 @@
     "decimals": 18,
     "address": "0x12B4356C65340Fb02cdff01293F95FEBb1512F3b",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x12B4356C65340Fb02cdff01293F95FEBb1512F3b.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "mLista",
+    "name": "mLista Token",
+    "decimals": 18,
+    "address": "0xECf2bCB2342d8157d4fb4F4Bdc1EDF74fbF759b3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xECf2bCB2342d8157d4fb4F4Bdc1EDF74fbF759b3.png"
   }
 ]
