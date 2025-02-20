@@ -53,7 +53,7 @@ export class RPCFetch {
 
   // TODO: Current support limited to EVM chains and ERC20 tokens
   public async getToken(tokenAddress: string, chainName: string): Promise<Token | undefined> {
-    const chainId = this.chainMap[chainName]
+    const chainId = isNaN(chainName) ? this.chainMap[chainName] : Number.parseInt(chainName)
     const rpc = this.rpcMap[chainId]
     if (!rpc || rpc.length === 0) {
       return undefined
