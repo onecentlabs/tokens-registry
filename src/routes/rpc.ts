@@ -1,7 +1,6 @@
 import { readFileSync } from 'fs'
 import { ethers } from 'ethers'
 
-import { isAddress } from '../isAddress.js'
 import { Token } from '../types.js'
 
 export class RPCFetch {
@@ -56,12 +55,10 @@ export class RPCFetch {
   public async getToken(tokenAddress: string, chainName: string): Promise<Token | undefined> {
     const chainId = this.chainMap[chainName]
     const rpc = this.rpcMap[chainId]
-
     if (!rpc || rpc.length === 0) {
       return undefined
     }
-
-    if (isAddress(tokenAddress)) {
+    if (ethers.isAddress(tokenAddress)) {
       for (const rpcUrl of rpc) {
         console.log(
           `Fetching token details for ${tokenAddress} on chain ${chainName} (${chainId}) using ${rpcUrl}`
@@ -76,7 +73,6 @@ export class RPCFetch {
             contract.symbol(),
             contract.decimals(),
           ])
-
           console.log(`Token details: ${name} (${symbol}) with ${decimals} decimals`)
 
           return {
