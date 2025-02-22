@@ -359,5 +359,69 @@
                 "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
             }
         ]
+    },
+    {
+        "key": "bnb",
+        "chainType": "EVM",
+        "name": "Binance Smart Chain",
+        "coin": "BNB",
+        "id": 56,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/bsc.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/56.json",
+        "metamask": {
+            "chainId": "0x38",
+            "blockExplorerUrls": [
+                "https://bscscan.com/"
+            ],
+            "chainName": "BNB Smart Chain",
+            "nativeCurrency": {
+                "name": "BNB",
+                "symbol": "BNB",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://bsc-dataseed.binance.org",
+                "https://bsc-dataseed.bnbchain.org",
+                "https://bsc-rpc.publicnode.com",
+                "https://bsc-dataseed1.defibit.io",
+                "https://bsc-dataseed1.ninicoin.io"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 56,
+            "symbol": "BNB",
+            "decimals": 18,
+            "name": "BNB",
+            "coinKey": "BNB",
+            "logoURI": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png?1547034615"
+        },
+        "stablecoins": [
+            {
+                "name": "Binance-Peg USD Coin",
+                "symbol": "USDC",
+                "type": "BEP20",
+                "decimals": 18,
+                "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDC-CD2/logo.png"
+            },
+            {
+                "name": "Tether USD",
+                "symbol": "USDT",
+                "type": "BEP20",
+                "decimals": 18,
+                "address": "0x55d398326f99059ff775485246999027b3197955",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"
+            },
+            {
+                "name": "Binance-Peg BUSD Token",
+                "symbol": "BUSD",
+                "type": "BEP20",
+                "decimals": 18,
+                "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+            }
+        ]
     }
 ]
