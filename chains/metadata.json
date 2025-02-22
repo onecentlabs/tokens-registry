@@ -712,5 +712,53 @@
                 "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/scroll/assets/0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97/logo.png"
             }
         ]
+    },
+    {
+        "key": "blast",
+        "chainType": "EVM",
+        "name": "Blast",
+        "coin": "ETH",
+        "id": 81457,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/blast.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/81457.json",
+        "metamask": {
+            "chainId": "0x13e31",
+            "blockExplorerUrls": [
+                "https://blastscan.io/",
+                "https://blastexplorer.io/"
+            ],
+            "chainName": "Blast",
+            "nativeCurrency": {
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://rpc.blast.io",
+                "https://blast-rpc.publicnode.com",
+                "https://blast.drpc.org",
+                "https://rpc.ankr.com/blast"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 81457,
+            "symbol": "ETH",
+            "decimals": 18,
+            "name": "ETH",
+            "coinKey": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        "stablecoins": [
+            {
+                "name": "USDB",
+                "symbol": "USDB",
+                "type": "BLAST",
+                "decimals": 18,
+                "address": "0x4300000000000000000000000000000000000003",
+                "logo": "https://s2.coinmarketcap.com/static/img/coins/128x128/29599.png"
+            }
+        ]
     }
 ]
