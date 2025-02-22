@@ -423,5 +423,57 @@
                 "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
             }
         ]
+    },
+    {
+        "key": "linea",
+        "chainType": "EVM",
+        "name": "Linea",
+        "coin": "ETH",
+        "id": 59144,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/linea.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/59144.json",
+        "metamask": {
+            "chainId": "0xe708",
+            "blockExplorerUrls": [
+                "https://lineascan.build/"
+            ],
+            "chainName": "Linea",
+            "nativeCurrency": {
+                "name": "ETH",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://rpc.linea.build"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 59144,
+            "symbol": "ETH",
+            "decimals": 18,
+            "name": "ETH",
+            "coinKey": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        "stablecoins": [
+            {
+                "name": "Axelar Wrapped USDC",
+                "symbol": "axlUSDC",
+                "type": "LINEA",
+                "decimals": 6,
+                "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/linea/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo.png"
+            },
+            {
+                "name": "Binance-Peg BUSD Token",
+                "symbol": "BUSD",
+                "type": "LINEA",
+                "decimals": 18,
+                "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/linea/assets/0x7d43AABC515C356145049227CeE54B608342c0ad/logo.png"
+            }
+        ]
     }
 ]
