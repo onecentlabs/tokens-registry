@@ -226,10 +226,74 @@
             {
                 "name": "xDAI Native Token",
                 "symbol": "xDAI",
-                "type": "coin",
+                "type": "GNOSIS",
                 "decimals": 18,
                 "address": "0x0000000000000000000000000000000000000000",
                 "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+            }
+        ]
+    },
+    {
+        "key": "avalanche",
+        "chainType": "EVM",
+        "name": "Avalanche C-Chain",
+        "coin": "AVAX",
+        "id": 43114,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/avalanche.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/43114.json",
+        "metamask": {
+            "chainId": "0xa86a",
+            "blockExplorerUrls": [
+                "https://snowtrace.io/"
+            ],
+            "chainName": "Avalanche C-Chain",
+            "nativeCurrency": {
+                "name": "Avalanche",
+                "symbol": "AVAX",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://api.avax.network/ext/bc/C/rpc",
+                "https://avalanche.drpc.org",
+                "https://avalanche-c-chain-rpc.publicnode.com",
+                "https://avalanche.public-rpc.com",
+                "https://rpc.ankr.com/avalanche"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 43114,
+            "symbol": "AVAX",
+            "decimals": 18,
+            "name": "AVAX",
+            "coinKey": "AVAX",
+            "logoURI": "https://static.debank.com/image/avax_token/logo_url/avax/0b9c84359c84d6bdd5bfda9c2d4c4a82.png"
+        },
+        "stablecoins": [
+            {
+                "name": "USD Coin",
+                "symbol": "USDC",
+                "type": "AVALANCHE",
+                "decimals": 6,
+                "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+            },
+            {
+                "name": "Tether",
+                "symbol": "USDT",
+                "type": "AVALANCHE",
+                "decimals": 6,
+                "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+            },
+            {
+                "name": "Dai",
+                "symbol": "DAI",
+                "type": "AVALANCHE",    
+                "decimals": 18,
+                "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
             }
         ]
     }
