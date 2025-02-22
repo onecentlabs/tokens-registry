@@ -4120,5 +4120,794 @@
     "symbol": "FRXUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "AVAX",
+    "name": "AVAX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/avax/0b9c84359c84d6bdd5bfda9c2d4c4a82.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+    "symbol": "ETH",
+    "name": "Ether",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x2170ed0880ac9a755fd29b2688956bd959f933f8/80dd95753396b5619cf84b0df135eae5.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x0555e30da8f98308edb960aa94c0db47230d2b9c/e95a41d0ae2465957140ef2db2c228ea.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xBE916845D8678b5d2F7aD79525A62D7c08ABba7e",
+    "symbol": "AVAXx",
+    "name": "Super AVAX",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9d228444FC4B7E15A2C481b48E10247A03351FD8",
+    "symbol": "USDT(wormhole)",
+    "name": "Tether USD (Wormhole)",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
+    "symbol": "SUSHI(old)",
+    "name": "SushiToken",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc/930cd4a36e687eaeddbcf9f3fd22d023.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x42A62eb3Fd2a05eD499117F128de8a3192B49EBB",
+    "symbol": "WETH(Axelar)",
+    "name": "Axelar Wrapped ETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2",
+    "symbol": "SPACE(multichain)",
+    "name": "Space Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2/934201c14d045663ba04b55929590888.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xB57B25851fE2311CC3fE511c8F10E868932e0680",
+    "symbol": "deUSD",
+    "name": "deUSD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xb57b25851fe2311cc3fe511c8f10e868932e0680/2f05772c29ccea68c8d086bc6a6d06f6.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+    "symbol": "MELT",
+    "name": "Defrost Finance Token",
+    "decimals": 18,
+    "logoURI": "https://snowtrace.io/token/images/defrostfinance_32.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
+    "symbol": "WBTC (Bridged)",
+    "name": "Wrapped BTC",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab/d3c52e7c7449afa8bd4fad1c93f50d93.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+    "symbol": "BUSD.e",
+    "name": "Binance USD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98/588ad5043e23b6c46aeda945852c3273.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x237917E8a998b37759c8EE2fAa529D60c66c2927",
+    "symbol": "sifu",
+    "name": "Sifu",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x237917e8a998b37759c8ee2faa529d60c66c2927/0395708be2504ce5d6d806363930ed8d.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
+    "symbol": "JEWEL(multichain)",
+    "name": "Jewels",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x4f60a160d8c2dddaafe16fcc57566db84d674bd6/a94feaf839cb6af43b9687960522e2d5.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xAEDB70D42161e6e135250150EA561dD77a694798",
+    "symbol": "DODO",
+    "name": "DODO bird",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xe301ed8c7630c9678c39e4e45193d1e7dfb914f7/4eb236e922847981d548c13faa346670.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x61f85fF2a2f4289Be4bb9B72Fc7010B3142B5f41",
+    "symbol": "celrMAI",
+    "name": "Celer-Pegged miMATIC",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x90fBE9dfe76F6EF971c7A297641dfa397099a13e",
+    "symbol": "ATL",
+    "name": "Atlantis Loans",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x90fbe9dfe76f6ef971c7a297641dfa397099a13e/5bbe879d8b58f2d02e65191a3525add9.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
+    "symbol": "BOOFI",
+    "name": "Boo Finance Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xb00f1ad977a949a3ccc389ca1d1282a2946963b0/db52ccc6e9063c502b296d607910f38e.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xDA0019E7e50Ee4990440b1aa5dFFCAC6E27Ee27B",
+    "symbol": "LUSD",
+    "name": "LUSD Stablecoin",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
+    "symbol": "ankrAVAX",
+    "name": "Ankr Avalanche Reward Bearing Certificate",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xc3344870d52688874b06d844e0c36cc39fc727f6/265da787264167092c9ab1c382178b4d.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12",
+    "symbol": "axlATOM",
+    "name": "Axelar Wrapped ATOM",
+    "decimals": 6
+  },
+  {
+    "chainId": 43114,
+    "address": "0xbc7B0223Dd16cbc679c0D04bA3F4530D76DFbA87",
+    "symbol": "OKSE",
+    "name": "Okse",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xbc7b0223dd16cbc679c0d04ba3f4530d76dfba87/4285dd2406a638a8e9f6e5f9a80f937d.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0ebd9537A25f56713E34c45b38F421A1e7191469",
+    "symbol": "OOE(old)",
+    "name": "OpenOcean",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x0ebd9537a25f56713e34c45b38f421a1e7191469/82124d68da604f900e236dd424e54343.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x81440C939f2C1E34fc7048E518a637205A632a74",
+    "symbol": "CYCLE",
+    "name": "Cycle Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x81440c939f2c1e34fc7048e518a637205a632a74/c37eac11377b1770dad6cbf672ffadae.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0802d66f029c46E042b74d543fC43B6705ccb4ba",
+    "symbol": "APE(Multichain)",
+    "name": "ApeCoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x0802d66f029c46e042b74d543fc43b6705ccb4ba/97b912e4874df863f530cedb07bfbf1c.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9",
+    "symbol": "AAVE",
+    "name": "Aave Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9/7baf403c819f679dc1c6571d9d978f21.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xeE396D4eE16Fd8C7d9bFB039d05F271D3c92e57D",
+    "symbol": "REVA",
+    "name": "Reva Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+    "symbol": "aaBLOCK",
+    "name": "Blocknet",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50/c47dd98acbe51ff4883caf7104ee2c1a.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd13eB71515DC48a8a367D12F844e5737bab415dF",
+    "symbol": "SFI",
+    "name": "Spice",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11",
+    "symbol": "UST(Axelar)",
+    "name": "Axelar Wrapped UST",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x260bbf5698121eb85e7a74f2e45e16ce762ebe11/2643c8028832e8b7c407ba36df892d38.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x320aDa89DbFA3A154613D2731c9BC3a4030DbA19",
+    "symbol": "FROST",
+    "name": "FROST",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x320ada89dbfa3a154613d2731c9bc3a4030dba19/6d6291a5865739d77002df27ede2f7d7.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
+    "symbol": "xJOE",
+    "name": "JoeBar",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33/88927b8692a432f8226976bc283b3cf2.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x827eb4bada6cb76c90f887969b3fe5faD585FFe3",
+    "symbol": "XETA",
+    "name": "XETA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x827eb4bada6cb76c90f887969b3fe5fad585ffe3/f6c64d6766bbce658b60705cfa455253.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x542fA0B261503333B90fE60c78F2BeeD16b7b7fD",
+    "symbol": "TRACTOR",
+    "name": "TRACTOR JOE",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x542fa0b261503333b90fe60c78f2beed16b7b7fd/4678b04b561699480fc4da2022a6a933.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x61eCd63e42C27415696e10864d70ecEA4aA11289",
+    "symbol": "RUGPULL",
+    "name": "RUGPULL",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x61ecd63e42c27415696e10864d70ecea4aa11289/cd24fd3e7063d57d1080192a64b301cb.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C",
+    "symbol": "HERMES",
+    "name": "HERMES",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xb15f02f9da8cd1f99e9dd375f21dc96d25ddd82c/eb43a61207afdb86c3e14cb18bbe1214.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xCC2f1d827b18321254223dF4e84dE399D9Ff116c",
+    "symbol": "SMRT",
+    "name": "SmartCoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xcc2f1d827b18321254223df4e84de399d9ff116c/20c345073234ab5c7d9d32f5afa16c8b.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x085682716f61a72bf8C573FBaF88CCA68c60E99B",
+    "symbol": "iDAI.E",
+    "name": "Iron Bank Dai Stablecoin",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1da20Ac34187b2d9c74F729B85acB225D3341b25",
+    "symbol": "YUSDCRV-f",
+    "name": "Curve.fi Factory Plain Pool: YUSD Pool",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+    "symbol": "stEUR",
+    "name": "Staked agEUR",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x334AD834Cd4481BB02d09615E7c11a00579A7909",
+    "symbol": "qiETH",
+    "name": "Benqi ETH",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0x22FA75d747320ae5D14cC625F696487C83243CD3",
+    "symbol": "KNC(Axelar)",
+    "name": "Axelar Wrapped KNC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202/1d25e188deb06e642ea6f4f4f8eb0a0c.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1B156C5c75E9dF4CAAb2a5cc5999aC58ff4F9090",
+    "symbol": "mooAaveAVAX",
+    "name": "Moo Aave AVAX",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x3C2131A02659343d68c211aAa686750bE37d88c4",
+    "symbol": "mooAaveUSDC",
+    "name": "Moo Aave USDC",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+    "symbol": "qiAVAX",
+    "name": "Benqi AVAX",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06",
+    "symbol": "CRV.e",
+    "name": "Curve DAO Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x249848beca43ac405b8102ec90dd5f22ca513c06/9f6990ab9d8be30fc1ff159ebf45e638.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xAEA2E71b631fA93683BCF256A8689dFa0e094fcD",
+    "symbol": "3poolV2-f",
+    "name": "Curve.fi Factory Plain Pool: 3poolV2",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xBEb5d47A3f720Ec0a390d04b4d41ED7d9688bC7F",
+    "symbol": "qiUSDC",
+    "name": "Benqi USDC",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6BF6fc7EaF84174bb7e1610Efd865f0eBD2AA96D",
+    "symbol": "NXUSD3CRV3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: NXUSD+av3CRV",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x813aB5B3FDc59B143C42284665864b24B794C324",
+    "symbol": "mooAaveUSDT",
+    "name": "Moo Aave USDT",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xb0D2EB3C2cA3c6916FAb8DCbf9d9c165649231AE",
+    "symbol": "MAI+av3CRV3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: MAI",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x282B11E65f0B49363D4505F91c7A44fBEe6bCc0b",
+    "symbol": "mooJoe",
+    "name": "Moo Joe",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x835866d37AFB8CB8F8334dCCdaf66cf01832Ff5D",
+    "symbol": "qiDAI",
+    "name": "Benqi DAI",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0xa6220B4209353dFeF03B6cE410c8F01105515f94",
+    "symbol": "axlWBTC",
+    "name": "Axelar Wrapped WBTC",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0xb3c68d69E95B095ab4b33B4cB67dBc0fbF3Edf56",
+    "symbol": "iWAVAX",
+    "name": "Iron Bank Wrapped AVAX",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0x47536F17F4fF30e64A96a7555826b8f9e66ec468",
+    "symbol": "CRV",
+    "name": "Curve DAO Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x47536f17f4ff30e64a96a7555826b8f9e66ec468/42e8c4eb3a83479f172dd56c67eb7e88.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x89a415b3D20098E6A6C8f7a59001C67BD3129821",
+    "symbol": "qiBTC.b",
+    "name": "Benqi BTC.b",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0xCEb1cE674f38398432d20bc8f90345E91Ef46fd3",
+    "symbol": "iUSDT.E",
+    "name": "Iron Bank Tether USD",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+    "symbol": "ELK(legacy)",
+    "name": "Elk",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/329f2280839ba8930e112bae1f61cbb9.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe28965073C49a02923882B8329D3E8C1D805E832",
+    "symbol": "iUSDC.E",
+    "name": "Iron Bank USD Coin",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0xC5Fa5669E326DA8B2C35540257cD48811F40a36B",
+    "symbol": "axlDAI",
+    "name": "Axelar Wrapped DAI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6b175474e89094c44da98b954eedeac495271d0f/549c4205dbb199f1b8b03af783f35e71.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
+    "symbol": "ELK(old)",
+    "name": "Elk",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xe1c8f3d529bea8e3fa1fac5b416335a2f998ee1c/9bb2236511ea0686d60140c0b12367d6.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc9e5999b8e75C3fEB117F6f73E664b9f3C8ca65C",
+    "symbol": "qiUSDT",
+    "name": "Benqi USDT",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+    "symbol": "stUSD",
+    "name": "Staked agUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xF976ba91b6bb3468C91E4f02E68B37bc64a57e66",
+    "symbol": "axlUSDT",
+    "name": "Axelar Wrapped USDT",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xFeA7976733f47557860f4483f2147a3e99C76b58",
+    "symbol": "mooMaiMAI-av3CRV",
+    "name": "Moo Mai MAI-av3CRV",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4F059cA8a2a5BF8895Ee731f2E901cCB769FB95f",
+    "symbol": "stataAvaSAVAX",
+    "name": "Static Aave Avalanche SAVAX",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+    "symbol": "qisAVAX",
+    "name": "Benqi sAVAX",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0x02F3f6c8A432C1e49f3359d7d36887C25d8A5888",
+    "symbol": "stataAvaDAI",
+    "name": "Static Aave Avalanche DAI",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x22178a912aFCf159B409155779FE9BbBF500F69B",
+    "symbol": "BEET",
+    "name": "Orbeet Index",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x22178a912afcf159b409155779fe9bbbf500f69b/4c1dffaf066f8ccc70dc7b75103bb69d.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x34d768cc830c32DcD743321c09A2A702651bF9a2",
+    "symbol": "stataAvaBTC.b",
+    "name": "Static Aave Avalanche BTC.b",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6A02C7a974F1F13A67980C80F774eC1d2eD8f98d",
+    "symbol": "stataAvaWAVAX",
+    "name": "Static Aave Avalanche WAVAX",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xCFc37A6AB183dd4aED08C204D1c2773c0b1BDf46",
+    "symbol": "nUSD",
+    "name": "nUSD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xcfc37a6ab183dd4aed08c204d1c2773c0b1bdf46/c8b883302e354571ab0bbfcf039e85b8.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+    "symbol": "USD+(overnight.fi)",
+    "name": "USD+",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65/d88620efa8460878104fb2fa8a3ebc00.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5525Ee69BC1e354B356864187De486fab5AD67d7",
+    "symbol": "stataAvaUSDT",
+    "name": "Static Aave Avalanche USDT",
+    "decimals": 6
+  },
+  {
+    "chainId": 43114,
+    "address": "0x13E7bceFddE72492E656f3fa58baE6029708e673",
+    "symbol": "AGX",
+    "name": "AGX Coin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x13e7bcefdde72492e656f3fa58bae6029708e673/980902586c76e2ee3a6bd5bd24232ab5.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6EC18092Ee47fcC8f1fE15899156fF20C64aB3D7",
+    "symbol": "yes",
+    "name": "Yes.",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x6ec18092ee47fcc8f1fe15899156ff20c64ab3d7/a7eb5b0371e2286366f2f8bf8f144933.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x7864e3bDe05aa90ADA055Bfec4165f65f4Fba7c5",
+    "symbol": "NO",
+    "name": "No.",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x7864e3bde05aa90ada055bfec4165f65f4fba7c5/627fb75a7dd302a387c15c500d814235.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xA38Bfa13bEEf9beb75F3698B4647F027fbe8f61D",
+    "symbol": "rsAVAX",
+    "name": "Rebasing sAVAX",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd889657E1570c5bedD3fa846aB7865a86aAa338a",
+    "symbol": "axlWMAI",
+    "name": "Axelar Wrapped WMAI",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xf8E24175D01653fd6AA203C2C17B1e4Dd1CA2731",
+    "symbol": "stataAvaWETH",
+    "name": "Static Aave Avalanche WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9466Ab927611725B9AF76b9F31B2F879Ff14233d",
+    "symbol": "PAE",
+    "name": "Ripae",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x9466ab927611725b9af76b9f31b2f879ff14233d/70f727d238f046d41714ad47195eb16b.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xAf2D365e668bAaFEdcFd256c0FBbe519e594E390",
+    "symbol": "MUXLP",
+    "name": "MUX LP",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xaf2d365e668baafedcfd256c0fbbe519e594e390/d536a770b1ed120d6952fba46d52aa05.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd8fcDa6ec4Bdc547C0827B8804e89aCd817d56EF",
+    "symbol": "qiUSDTn",
+    "name": "Benqi USDTn",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8B773Ab77Dff01985D438961dBCE58382a70cA52",
+    "symbol": "stataAvaLINK",
+    "name": "Static Aave Avalanche LINK",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xAE4AA155D2987B454C29450ef4f862CF00907B61",
+    "symbol": "THO",
+    "name": "Thorus",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xae4aa155d2987b454c29450ef4f862cf00907b61/a952337aba45633ada11609a694a1fd8.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xC509aB7bB4eDbF193b82264D499a7Fc526Cd01F4",
+    "symbol": "stataAvaUSDC",
+    "name": "Static Aave Avalanche USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8C3633eE619a42d3755327C2524E4d108838c47f",
+    "symbol": "ZEUS",
+    "name": "Zeus Finance",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x8c3633ee619a42d3755327c2524e4d108838c47f/25706aa08ef7902bd814f3bfec6183c2.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xA3c2ffE702F4cD265B2249AB5f84Fab81FFf6c73",
+    "symbol": "stataAvaFRAX",
+    "name": "Static Aave Avalanche FRAX",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xB715808a78F6041E46d61Cb123C9B4A27056AE9C",
+    "symbol": "qiUSDCn",
+    "name": "Benqi USDCn",
+    "decimals": 8
+  },
+  {
+    "chainId": 43114,
+    "address": "0xf39f9671906d8630812f9d9863bBEf5D523c84Ab",
+    "symbol": "UNI(old avax bridge)",
+    "name": "Uniswap",
+    "decimals": 18
+  },
+  {
+    "chainId": 43114,
+    "address": "0xef0cdae2FfEEeFA539a244a16b3f46ba75b8c810",
+    "symbol": "MQT",
+    "name": "MoveQuest",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xef0cdae2ffeeefa539a244a16b3f46ba75b8c810/1c8b59cb3763f3cad4112b9a048ad5f3.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x03F77458E1eB9FA72B8186b573E40b106442f155",
+    "symbol": "BLEP",
+    "name": "BLEP",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x03f77458e1eb9fa72b8186b573e40b106442f155/310d6b0e8fbd206cf2be66d0f3532b32.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5EE94c25e3d5113CD055537340B9d19CFA4D9217",
+    "symbol": "ANGLE",
+    "name": "ANGLE_avalanche",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/angle/306ffce483295499c5b62e264148d468.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x2905d6D6957983d9ED73BC019fF2782c39dd7a49",
+    "symbol": "SNCT",
+    "name": "Snake City Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x2905d6d6957983d9ed73bc019ff2782c39dd7a49/61a6372bb0a2b25debee4e4e1e997561.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "symbol": "USDA",
+    "name": "USDA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x98B172A09102869adD73116FC92A0A60BFF4778F",
+    "symbol": "APEX (apexdefi.xyz)",
+    "name": "APEX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x98b172a09102869add73116fc92a0a60bff4778f/8a796e6c9d95077052e6cab15c7f0c44.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xA60C5BeBCcDb9738f63891bBDD7FeC3e762f9098",
+    "symbol": "JOEx",
+    "name": "Super JoeToken",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/joe.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4269b4d1f9D195B3A248e39BCC052958e91544f8",
+    "symbol": "frAIn",
+    "name": "FrainAI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x4269b4d1f9d195b3a248e39bcc052958e91544f8/06450ff2bcfbeafe93df84876e912294.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x288398F314D472B82C44855F3f6fF20b633c2A97",
+    "symbol": "USDCx",
+    "name": "Super USD Coin",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usdc.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x7cd00C2b9A78f270B897457ab070274e4a17dE83",
+    "symbol": "DAI.ex",
+    "name": "Super Dai Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/dai.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xdf37ee57B2efD215A6a8329D6B8b72064F09BBD0",
+    "symbol": "USDtx",
+    "name": "Super TetherToken",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usdt.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x939b1a17C0d0Aa3fEA634Ad9157c88245A53C713",
+    "symbol": "frxETH",
+    "name": "frxETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
+    "symbol": "GB",
+    "name": "Good Bridging",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x90842eb834cfd2a1db0b1512b254a18e4d396215/a389fc56e350d6db75357e1881eb56e0.png"
   }
 ]

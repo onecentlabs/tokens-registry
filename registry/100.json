@@ -4849,5 +4849,516 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xdec933e2392ad908263e70a386fbf34e703ffe8f/logo.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "xDAI",
+    "name": "xDAI Native Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xD5Fe5f651dDe69F6FC444d123f2C0CFB804542Cd",
+    "symbol": "BUSD",
+    "name": "Binance USD on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xd7a28Aa9c470e7e9D8c676BCd5dd2f40c5683afa",
+    "symbol": "RAI",
+    "name": "Rai Reflex Index from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xE73d646157765f8b8B8f28506Df0c99178256Fb9",
+    "symbol": "INJ",
+    "name": "Injective Token on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xE7f0CFc2043b8872F35DbeF4ebF6eea41a8B2bBe",
+    "symbol": "SKL",
+    "name": "SKALE from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xeEfeA398213938bA56B1C5D282187862c9Ca5D0D",
+    "symbol": "FTM",
+    "name": "Fantom Token from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xf0dd817FF483535f4059781441596AEa4F32a4B9",
+    "symbol": "MLN",
+    "name": "Melon Token on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xFcb0320d0CE08536A58495b75bf4262E4acc04af",
+    "symbol": "JASMY",
+    "name": "JasmyCoin on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xe68856eb29B2FB39699286CcA7F10f90Ce8AE9De",
+    "symbol": "FCL",
+    "name": "Fractal Protocol Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xe68856eb29b2fb39699286cca7f10f90ce8ae9de/a166f40145a5b5dcabe25cd93b89126c.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+    "symbol": "QI(old)",
+    "name": "QiDao",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xdfa46478f9e5ea86d57387849598dbfb2e964b02/c34bba851a05a13fd725ddaeac24a506.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xEdBC7449a9b594CA4E053D9737EC5Dc4CbCcBfb2",
+    "symbol": "aGnoEURe",
+    "name": "Aave Gnosis EURe",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xedbc7449a9b594ca4e053d9737ec5dc4cbccbfb2/c889eea5c645f73678c4f139e74459ce.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xd0Dd6cEF72143E22cCED4867eb0d5F2328715533",
+    "symbol": "aGnoWXDAI",
+    "name": "Aave Gnosis WXDAI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xd0dd6cef72143e22cced4867eb0d5f2328715533/2b8382087d72983357aec0c67fc5850a.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xF992e7e717255Ee2180e6443c23e09EDeDBF7887",
+    "symbol": "USDP",
+    "name": "Pax Dollar from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xf0E7eC247b918311afa054E0AEdb99d74c31b809",
+    "symbol": "stataGnoUSDCe",
+    "name": "Static Aave Gnosis USDCe",
+    "decimals": 6
+  },
+  {
+    "chainId": 100,
+    "address": "0xd859C12fc06045b0bd399ac55Ffa75cAdc378F69",
+    "symbol": "HOP",
+    "name": "Hop from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x1C7683F6A6a2FDf19160519c251B8E0D66790239",
+    "symbol": "GHO",
+    "name": "Gho Token from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x270bA1f35D8b87510D24F693fcCc0da02e6E4EeB",
+    "symbol": "stataGnoUSDC",
+    "name": "Static Aave Gnosis USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 100,
+    "address": "0x23e4E76D01B2002BE436CE8d6044b0aA2f68B68a",
+    "symbol": "aGnowstETH",
+    "name": "Aave Gnosis wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x42d25d67112b93b52a9c09d5eBE159f2B4b9ba38",
+    "symbol": "sDAI",
+    "name": "Savings Dai from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x7a5c3860a77a8DC1b225BD46d0fb2ac1C6D191BC",
+    "symbol": "aGnosDAI",
+    "name": "Aave Gnosis sDAI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x7a5c3860a77a8dc1b225bd46d0fb2ac1c6d191bc/69f85d3ba8792213549c8260ed636fd7.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0x7AecA73f38f8F33AB7FF067fED1268384d12324d",
+    "symbol": "Brightx",
+    "name": "Super Bright",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/bright.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x59988e47A3503AaFaA0368b9deF095c818Fdca01",
+    "symbol": "xDAIx",
+    "name": "Super xDAI",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/xdai.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x1234756ccf0660E866305289267211823Ae86eEc",
+    "symbol": "USDCx",
+    "name": "Super USDC on xDai",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usdc.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x012e2CaFEbC30a603C049159D946c9d344d979a8",
+    "symbol": "ENS",
+    "name": "Ethereum Name Service from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x0987c6B9357Dee87404dFeA0483C337de530be5A",
+    "symbol": "AXS",
+    "name": "Axie Infinity Shard on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x03959Ac65e621e8C95d5E0f75EA96E5C03A15009",
+    "symbol": "ROOK",
+    "name": "ROOK on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x0E9f346dE9780FB966EEB763AA89d254d606B9d8",
+    "symbol": "WOO",
+    "name": "Wootrade Network on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x1326f053e2452e73C66f38914Fb338c8DE331684",
+    "symbol": "MIR",
+    "name": "Wrapped MIR Token on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x1509465AFBd36C09B2F6501bcC1384A12Ef22d66",
+    "symbol": "KEEP",
+    "name": "KEEP Token on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x7e40559c80e0512E75fbA5E0CE80fC4D54174BB4",
+    "symbol": "SUKU",
+    "name": "SUKU on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x5806212Bec491bEb309E3F5C1F911eaC6f24cd6b",
+    "symbol": "UMA",
+    "name": "UMA Voting Token v1 on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x3E76f9CAaf9B47089810B4579C598228735E7a11",
+    "symbol": "PAXG",
+    "name": "Paxos Gold from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x7CC4d60a3C83e91d8c2ec2127A10Bab5c6Ab209d",
+    "symbol": "SXP",
+    "name": "Swipe on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x260B0cc1dE83e4f8Db8361E81aCf73d1F597a695",
+    "symbol": "AMP",
+    "name": "Amp on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x2853F6E9605419CCf38D102fb1FB3961904aE263",
+    "symbol": "GTC",
+    "name": "Gitcoin from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x60E663eb97bd747566bad4fB736DDc671fabbe95",
+    "symbol": "NU",
+    "name": "NuCypher on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x55B6228758FcDb9135DB500bc184473ad5fccd98",
+    "symbol": "agEUR",
+    "name": "agEUR from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x5B449Ea0e550C143074146abc89A6328D9E70798",
+    "symbol": "KP3R",
+    "name": "Keep3rV1 on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+    "symbol": "HND",
+    "name": "Hundred Finance",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x10010078a54396f62c96df8532dc2b4847d47ed3/cae168ae659748f245f0d57b76521952.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+    "symbol": "stEUR",
+    "name": "Staked EURA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "symbol": "USDA",
+    "name": "USDA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+    "symbol": "stUSD",
+    "name": "Staked USDA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x679922D1edCA00D2F41Ec9aEb023CcC1d58d045f",
+    "symbol": "FORTH",
+    "name": "Ampleforth Governance on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x62D963C32cF49215948e2855529790e7f41BDA71",
+    "symbol": "Coval",
+    "name": "CircuitsOfValue on xDai",
+    "decimals": 8
+  },
+  {
+    "chainId": 100,
+    "address": "0x7671Cbe4320C0772C00B5Ce157ac94b936Cb083F",
+    "symbol": "MUSE",
+    "name": "Muse on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x7300AaFC0Ef0d47Daeb850f8b6a1931b40aCab33",
+    "symbol": "mUSD",
+    "name": "mStable USD on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x783514141BeB02828858A086c9fADA6D5d1912D5",
+    "symbol": "AURA",
+    "name": "Aura from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xc0712524B39323eb2437E69226b261d928629dC8",
+    "symbol": "HNYx",
+    "name": "Super Honey",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x216a7d520992eD198593A16e0b17c784c9cdc660",
+    "symbol": "POOL(Bridged)",
+    "name": "PoolTogether from Mainnet",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/pooltogether/4d740db8716ea5ec95d25b021a40659d.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xaC945dC430ceF2BB8FB78B3cb5fbC936dD2C8ab6",
+    "symbol": "COWx",
+    "name": "Super CoW Protocol Token from Mainnet",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cow.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x91c22F57Df810D541239fbB262AfB36Cef2814C5",
+    "symbol": "RLY",
+    "name": "Rally from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xA1Fa064A85266E2Ca82DEe5C5CcEC84DF445760e",
+    "symbol": "aGnoGNO",
+    "name": "Aave Gnosis GNO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xa1fa064a85266e2ca82dee5c5ccec84df445760e/295920adcbd5bf10803616a77625c4eb.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0x874623A3e613b43Efa4dcC2CB04a03Da1442Db6C",
+    "symbol": "REP",
+    "name": "Reputation on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x96e334926454CD4B7b4efb8a8fcb650a738aD244",
+    "symbol": "LDO",
+    "name": "Lido DAO Token on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x9b388743bdD602Ed922E88d5C3C607c1585Ecf51",
+    "symbol": "⚗️",
+    "name": "Alchemist on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x84E2C67CBEfae6B5148fcA7d02B341B12ff4b5Bb",
+    "symbol": "SWASH",
+    "name": "Swash Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x84e2c67cbefae6b5148fca7d02b341b12ff4b5bb/2b908427254726e8c1d42f10a6ff8242.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xA83ecA53705f21A99E9DE9eEdDdF2d1D9a5593c4",
+    "symbol": "DNT",
+    "name": "district0x Network Token on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x9757d68A4273635c69D93B84ee3cdac2304DD467",
+    "symbol": "ETHx",
+    "name": "Super ETH",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/eth.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x855888B91BA0A7d6ae9C801868211EAcF38b4019",
+    "symbol": "UBI",
+    "name": "Universal Basic Income on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xa818F1B57c201E092C4A2017A91815034326Efd1",
+    "symbol": "aGnoWETH",
+    "name": "Aave Gnosis WETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xa818f1b57c201e092c4a2017a91815034326efd1/39c116500402c61da636a56bedcd749e.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xca5d82E40081F220d59f7ED9e2e1428DEAf55355",
+    "symbol": "FRAX",
+    "name": "Frax on xDai",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xc6B7AcA6DE8a6044E0e32d0c841a89244A10D284",
+    "symbol": "aGnoUSDC",
+    "name": "Aave Gnosis USDC",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xc6b7aca6de8a6044e0e32d0c841a89244a10d284/d1e0d14800c1e4657fb8c25e0f073cf0.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xC0333cb85B59a788d8C7CAe5e1Fd6E229A3E5a65",
+    "symbol": "aGnoUSDCe",
+    "name": "Aave Gnosis USDCe",
+    "decimals": 6
+  },
+  {
+    "chainId": 100,
+    "address": "0xB4698F7fc287eEf3e70A6206110D5c4a367a0E59",
+    "symbol": "RARE",
+    "name": "SuperRare from Mainnet",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xaf3E09f831dC59C709da1bA20dd0d9602635a6c0",
+    "symbol": "AXL",
+    "name": "Axelar from Mainnet",
+    "decimals": 6
+  },
+  {
+    "chainId": 100,
+    "address": "0x7c16F0185A26Db0AE7a9377f23BC18ea7ce5d644",
+    "symbol": "waGnoGNO",
+    "name": "Wrapped Aave Gnosis GNO",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x57f664882F762FA37903FC864e2B633D384B411A",
+    "symbol": "waGnoWETH",
+    "name": "Wrapped Aave Gnosis WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0x51350d88c1bd32Cc6A79368c9Fb70373Fb71F375",
+    "symbol": "waGnoUSDCe",
+    "name": "Wrapped Aave Gnosis USDCe",
+    "decimals": 6
+  },
+  {
+    "chainId": 100,
+    "address": "0x773CDA0CADe2A3d86E6D4e30699d40bB95174ff2",
+    "symbol": "waGnowstETH",
+    "name": "Wrapped Aave Gnosis wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 100,
+    "address": "0xD30Aa2F6fC32c4DC8Bf3Bd5994d89c8F9e81FCD1",
+    "symbol": "sDAIx",
+    "name": "Super Savings xDAI",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/sdai.webp"
   }
 ]

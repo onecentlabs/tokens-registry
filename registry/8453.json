@@ -13859,5 +13859,2768 @@
     "symbol": "GLUE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "name": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0FC04a2620A08303740d8777fe798F75E67cf897",
+    "symbol": "NYA",
+    "name": "catgirls",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x0fc04a2620a08303740d8777fe798f75e67cf897/5167ccf867732d639d72b8278a213352.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6fCe2756794128B1771324caA860965801DCbCdB",
+    "symbol": "stataBasUSDbC",
+    "name": "Static Aave Base USDbC",
+    "decimals": 6
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0f929C29dcE303F96b1d4104505F2e60eE795caC",
+    "symbol": "THRO",
+    "name": "NewThrone",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x0f929c29dce303f96b1d4104505f2e60ee795cac/cdb85ec7d5152eb639f9a97c96f899c6.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0fa83ae9F430757aBfD59efA0FA260411ca8fD9F",
+    "symbol": "BS4",
+    "name": "BaseStation 4",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x0fa83ae9f430757abfd59efa0fa260411ca8fd9f/2ce2dac51e88b346927971ca375d6da8.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8951ac7DF197d12Ec54BaA77e991baAcE16958A2",
+    "symbol": "CHIPS",
+    "name": "DOG WITH CHIPS",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x73fBD93bFDa83B111DdC092aa3a4ca77fD30d380",
+    "symbol": "SOPH",
+    "name": "SOPH AI Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380/08c7b5aad1f899727a643d5d6300d4ec.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
+    "symbol": "YFX",
+    "name": "YieldFarming Index",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x8901cb2e82cc95c01e42206f8d1f417fe53e7af0/d0e29f706cfce0add2c20c705a2bd82b.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x88Fb150BDc53A65fe94Dea0c9BA0a6dAf8C6e196",
+    "symbol": "LINK",
+    "name": "ChainLink Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x514910771af9ca656af840dff83e8264ecf986ca/69425617db0ef93a7c21c4f9b81c7ca5.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1791B55e734DF69B4906a4178A83dbE63c4F8421",
+    "symbol": "BCHB",
+    "name": "BITCOIN CASH ON BASE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x1791b55e734df69b4906a4178a83dbe63c4f8421/36708d37e002c2f57f963765bacbbeca.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB",
+    "symbol": "aBasUSDC",
+    "name": "Aave Base USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7C307e128efA31F540F2E2d976C995E0B65F51F6",
+    "symbol": "aBasweETH",
+    "name": "Aave Base weETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3B1228C3eDe7e0898d57054Cd9B8f812d24315C1",
+    "symbol": "BRITT",
+    "name": "Britt",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x3b1228c3ede7e0898d57054cd9b8f812d24315c1/3e60a647a3cd215c5b957adc16dcbb4a.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7bD47423722E286a5394bf3A5873ea35A76AccD7",
+    "symbol": "AVTD",
+    "name": "AVATARD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x7bd47423722e286a5394bf3a5873ea35a76accd7/4e2c80bca0d7f0edd343340f10f86724.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x886B3F42F144133D3b1f3309783f3799f6c1F4f8",
+    "symbol": "RTD",
+    "name": "Retard",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x886b3f42f144133d3b1f3309783f3799f6c1f4f8/11637dac88356c78167bfefdfc80ff29.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x19b6969256c7D4ABb04BE5087fBC750c6bdFC04B",
+    "symbol": "BATOR",
+    "name": "Bator",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x19b6969256c7d4abb04be5087fbc750c6bdfc04b/b004f9395e3fe6255baf7a5b6b6a0adf.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x39372ad76f7d4A5B0CC0c73550F4f64DD425D223",
+    "symbol": "BALDME",
+    "name": "i wish i was bald",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x16A004065dfb11276DcB29Dc03fb8A85f9A43C6e",
+    "symbol": "stataBascbETH",
+    "name": "Static Aave Base cbETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0B7056f5e82B254D93BD9A1C860ff069340f347f",
+    "symbol": "DOB",
+    "name": "Doodle on Base",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x0b7056f5e82b254d93bd9a1c860ff069340f347f/aa3ba7ba2318914487c9a6bc8e2678ff.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x88A78C5035BdC8C9A8bb5c029e6cfCDD14B822FE",
+    "symbol": "$froggi",
+    "name": "Froggi",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x88a78c5035bdc8c9a8bb5c029e6cfcdd14b822fe/3657f8212d5bea53647f7f2b110ba603.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7DE95F41C4b3dc5161dF94Cf3711b7E673E62E6d",
+    "symbol": "BASE",
+    "name": "JesseBrianToshiBrettTybg69Inu",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2a9c30589c35A18B3d0031a22296B7Edbb44acd4",
+    "symbol": "feesh",
+    "name": "feesh",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x2a9c30589c35a18b3d0031a22296b7edbb44acd4/670d5aecc700b48930c73238a949580c.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x91fF962f7DE9865D3ca8CA151BAc28969F52F34b",
+    "symbol": "SMART",
+    "name": "Smart Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2e1d332893Dc16124194E598a29866D2d5e8786b",
+    "symbol": "TRUMP (magatrumponbase.com)",
+    "name": "MAGA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x2e1d332893dc16124194e598a29866d2d5e8786b/214ea612ceb3662800aee2700f7371ba.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC1E02884AF4A283cA25ab63C45360d220d69DA52",
+    "symbol": "sUSDCy",
+    "name": "Synthetix USDC Yield",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x468973e3264F2aEba0417A8f2cD0Ec397E738898",
+    "symbol": "stataBasWETH",
+    "name": "Static Aave Base WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x268831667a2B94884CAaE1a5F7D936ABF0EA251B",
+    "symbol": "RHKI",
+    "name": "RŌHKI EP 1 : Intersection",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x23dA5F2d509cb43A59d43C108a43eDf34510eff1",
+    "symbol": "xPufETH",
+    "name": "xPufETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc142171B138DB17a1B7Cb999C44526094a4dae05",
+    "symbol": "USX",
+    "name": "dForce USD",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7747fCda2811Ca39524d29d848730d3809C76774",
+    "symbol": "THEPLAN",
+    "name": "The Plan",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd9FD81484b4163A61a2577254f3cEa064e36BF59",
+    "symbol": "APE",
+    "name": "Based Department",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0x89Ca325bd05f851b2B91b3e9fb2d15A59d3D82C6",
+    "symbol": "SPAM",
+    "name": "$SPAM",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
+    "symbol": "sfrxETH",
+    "name": "Staked Frax Ether",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc32a4e2b86AfE970D865D6581ccEDaaDEDb6f72f",
+    "symbol": "BIF",
+    "name": "baldwifhat",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E",
+    "symbol": "sFRAX",
+    "name": "Staked FRAX",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3F82EA4dFd60901cd35A96a73c80F80C50D6A05f",
+    "symbol": "BALLS",
+    "name": "BaseBalls",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdEf336C3956f76F2F8ea24C3553a810403ce8f4b",
+    "symbol": "BUILD",
+    "name": "BUILD on BASE",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7901FcDbBF3a6fc7B9E79eBE2B78909216Cd3a39",
+    "symbol": "KOKOS",
+    "name": "Kokonut Swap Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x80E3Ee7bAB68fEAea6e01c44df9daa5de53e4818",
+    "symbol": "DOGE",
+    "name": "DOGECOIN",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0528b39424A365d2Aff6194468fb96d091C88212",
+    "symbol": "HARAMBE",
+    "name": "Harambe",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x416bd43Bc76D496ff49923c20eCaf86b52Ab078d",
+    "symbol": "HBR",
+    "name": "Harbor Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbf93A042588C008C0488795790d9A19E479D260a",
+    "symbol": "REX",
+    "name": "Rex The Iguana",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0x806041B6473DA60abbe1b256d9A2749A151be6C6",
+    "symbol": "stTAO",
+    "name": "Tensorplex Staked TAO",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9d36F8f62347538440a212e9162f534f797542df",
+    "symbol": "SATS",
+    "name": "Satoshi",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc",
+    "symbol": "stataBasUSDC",
+    "name": "Static Aave Base USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 8453,
+    "address": "0x280DF118566625CB6678c036D0f9027069B73F46",
+    "symbol": "APEIN",
+    "name": "Ape In",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe54b0C7dad72fb102ADE2b1B9F4EEce69408Ab36",
+    "symbol": "HLSp",
+    "name": "Helios Blended Pool Token",
+    "decimals": 6
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7Ba6F01772924a82D9626c126347A28299E98c98",
+    "symbol": "msETH",
+    "name": "Metronome Synth ETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5b623C127254C6fec04b492ecDF4b11c45FBB9D5",
+    "symbol": "przCBETH",
+    "name": "Prize cbETH - Moonwell",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9cfB13E6c11054ac9fcB92BA89644F30775436e4",
+    "symbol": "axl-wstETH",
+    "name": "Axelar Wrapped wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7905EA12CC81a215A5F1D0F46DF73a53E19E9264",
+    "symbol": "TAG",
+    "name": "TagTech",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3Dd79d6BD927615787Cc95F2c7A77C9aC1AF26F4",
+    "symbol": "pwBLT",
+    "name": "@MorphexBMX Pod (BASE)",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x777CF5ba9C291A1A8f57FF14836F6F9dC5c0F9Dd",
+    "symbol": "SOLID",
+    "name": "Solidly",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x606EA89C2DCAE6287f7A51e757800db9ca2dD0C1",
+    "symbol": "Choppy",
+    "name": "CHOPPY",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x352De30c4D1F8805F3C167B9695c0dA3F2660B7e",
+    "symbol": "HawkTuah",
+    "name": "HAWK TUAH ON BASE ",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x446eF0E0a02F1c265897cc53750Da5478c9DB8DB",
+    "symbol": "$DEBATE",
+    "name": "THE PRESIDENTIAL DEBATE",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x837FC1dccbf4267FB5fff108f86EE78c11Dd83AB",
+    "symbol": "CRYCAT",
+    "name": "Crying Cat on Base",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xE881f1FB21b4Add26940b771b32878AAFD6a582c",
+    "symbol": "OOM",
+    "name": "OomerBot",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6074417606435e8aB21d68e6375d0db024E0Ef8a",
+    "symbol": "$CHEWY",
+    "name": "Chewy",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4154550f4Db74Dc38d1FE98e1F3F28ed6daD627d",
+    "symbol": "jEUR",
+    "name": "Jarvis Synthetic Euro",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8a5F9a6b653ecbDb406f9EB5F0C8dDba10919Aec",
+    "symbol": "bloo",
+    "name": "bloo foster coin",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8770D10f615ecb0514724A03FaeDD94428fE5A86",
+    "symbol": "CHING",
+    "name": "Chingon",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3f10324444744CF850c7e75DE6E0465f21D8cA9A",
+    "symbol": "MIGGLESWIF",
+    "name": "Miggleswifhat",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x46D8f8Ba030c1D09ae17d2B5107dfef4B331fe0d",
+    "symbol": "BOMI",
+    "name": "Book of Miggles",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x40Be61a8C047e84Aa974eac296eaaBF09945D3b2",
+    "symbol": "BUIDL",
+    "name": "BUIDL 404",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x246a0EE2442f67E8CDd7750E4B578508773e8fdb",
+    "symbol": "PAMP",
+    "name": "Based Pamper",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4C1d2AeE1B89D11781d75Cc56aECbD8AdFC599AF",
+    "symbol": "BLACK",
+    "name": "BlackRock",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9483ab65847A447e36d21af1CaB8C87e9712ff93",
+    "symbol": "wUSDR",
+    "name": "Wrapped USDR",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0x553C1f87C2EF99CcA23b8A7fFaA629C8c2D27666",
+    "symbol": "BBITS",
+    "name": "Based Bits",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xDb19b61fC52Eb16FBE1E4E9e5441949040512D32",
+    "symbol": "NULL",
+    "name": "NULL",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6C240DDA6b5c336DF09A4D011139beAAa1eA2Aa2",
+    "symbol": "ETHFI",
+    "name": "ether.fi governance token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb/51f0cde8e655b6dd4cc39f2495b60c1e.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
+    "symbol": "WELL (wormhole)",
+    "name": "WELL",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x511ab53f793683763e5a8829738301368a2411e3/b82e97dd371cfdacb522ffebd7840729.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa0c05e2EeD05912D9Eb76d466167628E8024a708",
+    "symbol": "TICKER",
+    "name": "Ticker",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xa0c05e2eed05912d9eb76d466167628e8024a708/07c87ba6b424a3b5fce1d87a2021d7e0.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xBdb9300b7CDE636d9cD4AFF00f6F009fFBBc8EE6",
+    "symbol": "aBascbBTC",
+    "name": "Aave Base cbBTC",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0x71b35ECb35104773537f849FBC353F81303A5860",
+    "symbol": "WETH(wormhole)",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6B35f4EE1398dA7F644607513A6480BC24F05cD0",
+    "symbol": "CLASH",
+    "name": "Chibi Clash Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x6b35f4ee1398da7f644607513a6480bc24f05cd0/37712d1bbb4820133762741d0ab9dd58.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x48b1A5f4580EA3F16D5780A95A5b30945e556787",
+    "symbol": "blue",
+    "name": "Blue",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4B1b0cE9613Cd9Ffc490b0Ea7947238a056d73B9",
+    "symbol": "FOO",
+    "name": "FoobarFriendTech",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x4b1b0ce9613cd9ffc490b0ea7947238a056d73b9/b9e5cf587580150f73b62716ce81905f.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4f95cc7E95a8E783cB8B48B3e1A5f1BDBd6f3d2d",
+    "symbol": "UPDOG",
+    "name": "Brett’s Hot Dog",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x4f95cc7e95a8e783cb8b48b3e1a5f1bdbd6f3d2d/54dd8fadd8c24c07759c2440373b67c4.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7233062d88133B5402D39D62BFa23a1b6c8d0898",
+    "symbol": "FORT (Citadel)",
+    "name": "Citadel",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x7233062d88133b5402d39d62bfa23a1b6c8d0898/3983d95d1f61afad1aa5ae0ad6d77ee5.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x28eD8909de1b3881400413Ea970ccE377a004ccA",
+    "symbol": "Punk",
+    "name": "Punk X",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x28ed8909de1b3881400413ea970cce377a004cca/3451e9d70f5a2f0ea60babd603baa950.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x99CBC45ea5bb7eF3a5BC08FB1B7E56bB2442Ef0D",
+    "symbol": "aBaswstETH",
+    "name": "Aave Base wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6B5a5c55E9dD4bb502Ce25bBfbaA49b69cf7E4dd",
+    "symbol": "przPOOL",
+    "name": "Prize POOL",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2C8D2FC58B80aCb3b307C165af8F3eE296e6A271",
+    "symbol": "pHAM",
+    "name": "pHAM (BASE)",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7f5C2b379b88499aC2B997Db583f8079503f25b9",
+    "symbol": "przUSDC",
+    "name": "Prize USDC - Moonwell",
+    "decimals": 6
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb554A55358fF0382Fb21F0a478C3546d1106Be8c",
+    "symbol": "nETH",
+    "name": "nETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/metis_token/logo_url/0x931b8f17764362a3325d30681009f0edd6211231/1fc6698f634693d1e354bbff3795bab1.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7F81bAF1244841aa395Ef619a6e153753B075A62",
+    "symbol": "Treem",
+    "name": "TREEM",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x7f81baf1244841aa395ef619a6e153753b075a62/776a0ac07d463e0c3fdee7ece9846464.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb0804809eCc992334c9e1d6633c3c6f56C0036E3",
+    "symbol": "BTAMA",
+    "name": "Basetama",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x66fc31b3233c7C001bdD21Ff6E5E66fA08EF85D0",
+    "symbol": "PINK",
+    "name": "Pink",
+    "decimals": 10,
+    "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xffffffff30478fafbe935e466da114e14fb3563d/31bd65fbe230046696b65cbc7677151f.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x822bD365ED33a3348a212bc8cC39A14DB536C423",
+    "symbol": "deCAT",
+    "name": "Decentralized Cat",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3248D501bdf1495671892Cd6bF203D1D5add5436",
+    "symbol": "FLOCK",
+    "name": "Flock",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0x588159E0d360ffAA978330812f9234818ab46E8E",
+    "symbol": "stataBasweETH",
+    "name": "Static Aave Base weETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x91337a62FaE969e2BcaDeb5B86E6874EbC117286",
+    "symbol": "wif",
+    "name": "dogwifbluehat",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x91337a62fae969e2bcadeb5b86e6874ebc117286/d8073a80a5d4190b626b4fa0d353d185.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+    "symbol": "BETS",
+    "name": "BetSwirl v2",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5/acfb6fa23b55720388e5b59526672f22.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4976A86223777b9B418248dB66a9D1fCF52F068f",
+    "symbol": "BOBA (unknown)",
+    "name": "Book of Base",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x4976a86223777b9b418248db66a9d1fcf52f068f/af5c5155696fe03dda5073d190b637c0.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5e9fE073Df7Ce50E91EB9CBb010B99EF6035a97D",
+    "symbol": "▄︻デ══━一",
+    "name": "AWP",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x5e9fe073df7ce50e91eb9cbb010b99ef6035a97d/4249045bcd63cabc79499dda6baa9564.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x692eF3afD21F172680b82285759Bc13CF8e70710",
+    "symbol": "rcbETH",
+    "name": "Rebasing cbETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x692ef3afd21f172680b82285759bc13cf8e70710/e692a3c9b38e00b52ddf321c62ffce2e.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x98DF232C883D46E582c144d20a241f6C3669ec0B",
+    "symbol": "$BAYC",
+    "name": "Based Ape Yacht Club",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe1f9ac62a2f34881f6Fe0F84322dE9d7024C2b8E",
+    "symbol": "MOCHI (old)",
+    "name": "Mochi",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xe1f9ac62a2f34881f6fe0f84322de9d7024c2b8e/9813120a81ebc049b0b65a83aec42482.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xea04BD97f8083559DCCd108659d7Eb3560454f67",
+    "symbol": "WORLD",
+    "name": "World",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc868fcF8Af03A2306c6B37DB23b5A25b38B27Eb9",
+    "symbol": "vAMM-WETH/USDC",
+    "name": "VolatileV1 AMM - WETH/USDC",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xDD15D8c663745F937948714813734E26564c2460",
+    "symbol": "XRPB",
+    "name": "X RIPPLE BASE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xdd15d8c663745f937948714813734e26564c2460/14cbb45b315545786b4d04ede75feef0.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc8498fF4e098C3eb0d5e7FceD36CAe9a6D26b9F9",
+    "symbol": "CUM",
+    "name": "cum",
+    "decimals": 11,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xc8498ff4e098c3eb0d5e7fced36cae9a6d26b9f9/7c6da25091dd897784a4ad65a42ecd8a.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xE64C504299bD9a9001670C76d167d463A6193919",
+    "symbol": "FCAT",
+    "name": "FartingCat",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97",
+    "symbol": "axlTIA",
+    "name": "Axelar Wrapped TIA",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x420eeed09cbc6e8416decd28857ff3c7d991fc46/82e5d9441cacdfa6c773db0b3929c45c.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xEAc0aA89e1ADCDFF943A3B2AeeBaa2158DA69eb8",
+    "symbol": "8BTC",
+    "name": "8-Bitcoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xeac0aa89e1adcdff943a3b2aeebaa2158da69eb8/d8cf7b239922d204391bf2fafd56fa1f.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd95ca61CE9aAF2143E81Ef5462C0c2325172E028",
+    "symbol": "wUSD+",
+    "name": "Wrapped USD+",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xb86fb1047a955c0186c77ff6263819b37b32440d/1d822a6ceb470b0655872ac989558f7e.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFf0C62A4979400841eFaA6faADb07Ac7d5C98b27",
+    "symbol": "USDT(wormhole)",
+    "name": "Tether USD",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+    "symbol": "EURA",
+    "name": "EURA (previously agEUR)",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa411c9Aa00E020e4f88Bc19996d29c5B7ADB4ACf",
+    "symbol": "XOC",
+    "name": "Xocolatl MXN Stablecoin",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF8c700552B67D64362Af3F2D48B098E5AC9b9870",
+    "symbol": "WBTCB",
+    "name": "Wrapped Bitcoin Base",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xf8c700552b67d64362af3f2d48b098e5ac9b9870/6f78e76f7dc941677eb36d8b25775025.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xD33b816B685681af7b6b354cAffAe34276C20021",
+    "symbol": "TRUMP",
+    "name": "MAGA",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdC0120B6b088EEfE1B178f880ae175B3ddfeF72c",
+    "symbol": "NOB",
+    "name": "NephewOfBitcoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xdc0120b6b088eefe1b178f880ae175b3ddfef72c/d889cdb8d4730bca0a15f1cddca555b5.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaFaD81a8B71FeA227a597c167b1111c290bb6D4F",
+    "symbol": "KAI",
+    "name": "Kaiken Inu",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xafad81a8b71fea227a597c167b1111c290bb6d4f/6a1a2a5c810a15a5b37726598df46255.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xAF6B42a3Fe548C0cE73269235817fd47D8C149cd",
+    "symbol": "LUMPY",
+    "name": "LUMPY",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xaf6b42a3fe548c0ce73269235817fd47d8c149cd/cdef8d6c03b974477937de0bad40061f.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5420716B499BbAF431215688dcb45E898276f1c5",
+    "symbol": "$bobby",
+    "name": "bobby",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x5420716b499bbaf431215688dcb45e898276f1c5/d7230ded9aaa0e1ad173713c790ce4d6.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA5053C346f4759198bd6B64171db1Eff4CBA6331",
+    "symbol": "RFG",
+    "name": "Refugee",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xa5053c346f4759198bd6b64171db1eff4cba6331/98ba481e0f3895d81e289079933ad8e5.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf2F2b743d452504B0cef55cA2d8497A0CD727E48",
+    "symbol": "CUBE",
+    "name": "Creature Cubes",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+    "symbol": "ELK",
+    "name": "Elk",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee/23d3a03567a8e42a6d5981aaf17799fc.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xAae7E60F36F45e9927e4774B760Aae7Bc361dc40",
+    "symbol": "DRAGON",
+    "name": "Year of the Dragon",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xaae7e60f36f45e9927e4774b760aae7bc361dc40/ca67de5511efc0ecd940cb17aa1e57a2.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xec267C53f53807c2337C257f8AC3Fc3cC07cc0ed",
+    "symbol": "USDC(wormhole)",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFf2989af93896619459Ac56368Ad62CfBe8AA4CB",
+    "symbol": "BABYDACKIE",
+    "name": "BABYDACKIE",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA450487D8C8F355611EFF9553337BE67261Af26f",
+    "symbol": "3c-f",
+    "name": "Curve.fi Factory Plain Pool: 3c",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8d285Df5bE4570097E84241090FCa8034AB18547",
+    "symbol": "ETHB",
+    "name": "ETHEREUM ON BASE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x8d285df5be4570097e84241090fca8034ab18547/ab2809a89e6bcf04b57ad763d58149c0.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF79f23c6Afd923Bb48E7464B03129607C2DefB35",
+    "symbol": "MCWHISKERS",
+    "name": "Ronnie McWhiskers",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8d1322CaBe5Ef2949f6bf4941Cc7765187C1091A",
+    "symbol": "przAERO",
+    "name": "Prize AERO - Moonwell",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd533ec19e6c5a8F263a9CfA8f510B3F711e630D0",
+    "symbol": "PEP",
+    "name": "Peplicator",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xd533ec19e6c5a8f263a9cfa8f510b3f711e630d0/6e4666c649ba3cdac5d3b365362a5755.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x49Ead0B1d0c493a995fd83c3ac2c013c127434FD",
+    "symbol": "$RTRN",
+    "name": "ArtRun.io: Trade Zora artcoins (memecoin nfts)",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x139Ead3f466ec41f0648a01A495940c488d297fA",
+    "symbol": "XGP",
+    "name": "Infinex Governance Points",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA604b11d42173b09aC3AbE25795213408bB30C49",
+    "symbol": "ANGEL",
+    "name": "Terminal of Purity",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2618Cae6F65Fa05DDa7E732C938bBDc4F464A4f0",
+    "symbol": "MIEL",
+    "name": "Miel by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x99271F29c987c6a67f6E6CA8c90786Fe139D9F24",
+    "symbol": "WHIP",
+    "name": "whip by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x50135AffDf7A114b1d24fe063b669d5F7aE6F3dC",
+    "symbol": "ELVIRA",
+    "name": "Elvira by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x063D2DB6D348Fa5957b78B6141d144426486c68C",
+    "symbol": "CAT (unknown)",
+    "name": "SocioCat",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x063d2db6d348fa5957b78b6141d144426486c68c/45829bb8791eee745ffda07e806b3bfe.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x05F1938646a897008e813fb03CE7C575eAE45738",
+    "symbol": "PR",
+    "name": "Project Ralph",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x05f1938646a897008e813fb03ce7c575eae45738/5b0de6d31f8f250caf4f639ae19ed296.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x059933F100A5A28d8C729F6941b3D2bc276d35Dc",
+    "symbol": "MOOLA",
+    "name": "Moola",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x059933f100a5a28d8c729f6941b3d2bc276d35dc/429b7dca9b55aaa0938877ca85b3567b.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x057620ccD4a75AAAE9D891156bd2E4a089ED1C0E",
+    "symbol": "BAPE",
+    "name": "BAPE",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x057620ccd4a75aaae9d891156bd2e4a089ed1c0e/e532046080c5f5ca6caf2f34f365e179.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x39b7effBA5edb719E714570369961e72EB147Bf1",
+    "symbol": "BPAY",
+    "name": "BOUNDLESSPAY",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0700BC66bD64188ea01B8Cfaf6859b41087541a1",
+    "symbol": "MORAS",
+    "name": "Ignacio Morales by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x78e35f7ee63DFb143ec3802C6AeCe214bF241519",
+    "symbol": "PANIK",
+    "name": "panik by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2081Ab0D9EC9e4303234Ab26D86b20B3367946ee",
+    "symbol": "EIGEN",
+    "name": "Eigen",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x157390ED4D78Eb756940cad15d2131f854476cE8",
+    "symbol": "AITANA",
+    "name": "Aitana Lopez by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xDE31526AD9f7e8D271e85677E7ec5882F801a34B",
+    "symbol": "First Steps Into Sovereignty",
+    "name": "First Steps Into Sovereignty",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x934f03031720b694eb0e51e0695E6f3Aaf08E6b3",
+    "symbol": "SALVATION",
+    "name": "aether's salvation",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x03916e49f794Ab877eFA23597627eE8094E6cbB0",
+    "symbol": "stataBaswstETH",
+    "name": "Static Aave Base wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3CF3b586F1f4cBcd7a70FD9AED16288aeFA62993",
+    "symbol": "YES2",
+    "name": "Yes2",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0Ea89A74656579Fa96bd88760893Ea3ff5306D89",
+    "symbol": "KULT",
+    "name": "Kult",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2a13cE638Ca3a633b307B9c385a0DCC604d01Dbf",
+    "symbol": "PARADOX",
+    "name": "Paradox",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x22d0Ce988510064cA0f9B35cD3D9600BB5Fb76A6",
+    "symbol": "ESSENCE",
+    "name": "ESSENCE",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xce3c40015473118754Bbb1a6215eE61888b0cEd9",
+    "symbol": "EVERYONE",
+    "name": "The Message",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8abf709cF3701C29DCd5625222B41683CE526298",
+    "symbol": "PUP",
+    "name": "SnugglePup",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2ED49c7CfD45018a80651C0D5637a5D42a6948cb",
+    "symbol": "SOCIAL",
+    "name": "Social Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x2ed49c7cfd45018a80651c0d5637a5d42a6948cb/847358ef831c6c9bea6168d6d729778e.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1fba65dE0a9cBD2D1DF82d141897042d36Bb6c86",
+    "symbol": "WIF",
+    "name": "dogwifhat",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x1fba65de0a9cbd2d1df82d141897042d36bb6c86/ed87f6a088cbb52eeb18416f9cd39c2b.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xD461A534AF11EF58E9F9add73129a1f45485A8dc",
+    "symbol": "KEVIN",
+    "name": "Kevin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xd461a534af11ef58e9f9add73129a1f45485a8dc/8cbad725cd6fcf0ac30032bf08afb84e.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6745bD10C2b5524842a58d1e3B83d90bdAf4fAfc",
+    "symbol": "VIDEO",
+    "name": "Videocoin by Drakula",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x6745bd10c2b5524842a58d1e3b83d90bdaf4fafc/1ee15b6b1580465178108cc32a120959.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2bB1CA3a3871512dda7B53e94e3C658fdD324d19",
+    "symbol": "INDEX",
+    "name": "Indexer by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5Ca35eBC4f25B042d2cAE75914c7e882E631fA9A",
+    "symbol": "Neiro",
+    "name": "Neiro",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x5ca35ebc4f25b042d2cae75914c7e882e631fa9a/4d57d092453aeaa7f22956b30c59994f.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4c5d8A75F3762c1561D96f177694f67378705E98",
+    "symbol": "PYTH",
+    "name": "Pyth Network",
+    "decimals": 6
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4730DdC61264ba9189B25169BdAEae46CF07Ee93",
+    "symbol": "BABY (getbaby.xyz)",
+    "name": "BABY",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x4730ddc61264ba9189b25169bdaeae46cf07ee93/0ac3fb68e09949cdb8e5c2b61532bd7e.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5cf8338E74374EAB368784900D6AeCA460aFa9Aa",
+    "symbol": "GOTCHI",
+    "name": "Aaavegotchi Autonomous Agent by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x5cf8338e74374eab368784900d6aeca460afa9aa/200b074ba4f0625ee8870905d861dbb8.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x05019BE5A6750bbde6F889d6471c37ef923472d3",
+    "symbol": "FCAST",
+    "name": "FarCast",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x05019be5a6750bbde6f889d6471c37ef923472d3/c41fa677d4f44d71c2d5cf1e074066c1.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa087d75aE34e964B16aD3A059304913eD74945c7",
+    "symbol": "TASI",
+    "name": "TAS Intern by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xa087d75ae34e964b16ad3a059304913ed74945c7/3fb49b6ed4dfdd8a409286a60668f569.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x688AEe022AA544f150678B8E5720b6b96a9E9a2F",
+    "symbol": "SYRUP",
+    "name": "Syrup Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x08013e0B3B3f6DE465b54Ecaf1014D12F914f4a6",
+    "symbol": "AUTHENTIC",
+    "name": "Authentic",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x08013e0b3b3f6de465b54ecaf1014d12f914f4a6/a1a667d6f43658a22af9ed61411792a8.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB8f2666F72BdD78C322Fe7ea99D7e68A078BcD87",
+    "symbol": "11:11",
+    "name": "make a wish",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xb8f2666f72bdd78c322fe7ea99d7e68a078bcd87/978367d35ef96c0fa71ff7a13cd9c6f4.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x96e890c6b2501a69cAD5Dba402BFB871a2A2874C",
+    "symbol": "AAG",
+    "name": "AAG",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x96e890c6b2501a69cad5dba402bfb871a2a2874c/d99879a07fda6900a58581a739fc6ad6.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xecCE45A52a55A3D331c490AD7AD1A597E8e7b52e",
+    "symbol": "anon",
+    "name": "anon",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xecce45a52a55a3d331c490ad7ad1a597e8e7b52e/398faf7d238753c55561b7bf5e931080.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB4870e4bC702865826d7Ed4de915C0Fe1Ba25EaD",
+    "symbol": "MILKRS",
+    "name": "Big mommy milkers",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xb4870e4bc702865826d7ed4de915c0fe1ba25ead/1536ddbdbca13aea17f048294a7395e4.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFAC9Dd2e1253D6D574E93A1670aaf86729D8CF63",
+    "symbol": "SHASHA",
+    "name": "ShaSha256 by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x336C9297AFB7798c292E9f80d8e566b947f291f0",
+    "symbol": "PHA",
+    "name": "Phala",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x336c9297afb7798c292e9f80d8e566b947f291f0/9fc0d6ce6edbaa50384727a89d673dfc.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb8DE15Fb529d98C93C749De63c749D48D25A30DF",
+    "symbol": "NUT",
+    "name": "BASED NUT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xb8de15fb529d98c93c749de63c749d48d25a30df/d01fefce610ecff6a95422e19ee421ec.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+    "symbol": "USR",
+    "name": "Resolv USD",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8619986E425BB1a78B3FAcfB1f2086AcA91b6088",
+    "symbol": "DAY1",
+    "name": "One Year On Base — Still Day One",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x8619986e425bb1a78b3facfb1f2086aca91b6088/498557ca1c60489c812cc1a6d72b78c3.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3982E57fF1b193Ca8eb03D16Db268Bd4B40818f8",
+    "symbol": "BLOOD",
+    "name": "Blood",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3058e9b4Bfe397b81e2b91dA79CFF685d662049f",
+    "symbol": "SPLOOT",
+    "name": "Sploots by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1cDbB57b12f732cFb4DC06f690ACeF476485B2a5",
+    "symbol": "Clankermon",
+    "name": "Clankermon",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x1cdbb57b12f732cfb4dc06f690acef476485b2a5/9f48da4d8aa4ebbc78d7e0da332f7b84.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9546f6dFfE5F4DbaaC0414D0b7C43Ef48Cf62a7D",
+    "symbol": "PEPPY",
+    "name": "Peppy by Virtuals by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6b13c060F13Af1fdB319F52315BbbF3fb1D88844",
+    "symbol": "gtWETHc",
+    "name": "Gauntlet WETH Core",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x28AfF0e8F18eb07E2F1221eb50a3aE26bD02D101",
+    "symbol": "CSMM",
+    "name": "Cosmic Meme",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x28aff0e8f18eb07e2f1221eb50a3ae26bd02d101/1e3434d36411596f0d13134aa53ed348.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x097745F2FB83C104543F93E528B455FC3cE392b6",
+    "symbol": "BURRITO",
+    "name": "BURROTI",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA0820613976B441E2c6A90E4877E2fb5f7D72552",
+    "symbol": "POLTER",
+    "name": "Polter.Finance Protocol Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x5c725631fd299703d0a74c23f89a55c6b9a0c52f/e79550fc91190be5d99836b24c72d341.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x418D5E096225729001Bb54e62EF7aD6873550146",
+    "symbol": "BeeARD",
+    "name": "IP Tokens of IPNFT #44",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF469fBD2abcd6B9de8E169d128226C0Fc90a012e",
+    "symbol": "pumpBTC",
+    "name": "pumpBTC",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf469fbd2abcd6b9de8e169d128226c0fc90a012e/07a577c250ea34196b2584048789393a.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x809c55916bb542c1419724022B3F0162087E3C88",
+    "symbol": "TORI",
+    "name": "Teritori",
+    "decimals": 6
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd0174292C4d6dfa7c4Ee20F371f3b6D401782cd5",
+    "symbol": "SAM",
+    "name": "Small Autonomous Motherfucker by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xd0174292c4d6dfa7c4ee20f371f3b6d401782cd5/b960ad7e0767c163d4ea8e2c5abe4e00.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x58Ed4FD0C3d930b674BA50a293f03ef6cD7dE7a3",
+    "symbol": "ARX",
+    "name": "ArbiDex Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xd5954c3084a1ccd70b4da011e67760b8e78aee84/f9aba3d901d2039eead078ef5362c1d5.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC5772F18fA2B3Fa136D089Cb4a1A7694D839C2e8",
+    "symbol": "DIEGO",
+    "name": "Diego Valdes by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xc5772f18fa2b3fa136d089cb4a1a7694d839c2e8/81271b1e486a8080e6711884b87e6d34.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB10448B9C9a856af77eE61FDDF76466ac397f4b0",
+    "symbol": "DYLAN",
+    "name": "Dylan Hayes by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xb10448b9c9a856af77ee61fddf76466ac397f4b0/a89fdd98e9cca2a65ecd6968e706dfac.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x30193F81E7599429afd6B2b11b27d66C56A1DFe4",
+    "symbol": "101",
+    "name": "Crypto 101 by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x29531699b0e5b584B6A39b0cD57B3C27A6A09676",
+    "symbol": "JOSEPH",
+    "name": "Joseph Randy by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x29531699b0e5b584b6a39b0cd57b3c27a6a09676/20dd264e0b4ce0ff29f4a25628764cdf.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x986a9DC325Be8dBbc0ad4FF87840F22BaBc622b2",
+    "symbol": "CHIBA",
+    "name": "CHIBA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x986a9dc325be8dbbc0ad4ff87840f22babc622b2/184f0d9f38a6b6f6a31d7a6fcae4c40f.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x15FAD085B091c2dbc594F5D2320f35734939Ae6c",
+    "symbol": "DOC",
+    "name": "DoctorAI by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x15fad085b091c2dbc594f5d2320f35734939ae6c/e04e5777ad6ba02d0d5940bd06ae2414.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3C0F1C98d47d7e0C0354f267e43d1a33C253Efb7",
+    "symbol": "herewegoagain",
+    "name": "herewegoagain",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2FC65E79F8EE37758Bb8946Ac194755f5DfD7ce5",
+    "symbol": "HAT",
+    "name": "HatStaysOn",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x691077C8e8de54EA84eFd454630439F99bd8C92f",
+    "symbol": "RARE",
+    "name": "SuperRare",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb0492857994e2Af4aD0fa41D10BD711d4534f768",
+    "symbol": "BSE",
+    "name": "Base Season",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xb0492857994e2af4ad0fa41d10bd711d4534f768/7ef1717ac0525302e705a30ddc11d91d.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc00825890eE84ec0c5645d821E8F27d96cF6Ce9b",
+    "symbol": "TREVOR",
+    "name": "Trevor Philips by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaB1E131c6984CC149ef45931073D11Ae35497191",
+    "symbol": "MASA",
+    "name": "Masa Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x17E1f08f8F80A07406d4F05420512Ab5f2D7F56e",
+    "symbol": "HARDER",
+    "name": "8=D",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x67b0961ef062D0a3bE44871eb0B8b542F4C18Db4",
+    "symbol": "LESTER",
+    "name": "Lester Crest by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x67b0961ef062d0a3be44871eb0b8b542f4c18db4/947674a02315cb7280aeefee62e3c530.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7484a9fB40b16c4DFE9195Da399e808aa45E9BB9",
+    "symbol": "AGNT",
+    "name": "Agent Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8d60dc144657aBD1e1EB6D448bfB8ECdFa7CaE8E",
+    "symbol": "KOLS",
+    "name": "KOLscan by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x8d60dc144657abd1e1eb6d448bfb8ecdfa7cae8e/ebba5faf9a9963c976b343c0e6dafa72.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+    "symbol": "FBTC",
+    "name": "Fire Bitcoin",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc96de26018a54d51c097160568752c4e3bd6c364/fef24aea0e8d4cdd45f26eb5cd0e6c5e.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe29b4E16B20bD86940690eD552E075eF56b404b3",
+    "symbol": "SATOSH",
+    "name": "Satoshi Nakamoto by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xe29b4e16b20bd86940690ed552e075ef56b404b3/58d13c452c74662dc98d422e58c390bd.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3e952bC11B367937115724F430e39693Af67F798",
+    "symbol": "YUI",
+    "name": "CryptoNinja YUI by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xCD76ABAd8F5aAB850858117C67402CA888b24681",
+    "symbol": "$REX",
+    "name": "REVOX by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2bF5B823B8705Fe4afe32ce6Fd211510294EE792",
+    "symbol": "JOE",
+    "name": "Joe by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x88f5a4250D73453B1bf087f8cB4FCA41c23D8Fa1",
+    "symbol": "PNUT",
+    "name": "Peanut the Squirrel by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x88f5a4250d73453b1bf087f8cb4fca41c23d8fa1/8ed85a6cfe540400a4a963fd94cb5538.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x270A8132336Ae92bB03bf1Db7bf255ffaf7F0Ca2",
+    "symbol": "PAWTHA",
+    "name": "Pawthereum by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x24709Befc8d7550f2023aAD9FbcfF58A97526a52",
+    "symbol": "MIST",
+    "name": "Mist by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x47dE59BcEd9A641F1E335B080398D77B86316f90",
+    "symbol": "HER",
+    "name": "Devotion by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3dc0d6dBAe3baD10C8166c87833c052084C5e8B4",
+    "symbol": "RING",
+    "name": "Sauron by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3B0430D8775858D37955c7EA976F42732EA3C240",
+    "symbol": "ELONMUSK",
+    "name": "Elon Musk by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x3b0430d8775858d37955c7ea976f42732ea3c240/b5ef1a2af560dfbd17ed27449c9b057e.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaE9A2E6F5717F0075C42874b86E7E375c7e42257",
+    "symbol": "AIG",
+    "name": "AI GOD by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x994ac01750047B9d35431a7Ae4Ed312ee955E030",
+    "symbol": "axlOP",
+    "name": "Axelar Wrapped OP",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x4200000000000000000000000000000000000042/029a56df18f88f4123120fdcb6bea40b.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6136494DB8A33707b2da36c2608994982EFA04C2",
+    "symbol": "PH",
+    "name": "PondHub by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC696003cdCE89C2f9Bd8f2183828A245E8f49D4D",
+    "symbol": "$GOV",
+    "name": "govxbt by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4B6bF1d365ea1A8d916Da37FaFd4ae8C86d061D7",
+    "symbol": "EAI",
+    "name": "EternalAI",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA0C6f5C608baE6D76c5151deEa9ce23bA0670E37",
+    "symbol": "DATE",
+    "name": "OnlyDate by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC4372fAE65823886F831EeD714CD9Cb6F77f6228",
+    "symbol": "BUZZD",
+    "name": "BuzzDuh by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF79691B3B809053C581Be5D2151A1965451081EF",
+    "symbol": "PIXIE",
+    "name": "Pixie Pistol by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC127dC63F96adE4b28Bc5838910736D8aB68c645",
+    "symbol": "PUPAI",
+    "name": "Puppet Master by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xc127dc63f96ade4b28bc5838910736d8ab68c645/c5ac122d560508ebf01562755f4eea5d.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x931eF8053E997b1Bab68d1E900a061305c0Ff4FB",
+    "symbol": "DOBI",
+    "name": "Dobi by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x0555e30da8f98308edb960aa94c0db47230d2b9c/e95a41d0ae2465957140ef2db2c228ea.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x21bB297a414e209A55a02e235234E1865eE3c373",
+    "symbol": "$YUGO",
+    "name": "Yugo by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9e271eC4D66F2b400Ad92De8a10e5c9C1914259C",
+    "symbol": "$UP",
+    "name": "The Upsider by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x21a60b9a1a61411B51feA68A658C0D2551b98627",
+    "symbol": "AIBLKS",
+    "name": "Airt Blocks by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0A8753E39D5805Bab0E570DD1974Ee43F90799A8",
+    "symbol": "BARKBARK",
+    "name": "clankerdoge",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2Da1F02de055Cebe51c6f6526ed67Ad0dc86f431",
+    "symbol": "IJN",
+    "name": "I Just Need (with Lyrah)",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x2da1f02de055cebe51c6f6526ed67ad0dc86f431/5dde43700e9b6d171e8ad113ec3e2e7e.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaA217128Adb6ee7Fb711d7d77Fa80F4012Afc758",
+    "symbol": "CHLOE",
+    "name": "Chloe by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x80CA9EdCE4583B8043351A1046F18244b24eF869",
+    "symbol": "AVA",
+    "name": "AVA",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8A4252D94176308817eD81572Ec9B11618D8fb55",
+    "symbol": "BORETT",
+    "name": "BORETT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x8a4252d94176308817ed81572ec9b11618d8fb55/f8337298cc10db76e935f8dcacf7fdae.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa305952D30dFFb3317D1D08800612592ddf29d12",
+    "symbol": "SIDE",
+    "name": "Side",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xa305952d30dffb3317d1d08800612592ddf29d12/fb5801a0ee084d10d513aab272f1748d.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0194F3cD430D9A309af9b077984601cEC4d0c209",
+    "symbol": "BTFD",
+    "name": "BTFD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x0194f3cd430d9a309af9b077984601cec4d0c209/757b7b41aaf7ae094c15f3a63cc37045.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x01929F1aE2dc8Cac021E67987500389aE3536CeD",
+    "symbol": "PROXY",
+    "name": "PROXY",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x01929f1ae2dc8cac021e67987500389ae3536ced/3f3729b1402a6e20ecc95782de6ea24f.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00Ef6220B7e28E890a5A265D82589e072564Cc57",
+    "symbol": "comicsans",
+    "name": "comic sans",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x00ef6220b7e28e890a5a265d82589e072564cc57/f3400433cab7c5ba4174a86549917eee.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "symbol": "USDA",
+    "name": "USDA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+    "symbol": "stEUR",
+    "name": "Staked EURA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+    "symbol": "stUSD",
+    "name": "Staked USDA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3cd0808304Ea14b565d0dC7dd31c034b9Bc1821e",
+    "symbol": "BE",
+    "name": "Based Exchange",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x3cd0808304ea14b565d0dc7dd31c034b9bc1821e/99420a2f3f8974911ee3f9aa3b3f1e9a.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x011610c6D32C831c74030A90B9ca23Ef11E7A35c",
+    "symbol": "BMARV",
+    "name": "Blue Marvels",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1755FA20d78cbAc6Ff8c038a9b83E6fFE14695d8",
+    "symbol": "INTERN",
+    "name": "Base Intern by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xCc5d654B932A5b6C8A9554EDCa369b8dE6a840Bb",
+    "symbol": "WNCN",
+    "name": "Wrapped NCN",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x784c5e60F13D201542BAd099d4e1f84d53f2B6C0",
+    "symbol": "KASU",
+    "name": "Kasu Hunter by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC31170a7d95700D9fDd3337a3371Ea741Dbb937B",
+    "symbol": "KONRA",
+    "name": "Konra",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xc31170a7d95700d9fdd3337a3371ea741dbb937b/b905bc4790a1ff7a7c90d685be4f6e56.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xBAffaC25A30C5cFF0FDaCF80645e566116ADb7e8",
+    "symbol": "CABAL",
+    "name": "CABAL TOKEN",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7FF7Fa94b8b66Ef313f7970d4EEbd2CB3103a2C0",
+    "symbol": "VANA",
+    "name": "Vana",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x14eA60c5d783c514087b4F460FE8CFDb27016b4a",
+    "symbol": "LOFI",
+    "name": "LOFI",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3e62fED35c97145e6B445704B8CE74B2544776A9",
+    "symbol": "EARNM",
+    "name": "EARNM",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3f217c5366029F78C7d6e94513e32Aa80f7888aD",
+    "symbol": "BaseARBa",
+    "name": "BaseARBa",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x3f217c5366029f78c7d6e94513e32aa80f7888ad/1e8efdda68fa69094cd7b2c5f17b5e35.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB82d1d9DD2CA8cfBDEcDfBFef0aaebb07Eb29312",
+    "symbol": "ERA",
+    "name": "BASE ERA",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC31389794Ffac23331E0D9F611b7953f90AA5fDC",
+    "symbol": "RLP",
+    "name": "Resolv Liquidity Provider Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xCF29D2DE91d04b951b0bB58a81f181Bc994a015b",
+    "symbol": "DOLPHIN",
+    "name": "Dolphin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xcf29d2de91d04b951b0bb58a81f181bc994a015b/f5b98f273160e38a84298c972d7ea9b8.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x63Eb9F3a748C7814Bd004bb747E50B1220576Bf8",
+    "symbol": "GIGA",
+    "name": "BASED GIGACHAD",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFe1585565945eb937d895057EFd8aC1Cf5Ce9FA3",
+    "symbol": "UUC",
+    "name": "USA Unity Coin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xfe1585565945eb937d895057efd8ac1cf5ce9fa3/600e8e52b3a6c721645f5a3d7a64911b.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcde1FCb4079513fB014629da8EB3619b550a929a",
+    "symbol": "MIYAKO",
+    "name": "MIYAKO",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4661EB19A95cC62E1683b6a2687a8c5d8f790BE9",
+    "symbol": "KEIVN",
+    "name": "KEVIN AI by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x05780e20dD5fa9ef1799ABF6bB6fB52608531295",
+    "symbol": "MOO",
+    "name": "MOODENG by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x05780e20dd5fa9ef1799abf6bb6fb52608531295/0bbf29f45345645ea58a29e51cfe4b7d.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xD2e92077ad4d7d50D7d60be13FffE3FB52cc0B9f",
+    "symbol": "ZEREBRO",
+    "name": "zerebro",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB03d3D35fb34720338AA735b580Ddb9AC71F3670",
+    "symbol": "NFAR",
+    "name": "Not Financial Advice Robot by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5770350AAcf14aC444401Cb23520C26Cdcc818FC",
+    "symbol": "SISAI",
+    "name": "SisyphusAI by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x5770350aacf14ac444401cb23520c26cdcc818fc/2e17c258101da5fa49237725b57769d5.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9b9981cb52E3f82FDDB6baD487603532E74a3235",
+    "symbol": "STOIC",
+    "name": "Marcus by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8adcec50A0595cB91ba5989d9a0844148c234539",
+    "symbol": "TRUMP",
+    "name": "Donald Trump by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x8adcec50a0595cb91ba5989d9a0844148c234539/eabb7ce95b39e5fb87d92d54abb28b15.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x543257eF2161176D7C8cD90BA65C2d4CaEF5a796",
+    "symbol": "mwcbBTC",
+    "name": "Moonwell Frontier cbBTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x949e2130A6f9f24B95D023AA8089c8CAA446ea05",
+    "symbol": "ZILL",
+    "name": "Ron Zillowkowski by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xE0152DB15014349D085985E879446bcAe5d53094",
+    "symbol": "SPX6900",
+    "name": "BASED SPX6900",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xBb135D7EABBBA716a5Ea94F48175565eEC204838",
+    "symbol": "BCREAT",
+    "name": "BasedCreature by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x32450403a9361f5399F9E15f3A95D16e2a98DaC1",
+    "symbol": "BILLY",
+    "name": "Billy the Cat by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x440D06b2aC83Ff743d9e149Be582A4b2b2c6adEc",
+    "symbol": "JAVLIS",
+    "name": "Javlis by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd63Aaeec20f9B74d49F8dD8e319b6EDD564A7Dd0",
+    "symbol": "SHOGUN",
+    "name": "Shogun",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x05f1279957d62fc675399dF1088F9c11C64C2b19",
+    "symbol": "RIDDLE",
+    "name": "Riddle by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x838bf1B44640665A34035CE954E929C8Fbff594A",
+    "symbol": "AYAZ",
+    "name": "AYA - The Crypto Oracle by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf404bC113f4fc7C2447CB2556dcF5a56e29fa2dd",
+    "symbol": "SCOOP",
+    "name": "Tradescoop by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf734952072fA35fFaC546076c1AA679C8cCc0A8E",
+    "symbol": "Artpump.fardog.xyz: Artpump Utility Token",
+    "name": "Artpump.fardog.xyz: Artpump Utility Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfaF54aD35f00Dd40ce037E49223e0d1AdEef05B5",
+    "symbol": "WARPCASH",
+    "name": "Warpcash",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA9FB265261cA5bE0ba37459b9D70ec0ad0675e5B",
+    "symbol": "GLYPH",
+    "name": "Glyph",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x077A32FdEF94dbB0Bdcf917450a9cAcF68ed236f",
+    "symbol": "LUMI",
+    "name": "LPC_Ai_Lumi by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0C76e9c9E391055e75eB2413d718A4bC7a037972",
+    "symbol": "FUELX",
+    "name": "Fuel",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x0c76e9c9e391055e75eb2413d718a4bc7a037972/f445d012450126f1b4c1a924f10caf8b.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5e06eA564efcB3158a85dBF0B9E017cb003ff56f",
+    "symbol": "USDM (Meridian)",
+    "name": "USDM Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x5e06ea564efcb3158a85dbf0b9e017cb003ff56f/5a55649b995a7f45f13be78f630e6607.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe71E3c5c8cB925099DD94cC35943d6eE6b21ee0d",
+    "symbol": "SKICK",
+    "name": "Sidekick by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x776bc714752e33C95045250699c502cD2725615C",
+    "symbol": "MUSSEL",
+    "name": "MUSSEL by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x776bc714752e33c95045250699c502cd2725615c/7441ba25d730e4f36f1643c5f5bd8007.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1cE0AB3B2B1a4e48C5D8B43848f639a49Cd025e2",
+    "symbol": "KEYEYES",
+    "name": "KeyEyes",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x045d21dd0450d193F826e241cdc7D66Dc7f1d32e",
+    "symbol": "ai16z",
+    "name": "based ai16z",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4247E3BAbAEDCE0bEEf551CFBC069e8A190f0130",
+    "symbol": "AIXT",
+    "name": "AIXTerminal",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7f2C169E3243dA4e03acD95a45fbaa96Aaeb2803",
+    "symbol": "CV3AI",
+    "name": "CV3 by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeB70ce81f69Ec4b7e425E438e9f5FB78d95b50Ec",
+    "symbol": "HAI",
+    "name": "Hiro the hAIpe by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11C1879227D463b60db18C17c20aE739aE8E961a",
+    "symbol": "axlBAL",
+    "name": "Axelar Wrapped BAL",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0CDA9a9F898b0952e07ff32cBDfE94490FDBBfd3",
+    "symbol": "WWA",
+    "name": "Mr. WWA by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB96450dCB16e4a30b999Cb5F4087bae9c0ffAc4e",
+    "symbol": "TREB",
+    "name": "TREB",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x53Ae20D42e16626dc41c7842D9ce876358082370",
+    "symbol": "AIOS",
+    "name": "INT OS",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5566191043c05B12899102BaC9c4DAaf6401F066",
+    "symbol": "Alf",
+    "name": "Based Alf",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x5566191043c05b12899102bac9c4daaf6401f066/0f27c6c4dd78b10db3082ad6cc464034.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x52220332F48F1E2cD3128025CF70bCBA5A513C57",
+    "symbol": "BRETTSKY",
+    "name": "Brett Skywalker",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x52220332f48f1e2cd3128025cf70bcba5a513c57/0a2dd7742af8f2a13ecca62923d45f87.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5283aF37d473eF7c185A1F8a2042d427cD9C83c4",
+    "symbol": "MUNITY",
+    "name": "Metahorse Unity Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x58d6E314755C2668F3d7358cc7a7a06c4314b238",
+    "symbol": "Rizz",
+    "name": "SigmaGyattOhioFanumSkibidiGooner",
+    "decimals": 6
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9F43d83950Ee387443d1F1765065d461E7EF42F3",
+    "symbol": "PRSNA",
+    "name": "PersonaAI by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA4A2E2ca3fBfE21aed83471D28b6f65A233C6e00",
+    "symbol": "TIBBIR",
+    "name": "Ribbita by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0d91EbB16291873A0c67158f578ec249F4321b49",
+    "symbol": "AIV",
+    "name": "AIVeronica by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5Fc190DEe34Cd5202CC571eC5C8EFD60a02Bd06d",
+    "symbol": "YOYO",
+    "name": "YoYo by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x5fc190dee34cd5202cc571ec5c8efd60a02bd06d/d3cef7f4890267ba9a76a5013175c1fd.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfD43544c8e14F8feFA59FaCb71bc4aACD8160289",
+    "symbol": "TRUMP.AI",
+    "name": "TRUMP.AI by wow.ai",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00EF403ECb9FC75811d6869c6ca676770100da8d",
+    "symbol": "AI69SAKURA",
+    "name": "Sakura",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2D90785E30A9df6ccE329c0171CB8Ba0f4a5c17b",
+    "symbol": "BYTE",
+    "name": "BYTE by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xCC1c421767a6D9A9eFA99e81259f4b41d9EB8D40",
+    "symbol": "RAONI",
+    "name": "Raoni by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xcc1c421767a6d9a9efa99e81259f4b41d9eb8d40/4c1a67fe153b69e3364c1d657449e66c.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xCacdAe43dbD273AC1D89080b7f9D6E0a4a9aDd6E",
+    "symbol": "BPH",
+    "name": "Blue Party Hat",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xcacdae43dbd273ac1d89080b7f9d6e0a4a9add6e/d008c5876918f7778a50f180bcaeb619.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF1E2eac1d39A1306965e504877E06b601E7EC31d",
+    "symbol": "KEVAI",
+    "name": "Kevinity by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x47aB35c51129F87fF1CAF5A5705433b7892a9c6C",
+    "symbol": "TRUMP",
+    "name": "BASED OFFICIAL TRUMP",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7142A98e91AFf8ADABcCfbdfC6433015c05824F5",
+    "symbol": "BHAI",
+    "name": "BHAI by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x104C1DFc786b927f06A0a9A43ed0f8BA75a5E6a3",
+    "symbol": "SECS",
+    "name": "OnGuard by Virtuals",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x104c1dfc786b927f06a0a9a43ed0f8ba75a5e6a3/4d828368a298e4d32c1861b9d3858c92.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x10700769a0c23b1c8a34825208BC09dedb2a011c",
+    "symbol": "TEST",
+    "name": "Test",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x10700769a0c23b1c8a34825208bc09dedb2a011c/ec94612ef3492f470480a92291c5bb76.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x10BE61579601FEfb7BFB132b84e7A285AC1b3112",
+    "symbol": "CIGS",
+    "name": "CIGS",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x10be61579601fefb7bfb132b84e7a285ac1b3112/99512a7bd4d18a0537373c2e6c90d645.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x75D700F4C21528A2bb603b6Ed899ACFdE5c4B086",
+    "symbol": "przWSTETH",
+    "name": "Prize wstETH - Moonwell",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe3Bd9137BE0cEa397aA22Da8749a56925339797A",
+    "symbol": "ETHF",
+    "name": "ETHF",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc27468b12ffA6d714B1b5fBC87eF403F38b82AD4",
+    "symbol": "TRUMP",
+    "name": "OFFICIAL TRUMP",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xD04383398dD2426297da660F9CCA3d439AF9ce1b",
+    "symbol": "USDCx",
+    "name": "Super USDC",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x46fd5cfB4c12D87acD3a13e92BAa53240C661D93",
+    "symbol": "ETHx",
+    "name": "Super ETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe58267cd7299c29a1b77F4E66Cd12Dd24a2Cd2FD",
+    "symbol": "IONx",
+    "name": "Super Ionic",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4E395eC7b71Dd87A23dD836edb3eFE15A6c2002B",
+    "symbol": "SPACEx",
+    "name": "Super Nounspace",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/space.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x304989dA2AdC80a6568170567D477Af5E48DBaAe",
+    "symbol": "weETHx",
+    "name": "Super Wrapped eETH",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/weeth.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x708169c8C87563Ce904E0a7F3BFC1F3b0b767f41",
+    "symbol": "DAIx",
+    "name": "Super Dai Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/dai.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xedF89f2612a5B07FEF051e1a0444342B5410C405",
+    "symbol": "XOCx",
+    "name": "Super Xocolatl MXN Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/xoc.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4dB26C973FaE52f43Bd96A8776C2bf1b0DC29556",
+    "symbol": "USDbCx",
+    "name": "Super USD Base Coin",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x58122a048878F25C8C5d4b562419500ED74C6f75",
+    "symbol": "wstETHx",
+    "name": "Super Wrapped liquid staked Ether 2.0",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/wsteth.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7Ef392131c3ab326016cF7B560F96C91f4f9D4fA",
+    "symbol": "MOXIEx",
+    "name": "Super Moxie",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/moxie.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xDFd428908909CB5E24F5e79E6aD6BDE10bdf2327",
+    "symbol": "cbBTCx",
+    "name": "Super Coinbase Wrapped BTC",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cbbtc.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x057A8e580CA5aF933E6004C6711353fdeCc307F9",
+    "symbol": "Samur",
+    "name": "Samur AI",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9097E4A4D75A611b65aB21d98A7D5b1177C050F7",
+    "symbol": "$mferx",
+    "name": "Super mfercoin",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/mfer.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7d2E87324C9B2cC983804Fe53DF67f1aDd3F913C",
+    "symbol": "sUSDSx",
+    "name": "Super Savings USDS",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usds.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xCc6bCe523c20F582daAF0CcAFAAe981Df46cEB41",
+    "symbol": "ONCHAINx",
+    "name": "Super /onchain",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/onchain.jpeg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1efF3Dd78F4A14aBfa9Fa66579bD3Ce9E1B30529",
+    "symbol": "DEGENx",
+    "name": "Super Degen",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/degen.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfCDecfe37463912C03A644128EB02A1147715E36",
+    "symbol": "jEURx",
+    "name": "Superfluid Jarvis Synthetic Euro",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/jeur.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1783B0F81E2F2278155A643370E6b3ace789f2c9",
+    "symbol": "ISLANDx",
+    "name": "Super ISLAND",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/island.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf66Bb91D8b8e359333687ce415e6655e3F63f4df",
+    "symbol": "JIM",
+    "name": "jim by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x658C7c48c311CD8A14A8D4b2845AA846391aB402",
+    "symbol": "SYMMA",
+    "name": "Lil Symma by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3786B9CB94d87e4458938cD7CC9EC021Bdd2C781",
+    "symbol": "GRIFF",
+    "name": "Griff by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2Ec495906B4Cc0956793D53F2BD581441683d14D",
+    "symbol": "CXTx",
+    "name": "Super CXT",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cxt.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x09b1AD979d093377e201d804Fa9aC0a9a07cfB0b",
+    "symbol": "AEROx",
+    "name": "Super AERO",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/aero.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x04fFB9ce95af003A3AA3611be6c6Ca1431151FB5",
+    "symbol": "BLEUx",
+    "name": "Super BLEU",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/bleu.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5f2Fab273F1F64b6bc6ab8F35314CD21501F35C5",
+    "symbol": "HIGHERx",
+    "name": "Super HIGHER",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/higher.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xefbE11336b0008dCE3797C515E6457cC4841645c",
+    "symbol": "TN100Xx",
+    "name": "Super TN100X",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/tn100x.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf05f89D80Ab218Dcc092b5Af6dc4cb23c4D49c48",
+    "symbol": "COPE",
+    "name": "Dr. COPE - Your Unfriendly Neighborhood Therapist by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6d982D5EBEFbfF16922e9b199801A74b412feeAE",
+    "symbol": "GOAT",
+    "name": "LONGHORN",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x601a9f9538699c19Dc7246Dd7f6852d59D3a7925",
+    "symbol": "AIKA",
+    "name": "AikaVerse",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x90e2712dCf234DF53D4c90C0ed2a2DB3335cF715",
+    "symbol": "CHROMA",
+    "name": "Chroma",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe70B3FC80e7f73918742971C6D0F2ed9a73dd11A",
+    "symbol": "DUCK",
+    "name": "Mechanical Duck by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x078A0867FE307650Cfca9F5dA7415C701Ab22Dc5",
+    "symbol": "AIZSF",
+    "name": "AIZhangsf by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xD6b2a14cE8e5e99C02A173498085fE20781449a4",
+    "symbol": "MAI",
+    "name": "MAI Agent by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8300C26D7aA410bA9b6855366e718155a9BA6a15",
+    "symbol": "Woke",
+    "name": "Woke",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x8300c26d7aa410ba9b6855366e718155a9ba6a15/8cdc80dad49e42e26d9d450d6a4b7d26.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xBa7f9A1159A45278734FAFD8bA8cc38989de0ba1",
+    "symbol": "Milk",
+    "name": "Milk Road",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7eCc65A5E734a8bcAf24eEA0AC9C7cfE6355bc30",
+    "symbol": "RBT",
+    "name": "RobotBulls",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x7ecc65a5e734a8bcaf24eea0ac9c7cfe6355bc30/409630943ea084761e516a446607132f.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7d95009cC9B47548203362B98347090F70f8C7C2",
+    "symbol": "OTTERSPACE",
+    "name": "Otter Space",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x7d95009cc9b47548203362b98347090f70f8c7c2/63c14cb2bdb34d67682cf11310bac661.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2B5E729C35f2395b862078B8046981351fE16ed7",
+    "symbol": "SQUIRT",
+    "name": "Squirtle",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4D6D977aacbAc1BdD603c7A759986F74A5DFaEF8",
+    "symbol": "GEAI",
+    "name": "Georgia by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x05AD8Adc21778F2a2C6800852F05FB949EF507dc",
+    "symbol": "HACHI",
+    "name": "Hachi On Base",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x05ad8adc21778f2a2c6800852f05fb949ef507dc/ae3c6414cb7eec0a9e90a86b6fe3dda3.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x37DEfBC399e5737D53Dfb5533d9954572F5B19bf",
+    "symbol": "BLAZE",
+    "name": "BLAZE",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x37defbc399e5737d53dfb5533d9954572f5b19bf/7a8fb3ece777b416f96b9cb3566ba889.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x47c6FeCD5E41B234F47846760C060934732f2024",
+    "symbol": "RALLY",
+    "name": "Trump Rally",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x47c6fecd5e41b234f47846760c060934732f2024/e95c1b23fdb3721eab9eedb9240ad531.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9A34c3Dda1A36a442d850cd4Ec04520c225bed29",
+    "symbol": "ANZEN ",
+    "name": "Anzen",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7Af5796972cea1dF4EABdb1fDd3D7a6422Be6cb2",
+    "symbol": "SATS",
+    "name": "StupidAssTokens",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x7af5796972cea1df4eabdb1fdd3d7a6422be6cb2/4f466890d108610b6a21939badb4f935.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8e5C04F82d6464b420E2018362E7e7aB813cF190",
+    "symbol": "GOOFS",
+    "name": "Goofs World",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x8e5c04f82d6464b420e2018362e7e7ab813cf190/d77975b1e290f3738bc137451be6f63a.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xef2d24d002071CDE072A9aa91aB03e911FBe159A",
+    "symbol": "OTTOD",
+    "name": "OTTOD",
+    "decimals": 4
+  },
+  {
+    "chainId": 8453,
+    "address": "0x51436F6bD047797DE7D11E9d32685f029aed1069",
+    "symbol": "TONCOIN",
+    "name": "Wrapped TON Coin",
+    "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0x99367d4464Bc5E7E5aCbc6581Da363FbE8a8142D",
+    "symbol": "TBR",
+    "name": "Tuebor",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x99367d4464bc5e7e5acbc6581da363fbe8a8142d/53b5bcce0dee95ac853fb9c3e6a6ca2d.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5A4342f4268a731F4459cD0be22d4744A86d635D",
+    "symbol": "ARC",
+    "name": "ARC by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xE031B0cD88Ca5d41D13Db188E4bfC6C0cFa3e5a2",
+    "symbol": "NKMIND",
+    "name": "Satoshi’s Mind by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1cfc22860Fe46A622e3C2D1c9b036412467Ef4C9",
+    "symbol": "HANA",
+    "name": "Hana by Virtuals",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x08e79d71172Ea36Bf85294725745b5f3Fc704e29",
+    "symbol": "INNOVIA",
+    "name": "Innovia AI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0x08e79d71172ea36bf85294725745b5f3fc704e29/d6d96e7bbd1459266185ca12f146a278.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC95E81A4A709358A97621419467d601971732CEF",
+    "symbol": "TOILET",
+    "name": "Toilet Wars",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9d6501275e91c0b2b0845C2c5334dEa1EC6a3c18",
+    "symbol": "EARTH",
+    "name": "Earth",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11959e6D79c5d2BED00d61709802c75a8bE7ff0B",
+    "symbol": "SRS",
+    "name": "Siner Guys",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x23D84507AABA3a5a7059834D3DBD7F343B5157a8",
+    "symbol": "B4",
+    "name": "B4",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1680455b4012a9Fb623247BAE07C8E93308131AD",
+    "symbol": "NPE",
+    "name": "Nu Pepe",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf261FF53CfDb39651510F7319442610B412d9e7B",
+    "symbol": "MEMEZ",
+    "name": "Meme Lordz",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xf261ff53cfdb39651510f7319442610b412d9e7b/8372f5aff0e312daa1ade613788898ee.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6B05f0EF054A41cbff5104C273AC2755943596D4",
+    "symbol": "LIBRA",
+    "name": "LIBRA on Base",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xab9253a78A0E85B90d531De1e11CEee9D51475c3",
+    "symbol": "BASELISK",
+    "name": "Baselisk",
+    "decimals": 9
   }
 ]

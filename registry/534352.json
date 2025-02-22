@@ -326,5 +326,184 @@
     "symbol": "BOLD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53755/thumb/BOLD_logo.png?1737183873"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "name": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
+    "symbol": "DAI",
+    "name": "DAI Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x01f0a31698C4d065659b9bdC21B3610292a1c506",
+    "symbol": "weETH",
+    "name": "Wrapped eETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x8731d54E9D02c286767d56ac03e8037C07e01e98",
+    "symbol": "STG",
+    "name": "StargateToken",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/stargate/3c6fbbbb1e62793ee34effb91d8769e7.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x608ef9A3BffE206B86c3108218003b3cfBf99c84",
+    "symbol": "KNC",
+    "name": "Kyber Network Crystal v2",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0xb448ec505c924944ca8b2c55ef05c299ee0781df/babb08402e4eb7819d92673b3e694d68.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0xc4d46E8402F476F269c379677C99F18E22Ea030e",
+    "symbol": "pufETH(from Ethereum)",
+    "name": "PufferVault",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd9a442856c234a39a81a089c06451ebaa4306a72/d57c0830dcc41d8830c6be5b079b2e6d.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x1D738a3436A8C49CefFbaB7fbF04B660fb528CbD",
+    "symbol": "aScrUSDC",
+    "name": "Aave Scroll USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 534352,
+    "address": "0xf301805bE1Df81102C957f6d4Ce29d2B8c056B2a",
+    "symbol": "aScrWETH",
+    "name": "Aave Scroll WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 534352,
+    "address": "0x5B1322eeb46240b02e20062b8F0F9908d525B09c",
+    "symbol": "aScrwstETH",
+    "name": "Aave Scroll wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 534352,
+    "address": "0x434cdA25E8a2CA5D9c1C449a8Cb6bCbF719233E8",
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x90d81749da8867962c760414c1c25ec926e889b6/7ae820078682b6eb89b6279ef81dd2e9.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/1228d6e73f70f37ec1f6fe02a3bbe6ff.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x53878B874283351D26d206FA512aEcE1Bef6C0dD",
+    "symbol": "rETH",
+    "name": "Rocket Pool ETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xae78736cd615f374d3085123a210448e74fc6393/0a56aa87c04449332f88702b2bd5f45c.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97",
+    "symbol": "axlTIA",
+    "name": "Axelar Wrapped TIA",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x420eeed09cbc6e8416decd28857ff3c7d991fc46/82e5d9441cacdfa6c773db0b3929c45c.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x6f2D7CE6601A07FBFAA7b9c9608Ca99D5f35ff4a",
+    "symbol": "turPSTONE",
+    "name": "Tranchess Turbo Point STONE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0x6f2d7ce6601a07fbfaa7b9c9608ca99d5f35ff4a/3e1c3bb2bd73e031460a9ac3941603fc.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c",
+    "symbol": "Cake(layerzero)",
+    "name": "PancakeSwap Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82/9003539eb61139bd494b7412b785d482.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x6a28e90582c583fcd3347931c544819C31e9D0e0",
+    "symbol": "BAL",
+    "name": "Balancer",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/balancer2/4318f98916b139a44996fc06531e9074.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x9735fb1126B521A913697A541f768376011bCcF9",
+    "symbol": "CHESS",
+    "name": "Tranchess DAO Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6/862302c519df0b36bb3b795811768d7e.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0xB448eC505C924944ca8B2C55EF05c299eE0781df",
+    "symbol": "KNC(Axelar)",
+    "name": "Axelar Wrapped KNC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202/1d25e188deb06e642ea6f4f4f8eb0a0c.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0xF9Af83FC41e0cc2af2fba93644D542Df6eA0F2b7",
+    "symbol": "POOL",
+    "name": "PoolTogether",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xcf934e2402a5e072928a39a956964eb8f2b5b79c/7dbe524f951cd849911b779b2fee3896.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0xd80A5e16DBDC52Bd1C947CEDfA22c562Be9129C8",
+    "symbol": "aScrweETH",
+    "name": "Aave Scroll weETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 534352,
+    "address": "0xCDf95E1F720caade4b1DC83ABfE15400D2a458AD",
+    "symbol": "SOL",
+    "name": "Wrapped SOL",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x570a5d26f7765ecb712c0924e4de545b89fd43df/7c5db5c2eae571da837b65f5b9ae1a5c.png"
+  },
+  {
+    "chainId": 534352,
+    "address": "0xB9Ca61A6D5fA0c443F3c48Ab1fbf0118964308D6",
+    "symbol": "miweETH",
+    "name": "Mitosis weETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 534352,
+    "address": "0xeDEAbc3A1e7D21fE835FFA6f83a710c70BB1a051",
+    "symbol": "LUSD",
+    "name": "LUSD Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x93b346b6bc2548da6a1e7d98e9a421b42541425b/2fee99025e9128162b4869bf7ffc6036.png"
   }
 ]

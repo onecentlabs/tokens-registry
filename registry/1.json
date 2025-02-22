@@ -58619,5 +58619,3137 @@
     "symbol": "AWETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54543/thumb/alpha_vaults_icon_coingecko.png?1740218951"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB0e1fc65C1a741b4662B813eB787d369b8614Af1",
+    "symbol": "IF",
+    "name": "IF",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10932.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a",
+    "symbol": "RVP",
+    "name": "RevolutionPopuli ERC20 Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a/bd41e831868b7bf0e41d5c457eb492fc.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x43901e05f08f48546fFF8D6f8df108f60570498b",
+    "symbol": "BSJ",
+    "name": "BASENJI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0x43901e05f08f48546fff8d6f8df108f60570498b/d3f590de53bff347ca3e28b46ac21b9f.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xAF691508BA57d416f895e32a1616dA1024e882D2",
+    "symbol": "PNODE",
+    "name": "Pinknode Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xaf691508ba57d416f895e32a1616da1024e882d2/fe3d1a4907b2fa6fbbde2fadd32d5390.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc40F23A3E9613E012944f7957edCe97899Fa920d",
+    "symbol": "DHP",
+    "name": "dHealth",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc40f23a3e9613e012944f7957edce97899fa920d/1eed4ab0c4b26c96de524a1722f09f37.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x430a35bAa51dDEACcf89092a5EDBDA47aAAE78e4",
+    "symbol": "EBTCQ",
+    "name": "EmberBTCQuant",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xAB2838C00bddfc028D72Ff8774f839c692Ed7584",
+    "symbol": "YCETH",
+    "name": "Yield Compounding ETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x695106Ad73f506f9D0A9650a78019A93149AE07C",
+    "symbol": "BNS",
+    "name": "BNS Token",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x695106ad73f506f9d0a9650a78019a93149ae07c/81212034cfd837106b7b9335bafae6df.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9911b111860bd8A611C2A6654Ff38208208055D4",
+    "symbol": "SLP",
+    "name": "SushiSwap LP Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xA87cf5A471815B89fFcA5F1198a89384DBA5C882",
+    "symbol": "YCETH",
+    "name": "Yield Compounding ETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xCecC2c299b0Ec4137707901199812e288C5E4193",
+    "symbol": "YCETH",
+    "name": "Yield Compounding ETH X",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xBb7bE7cC5ABb65d3A29D7982236481ddF4F10b09",
+    "symbol": "uETH",
+    "name": "microETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x478bBC744811eE8310B461514BDc29D03739084D",
+    "symbol": "sdveCRV-DAO",
+    "name": "veCRV Stake DAO",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4Af698B479D0098229DC715655c667Ceb6cd8433",
+    "symbol": "$MAID",
+    "name": "MaidCoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4af698b479d0098229dc715655c667ceb6cd8433/7775b8293b8de69ae4b4da75269f9880.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x896e145568624a498c5a909187363AE947631503",
+    "symbol": "WASABI",
+    "name": "Wasabi",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x896e145568624a498c5a909187363ae947631503/4a04e2c31e0f9ebb0ea6450572c1400c.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6",
+    "symbol": "Sunder",
+    "name": "Sunder Goverance Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbdbf245c690d54b67c6e610a28486a2c6de08be6/921518536a107b8a8fc969a390e3e0f9.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e57b03A68c2ec232Dbf11b6680fEB67D388E262",
+    "symbol": "MOON",
+    "name": "Meme Moonshot",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x686dDECeCC39e1Ff33EAdfB4Bfd059A44cC700Ca",
+    "symbol": "SISMO",
+    "name": "DeFi SISMO",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x730348a54bA58F64295154F0662A08Cbde1225c2",
+    "symbol": "BB_idleDAIYield",
+    "name": "IdleCDO BB Tranche - idleDAIYield",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x9B9087756eCa997C5D595C840263001c9a26646D",
+    "symbol": "DOGEFI",
+    "name": "DOGEFI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9b9087756eca997c5d595c840263001c9a26646d/e25e2444c562ad2b8e91c0cfdeeb33f5.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa91c82B6933105C23298E631A0C1Be751D239162",
+    "symbol": "SOTU",
+    "name": "Seed Of The Universe",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xB53dE031602Cd825febe9F2EEDF962cd8CC3805d",
+    "symbol": "CHAOS",
+    "name": "ZKCHAOS",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xC538eA32AB33d0DB30A9F0d9D885FDaAbf6BCd6A",
+    "symbol": "CREAM",
+    "name": "Cash Rules Everything Around Me",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xC727f87871ee12Bbcedd2973746D1Deb7529aaD6",
+    "symbol": "AKT",
+    "name": "Akash Network",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc727f87871ee12bbcedd2973746d1deb7529aad6/105c4e0b86b2c132e9dfcca530e89347.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xCD6997334867728ba14d7922f72c893fcee70e84",
+    "symbol": "sdeursCRV",
+    "name": "stake dao Curve.fi EURS/sEUR",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xF88b137cfa667065955ABD17525e89EDCF4D6426",
+    "symbol": "$ITG",
+    "name": "iTrust Governance Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf88b137cfa667065955abd17525e89edcf4d6426/159bd6509aba47683acf936db610726c.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5c8507D4aa2A0Ebe7Fa79fCF689fbb07f8007700",
+    "symbol": "SYF",
+    "name": "Stablecoin Yield Fund",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x6c5fbc90E4D78F70Cc5025dB005B39B03914fC0c",
+    "symbol": "URUS",
+    "name": "Aurox Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c/4452a5ed3a856abb714eaa8f0e45be08.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB5FE099475d3030DDe498c3BB6F3854F762A48Ad",
+    "symbol": "FNK",
+    "name": "Finiko",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xb5fe099475d3030dde498c3bb6f3854f762a48ad/8b55a26bd155d6af9afad130eddd2694.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB2279B6769CFBa691416F00609b16244c0cF4b20",
+    "symbol": "WAIF",
+    "name": "Waifu",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xb2279b6769cfba691416f00609b16244c0cf4b20/6f77f3a2cf494aaa953643b2bbda8a97.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5",
+    "symbol": "HUE",
+    "name": "Hue",
+    "decimals": 4,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5/189b17a116741ac0adb705cfb3acbb4c.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf1a91C7d44768070F711c68f33A7CA25c8D30268",
+    "symbol": "C3",
+    "name": "CHARLI3",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf1a91c7d44768070f711c68f33a7ca25c8d30268/acab0deedaf185d67d11203bb361fca0.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6A68DE599E8E0b1856E322CE5Bd11c5C3C79712B",
+    "symbol": "IBY",
+    "name": "I Bet You",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6a68de599e8e0b1856e322ce5bd11c5c3c79712b/e73bef684e53e2a10423c7ec9c1eac8b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x745FD972E662E9A921d753459B8E7f0fFd7627CD",
+    "symbol": "WCI",
+    "name": "Web3 Core Index",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x88cb253d4C8caB8CDF7948A9251Db85a13669E23",
+    "symbol": "YLDY",
+    "name": "Yieldly",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x88cb253d4c8cab8cdf7948a9251db85a13669e23/82ce67db0a5fd489f6703b31771d222b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8fcb1783bF4b71A51F702aF0c266729C4592204a",
+    "symbol": "OT-aUSDC-29DEC2022",
+    "name": "OT Aave interest bearing USDC 29DEC2022",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x94E0BAb2F6Ab1F19F4750E42d7349f2740513aD5",
+    "symbol": "UNIC",
+    "name": "UNIC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x94e0bab2f6ab1f19f4750e42d7349f2740513ad5/6547c54eb864274527277a1e9ef5a61f.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x98629512Ed2239974e169341be5b920EA4dcdB21",
+    "symbol": "POP!",
+    "name": "POP Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xB912AAb9fA7bcf2331b3d42fA1CA4c674350DBbc",
+    "symbol": "BIGX",
+    "name": "The Originals X",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x68bB81B3F67f7AAb5fd1390ECB0B8e1a806F2465",
+    "symbol": "NFTP",
+    "name": "NFT Platform Index",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0x68bb81b3f67f7aab5fd1390ecb0b8e1a806f2465/158f360b6ddc15efb6cc3c8e84d70996.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x752Efadc0a7E05ad1BCCcDA22c141D01a75EF1e4",
+    "symbol": "COMFI",
+    "name": "CompliFi",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x752efadc0a7e05ad1bcccda22c141d01a75ef1e4/9996397a7e90ee30b82139e68a4fd48b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8281eE37F164C0E26E6B6f87E7695Baac256dF07",
+    "symbol": "DAC",
+    "name": "DegenArts.com Coin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8281ee37f164c0e26e6b6f87e7695baac256df07/725c4865c36e8ae4a0b641c244788a3d.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
+    "symbol": "ATOM",
+    "name": "Cosmos",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8d983cb9388eac77af0474fa441c4815500cb7bb/b91685db7e70217cf1c7f1bb7993ab40.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xacFe45C352C902ae3A3F9B6bfE6eC994c5D791BF",
+    "symbol": "mBONK",
+    "name": "megaBONK",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf/1babc507f626ca54061f9354894c62d7.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x84679bc467DC6c2c40ab04538813AfF3796351f1",
+    "symbol": "CHONK",
+    "name": "CHONK",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x84679bc467dc6c2c40ab04538813aff3796351f1/ff54c787cd7e64b757afd6fce3ed2d63.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x87cdbe3c31F2A9E1c506DC2F827A02472A0660cE",
+    "symbol": "LVJ",
+    "name": "Lionverse Juice",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x20a68F9e34076b2dc15ce726d7eEbB83b694702d",
+    "symbol": "ISLA",
+    "name": "Defiville Island Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x20a68f9e34076b2dc15ce726d7eebb83b694702d/94f2cb02716b2cbaa827a2f88b6f8975.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x49766C22dcbC885f993ffEaE547a79B5508aa9EC",
+    "symbol": "uBTC",
+    "name": "uBitcoin",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x5c761c1a21637362374204000e383204d347064C",
+    "symbol": "CHIZ",
+    "name": "SRSC Chiz Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x5c761c1a21637362374204000e383204d347064c/d8abe07a1d17bc4d9a44e41bc95bb9f6.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x87b008E57F640D94Ee44Fd893F0323AF933F9195",
+    "symbol": "COIN",
+    "name": "coin_artist",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x87b008e57f640d94ee44fd893f0323af933f9195/bc912b4003d9e6340db5a194808560ec.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x533E90705c0D1a364Eb63D620EA16C8478179894",
+    "symbol": "TOMI",
+    "name": "TOMI",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xC6065B9fc8171Ad3D29bad510709249681758972",
+    "symbol": "WFAIR",
+    "name": "WFAIR Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc6065b9fc8171ad3d29bad510709249681758972/6ee87316cd5e350c33bf357dc7f6c60e.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe0437BeB5bb7Cf980e90983f6029033d710bd1da",
+    "symbol": "USDT-LP",
+    "name": "USDT-LP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xeB8eec5a2dBf6e6f4Cc542ad31CCe706f8f80419",
+    "symbol": "MEMO",
+    "name": "MetaMEMO",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xF001937650bb4f62b57521824B2c20f5b91bEa05",
+    "symbol": "TARA",
+    "name": "Taraxa Coin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf001937650bb4f62b57521824b2c20f5b91bea05/f423436ec021b6567d4dc318cbed0ef4.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe6710e0CdA178f3D921f456902707B0d4C4A332B",
+    "symbol": "JULIEN",
+    "name": "Julien",
+    "decimals": 4,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe6710e0cda178f3d921f456902707b0d4c4a332b/5e1f655a4830482d9d5f48f504e5c5bd.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe1406825186D63980fd6e2eC61888f7B91C4bAe4",
+    "symbol": "VBTC",
+    "name": "Strudel BTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
+    "symbol": "AXS",
+    "name": "Axie Infinity Shard",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0xf5d669627376ebd411e34b98f19c868c8aba5ada/07f6f7b2aa4efb792b8c4f020988f9c6.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3c6591ceDD3d60C022f6dA4F83B36d23A633b512",
+    "symbol": "ENFTI",
+    "name": "Ember NFT Index",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x75739d5944534115d7C54ee8C73F186D793BAE02",
+    "symbol": "CO2",
+    "name": "Collective",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x75739d5944534115d7c54ee8c73f186d793bae02/04877d1f152a43bf8af52e296d016b7a.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x924E26fEe8E10c20726006CC2Bd307A538B0eBE5",
+    "symbol": "BTCRSIAPY",
+    "name": "BTC RSI Crossover Yield Set",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xfD81369a36777f20c8452D39bBD1ADd9E43C9510",
+    "symbol": "SDI",
+    "name": "Smart DeFi Index",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x8F12Dfc7981DE79A8A34070a732471f2D335EecE",
+    "symbol": "CE",
+    "name": "Crypto Excellence",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8f12dfc7981de79a8a34070a732471f2d335eece/60cc04fa94d6525e72493d521d4ba505.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x93A62Ccfcf1EfCB5f60317981F71ed6Fb39F4BA2",
+    "symbol": "OSMO",
+    "name": "Osmosis",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x93a62ccfcf1efcb5f60317981f71ed6fb39f4ba2/993efa2b13fa48981c433cd43a40db54.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xEC51614e1306488033Bd9128d7887CBC6166C5fe",
+    "symbol": "SLP",
+    "name": "SushiSwap LP Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xF136D7b0B7AE5b86D21E7B78DFA95375a7360f19",
+    "symbol": "TOSHI",
+    "name": "Toshi Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf136d7b0b7ae5b86d21e7b78dfa95375a7360f19/7727b7001e9a63b857bf48afae76da99.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeea9aE787f3A620072d13b2cdC8cabFFb9c0aB96",
+    "symbol": "YSEC",
+    "name": "YearnSecure",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xeea9ae787f3a620072d13b2cdc8cabffb9c0ab96/cd3c50d2c90aa10c37e4156d9a487cf1.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf552b656022c218C26dAd43ad88881Fc04116F76",
+    "symbol": "MORK",
+    "name": "Mork",
+    "decimals": 4,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf552b656022c218c26dad43ad88881fc04116f76/a705e2b3cc45c1112c32e038d40916b4.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7eE37a2d4b5F36028A5FaE6CD09e775436561B09",
+    "symbol": "EDI",
+    "name": "Ember Defi Index",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x8DBa46033E872feeB7480b4F5031916D85317494",
+    "symbol": "SYBTC",
+    "name": "Set Yield wBTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x916560C92f423BF7d20f34591a6B27a254c3bD7A",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x97E1FcB93ae7267dBAFaD23f7b9AFAA08264CFd8",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xCee1d3c3A02267e37E6B373060F79d5d7b9e1669",
+    "symbol": "YFFI",
+    "name": "yffi.finance",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669/e7539dae5369f86672db6a2aedcb9b4c.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6C7E7a1706ad680fEfEB470371E0871cC6d7b19a",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x77252494C25444F8598A0c74Ffc90ADc535291a9",
+    "symbol": "NMS",
+    "name": "Nemesis",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x77252494c25444f8598a0c74ffc90adc535291a9/22b8dd367184341e0c7da61afb05a716.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9c306A78b1a904e83115c05Ac67c1Ef07C653651",
+    "symbol": "oDOGE",
+    "name": "BoringDAO DOGE",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xDf21bb85a5BFb606bfCa4562aA8CEA2017622415",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x15F0EEDF9Ce24fc4b6826E590A8292CE5524a1DA",
+    "symbol": "DENA",
+    "name": "Decentralized Nations",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da/5d2d69c359ff6e67f44c4875f9a09782.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9b31bb425D8263fA1b8B9d090b83CF0C31665355",
+    "symbol": "CPD",
+    "name": "Coinspaid",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9b31bb425d8263fa1b8b9d090b83cf0c31665355/e62e0c32aad15b312344d4d354e0df50.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093",
+    "symbol": "KAI",
+    "name": "KardiaChain Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093/1060b1d17abca16b318176b71f22a567.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x635d081fD8F6670135D8a3640E2cF78220787d56",
+    "symbol": "ADD",
+    "name": "ADD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x635d081fd8f6670135d8a3640e2cf78220787d56/d4f2b5ca86c74869b88088fce1b40b8e.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7e7E112A68d8D2E221E11047a72fFC1065c38e1a",
+    "symbol": "bDIGG",
+    "name": "Badger Sett Digg",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7e7e112a68d8d2e221e11047a72ffc1065c38e1a/1969216855713720880cce02ab48b8e8.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbfD815347d024F449886c171f78Fa5B8E6790811",
+    "symbol": "AAPX",
+    "name": "AMPnet APX Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbfd815347d024f449886c171f78fa5b8e6790811/4472d0490545fad8c0824d489f3d6616.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3D4e7F52efaFb9E0C70179B688FC3965a75BCfEa",
+    "symbol": "OT-cDAI-29DEC2022",
+    "name": "OT Compound Dai 29DEC2022",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3d4e7f52efafb9e0c70179b688fc3965a75bcfea/5d9e47f2864719be6fca67ca8dadc98e.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x672EF7E4Fe230B5cA1466C5fDD40588d30FdF90a",
+    "symbol": "WOWS",
+    "name": "Wolves Of Wall Street",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x672ef7e4fe230b5ca1466c5fdd40588d30fdf90a/48cdeade6fd5d8851e0f5a221b45b273.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xA808B22ffd2c472aD1278088F16D4010E6a54D5F",
+    "symbol": "REFI",
+    "name": "ReFi",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa808b22ffd2c472ad1278088f16d4010e6a54d5f/ad69addf5d576a6d37c8b1fcad431a7e.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe1b583dc66e0A24Fd9Af2dC665f6F5e48978E106",
+    "symbol": "MEE",
+    "name": "MEE Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106/0b05881770dfdcc402d6ed07096ec9f8.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB",
+    "symbol": "STN",
+    "name": "Stone Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe63d6b308bce0f6193aec6b7e6eba005f41e36ab/508eda239006b6dfbdf5026a0ae1bafa.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f46eba0Bafe2739d9F3C43A48BB84BEE1f6644f",
+    "symbol": "TRSH",
+    "name": "TRASH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x187Eff9690E1F1A61d578C7c492296eaAB82701a",
+    "symbol": "MOAR",
+    "name": "MOAR Finance",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x187eff9690e1f1a61d578c7c492296eaab82701a/9df727d1b9b0aed8e7dd55d4c963e5cc.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x24129B935AfF071c4f0554882C0D9573F4975fEd",
+    "symbol": "sdcrvRenWSBTC",
+    "name": "stake dao Curve.fi renBTC/wBTC/sBTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x6E742E29395Cf5736c358538f0f1372AB3dFE731",
+    "symbol": "TME",
+    "name": "TAMA EGG NiftyGotchi",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6e742e29395cf5736c358538f0f1372ab3dfe731/2cea1790761edf5d7fa127d95e91f980.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6Faa826aF0568d1866Fca570dA79B318ef114dAb",
+    "symbol": "B21",
+    "name": "B21 Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6faa826af0568d1866fca570da79b318ef114dab/1f889eab4a9c2de966b9b58afb6b4573.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x926dbD499d701C61eABe2d576e770ECCF9c7F4F3",
+    "symbol": "aDAO",
+    "name": "Aegis",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xa10740ff9FF6852eac84cdcfF9184e1D6d27C057",
+    "symbol": "WG0",
+    "name": "Wrapped Gen 0",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa10740ff9ff6852eac84cdcff9184e1d6d27c057/c3a8a9af644d83874ffe8474380360a8.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xC4797Eda62a675790CF8B7E1F17D16fA9917A248",
+    "symbol": "EMVI",
+    "name": "Ember Metaverse Index",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xE4f726Adc8e89C6a6017F01eadA77865dB22dA14",
+    "symbol": "BCP",
+    "name": "PieDAO Balanced Crypto Pie",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe4f726adc8e89c6a6017f01eada77865db22da14/32c34f198417a2fc3ae4a13405e1848c.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe9F84dE264E91529aF07Fa2C746e934397810334",
+    "symbol": "SAK3",
+    "name": "Sake",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe9f84de264e91529af07fa2c746e934397810334/ab7365a512292c99854971b2d038cd59.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x17525E4f4Af59fbc29551bC4eCe6AB60Ed49CE31",
+    "symbol": "YPIE",
+    "name": "Yearn Ecosystem Pie",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31/036ef4204f31b59a2df0705924d4ab3e.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x187094a90a0fc1f0Cf51eF408Cf88338A456561B",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x5488ed7F9A99684d0E9ECCd3847860C734017575",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x6C7B97c7e09E790D161769a52F155125FAc6d5A1",
+    "symbol": "ANGEL",
+    "name": "Angel",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6c7b97c7e09e790d161769a52f155125fac6d5a1/17d565cc55f5e5a88c9b72b1a0b35f8b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB17640796e4c27a39AF51887aff3F8DC0daF9567",
+    "symbol": "sd3Crv",
+    "name": "stake dao Curve.fi DAI/USDC/USDT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xd81b71cBb89B2800CDb000AA277Dc1491dc923C3",
+    "symbol": "NMT",
+    "name": "NFTMart Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd81b71cbb89b2800cdb000aa277dc1491dc923c3/c68e4e830fcf65bfa92e168444484f6e.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6867958907fb5A7064748388221da5209184409E",
+    "symbol": "BOBA",
+    "name": "bobabet.dcl.eth.link",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x7d4B1d793239707445305D8d2456D2c735F6B25B",
+    "symbol": "cBSN",
+    "name": "BSNcommunitynet",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7d4b1d793239707445305d8d2456d2c735f6b25b/3a01f9dbe46e793f3be864eb2b2c8407.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72Cf258c852Dc485a853370171d46B9D29fD3184",
+    "symbol": "iUSDT",
+    "name": "yfii Tether USD",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x78a0eE7ad08E2C746518387BeA867BE0199514B8",
+    "symbol": "MARTE",
+    "name": "Marte",
+    "decimals": 4
+  },
+  {
+    "chainId": 1,
+    "address": "0x83F873388Cd14b83A9f47FabDe3C9850b5C74548",
+    "symbol": "ZUT",
+    "name": "ZeroUtility",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x83f873388cd14b83a9f47fabde3c9850b5c74548/1c769ef87746606a2ce51741fd1562e8.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64",
+    "symbol": "ROOM",
+    "name": "OptionRoom Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64/2ced79651bf1e9da2c257817e39bca0e.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xBE38a889D67467b665E30E20eE5604A6F5696e38",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x167E2A574669b0EeB552aaF3Da47c728cb348a41",
+    "symbol": "300",
+    "name": "Spartan",
+    "decimals": 7,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x167e2a574669b0eeb552aaf3da47c728cb348a41/2286a51043ce7a7ae2a301d404b67e40.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1287c0509df9a475Ef178471aB2132b9dfD312B3",
+    "symbol": "LADZ",
+    "name": "LADZ",
+    "decimals": 4,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x1287c0509df9a475ef178471ab2132b9dfd312b3/031527f445169f2d51852fc2a3f4dbc0.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x73EE6D7e6b203125aDd89320E9F343d65ec7c39a",
+    "symbol": "AXI",
+    "name": "Axioms",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x73ee6d7e6b203125add89320e9f343d65ec7c39a/8cc3fcd7987740a7abdcf44d459eda4e.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xA2482ccFF8432ee68b9A26a30fCDd2782Bd81BED",
+    "symbol": "WLEV",
+    "name": "Wrapped Leviathan",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xF5c0E24ACA5217BcBAe662871caE1A86873F02db",
+    "symbol": "GATOR",
+    "name": "Alligator + Fractal Set",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x33CcE3a8BA0bf7Ec56B2CCD2aD9306748a84E4cf",
+    "symbol": "REVA",
+    "name": "Reva Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x10B3AAF66D90Cb54fca62Dd37d17022555399EE1",
+    "symbol": "AICODE",
+    "name": "AICODE",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x5aaDDb423D184b4F84B1C07022a1Ba1168F83575",
+    "symbol": "RTRD",
+    "name": "Highly Regarded Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x683be00CCa798D59bfBc58C818CbC7C72bE947DC",
+    "symbol": "OKSE",
+    "name": "Okse",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x78F225869c08d478c34e5f645d07A87d3fe8eb78",
+    "symbol": "DEFI+L",
+    "name": "PieDAO DEFI Large Cap",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x78f225869c08d478c34e5f645d07a87d3fe8eb78/109cb09b26c81d98b83861d095083265.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa9C125BF4C8bB26f299c00969532B66732b1F758",
+    "symbol": "AELIN",
+    "name": "Aelin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa9c125bf4c8bb26f299c00969532b66732b1f758/6c25590a907c4e3b78905f8b4cb89f08.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe0955F26515d22E347B17669993FCeFcc73c3a0a",
+    "symbol": "STACK",
+    "name": "Stacker Ventures Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe0955f26515d22e347b17669993fcefcc73c3a0a/df93e2d610e35097e789e6a7ed6e3c43.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE1ebCa67020162B87aCb7Ee758Ff9C7Aa8CC708c",
+    "symbol": "NMX",
+    "name": "NMX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe1ebca67020162b87acb7ee758ff9c7aa8cc708c/9956ed4aea424ac3b334a814484ef059.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE9ada97bDB86d827ecbaACCa63eBcD8201D8b12E",
+    "symbol": "AA_idleDAIYield",
+    "name": "IdleCDO AA Tranche - idleDAIYield",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x5245C0249e5EEB2A0838266800471Fd32Adb1089",
+    "symbol": "RAY",
+    "name": "Raydium",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x5245c0249e5eeb2a0838266800471fd32adb1089/29a68ad0cd3a15cf6904d9550be8691d.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7d8d7c26179b7A6aebbF66A91C38ED92d5B4996b",
+    "symbol": "FUND",
+    "name": "Teh Fund",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7d8d7c26179b7a6aebbf66a91c38ed92d5b4996b/fb3fa700702bff206263b1eb748b8f3d.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+    "symbol": "BTC.b",
+    "name": "Bitcoin",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x2297aebd383787a160dd0d9f71508148769342e3/302c75014907af482ed27e9d91e14b8b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6",
+    "symbol": "MAI",
+    "name": "Mai Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/coin/logo_url/mai/295a642804394964de762d65824294cf.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb986F3a2d91d3704Dc974A24FB735dCc5E3C1E70",
+    "symbol": "EUX",
+    "name": "dForce EUR",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0xb986f3a2d91d3704dc974a24fb735dcc5e3c1e70/b5db640b44846812951922e2f8e24b2c.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc4E15973E6fF2A35cC804c2CF9D2a1b817a8b40F",
+    "symbol": "ibBTC",
+    "name": "Interest-Bearing BTC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f/435e73e3f4114f36ad9664fbb3628889.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xDFd540B8A14FaB2cf02a67fAcdc61B6eE5Fee577",
+    "symbol": "SBDG",
+    "name": "SerBridge",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x22585d03D6Fc0693b4a6C9765be18E238FbfCD95",
+    "symbol": "GRIMACE",
+    "name": "GRIMACE",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x22585d03d6fc0693b4a6c9765be18e238fbfcd95/b796900b985b22e66dcc4c4b0e213ad2.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x23A4B4C44A3f632bc9dBD89dBa6Af608C1Ce7ac7",
+    "symbol": "DAD",
+    "name": "DISAPPOINTED DAD ",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x23a4b4c44a3f632bc9dbd89dba6af608c1ce7ac7/75c79dc21afb8dd95c8a4b59ca81584a.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1C6Bfb648483A658781bf90fba460b28ef3FfA8E",
+    "symbol": "YCETH",
+    "name": "Yield Compounding ETH X",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x434CE605FC30C456c178B5B5842e54fE7C023633",
+    "symbol": "SVET",
+    "name": "Silicon Valley Entrepreneurs Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x69Ef45CF64D8360279dAA974AAbAdB42f0683A6c",
+    "symbol": "LMAO",
+    "name": "LMAO Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x72fD84EF5cf65AD2ac85d9ad00F72A633e8c134E",
+    "symbol": "BDMI",
+    "name": "BANX DeFi Metaverse Index",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xC0B2cBd7b8db0d82Cfb5ed37A231B910BD072edF",
+    "symbol": "BIG",
+    "name": "The Originals",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x65Ee1361596439664059D1a5EF44014D08c95693",
+    "symbol": "NEURALINK",
+    "name": "Neuralink",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x65ee1361596439664059d1a5ef44014d08c95693/6e1bac28797eeebc5f05b6d51b3f6de0.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x17414389dCECFc60a13492e3128a1f5F8a3c5ade",
+    "symbol": "ENISHI",
+    "name": "A Destined Encounter",
+    "decimals": 9
+  },
+  {
+    "chainId": 1,
+    "address": "0x6F6A40a7149b4b4F6568c46A0C5A98927A00E9F1",
+    "symbol": "fbet",
+    "name": "FairBet",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x44Ea84a85616F8e9cD719Fc843DE31D852ad7240",
+    "symbol": "nTrump",
+    "name": "NO Donald Trump",
+    "decimals": 15
+  },
+  {
+    "chainId": 1,
+    "address": "0xC88F47067dB2E25851317A2FDaE73a22c0777c37",
+    "symbol": "oneBTC",
+    "name": "oneBTC",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc88f47067db2e25851317a2fdae73a22c0777c37/377a3fbd024fa4b1f6a347586fc6f7b5.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE4AE84448DB5CFE1DaF1e6fb172b469c161CB85F",
+    "symbol": "UOP",
+    "name": "Utopia Open Platform",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f/b706c4ccefd10d0d2eaf7a6009c74cd6.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9d55D5cE5DDed6210928b49A921522E0Bcf1fda6",
+    "symbol": "AINU",
+    "name": "Ai Inu",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x815C23eCA83261b6Ec689b60Cc4a58b54BC24D8D",
+    "symbol": "vTHOR",
+    "name": "vTHOR",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097",
+    "symbol": "RIO",
+    "name": "Realio Network",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf21661d0d1d76d3ecb8e1b9f1c923dbfffae4097/e9427d2f55778f9360782cada1ef4764.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x12b6893cE26Ea6341919FE289212ef77e51688c8",
+    "symbol": "TAMA",
+    "name": "Tamadoge",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x12b6893ce26ea6341919fe289212ef77e51688c8/9220a9933fc396f6c1fa893696df1aa1.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x344D6117Ae0984F3afDd23E593f92d95A83dcD0E",
+    "symbol": "TOILET",
+    "name": "Skibidi Toilet",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x344d6117ae0984f3afdd23e593f92d95a83dcd0e/f2dd853ffb289ee4865708adf8591f1c.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x566e95139e4DE1Bfa505a598EC3A9dA4Cfa879EC",
+    "symbol": "TCATI",
+    "name": "Crino Tcati",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x566e95139e4de1bfa505a598ec3a9da4cfa879ec/0ab80e7d393057558d36d20de926e631.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x470e8de2eBaef52014A47Cb5E6aF86884947F08c",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xf2fDD9c25D7BC8002ce89716d1be484b2D976944",
+    "symbol": "?PAY",
+    "name": "? Payments",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf2fdd9c25d7bc8002ce89716d1be484b2d976944/7ad266fb060e4e5044cd2b2fbd998524.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8888888837F84a7A82668E0320AC454f5945d0b9",
+    "symbol": "WORK",
+    "name": "Work X Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x306ee01a6bA3b4a8e993fA2C1ADC7ea24462000c",
+    "symbol": "NPT",
+    "name": "NEOPIN Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x306ee01a6ba3b4a8e993fa2c1adc7ea24462000c/4b9cd3d820da5e42e3ee50a6abc15ed6.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd27B128dc6536309CdebF7F1AFf0cB7717Bc0268",
+    "symbol": "ETE",
+    "name": "EtherEmpires",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd27b128dc6536309cdebf7f1aff0cb7717bc0268/11cf8cc895c8de32537cb49122d04a26.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3",
+    "symbol": "1ONE",
+    "name": "Harmony ONE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd5cd84d6f044abe314ee7e414d37cae8773ef9d3/f47000d10d04fe2ef495055106073c88.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc548e90589b166E1364DE744E6d35d8748996FE8",
+    "symbol": "BIDEN",
+    "name": "Joe Biden",
+    "decimals": 9
+  },
+  {
+    "chainId": 1,
+    "address": "0x535659CB81ad02f6b015050Df79E194F9eE66847",
+    "symbol": "RUGME",
+    "name": "$FityChumpBitBoyBorovikSlumDogePaulyGirlHarrisHoeWolfysWankerRichFlexAlittleBitch-69LickDeezNutzBen.ETHisGOATED",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x0CD6f267b2086bea681E922E19D40512511BE538",
+    "symbol": "crvUSDFRAX-f",
+    "name": "Curve.fi Factory Plain Pool: crvUSD/Frax",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x21E27a5E5513D6e65C4f830167390997aA84843a",
+    "symbol": "stETH-ng-f",
+    "name": "Curve.fi Factory Pool: stETH-ng",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x2f08119C6f07c006695E079AAFc638b8789FAf18",
+    "symbol": "yUSDT",
+    "name": "yearn Tether USD",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x2336C10a1D3100343fA9911a2c57b77c333599A3",
+    "symbol": "tMATIC",
+    "name": "tender MATIC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x2336c10a1d3100343fa9911a2c57b77c333599a3/a2532c3a9aff0ba878188baa5b88f8ac.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x453D92C7d4263201C69aACfaf589Ed14202d83a4",
+    "symbol": "yCRV-f",
+    "name": "Curve.fi Factory Plain Pool: yCRV",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x48759F220ED983dB51fA7A8C0D2AAb8f3ce4166a",
+    "symbol": "iUSDT",
+    "name": "Iron Bank Tether USD",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0x48759f220ed983db51fa7a8c0d2aab8f3ce4166a/ed83c564512e7b195df05880702e9a2e.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4d9f9D15101EEC665F77210cB999639f760F831E",
+    "symbol": "st-frxETH-f",
+    "name": "Curve.fi Factory Plain Pool: stETH/frxETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4DEcE678ceceb27446b35C672dC7d61F30bAD69E",
+    "symbol": "crvUSDUSDC-f",
+    "name": "Curve.fi Factory Plain Pool: crvUSD/USDC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x5282a4eF67D9C33135340fB3289cc1711c13638C",
+    "symbol": "ib3CRV",
+    "name": "Curve.fi cyDAI/cyUSDC/cyUSDT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x53805A76E1f5ebbFE7115F16f9c87C2f7e633726",
+    "symbol": "fETH",
+    "name": "Fractional ETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x53805a76e1f5ebbfe7115f16f9c87c2f7e633726/bbaebb8cd41af0c03761adb7d61225b6.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x597aD1e0c13Bfe8025993D9e79C69E1c0233522e",
+    "symbol": "yUSDC",
+    "name": "yearn USD//C",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x6853691Ca8Da03Da16194E468068bE5A80F103b0",
+    "symbol": "mooConvexSBTC2",
+    "name": "Moo Convex sBTC2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
+    "symbol": "MIM-3LP3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: Magic Internet Money 3Pool",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x76Eb2FE28b36B3ee97F3Adae0C69606eeDB2A37c",
+    "symbol": "iUSDC",
+    "name": "Iron Bank USD Coin",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0x76eb2fe28b36b3ee97f3adae0c69606eedb2a37c/5b1cbc6b40884e3ad5b0e37b42f93439.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7Da96a3891Add058AdA2E826306D812C638D87a7",
+    "symbol": "yvUSDT",
+    "name": "USDT yVault",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x7f3F33B42b9734e61cb44424D130B5f6e09C9Db3",
+    "symbol": "mooConvexUSDD",
+    "name": "Moo Convex USDD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x828b154032950C8ff7CF8085D841723Db2696056",
+    "symbol": "STETHETH_C-f",
+    "name": "Curve.fi Factory Plain Pool: stETH concentrated",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x87650D7bbfC3A9F10587d7778206671719d9910D",
+    "symbol": "OUSD3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: Origin Dollar",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x8e595470Ed749b85C6F7669de83EAe304C2ec68F",
+    "symbol": "iDAI",
+    "name": "Iron Bank Dai Stablecoin",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0x8e595470ed749b85c6f7669de83eae304c2ec68f/583c068ff49bb64f6bf3d5f87b8e6872.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x94B17476A93b3262d87B9a326965D1E91f9c13E7",
+    "symbol": "OETHCRV-f",
+    "name": "Curve.fi Factory Pool: OETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x9cA85572E6A3EbF24dEDd195623F188735A5179f",
+    "symbol": "y3Crv",
+    "name": "yearn Curve.fi DAI/USDC/USDT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x9D0464996170c6B9e75eED71c68B99dDEDf279e8",
+    "symbol": "cvxcrv-f",
+    "name": "Curve.fi Factory Plain Pool: cvxCRV",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x971add32Ea87f10bD192671630be3BE8A11b8623",
+    "symbol": "cvxcrv-crv-f",
+    "name": "Curve.fi Factory Plain Pool: cvxCrv/Crv",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xa7739fd3d12ac7F16D8329AF3Ee407e19De10D8D",
+    "symbol": "mooConvexStETH",
+    "name": "Moo Convex stETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xAEda92e6A3B1028edc139A4ae56Ec881f3064D4F",
+    "symbol": "eUSD3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: eUSD+FRAX/USDC (FRAXBP)",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xACd43E627e64355f1861cEC6d3a6688B31a6F952",
+    "symbol": "yDAI",
+    "name": "yearn Dai Stablecoin",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c",
+    "symbol": "eCRV",
+    "name": "Curve.fi ETH/sETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xB30dA2376F63De30b42dC055C93fa474F31330A5",
+    "symbol": "alUSDFRAXB3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: alUSDFRAXBP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xb9446c4Ef5EBE66268dA6700D26f96273DE3d571",
+    "symbol": "3EURpool-f",
+    "name": "Curve.fi Factory Plain Pool: 3EURpool",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xBa3436Fd341F2C8A928452Db3C5A3670d1d5Cc73",
+    "symbol": "agEUREUROC-f",
+    "name": "Curve.fi Factory Plain Pool: agEUR/EUROC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xBe426b0f37c112dd20d5866769c8034171567b31",
+    "symbol": "crvUSDMIM-f",
+    "name": "Curve.fi Factory Plain Pool: crvUSD/MIM",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xC29f5611DCd89bC5d3a19762783D3006BC2aD2Ac",
+    "symbol": "tGRT",
+    "name": "tender GRT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xc83bAdBF764F957aCc23Bc9E9aAC71c298B07243",
+    "symbol": "tAUDIO",
+    "name": "tender AUDIO",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xCa978A0528116DDA3cbA9ACD3e68bc6191CA53D0",
+    "symbol": "crvUSDUSDP-f",
+    "name": "Curve.fi Factory Plain Pool: crvUSD/USDP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xCc19786F91BB1F3F3Fd9A2eA9fD9a54F7743039E",
+    "symbol": "mooConvexCvxFXS",
+    "name": "Moo Convex cvxFXS",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xD2967f45c4f384DEEa880F807Be904762a3DeA07",
+    "symbol": "gusd3CRV",
+    "name": "Curve.fi GUSD/3Crv",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B",
+    "symbol": "FRAX3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: Frax",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xd5bAd7c89028B3F7094e40DcCe83D4e6b3Fd9AA4",
+    "symbol": "mooConvexMIM",
+    "name": "Moo Convex MIM",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xE57180685E3348589E9521aa53Af0BCD497E884d",
+    "symbol": "DOLAFRAXBP3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: DOLA/FRAXBP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1",
+    "symbol": "TUSD3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: TrueUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xe6b5CC1B4b47305c58392CE3D359B10282FC36Ea",
+    "symbol": "USDD3CRV3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: USDD/3CRV",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA",
+    "symbol": "LUSD3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: Liquity",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xed279fdd11ca84beef15af5d39bb4d4bee23f0ca/45a771023b4a156c4bf6888411f5a38f.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf43211935C781D5ca1a41d2041F397B8A7366C7A",
+    "symbol": "frxETHCRV",
+    "name": "Curve.fi ETH/frxETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xFC2838a17D8e8B1D5456E0a351B0708a09211147",
+    "symbol": "crvfraxUSDP",
+    "name": "Curve.fi FRAX/USDP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xFFF5b33Dc10D8A2f886d17397666d25e4062dF28",
+    "symbol": "Fren",
+    "name": "Fren",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xfff5b33dc10d8a2f886d17397666d25e4062df28/fcdffeb1abc76bd6e0b7fe1ad9ce2c7b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xA719CB79Af39A9C10eDA2755E0938bCE35e9DE24",
+    "symbol": "SEAN",
+    "name": "Starfish Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa719cb79af39a9c10eda2755e0938bce35e9de24/707a7b67176fd97af9e13faff3da6852.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xBD6467a31899590474cE1e84F70594c53D628e46",
+    "symbol": "KAI",
+    "name": "KardiaChain Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xdb85f6685950E285b1E611037BEBe5B34e2B7d78",
+    "symbol": "WZANO",
+    "name": "Wrapped Zano",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdb85f6685950e285b1e611037bebe5b34e2b7d78/52534ffd789a4f53b79818d305f9cffa.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xAbD893C19423b35bf5Eb0ae00E90a1BB86aE68c9",
+    "symbol": "$POWELL",
+    "name": "Jerome Powell",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xabd893c19423b35bf5eb0ae00e90a1bb86ae68c9/a750f7dc3b8f46087051aca659061a2f.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdcDc1c1cC33AA817CbDBe8F5E2390BF7cc43dc4B",
+    "symbol": "AVASTR",
+    "name": "Avastars",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0xdcdc1c1cc33aa817cbdbe8f5e2390bf7cc43dc4b/a47658e38435cecbf58702c9cc88c531.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5dc1BF6f1e983C0b21EfB003c105133736fA0743",
+    "symbol": "FRAXUSDe",
+    "name": "FRAXUSDe",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x888F538aa0634472d3f038f225c59b5847Cde015",
+    "symbol": "NGN",
+    "name": "Next Generation Network",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x888f538aa0634472d3f038f225c59b5847cde015/04ed0fa66ea7e4f17c90e689ec6d162b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe8E06a5613dC86D459bC8Fb989e173bB8b256072",
+    "symbol": "FEY",
+    "name": "Feyorra",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe8e06a5613dc86d459bc8fb989e173bb8b256072/5b4b2eef50ec1a8c72a5e854f2d3bb03.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcC665390b03c5D324D8fAF81C15eCee29A73bCB4",
+    "symbol": "ASAP",
+    "name": "ChainSwap.com Governance Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcc665390b03c5d324d8faf81c15ecee29a73bcb4/869b46740b62f06d6e489cd6c01bd33b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9349911349d16baB67bF6Fbe146d99256d26A372",
+    "symbol": "TRUMP2024",
+    "name": "MAGA",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9349911349d16bab67bf6fbe146d99256d26a372/9bf2797eaee649626d57f7a4a1e44a76.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7bb1A6b19e37028B3aA5c580339c640720E35203",
+    "symbol": "dynETH",
+    "name": "ETH DynaSet",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xe97F6dDE78b11B58cB3e394F15ab592Cb2ACd290",
+    "symbol": "MUNITY",
+    "name": "Metahorse Unity Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe97f6dde78b11b58cb3e394f15ab592cb2acd290/cf1c54f945923716724acf8cf1499189.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x730A5E2AcEbccAA5e9095723B3CB862739DA793c",
+    "symbol": "SY-rsETH",
+    "name": "SY Kelp rsETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x8CEFBEB2172a9382753De431a493E21Ba9694004",
+    "symbol": "MELANIA",
+    "name": "Melania Trump",
+    "decimals": 9
+  },
+  {
+    "chainId": 1,
+    "address": "0xeD6e09024ef262Cd24312DfE313726142Fad9388",
+    "symbol": "SIRI",
+    "name": "Sirius",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x826e5Ec70DbC5607fF9218011FBb97F9a8D97953",
+    "symbol": "TRAVEL",
+    "name": "TravelCare",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xE74dC43867E0cbEB208F1a012fc60DcBbF0E3044",
+    "symbol": "CWAP",
+    "name": "deFIRE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe74dc43867e0cbeb208f1a012fc60dcbbf0e3044/a7b49ec04df1901073d18e3eeca48800.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x46F84DC6564Cdd93922F7BFb88B03D35308D87C9",
+    "symbol": "WVENOM",
+    "name": "Wrapped VENOM",
+    "decimals": 9
+  },
+  {
+    "chainId": 1,
+    "address": "0xafcE9B78D409bF74980CACF610AFB851BF02F257",
+    "symbol": "LFBTC",
+    "name": "Lift.Kitchen BTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xCa95A6B21A8101d8e34c153d31dc563Ff897EbEF",
+    "symbol": "FLASH",
+    "name": "FlashToken",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x55cD6418Afe170A91e0Be03d7306aB4B755B7ee5",
+    "symbol": "QUBE",
+    "name": "InQubeta",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xda00000035fef4082F78dEF6A8903bee419FbF8E",
+    "symbol": "dUSDCV3",
+    "name": "Trade USDC v3",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0xb986Fd52697f16bE888bFAD2c5bF12cd67Ce834B",
+    "symbol": "stADS",
+    "name": "80$ADS-20WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x65724c0e88b4ecC92ab7Aa25a4B56a70e5367ff7",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xDFC14d2Af169B0D36C4EFF567Ada9b2E0CAE044f",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x0FE13FfE64B28a172c58505e24c0c111d149BD47",
+    "symbol": "TRUMPE",
+    "name": "Trump Pepe",
+    "decimals": 9
+  },
+  {
+    "chainId": 1,
+    "address": "0x82F9c5ad306BBa1AD0De49bB5FA6F01bf61085ef",
+    "symbol": "aEthFXS",
+    "name": "Aave Ethereum FXS",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xBdfa7b7893081B35Fb54027489e2Bc7A38275129",
+    "symbol": "aEthweETH",
+    "name": "Aave Ethereum weETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4F5923Fc5FD4a93352581b38B7cD26943012DECF",
+    "symbol": "aEthUSDe",
+    "name": "Aave Ethereum USDe",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x7a4EffD87C2f3C55CA251080b1343b605f327E3a",
+    "symbol": "rstETH",
+    "name": "Restaking Vault ETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x6F634c6135D2EBD550000ac92F494F9CB8183dAe",
+    "symbol": "aDPI",
+    "name": "Aave interest bearing DPI",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
+    "symbol": "DATA",
+    "name": "DATA Economy Index",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1/0db0a632f8e3dbaee68bc723ca85b5c7.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x56EE175FE37CD461486cE3c3166e0CaFCcd9843f",
+    "symbol": "EWIT",
+    "name": "eWit",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x56ee175fe37cd461486ce3c3166e0cafccd9843f/6e5919adafa6de441494a9eeadf09c1c.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a30ef92f921836F3743a4A9d27e6CF2C8670b9B",
+    "symbol": "FLDX",
+    "name": "FullDex",
+    "decimals": 16
+  },
+  {
+    "chainId": 1,
+    "address": "0x8064d9Ae6cDf087b1bcd5BDf3531bD5d8C537a68",
+    "symbol": "oBTC",
+    "name": "BoringDAO BTC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68/b68eebe98cce219222ce482615dcc383.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x84bA4aEcfDe39D69686a841BAb434C32d179a169",
+    "symbol": "MTHD",
+    "name": "Method",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x84ba4aecfde39d69686a841bab434c32d179a169/23ce120da302c825a7d1646c4076339c.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xA973C558265AD458031Fa3067071646836DF7713",
+    "symbol": "JOKE",
+    "name": "jokedao",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xa025f41f1A973E6649931f3AC96979071bda4c9F",
+    "symbol": "PDAO",
+    "name": "PlannerDAO Opportunity Index",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xb8919522331C59f5C16bDfAA6A121a6E03A91F62",
+    "symbol": "HOME",
+    "name": "Home",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xb8919522331c59f5c16bdfaa6a121a6e03a91f62/8ee9817b6c5da83c5bb9a73d1557bdcb.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xEd025A9Fe4b30bcd68460BCA42583090c2266468",
+    "symbol": "RPC",
+    "name": "Ripio Coin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xed025a9fe4b30bcd68460bca42583090c2266468/a4eb18c3356803987413bf92e49a0559.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0d31DF7dedd78649A14aAe62D99CcB23aBCC3A5A",
+    "symbol": "ethTCG2",
+    "name": "TCG 2.0 ETH",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x0d31df7dedd78649a14aae62d99ccb23abcc3a5a/43ac623516e0492ac87f37d3b9becced.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0d20e86AbAb680C038Ac8bBDc1446585e67f8951",
+    "symbol": "CHAIN",
+    "name": "Arch Blockchains",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xD04E772BC0d591fBD288f2E2a86aFA3D3CB647F8",
+    "symbol": "GPT",
+    "name": "CryptoGPT Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd04e772bc0d591fbd288f2e2a86afa3d3cb647f8/9f6163187f474845c45c93319ee33a59.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb11dB272EbfABEdf611a07684e82165dB60dC70E",
+    "symbol": "BTCMTX",
+    "name": "Bitcoin Minetrix",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xb11db272ebfabedf611a07684e82165db60dc70e/561c9eb5e3e0aa760fe843d437197c49.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x605D26FBd5be761089281d5cec2Ce86eeA667109",
+    "symbol": "DSU",
+    "name": "Digital Standard Unit",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x605d26fbd5be761089281d5cec2ce86eea667109/d29b4cb52acd739679df162a1658a0cc.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6619078Bdd8324E01E9a8D4b3d761b050E5ECF06",
+    "symbol": "MAL",
+    "name": "My Alpha Leaderboard",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+    "symbol": "syrupUSDC",
+    "name": "Syrup USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x4579a27aF00A62C0EB156349f31B345c08386419",
+    "symbol": "aEthsUSDe",
+    "name": "Aave Ethereum sUSDe",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xD7fC610F6595b3aA6E24466b5cA166D10a0fbdcb",
+    "symbol": "KERN",
+    "name": "Kernel",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x0C0d01AbF3e6aDfcA0989eBbA9d6e85dD58EaB1E",
+    "symbol": "aEthPYUSD",
+    "name": "Aave Ethereum PYUSD",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0xfA1fDbBD71B0aA16162D76914d69cD8CB3Ef92da",
+    "symbol": "aEthLidoWETH",
+    "name": "Aave Ethereum Lido WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xd4937682df3C8aEF4FE912A96A74121C0829E664",
+    "symbol": "aFRAX",
+    "name": "Aave interest bearing FRAX",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x1c0E06a0b1A4c160c17545FF2A951bfcA57C0002",
+    "symbol": "aEthETHx",
+    "name": "Aave Ethereum ETHx",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x5De758BbA013e58dAe2693aEA3f0B12B31a3023d",
+    "symbol": "SATO",
+    "name": "Atsuko Sato",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4206931337dc273a630d328dA6441786BfaD668f",
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/brise_token/logo_url/0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844/cdf855bb80112fa7da4fd2354e27a1ca.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c",
+    "symbol": "alUSD3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: Alchemix USD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x628eBC64A38269E031AFBDd3C5BA857483B5d048",
+    "symbol": "LSETH",
+    "name": "Liquid Staked ETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x628ebc64a38269e031afbdd3c5ba857483b5d048/9cf7352ee9a98334adc1a6c523febd70.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x43d584d0c687C574FA05D3Db171Ff915B0833d0a",
+    "symbol": "RAI",
+    "name": "Rotate AI",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x424485f89ea52839fdB30640Eb7DD7E0078E12fb",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x41f7B8b9b897276b7AAE926a9016935280b44E97",
+    "symbol": "USDCso",
+    "name": "USD Coin (Wormhole)",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x41f7b8b9b897276b7aae926a9016935280b44e97/cebdd996dd1b6ea6c0537c6f773cd31b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x442B153F6F61C0c99A33Aa4170DCb31e1ABDa1D0",
+    "symbol": "AVA(old)",
+    "name": "Travala.com Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x442b153f6f61c0c99a33aa4170dcb31e1abda1d0/65b43664a3f8ed537c845969c607cb48.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xC035a7cf15375cE2706766804551791aD035E0C2",
+    "symbol": "aEthLidowstETH",
+    "name": "Aave Ethereum Lido wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xd3d2E2692501A5c9Ca623199D38826e513033a17",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e8F4bdbE3d47d7d7DE490437AeA9915D930F1A3",
+    "symbol": "aUSDP",
+    "name": "Aave interest bearing USDP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x2fDbAdf3C4D5A8666Bc06645B8358ab803996E28",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x50379f632ca68D36E50cfBC8F78fe16bd1499d1e",
+    "symbol": "G-UNI",
+    "name": "Gelato Uniswap DAI/USDC LP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x59A19D8c652FA0284f44113D0ff9aBa70bd46fB4",
+    "symbol": "BPT",
+    "name": "Balancer Pool Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x683923dB55Fead99A79Fa01A27EeC3cB19679cC3",
+    "symbol": "aFEI",
+    "name": "Aave interest bearing FEI",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x78fb5E79D5cb59729D0cd72bEA7879aD2683454D",
+    "symbol": "stataEthUNI",
+    "name": "Static Aave Ethereum UNI",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x867Cf025B5dA438c4e215c60B59bBB3aFe896Fda",
+    "symbol": "stataEthrETH",
+    "name": "Static Aave Ethereum rETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x927709711794F3De5DdBF1D176bEE2D55Ba13c21",
+    "symbol": "aEthosETH",
+    "name": "Aave Ethereum osETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x952749E07d7157bb9644A894dFAF3Bad5eF6D918",
+    "symbol": "aCVX",
+    "name": "Aave interest bearing CVX",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x9a14e23A58edf4EFDcB360f68cd1b95ce2081a2F",
+    "symbol": "aENS",
+    "name": "Aave interest bearing ENS",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xd145c6ae8931ed5Bca9b5f5B7dA5991F5aB63B5c",
+    "symbol": "aAmmGUniDAIUSDC",
+    "name": "Aave AMM Market GUniDAIUSDC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xB07E357cc262E92eee03D8B81464D596B258eA7a",
+    "symbol": "stataEthWBTC",
+    "name": "Static Aave Ethereum WBTC",
+    "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0xFEB859A50f92C6D5ad7C9eF7C2c060D164B3280f",
+    "symbol": "stataEthAAVE",
+    "name": "Static Aave Ethereum AAVE",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xCa5DFDABBfFD58cfD49A9f78Ca52eC8e0591a3C5",
+    "symbol": "aAmmGUniUSDCUSDT",
+    "name": "Aave AMM Market GUniUSDCUSDT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xB490fF18e55b8881C9527FE7E358dd363780449F",
+    "symbol": "stataEth1INCH",
+    "name": "Static Aave Ethereum 1INCH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xFa7E3571786CE9489bBC58d9Cb8ecE8aAe6B56F3",
+    "symbol": "stataEthsDAI",
+    "name": "Static Aave Ethereum sDAI",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xce1871f791548600cb59efbefFC9c38719142079",
+    "symbol": "aLUSD",
+    "name": "Aave interest bearing LUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xD2eeC91055F07fE24C9cCB25828ecfEFd4be0c41",
+    "symbol": "G-UNI",
+    "name": "Gelato Uniswap USDC/USDT LP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x322AA5F5Be95644d6c36544B6c5061F072D16DF5",
+    "symbol": "stataEthwstETH",
+    "name": "Static Aave Ethereum wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x321bd6Fa7696E0e4Ba082E454B6e87B6c8372b27",
+    "symbol": "SHIBA",
+    "name": "ShibaCoin",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x3255543B518a7B4114EdC30DBF61bBd28d730fD1",
+    "symbol": "YETHX",
+    "name": "Yield Compounding ETH X",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x7380c583cDe4409eFF5DD3320D93a45D96B80E2e",
+    "symbol": "aEthEtherFiUSDC",
+    "name": "Aave Ethereum EtherFi USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0xbe1F842e7e0afd2c2322aae5d34bA899544b29db",
+    "symbol": "aEthEtherFiweETH",
+    "name": "Aave Ethereum EtherFi weETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xdF7f48892244C6106EA784609f7de10AB36F9c7e",
+    "symbol": "aEthEtherFiPYUSD",
+    "name": "Aave Ethereum EtherFi PYUSD",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x6914ECCf50837dC61b43ee478a9BD9B439648956",
+    "symbol": "aEthEtherFiFRAX",
+    "name": "Aave Ethereum EtherFi FRAX",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x10Ac93971cdb1F5c778144084242374473c350Da",
+    "symbol": "aEthtBTC",
+    "name": "Aave Ethereum tBTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x5c647cE0Ae10658ec44FA4E11A51c96e94efd1Dd",
+    "symbol": "aEthcbBTC",
+    "name": "Aave Ethereum cbBTC",
+    "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0x32a6268f9Ba3642Dda7892aDd74f1D34469A4259",
+    "symbol": "aEthUSDS",
+    "name": "Aave Ethereum USDS",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4fc1B049960adAA89E462c95474BD6C5a43f969a",
+    "symbol": "PAC(unknown)",
+    "name": "America Pac",
+    "decimals": 9
+  },
+  {
+    "chainId": 1,
+    "address": "0xA008E737e305d700c97B1EB7CC2BF77B2Be6F9Dd",
+    "symbol": "SCAM",
+    "name": "Scammet",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x74e5664394998f13B07aF42446380ACef637969f",
+    "symbol": "aEthLidoezETH",
+    "name": "Aave Ethereum Lido ezETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x78d9A9355a7823887868492c47368956ea473618",
+    "symbol": "BASTARD",
+    "name": "BastardToken",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xc2015641564a5914A17CB9A92eC8d8feCfa8f2D0",
+    "symbol": "aEthLidosUSDe",
+    "name": "Aave Ethereum Lido sUSDe",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x2371e134e3455e0593363cBF89d3b6cf53740618",
+    "symbol": "gtWETH",
+    "name": "Gauntlet WETH Prime",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x7223442cad8e9cA474fC40109ab981608F8c4273",
+    "symbol": "weETHk",
+    "name": "King Karak LRT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xC785698504A70bE37d0e939a4C5326f8eDdD5BEb",
+    "symbol": "QUBY",
+    "name": "QUBY",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc785698504a70be37d0e939a4c5326f8eddd5beb/d19f84a1e8628781abdc08c7e6d92c0d.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8aa9381b2544b48c26f3b850F6e07E2c5161EB3e",
+    "symbol": "WDOGE",
+    "name": "Wrapped DOGE",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8aa9381b2544b48c26f3b850f6e07e2c5161eb3e/a6dbb92639dd7dd286d120b56157fbd6.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x60c19Ef883C94Be612d9d58e7beCd3Bc1D29442C",
+    "symbol": "FUMO404",
+    "name": "Milady Fumo 404",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x60c19ef883c94be612d9d58e7becd3bc1d29442c/c8436583d68809d83b83d52ca3017b4a.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf34960d9d60be18cC1D5Afc1A6F012A723a28811",
+    "symbol": "KCS",
+    "name": "KuCoin Token",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf34960d9d60be18cc1d5afc1a6f012a723a28811/fb5977156e44c4b1f3b55a875c102466.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9D09bCF1784eC43f025d3ee071e5b632679a01bA",
+    "symbol": "TEE (meme from teeheehe.xyz)",
+    "name": "Tee_Hee_He",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9d09bcf1784ec43f025d3ee071e5b632679a01ba/3cd53e4ad13f0e9d57d66fbfda576864.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xCCbf21ba6EF00802AB06637896B799f7101F54A2",
+    "symbol": "BUBO",
+    "name": "Bubo",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xccbf21ba6ef00802ab06637896b799f7101f54a2/cb36e3481b82c88d03d19242419ffcb9.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xda0002859B2d05F66a753d8241fCDE8623f26F4f",
+    "symbol": "dWETHV3",
+    "name": "Trade WETH v3",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xF10c41cA085FC8d9326a65408D14Dae28A3E69a5",
+    "symbol": "ISLM",
+    "name": "Islamic Coin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf10c41ca085fc8d9326a65408d14dae28a3e69a5/6a7e4d92a47988b80cad8db5b32c2ca5.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7d647b1A0dcD5525e9C6B3D14BE58f27674f8c95",
+    "symbol": "BYTES (unknown)",
+    "name": "BYTES",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xe2E109f1b4eaA8915655fE8fDEfC112a34ACc5F0",
+    "symbol": "DUST",
+    "name": "DUST Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe2e109f1b4eaa8915655fe8fdefc112a34acc5f0/b58e03f3528f2ffa391d79163f284b8b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0F7B3F5a8FeD821c5eb60049538a548dB2D479ce",
+    "symbol": "ATOR",
+    "name": "AirTor Protocol",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x0f7b3f5a8fed821c5eb60049538a548db2d479ce/01c3206e105073f767726bab8e32fd40.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE957ea0b072910f508dD2009F4acB7238C308E29",
+    "symbol": "ETHC",
+    "name": "Ethcoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe957ea0b072910f508dd2009f4acb7238c308e29/ed9dacd63568acda5bff1402654ebb4a.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x241AdD131B9aaa7527132b752252b99420937ADc",
+    "symbol": "yvCurve-crvUSDUSDT-f-f",
+    "name": "Curve crvUSDUSDT-f Factory yVault",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4eE4f96838454E67Fce92B2c53b0f1a97D047179",
+    "symbol": "MBBT",
+    "name": "meebitsdaopool",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4ee4f96838454e67fce92b2c53b0f1a97d047179/f0037f81b9cf87f8b18249b0fe7b8e0d.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7099aB9E42Fa7327a6b15E0a0c120c3e50d11BeC",
+    "symbol": "BTC",
+    "name": "HarryPotterTrumpSonic100Inu",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7099ab9e42fa7327a6b15e0a0c120c3e50d11bec/3069d87a5fdcf8721e13103a4f04dffb.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x960692640AC4986fFCe41620b7E3aA03cf1A0e8F",
+    "symbol": "MTT",
+    "name": "MeTeorite",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x0E5F3a47122901D3eE047d2C7e1B36b419Ede5FE",
+    "symbol": "mooSiloWETH",
+    "name": "Moo Silo WETH (weETH Market)",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x822757d09A8D5db5874Be7f367eaFaE2af32D64B",
+    "symbol": "ONI (ONINO)",
+    "name": "ONINO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x822757d09a8d5db5874be7f367eafae2af32d64b/2dd28b63c4deb38ef2d43d30c62ce974.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7f89F674B7d264944027E78e5F58Eb2bbBB7cfA3",
+    "symbol": "BCRED",
+    "name": "BRAIN CREDITS",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7f89f674b7d264944027e78e5f58eb2bbbb7cfa3/4b7b9b3ab5032f8ad7ced4240057e012.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x465e07d6028830124BE2E4aA551fBe12805dB0f5",
+    "symbol": "WXMR",
+    "name": "Wrapped Monero",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x465e07d6028830124be2e4aa551fbe12805db0f5/971d44de45dcc723f7fcfcd5c7ef9413.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeDb94045BF4492c29F4966f789107FBA965aF466",
+    "symbol": "HBO",
+    "name": "Hongbao.finance",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xD2d8D78087D0E43BC4804B6F946674b2Ee406b80",
+    "symbol": "✺RUG",
+    "name": "RugBank Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd2d8d78087d0e43bc4804b6f946674b2ee406b80/bf772e706f7f69f326c2ca309ed2b36b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x69002bbe1e8e09F53374A8DAf0E38dde61d77421",
+    "symbol": "DJIA",
+    "name": "DowJones6900",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x69002bbe1e8e09f53374a8daf0e38dde61d77421/3ea5c236aad8b45acfdf9b906622d735.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xD8c5F7D22BA7D5F282c6Bd3a744bd15aCFea6d2c",
+    "symbol": "MEDA",
+    "name": "MileiMoneda",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xb79bBc5C96ba248E10C1Bdac1a2B83790fF22B7F",
+    "symbol": "tBTC/thUSD",
+    "name": "tBTC/thUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xcE6b17c16Df188fa721632b770a2ee5530589716",
+    "symbol": "ETFS",
+    "name": "ETFSwap",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xb80B3215EA8183a064073f9892eb64236160a4dF",
+    "symbol": "waEthUSDS",
+    "name": "Wrapped Aave Ethereum USDS",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x775F661b0bD1739349b9A2A3EF60be277c5d2D29",
+    "symbol": "waEthLidowstETH",
+    "name": "Wrapped Aave Ethereum Lido wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x7Bc3485026Ac48b6cf9BaF0A377477Fff5703Af8",
+    "symbol": "waEthUSDT",
+    "name": "Wrapped Aave Ethereum USDT",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0xD4fa2D31b7968E448877f69A96DE69f5de8cD23E",
+    "symbol": "waEthUSDC",
+    "name": "Wrapped Aave Ethereum USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x0FE906e030a44eF24CA8c7dC7B7c53A6C4F00ce9",
+    "symbol": "waEthLidoWETH",
+    "name": "Wrapped Aave Ethereum Lido WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x026aDe9bA164881C80De6D49580193C3528303db",
+    "symbol": "PYRITE",
+    "name": "A Fools Gold",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x026ade9ba164881c80de6d49580193c3528303db/afa545d86df778e27679d3372a2a6cc9.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x05b4Af867DCFf2E45D75d04d52Cda919c7A27E08",
+    "symbol": "GOV",
+    "name": "GovWorld",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x05b4af867dcff2e45d75d04d52cda919c7a27e08/46d3d02102c29a4258be46a128c7439f.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x06325440D014e39736583c165C2963BA99fAf14E",
+    "symbol": "steCRV",
+    "name": "Curve.fi ETH/stETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x020810D775fC019480CD56ECb960389d3477039D",
+    "symbol": "GIL",
+    "name": "Materia",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x0275E1001e293C46CFe158B3702AADe0B99f88a5",
+    "symbol": "OIL",
+    "name": "Oiler",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x0275e1001e293c46cfe158b3702aade0b99f88a5/7cca9bd970581cd639f03d9c25e1af2a.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0309c98B1bffA350bcb3F9fB9780970CA32a5060",
+    "symbol": "BDI",
+    "name": "BasketDAO DeFi Index",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x0309c98b1bffa350bcb3f9fb9780970ca32a5060/ec605c29567e2f5571cda06451dfc187.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x02e7Ac540409D32C90BfB51114003a9E1fF0249c",
+    "symbol": "JPG",
+    "name": "JPG NFT Index",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x02e7ac540409d32c90bfb51114003a9e1ff0249c/d8d5d7af7b72fb86b0e407347673a557.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27",
+    "symbol": "ZIL",
+    "name": "Zilliqa",
+    "decimals": 12,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27/63654569f62a158f826dedc6c17ecece.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0000e3705d8735ee724a76F3440c0a7ea721eD00",
+    "symbol": "SAITAMA",
+    "name": "Saitama Inu",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x0000e3705d8735ee724a76f3440c0a7ea721ed00/3273fedb72dd4c73f03710bc7134a67d.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x24aE124c4CC33D6791F8E8B63520ed7107ac8b3e",
+    "symbol": "ESS",
+    "name": "Empty Set Share",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x24ae124c4cc33d6791f8e8b63520ed7107ac8b3e/76951ad94623f6ee446f297650b46222.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x08e96f308Eb008B3Db68640aba6B06078625f8cd",
+    "symbol": "Vine ",
+    "name": "Vine",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x08e96f308eb008b3db68640aba6b06078625f8cd/8db79119484a77994e1c3846d8631b2d.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2a95FE4c7e64e09856989F9eA0b57B9AB5f770CB",
+    "symbol": "wSPA",
+    "name": "Wrapped Sperax",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x2a95fe4c7e64e09856989f9ea0b57b9ab5f770cb/244b9e834fd1c926010d85f6a46a4699.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3516415161C478DF10ADBb8bb884Cc83FbD5F11a",
+    "symbol": "DEX",
+    "name": "AlphaDex",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3516415161c478df10adbb8bb884cc83fbd5f11a/6bebd20037f820c59d0dcc3dda55c601.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x38b7Bf4eeCF3EB530b1529c9401FC37d2a71a912",
+    "symbol": "csMATIC",
+    "name": "ClayStack Staked MATIC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x38b7bf4eecf3eb530b1529c9401fc37d2a71a912/ee588c97317d5ac266a01a75c345ef89.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0bfc9d54Fc184518A81162F8fB99c2eACa081202",
+    "symbol": "waEthWETH",
+    "name": "Wrapped Aave Ethereum WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x07834B06b5756056e065c0bD1639761Ab8297513",
+    "symbol": "cft",
+    "name": "CryptoFT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x09E4BDFb273245063eF5E800D891eFF7d04f9B83",
+    "symbol": "ETHPA",
+    "name": "ETH Price Action Candlestick Set",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x09e4bdfb273245063ef5e800d891eff7d04f9b83/16988364e015a3a256a54bec303090e9.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x19F4a2f8E21915376F1429C26a3A9B9b1db5FF5A",
+    "symbol": "CHADLINK",
+    "name": "Chad Link Set",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/token/logo_url/0x19f4a2f8e21915376f1429c26a3a9b9b1db5ff5a/87decbc3f37a9c1a25e8e0a6515fdc96.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x26E43759551333e57F073bb0772F50329A957b30",
+    "symbol": "DGVC",
+    "name": "DegenVC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x26e43759551333e57f073bb0772f50329a957b30/47c35e7b6dbd973fe687f5795e97217a.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0020d80229877b495D2bf3269a4c13f6f1e1B9D3",
+    "symbol": "DEXM",
+    "name": "Dexmex",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3/7d14a7ef836eb142c754aff0e586e3ca.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0",
+    "symbol": "iFUND",
+    "name": "UNIFUND",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x04b5e13000c6e9a3255dc057091f3e3eeee7b0f0/2fcbc4d997ea43f1ca34b58949b3b6a7.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x07C44B5Ac257C2255AA0933112c3b75A6BFf3Cb1",
+    "symbol": "oLTC",
+    "name": "BoringDAO LTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x0a0e3bfD5a8cE610E735D4469Bc1b3b130402267",
+    "symbol": "ERP",
+    "name": "Entropy",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x0a0e3bfd5a8ce610e735d4469bc1b3b130402267/c223df6e53ec0fbfd7f5c6203df74c03.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb",
+    "symbol": "xMARK",
+    "name": "Standard",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb/cec382274fb436a8b6aed49ac54a73a0.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x382f5DfE9eE6e309D1B9D622735e789aFde6BADe",
+    "symbol": "GST",
+    "name": "Global Scan Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x39Ad22C916F42aF5f67371d6f2Fb0dab42321a89",
+    "symbol": "OSINA",
+    "name": "Osinachi",
+    "decimals": 4
+  },
+  {
+    "chainId": 1,
+    "address": "0x3abF2A4f8452cCC2CF7b4C1e4663147600646f66",
+    "symbol": "JBX",
+    "name": "Juicebox",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3abf2a4f8452ccc2cf7b4c1e4663147600646f66/a147b10b9b286f4f4a500deb49a098e5.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1DB6e3Ea822c093A93240880DA037C0F421d05D1",
+    "symbol": "SSY",
+    "name": "Smart StableCoin Yield",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x34862060EFF6DA2AF04D382C209a433279377d16",
+    "symbol": "SOUL",
+    "name": "SoulPower",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x40955D77F87123b71b145098358A60573ac7BE96",
+    "symbol": "DAISY",
+    "name": "DAISY",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x40955d77f87123b71b145098358a60573ac7be96/1c5cd371d1d034565dbbd3a452c3781b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x286C0936c7Eaf6651099Ab5DAb9ee5A6cB5d229D",
+    "symbol": "KWIK",
+    "name": "Kwikswap",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x286c0936c7eaf6651099ab5dab9ee5a6cb5d229d/9c928678a00199f4283f3278142252c0.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x26cF82e4aE43D31eA51e72B663d26e26a75AF729",
+    "symbol": "mbBASED",
+    "name": "Moonbase",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x26cf82e4ae43d31ea51e72b663d26e26a75af729/7540f9160c8240ae6684dd31204038ff.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x263B6B028F3e4eD8C4329eB2b5f409Ee38D97296",
+    "symbol": "WMT",
+    "name": "worldmobiletoken",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x263b6b028f3e4ed8c4329eb2b5f409ee38d97296/968e1d6b8fa755b1b69c1c2ea0c56543.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x04bC0Ab673d88aE9dbC9DA2380cB6B79C4BCa9aE",
+    "symbol": "yBUSD",
+    "name": "iearn BUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x1E6bb68Acec8fefBD87D192bE09bb274170a0548",
+    "symbol": "aAMPL",
+    "name": "Aave interest bearing AMPL",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x1e6bb68acec8fefbd87d192be09bb274170a0548/623f5d40584ee980c7991cd8b780b795.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x051d7e5609917Bd9b73f04BAc0DED8Dd46a74301",
+    "symbol": "crvWSBTC",
+    "name": "Curve.fi wBTC/sBTC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x051d7e5609917bd9b73f04bac0ded8dd46a74301/cd6731a8f5481cf40018712b526f4d01.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x34892e2AcAb7Db584DE000fAa1Ca142040176b26",
+    "symbol": "mooConvexEUSD",
+    "name": "Moo Convex eUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce",
+    "symbol": "LEAD",
+    "name": "Lead Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x1dd80016e3d4ae146ee2ebb484e8edd92dacc4ce/e9faa05d5e7451f75f28823e561c4b3a.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x34D655069F4cAc1547E4C8cA284FfFF5ad4A8db0",
+    "symbol": "crvUSDTUSD-f",
+    "name": "Curve.fi Factory Plain Pool: crvUSD/TUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4115150523599D1F6C6Fa27F5A4C27D578Fd8ce5",
+    "symbol": "mooConvexCRV",
+    "name": "Moo Convex CRV",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x1eA6E1ba21601258401d0B9DB24eA0a07948458e",
+    "symbol": "stataEthLDO",
+    "name": "Static Aave Ethereum LDO",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x09AA30b182488f769a9824F15E6Ce58591Da4781",
+    "symbol": "aEthLidoUSDS",
+    "name": "Aave Ethereum Lido USDS",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x390f3595bCa2Df7d23783dFd126427CCeb997BF4",
+    "symbol": "crvUSDUSDT-f",
+    "name": "Curve.fi Factory Plain Pool: crvUSD/USDT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x37d19d1c4E1fa9DC47bD1eA12f742a0887eDa74a",
+    "symbol": "yTUSD",
+    "name": "yearn TrueUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x004375Dff511095CC5A197A54140a24eFEF3A416",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x3A9780555DAC7aD1c1B252f466ddaE09E5737F50",
+    "symbol": "⸙͎۪۫",
+    "name": "Ki",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x149EE12310D499F701B6A5714eDAd2C832008fd2",
+    "symbol": "stataEthCRV",
+    "name": "Static Aave Ethereum CRV",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x1efF8aF5D577060BA4ac8A29A13525bb0Ee2A3D5",
+    "symbol": "BPT",
+    "name": "Balancer Pool Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x2A1FBcb52Ed4d9b23daD17E1E8Aed4BB0E6079b8",
+    "symbol": "aEthLidoUSDC",
+    "name": "Aave Ethereum Lido USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x2767C27Eeaf3566082E74b963B6A0f5c9a46C8a1",
+    "symbol": "stataEthENS",
+    "name": "Static Aave Ethereum ENS",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x2A7f617AF3009578021473a88A7c5a2aF5aACd79",
+    "symbol": "punk40wstE",
+    "name": "mstETH-WPUNKS-40/wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x3dA1313aE46132A397D90d95B1424A9A7e3e0fCE",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x38C2a4a7330b22788374B8Ff70BBa513C8D848cA",
+    "symbol": "TRUF (old)",
+    "name": "Truflation",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x38c2a4a7330b22788374b8ff70bba513c8d848ca/521e7c7f8c8fc99d97d0c7300e7de192.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x043C308BB8a5aE96D0093444be7f56459F1340b1",
+    "symbol": "SUM",
+    "name": "SUM",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x043c308bb8a5ae96d0093444be7f56459f1340b1/e4440712f5c5e9590efb39daa83bfc0b.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x04969cD041C0cafB6AC462Bd65B536A5bDB3A670",
+    "symbol": "wOMI",
+    "name": "Wrapped OMI Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x04969cd041c0cafb6ac462bd65b536a5bdb3a670/a7b39b595917bc590d3cb1eb1fd55919.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x00813E3421E1367353BfE7615c7f7f133C89df74",
+    "symbol": "SPS",
+    "name": "Splintershards",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x00813e3421e1367353bfe7615c7f7f133c89df74/7a18fca97868c3a850bee938acad501f.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe29797910D413281d2821D5d9a989262c8121CC2",
+    "symbol": "ELIMU",
+    "name": "elimu.ai",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x5d269fac3B2e0552b0F34cdc253bDB427682A4b9",
+    "symbol": "DJ15",
+    "name": "Davincij15 Token",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x5d269fac3b2e0552b0f34cdc253bdb427682a4b9/99c5650954fdfa60bd0d1f405b3f8f2f.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x283e6a6E27365a7363a8E8011d5bd24735C8AE23",
+    "symbol": "BURGERS",
+    "name": "Burgers? by Stonetoss",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x7FF7Fa94b8b66Ef313f7970d4EEbd2CB3103a2C0",
+    "symbol": "VANA",
+    "name": "Vana",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x38a1753AEd353e58c64a55a3f3c750E919915537",
+    "symbol": "rUSTP",
+    "name": "Interest-bearing USD of TProtocol",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xBCD515D6C5de70D3A31D999A7FA6a299657De294",
+    "symbol": "RICE",
+    "name": "RICE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbcd515d6c5de70d3a31d999a7fa6a299657de294/66dd678b5f112e7488533e68d2a8f4fc.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x36df9B0F5e50b6F1341e8D90b222dAa0B5dc385b",
+    "symbol": "iUSTP",
+    "name": "Wrapped rUSTP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x34bdbA9b3D8E3073Eb4470cd4C031C2e39C32DA8",
+    "symbol": "ctLBTC",
+    "name": "Concrete-LBTC-Vault",
+    "decimals": 17
+  },
+  {
+    "chainId": 1,
+    "address": "0xe37254859c446Bb35Cb8Ca478Ac6439807274C6F",
+    "symbol": "DSMB",
+    "name": "Dissected Meebit #10761",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x05770332D4410b6D7f07Fd497E4c00F8F7bFb74A",
+    "symbol": "WMAI",
+    "name": "Wrapped MAI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/pze_token/logo_url/0x27a4bf80c2d63e42437258533dac7eaff9881bdb/949b8d1544d02888241737a3b44ba9ed.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x15Fb0d51420D3259607c45D1f6F4Ae2fF730B6c7",
+    "symbol": "BOI",
+    "name": "Yellow Boi",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x15fb0d51420d3259607c45d1f6f4ae2ff730b6c7/889c329199fc334af87498cb92bebda7.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9F79B3C8e0e4Eeb8B48c299E601d5E714b1d146B",
+    "symbol": "ACAT",
+    "name": "ACAT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9f79b3c8e0e4eeb8b48c299e601d5e714b1d146b/c1a7576a61109e36c45bc083f55516d5.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdDc6625FEcA10438857DD8660C021Cd1088806FB",
+    "symbol": "RAD (unknown)",
+    "name": "Radcoin V2",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xddc6625feca10438857dd8660c021cd1088806fb/d3803d65558ddf69f78713aab7392acb.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x786A6743efe9500011C92c7D8540608a62382b6f",
+    "symbol": "ALU",
+    "name": "Altura",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x786a6743efe9500011c92c7d8540608a62382b6f/cb5b3ce8ea9a97b1ed0697b9b8cc8661.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xff04b6030da81EDA1Abf26AabD42C3C120831C0d",
+    "symbol": "TRUMP",
+    "name": "Official Trump",
+    "decimals": 9
+  },
+  {
+    "chainId": 1,
+    "address": "0x2D62109243b87C4bA3EE7bA1D91B0dD0A074d7b1",
+    "symbol": "aEthrsETH",
+    "name": "Aave Ethereum rsETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x9619b0eaDD70d643Cb2BBE6d5752B15C16fbf2d2",
+    "symbol": "BITCOIN2",
+    "name": "HarryPotterObamaSonic12Inu",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9619b0eadd70d643cb2bbe6d5752b15c16fbf2d2/65ea03ae258bc05d544f6888f772774c.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xBEeFFF209270748ddd194831b3fa287a5386f5bC",
+    "symbol": "bbqUSDC",
+    "name": "Smokehouse USDC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xa35Bd2246978Dfbb1980DFf8Ff0f5834335dFdbc",
+    "symbol": "REMIO",
+    "name": "Remilio Babies",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x73e65DBD630f90604062f6E02fAb9138e713edD9",
+    "symbol": "spDAI",
+    "name": "Spark DAI Vault",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x32C868F6318D6334B2250F323D914Bc2239E4EeE",
+    "symbol": "N3RDz",
+    "name": "N3RD.FINANCE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x32c868f6318d6334b2250f323d914bc2239e4eee/ef9a08de21f19c550e9bc1f105f1d90e.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3Aa5f749d4a6BCf67daC1091Ceb69d1F5D86fA53",
+    "symbol": "DEFLCT",
+    "name": "Deflect Protocol",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3aa5f749d4a6bcf67dac1091ceb69d1f5d86fa53/08c70b4ebff8893c28a4df8267654264.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6A7eFF1e2c355AD6eb91BEbB5ded49257F3FED98",
+    "symbol": "OPSEC (old)",
+    "name": "OpSec",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6a7eff1e2c355ad6eb91bebb5ded49257f3fed98/b1dc91f9d719e776968a88cf1c61822f.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4afb0AaC9b862946837b2444566B8a914D6d0d97",
+    "symbol": "SIFI",
+    "name": "simian.finance",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4afb0aac9b862946837b2444566b8a914d6d0d97/9e3b43b341c1a12d18293c5e7e3025aa.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4cA60BfF981785d9B6Cf3433914eEff60d5d8cD8",
+    "symbol": "ZPUMP",
+    "name": "ZILLAPUMP",
+    "decimals": 9
+  },
+  {
+    "chainId": 1,
+    "address": "0x3016A43B482d0480460f6625115bd372FE90c6bf",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
+    "symbol": "FLOAT",
+    "name": "Float Protocol: FLOAT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xb05097849bca421a3f51b249ba6cca4af4b97cb9/ceb8c813ceaa3296b35afb0711ed28e9.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2071F8864B270Bd1f0567C14Ab7F00543699A1C5",
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x1591E923e0836a3949b59637FBE8959F000894B9",
+    "symbol": "MAI(Multi AI)",
+    "name": "Multi AI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x1591e923e0836a3949b59637fbe8959f000894b9/f176addda7a3928e43d520c04131803e.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x768bE934ab424B0fe8cdcd1Ae3ec03712Af0B49f",
+    "symbol": "SKI",
+    "name": "SKI MASK DOG",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x768be934ab424b0fe8cdcd1ae3ec03712af0b49f/4967cfb00e711dc1c72b4c6dd33cd9a3.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbdF43ecAdC5ceF51B7D1772F722E40596BC1788B",
+    "symbol": "SEI",
+    "name": "SEI",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x67afc204674be8a53Ef7F66e05fDdE6a068c795a",
+    "symbol": "TOPG",
+    "name": "Andrew Tate",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x67afc204674be8a53ef7f66e05fdde6a068c795a/e9bcc10901fdf08b12f0fa48e8c31ca9.png"
   }
 ]

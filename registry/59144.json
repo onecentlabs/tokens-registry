@@ -2,7 +2,7 @@
   {
     "chainId": 59144,
     "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
-    "name": "Bridged Tether  Linea ",
+    "name": "Bridged Tether Linea ",
     "symbol": "USDT",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
@@ -686,5 +686,376 @@
     "symbol": "ETH",
     "name": "Ether",
     "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "name": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x63349BA5E1F71252eCD56E8F950D1A518B400b60",
+    "symbol": "oLYNX",
+    "name": "Option LYNX Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0x63349ba5e1f71252ecd56e8f950d1a518b400b60/d15f881f86031db80dae555d99e7ca24.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xB4FFEf15daf4C02787bC5332580b838cE39805f5",
+    "symbol": "z0WETH",
+    "name": "ZeroLend WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 59144,
+    "address": "0xAd7f33984bed10518012013D4aB0458D37FEE6F3",
+    "symbol": "meWETH",
+    "name": "Mendi Wrapped Ether",
+    "decimals": 8
+  },
+  {
+    "chainId": 59144,
+    "address": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
+    "symbol": "SolvBTC.m",
+    "name": "Free Bridged SolvBTC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/merlin_token/logo_url/0x41d9036454be47d3745a823c4aacd0e29cfb0f71/31a6cb7216c2b772a41a8913cc36f2c0.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x9Dd6EA6f9D1fba5ed640651f06802e32FF455221",
+    "symbol": "LIN",
+    "name": "Lineaswap.build",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0x9dd6ea6f9d1fba5ed640651f06802e32ff455221/755c389e54737aba131c419c8b28c4ab.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
+    "symbol": "LINUS",
+    "name": "Linus Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0xe07c2bdbb8c787962c2c6e93c11a152110e7e4d2/8b84d1ca6ada86693be4995229eb7732.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x2a4f1dcc79b83608f9e3BC1F3F55fBEfCBFaE885",
+    "symbol": "agETH",
+    "name": "agETHWrapper",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xe1b4d34e8754600962cd944b535180bd758e6c2e/0eaa9b735f24190d49e34448617f2fdd.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x880A3Ae90f989030708A529ABd841589053c1dC2",
+    "symbol": "BEAVER",
+    "name": "Beaver Coin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0x880a3ae90f989030708a529abd841589053c1dc2/bbe94f1908261c0e3d35cafbe9fdbd3e.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x9B4971aC84054597EDEd7Dc7b4b7E8A0c90753B5",
+    "symbol": "meweETH",
+    "name": "Mendi Wrapped eETH",
+    "decimals": 8
+  },
+  {
+    "chainId": 59144,
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/1228d6e73f70f37ec1f6fe02a3bbe6ff.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xD96536B77aE5500fE850Add2253bcf640e7824c1",
+    "symbol": "Sidus",
+    "name": "Sidus",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0xd96536b77ae5500fe850add2253bcf640e7824c1/ec41cac7985cce7bc6a4ffba853192f9.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xB838Eb4F224c2454F2529213721500faf732bf4d",
+    "symbol": "ultraETHs",
+    "name": "Affine ultraETHs 2.0",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf0a949b935e367a94cdfe0f2a54892c2bc7b2131/857257edc116e57e5d4d2cd6837304e8.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x3478dE5e82431676C87113001bBeeb359cb5eAa5",
+    "symbol": "miweETH",
+    "name": "Mitosis weETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 59144,
+    "address": "0x8a90D208666Deec08123444F67Bf5B1836074a67",
+    "symbol": "meezETH",
+    "name": "Mendi Renzo Restaked ETH",
+    "decimals": 8
+  },
+  {
+    "chainId": 59144,
+    "address": "0x109F4Af9ec6A5ede198f7A4d9d9d7390de29362A",
+    "symbol": "mewrsETH",
+    "name": "Mendi rsETHWrapper",
+    "decimals": 8
+  },
+  {
+    "chainId": 59144,
+    "address": "0x1f27f81C1D13Dd96A3b75d42e3d5d92b709869AA",
+    "symbol": "meDAI",
+    "name": "Mendi Dai Stablecoin",
+    "decimals": 8
+  },
+  {
+    "chainId": 59144,
+    "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+    "symbol": "AXL",
+    "name": "Axelar",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x467719ad09025fcc6cf6f8311755809d45a5e5f3/41180471c6922ea4cb57584478330418.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x15EEfE5B297136b8712291B632404B66A8eF4D25",
+    "symbol": "uniETH",
+    "name": "Universal ETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0x15eefe5b297136b8712291b632404b66a8ef4d25/7702727760aaae4aef321a6ff034c345.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x333D8b480BDB25eA7Be4Dd87EEB359988CE1b30D",
+    "symbol": "meUSDC",
+    "name": "Mendi USD Coin",
+    "decimals": 8
+  },
+  {
+    "chainId": 59144,
+    "address": "0x1A89E06B7677A4a321886A8330eEc05a061C75ae",
+    "symbol": "WEF",
+    "name": "frogwifcat",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0x1a89e06b7677a4a321886a8330eec05a061c75ae/d2f4b857dd1bc0b6ae0df07fa2e3d316.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "symbol": "EURA",
+    "name": "EURA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x1a7e4e63778b4f12a199c062f3efdd288afcbce8/ee004294d4abb5d51d078fb8151579d1.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x0f87d0618b873Be947fF7d3620C51b832b71c4d0",
+    "symbol": "z0DAI",
+    "name": "ZeroLend DAI Stablecoin",
+    "decimals": 18
+  },
+  {
+    "chainId": 59144,
+    "address": "0x0684FC172a0B8e6A65cF4684eDb2082272fe9050",
+    "symbol": "z0ezETH",
+    "name": "ZeroLend Renzo Restaked ETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 59144,
+    "address": "0x2E207ecA8B6Bf77a6ac82763EEEd2A94de4f081d",
+    "symbol": "z0USDC",
+    "name": "ZeroLend USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 59144,
+    "address": "0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97",
+    "symbol": "axlTIA",
+    "name": "Axelar Wrapped TIA",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x420eeed09cbc6e8416decd28857ff3c7d991fc46/82e5d9441cacdfa6c773db0b3929c45c.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x580E933D90091b9cE380740E3a4A39c67eB85B4c",
+    "symbol": "GSWIFT",
+    "name": "GameSwift",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0x580e933d90091b9ce380740e3a4a39c67eb85b4c/1884e4b685bf99c3022927279846af9a.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x508C39Cd02736535d5cB85f3925218E5e0e8F07A",
+    "symbol": "z0USDT",
+    "name": "ZeroLend USDT",
+    "decimals": 6
+  },
+  {
+    "chainId": 59144,
+    "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+    "symbol": "USDT(Axelar)",
+    "name": "Axelar Wrapped USDT",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x8d8b70a576113FEEdd7E3810cE61f5E243B01264",
+    "symbol": "z0rsETH",
+    "name": "ZeroLend Kelp rsETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 59144,
+    "address": "0xD3FDCb837DAfdb7C9C3eBD48FE22a53F6Dd3d7D7",
+    "symbol": "QI",
+    "name": "QiDao",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x580a84c73811e1839f75d86d75d88cca0c241ff4/be77e8e47016b1e9d3f01b7edc9b8d4f.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xce28211Ed1b2Eeb0C909C83D273DeBE041A12EE9",
+    "symbol": "HOTDOG",
+    "name": "Dachshund Coin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0xce28211ed1b2eeb0c909c83d273debe041a12ee9/2aed420ff044ca49edacecdbf748c343.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xB30e7A2E6f7389cA5dDc714Da4c991b7A1dCC88e",
+    "symbol": "wUSDT+",
+    "name": "Wrapped USDT+",
+    "decimals": 6
+  },
+  {
+    "chainId": 59144,
+    "address": "0xB97F21D1f2508fF5c73E7B5AF02847640B1ff75d",
+    "symbol": "LAB",
+    "name": "LineaBank Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/linea_lineabank/d5325b9399421f44394632a6cc43c064.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xf669C3C03D9fdF4339e19214A749E52616300E89",
+    "symbol": "meUSDT",
+    "name": "Mendi USD Tether",
+    "decimals": 8
+  },
+  {
+    "chainId": 59144,
+    "address": "0x8B6E58eA81679EeCd63468c6D4EAefA48A45868D",
+    "symbol": "z0WBTC",
+    "name": "ZeroLend Wrapper BTC",
+    "decimals": 8
+  },
+  {
+    "chainId": 59144,
+    "address": "0xCa7d460C83678C358E8FC9b9629E8aC36D67c567",
+    "symbol": "LILI",
+    "name": "Lilikoi",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0xca7d460c83678c358e8fc9b9629e8ac36d67c567/93c70bf290e2ebef69c95d6c2a874041.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x65D97BdFD4c1076cD1F95Cbe3B56954277d0956F",
+    "symbol": "wUSD+",
+    "name": "Wrapped USD+",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xb86fb1047a955c0186c77ff6263819b37b32440d/1d822a6ceb470b0655872ac989558f7e.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x63bA74893621d3d12F13CEc1e86517eC3d329837",
+    "symbol": "LUSD",
+    "name": "LUSD Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x5f98805a4e8be255a32880fdec7f6728c6568ba0/842c789889d392cd0d54c30451d4239f.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x9be5e24F05bBAfC28Da814bD59284878b388a40f",
+    "symbol": "meWBTC",
+    "name": "Mendi Wrapped BTC",
+    "decimals": 8
+  },
+  {
+    "chainId": 59144,
+    "address": "0xDc38c5aF436B9652225f92c370A011C673FA7Ba5",
+    "symbol": "hETH",
+    "name": "ETH Hop Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/coin/logo_url/eth/6443cdccced33e204d90cb723c632917.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x6C6470898882b65E0275723D883A0D877aADe43f",
+    "symbol": "USDT(deBridge)",
+    "name": "Tether USD",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x77E305B4D4D3b9DA4e82Cefd564F5b948366A44b",
+    "symbol": "z0weETH",
+    "name": "ZeroLend weETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 59144,
+    "address": "0xCeEd853798ff1c95cEB4dC48f68394eb7A86A782",
+    "symbol": "mewstETH",
+    "name": "Mendi Wrapped liquid staked Ether 2.0",
+    "decimals": 8
+  },
+  {
+    "chainId": 59144,
+    "address": "0xB448eC505C924944ca8B2C55EF05c299eE0781df",
+    "symbol": "KNC(Axelar)",
+    "name": "Axelar Wrapped KNC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/linea_token/logo_url/0xb448ec505c924944ca8b2c55ef05c299ee0781df/babb08402e4eb7819d92673b3e694d68.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
+    "symbol": "GRAI",
+    "name": "Gravita Debt Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xca68ad4ee5c96871ec6c6dac2f714a8437a3fe66/91700a6cc713e4086eb36696ecc0f9b4.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x9Eb8879231c71BD739967628CA26b72810BEEaD8",
+    "symbol": "z0stETH",
+    "name": "ZeroLend Lido Staked ETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 59144,
+    "address": "0x5860a0bF37133f8461b2DEDe7C80e55D6bfF3721",
+    "symbol": "FXS(Axelar)",
+    "name": "Frax Share",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0/eeccdc91b87a4e2db914d0290eea8e6d.png"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
+    "symbol": "alETH",
+    "name": "Alchemix ETH",
+    "decimals": 18
   }
 ]

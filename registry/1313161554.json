@@ -125,5 +125,236 @@
     "symbol": "FLX",
     "name": "Flux Token",
     "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xea62791aa682d455614eaa2a12ba3d9a2fd197af/f7c3db0a9c91742451fe928835f25c4b.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "AETH",
+    "name": "AETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/aurora/d61441782d4a08a7479d54aea211679e.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x368EBb46ACa6b8D0787C96B2b20bD3CC3F2c45F7",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x026ddA7F0F0A2E42163C9c80D2a5b6958E35fc49",
+    "symbol": "CRF",
+    "name": "Crafting Finance",
+    "decimals": 18
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x8973c9eC7B79fE880697cDBcA744892682764c37",
+    "symbol": "BAKED",
+    "name": "BakedToken",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x8973c9ec7b79fe880697cdbca744892682764c37/d651a4321d8a1334e51bf0ba44f8a8c7.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x293074789b247cab05357b08052468B5d7A23c5a",
+    "symbol": "aUSDO",
+    "name": "aUSDO",
+    "decimals": 8
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x1fE622E91e54D6AD00B01917351Ea6081426764A",
+    "symbol": "FTM",
+    "name": "Fantom",
+    "decimals": 18
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844/753d82f0137617110f8dec56309b4065.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xc21Ff01229e982d7c8b8691163B0A3Cb8F357453",
+    "symbol": "META",
+    "name": "Meta Token",
+    "decimals": 24,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xc21ff01229e982d7c8b8691163b0a3cb8f357453/b8745f831518feb232a364fe95a76c07.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x34F291934b88c7870B7A17835B926B264fc13a81",
+    "symbol": "PAD",
+    "name": "SmartPad token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x34f291934b88c7870b7a17835b926b264fc13a81/1206311873e24e37486a39400f51f521.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30",
+    "symbol": "STNEAR",
+    "name": "Staked NEAR",
+    "decimals": 24,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x07f9f7f963c5cd2bbffd30ccfb964be114332e30/cd28dc4332e3fdc07731bd6f79db054b.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x6454e4a4891C6B78a5A85304d34558DDa5F3d6D8",
+    "symbol": "JUMBO",
+    "name": "Jumbo Exchange",
+    "decimals": 18
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+    "symbol": "MATIC",
+    "name": "Matic",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8/f6e604ba0324726a3d687c618aa4f163.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x3AC55eA8D2082fAbda674270cD2367dA96092889",
+    "symbol": "ORBITAL",
+    "name": "ORBITAL",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x3ac55ea8d2082fabda674270cd2367da96092889/34aba13a0488eff340529e615f2ff238.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x918dBe087040A41b786f0Da83190c293DAe24749",
+    "symbol": "LINEAR",
+    "name": "LiNEAR",
+    "decimals": 24,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x918dbe087040a41b786f0da83190c293dae24749/89ef2f3e877ae06f32391cee0b185eec.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x291C8FCeAcA3342B29CC36171DEB98106f712C66",
+    "symbol": "PICKLE",
+    "name": "PickleToken",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x291c8fceaca3342b29cc36171deb98106f712c66/6a83942b8ff66e475a23a875aab66e12.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x7cA1C28663b76CFDe424A9494555B94846205585",
+    "symbol": "XNL",
+    "name": "Chronicle",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x7ca1c28663b76cfde424a9494555b94846205585/bbd80cbfdcb171b882827c767b29a020.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86",
+    "symbol": "POLAR",
+    "name": "POLAR",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xf0f3b9eee32b1f490a4b8720cf6f005d4ae9ea86/eb86b4b73f1a7ff2743e0ee191be37a5.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xF942C7bf8721732e936AD3e5F9e7cAe6183637D8",
+    "symbol": "OKSE",
+    "name": "Okse",
+    "decimals": 18
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x07379565cD8B0CaE7c60Dc78e7f601b34AF2A21c",
+    "symbol": "nUSD",
+    "name": "nUSD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x07379565cd8b0cae7c60dc78e7f601b34af2a21c/303f6d48533a5b177e649a05be5eb625.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x2451dB68DeD81900C4F16ae1af597E9658689734",
+    "symbol": "VWAVE",
+    "name": "vaporwave.finance",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x2451db68ded81900c4f16ae1af597e9658689734/0c50d5a851228b03709e510e83ce256c.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xef3c714c9425a8F3697A9C969Dc1af30ba82e5d4",
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "decimals": 18
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xD5c997724e4b5756d08E6464C01AFbC5F6397236",
+    "symbol": "FAME",
+    "name": "FAME",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xd5c997724e4b5756d08e6464c01afbc5f6397236/fbb7db0cfb97ad320ae1edf2e7d4ce5e.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xdc7AcDE9ff18B4D189010a21a44cE51ec874eA7C",
+    "symbol": "EURA",
+    "name": "agEUR",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x1a7e4e63778b4f12a199c062f3efdd288afcbce8/ee004294d4abb5d51d078fb8151579d1.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xe301eD8C7630C9678c39E4E45193D1e7Dfb914f7",
+    "symbol": "DODO",
+    "name": "DODO bird",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xe301ed8c7630c9678c39e4e45193d1e7dfb914f7/4eb236e922847981d548c13faa346670.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x17cbd9C274e90C537790C51b4015a65cD015497e",
+    "symbol": "ETHERNAL",
+    "name": "ETHERNAL",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x17cbd9c274e90c537790c51b4015a65cd015497e/f180f018b636889b3f47b9b9d5c4f735.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
+    "symbol": "axlUSDC",
+    "name": "Axelar Wrapped USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x19e91C9b155D2A8B47B74e9e100f28355AC13879",
+    "symbol": "USDC/USDC.e TLP",
+    "name": "Trisolaris USDC/USDC.e",
+    "decimals": 18
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x261ed544822455101F5D2Baa66ED5C7A004A42C7",
+    "symbol": "USDT/USDT.e TLP",
+    "name": "Trisolaris USDT/USDT.e",
+    "decimals": 18
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0xd80d8688b02B3FD3afb81cDb124F188BB5aD0445",
+    "symbol": "SYN",
+    "name": "Synapse",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xd80d8688b02b3fd3afb81cdb124f188bb5ad0445/4497316d0335d94bcec6c0c397238971.png"
+  },
+  {
+    "chainId": 1313161554,
+    "address": "0x984c2505A14DA732D7271416356f535953610340",
+    "symbol": "UMINT",
+    "name": "YouMinter",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x984c2505a14da732d7271416356f535953610340/a3607b19147b0ef284446a24ed58d0b6.png"
   }
 ]

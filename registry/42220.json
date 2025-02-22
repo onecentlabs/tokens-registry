@@ -59,5 +59,342 @@
         }
       }
     }
+  },
+  {
+    "chainId": 42220,
+    "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
+    "symbol": "WETH",
+    "name": "WETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x90Ca507a5D4458a4C6C6249d186b6dCb02a5BCCd",
+    "symbol": "DAI",
+    "name": "DAI Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "symbol": "axlUSDC",
+    "name": "Axelar Wrapped USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
+    "symbol": "SUSHI",
+    "name": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x71e26d0E519D14591b9dE9a0fE9513A398101490",
+    "symbol": "UBE",
+    "name": "Ubeswap",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x71e26d0e519d14591b9de9a0fe9513a398101490/49d1e88f01922eb22aa16c3a5e73ae68.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+    "symbol": "ETHIX",
+    "name": "Ethix (Wormhole)",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x9995cc8f20db5896943afc8ee0ba463259c931ed/9aa0c8c8a184562384e2fb066d97762f.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+    "symbol": "cUSD",
+    "name": "Celo Dollar",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x765de816845861e75a25fca122bb6898b8b1282a/17f6d58bd2a344a2098ef8123be88693.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xaCFfAe8e57Ec6E394Eb1b41939A8CF7892DbDc51",
+    "symbol": "OLAS",
+    "name": "Autonolas",
+    "decimals": 18
+  },
+  {
+    "chainId": 42220,
+    "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+    "symbol": "cEUR",
+    "name": "Celo Euro",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73/f00fcdbf2e75d1d5a8dbbe57653ecbb5.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+    "symbol": "USDC(wormhole)",
+    "name": "USD Coin (Wormhole)",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x37f750b7cc259a2f741af45294f6a16572cf5cad/040b06ecf537ec88e17b7e0bcaa2edfa.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049",
+    "symbol": "EURA",
+    "name": "EURA (previously agEUR)",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+    "symbol": "cREAL",
+    "name": "Celo Brazilian Real",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xe8537a3d056da446677b9e9d6c5db704eaab4787/3067313fdb2b7c309dc8df62f522359a.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x1d18d0386F51ab03E7E84E71BdA1681EbA865F1f",
+    "symbol": "JMPT",
+    "name": "JumpToken",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x1d18d0386f51ab03e7e84e71bda1681eba865f1f/714c635ea5c381052955fb54e73c501c.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
+    "symbol": "ABR",
+    "name": "Allbridge",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x6e512bfc33be36f2666754e996ff103ad1680cc9/dac637655fe8a6cf4d2cbadb16c10d5f.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
+    "symbol": "mCUSD",
+    "name": "Moola cUSD AToken",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x64defa3544c695db8c535d289d843a189aa26b98/0e46275acdcab84b5371acab3a6d43ef.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
+    "symbol": "mCREAL",
+    "name": "Moola interest bearing CREAL",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x9802d866fde4563d088a6619f7cef82c0b991a55/d3af3a9261c4570266045c7911feb735.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x7D00cd74FF385c955EA3d79e47BF06bD7386387D",
+    "symbol": "mCELO",
+    "name": "Moola interest bearing CELO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x7d00cd74ff385c955ea3d79e47bf06bd7386387d/7ed8826cb36d17b032528714ce908b20.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x833fD14F0FD4eaA47433A07428a46d1Ac60fA591",
+    "symbol": "KNOX",
+    "name": "KnoxDAO Reserve",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x833fd14f0fd4eaa47433a07428a46d1ac60fa591/7176f2f6055662dc3f0e3378b93574f7.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D",
+    "symbol": "WMATIC",
+    "name": "Wrapped Matic",
+    "decimals": 18
+  },
+  {
+    "chainId": 42220,
+    "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+    "symbol": "USDGLO",
+    "name": "Glo Dollar",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x4f604735c1cf31399c6e711d5962b2b3e0225ad3/14cda5c0e1e8671713583910a8a56cef.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
+    "symbol": "NCT",
+    "name": "Toucan Protocol: Nature Carbon Tonne",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x02de4766c272abc10bc88c220d214a26960a7e92/d888558aa983920f04321cb0351167cb.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+    "symbol": "MOO",
+    "name": "Moola",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x17700282592d6917f6a73d0bf8accf4d578c131e/7ed8826cb36d17b032528714ce908b20.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x105d4A9306D2E55a71d2Eb95B81553AE1dC20d7B",
+    "symbol": "PUSO",
+    "name": "PUSO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x105d4a9306d2e55a71d2eb95b81553ae1dc20d7b/63f1511b57c70dcbb1ae8d732d8bcb4e.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x617f3112bf5397D0467D315cC709EF968D9ba546",
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x617f3112bf5397d0467d315cc709ef968d9ba546/f1992d97a61c154a388c0de34cb136f3.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
+    "symbol": "SOURCE",
+    "name": "Source",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x74c0c58b99b68cf16a717279ac2d056a34ba2bfe/834489d742cc7da5bb387b464a4396cb.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x788BA01f8E2b87c08B142DB46F82094e0bdCad4F",
+    "symbol": "xABR",
+    "name": "xABR",
+    "decimals": 18
+  },
+  {
+    "chainId": 42220,
+    "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
+    "symbol": "cStar",
+    "name": "CeloStarter",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x452ef5a4bd00796e62e5e5758548e0da6e8ccdf3/e29746a03f18d22f7946b17c4dfaa3ef.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+    "symbol": "WETH(wormhole)",
+    "name": "Wrapped Ether (Wormhole)",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/coin/logo_url/eth/6443cdccced33e204d90cb723c632917.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xE4fE50cdD716522A56204352f00AA110F731932d",
+    "symbol": "DAI(optics v1)",
+    "name": "Dai Stablecoin",
+    "decimals": 18
+  },
+  {
+    "chainId": 42220,
+    "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
+    "symbol": "AVAX",
+    "name": "AVAX",
+    "decimals": 18
+  },
+  {
+    "chainId": 42220,
+    "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
+    "symbol": "stCELO",
+    "name": "Staked CELO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xc668583dcbdc9ae6fa3ce46462758188adfdfc24/500bf40c1c1eed7f5a3cd93443a1d9c2.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
+    "symbol": "mCUSD",
+    "name": "Moola interest bearing CUSD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x918146359264c492bd6934071c6bd31c854edbc3/7ed8826cb36d17b032528714ce908b20.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
+    "symbol": "cDEFI",
+    "name": "Celo Defi Index",
+    "decimals": 18
+  },
+  {
+    "chainId": 42220,
+    "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
+    "symbol": "WETH(optics v1)",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/coin/logo_url/eth/6443cdccced33e204d90cb723c632917.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x173234922eB27d5138c5e481be9dF5261fAeD450",
+    "symbol": "SOL",
+    "name": "SOL",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x570a5d26f7765ecb712c0924e4de545b89fd43df/7c5db5c2eae571da837b65f5b9ae1a5c.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xbe50a3013a1c94768a1abb78c3cb79ab28fc1ace/1dae003fa89234ac011c0dac51126770.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
+    "symbol": "mCEUR",
+    "name": "Moola cEUR MToken",
+    "decimals": 18
+  },
+  {
+    "chainId": 42220,
+    "address": "0xD15EC721C2A896512Ad29C671997DD68f9593226",
+    "symbol": "SUSHI",
+    "name": "SushiToken",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xd15ec721c2a896512ad29c671997dd68f9593226/930cd4a36e687eaeddbcf9f3fd22d023.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+    "symbol": "O3",
+    "name": "O3 Swap Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xee9801669c6138e84bd50deb500827b776777d28/98e28b4dbf26999a2c8ec90401eff245.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x456a3D042C0DbD3db53D5489e98dFb038553B0d0",
+    "symbol": "cKES",
+    "name": "Celo Kenyan Shilling",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x456a3d042c0dbd3db53d5489e98dfb038553b0d0/861c383715ae7fe7224faad605d4f3ca.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
+    "symbol": "mCEUR",
+    "name": "Moola interest bearing CEUR",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xe273ad7ee11dcfaa87383ad5977ee1504ac07568/7ed8826cb36d17b032528714ce908b20.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "symbol": "USDA",
+    "name": "USDA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+    "symbol": "frxETH(axelar)",
+    "name": "Frax Ether",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xecc68d0451e20292406967fe7c04280e5238ac7d/71b8a5f7684c752901272fb31842abdf.png"
   }
 ]

@@ -22,5 +22,21 @@
     "symbol": "WETH",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/world_token/logo_url/world/48bfb74adddd170e936578aec422836d.png"
+  },
+  {
+    "chainId": 480,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "name": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "chainId": 480,
+    "address": "0x2cFc85d8E48F8EAB294be644d9E25C3030863003",
+    "symbol": "WLD",
+    "name": "WLD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x163f8c2467924be0ae7b5347228cabf260318753/30ac094d49a4b6e7561810c16ddc8c69.png"
   }
 ]

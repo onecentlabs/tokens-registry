@@ -406,5 +406,159 @@
     "symbol": "CDFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36863/thumb/CeDeFiAi.png?1712643622"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "MNT",
+    "name": "MNT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8/a443c78c33704d48f06e5686bb87f85e.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x1Bdd8878252DaddD3Af2ba30628813271294eDc0",
+    "symbol": "CATI",
+    "name": "Catizen",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/mnt_catizen/5ede08d18320b798f063bceb6d9f7de3.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/1228d6e73f70f37ec1f6fe02a3bbe6ff.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0xf93a85d53e4aF0D62bdf3A83CCFc1EcF3EAf9F32",
+    "symbol": "LUSD",
+    "name": "LUSD Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x93b346b6bc2548da6a1e7d98e9a421b42541425b/2fee99025e9128162b4869bf7ffc6036.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x0e927Aa52A38783C1Fd5DfA5c8873cbdBd01D2Ca",
+    "symbol": "lvMETH",
+    "name": "Lendle Mantle Market METH",
+    "decimals": 18
+  },
+  {
+    "chainId": 5000,
+    "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+    "symbol": "ENA",
+    "name": "ENA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x58538e6a46e07434d7e7375bc268d3cb839c0133/20d567bc301b43d0d2131731f7ac4736.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729",
+    "symbol": "PENDLE",
+    "name": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8/b1d3bfeae0c8d3677c5ae4f9278a610a.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x44CCCBbD7A5A9e2202076ea80C185DA0058f1715",
+    "symbol": "lvWBTC",
+    "name": "Lendle Mantle Market WBTC",
+    "decimals": 8
+  },
+  {
+    "chainId": 5000,
+    "address": "0x683696523512636B46A826A7e3D1B0658E8e2e1c",
+    "symbol": "lvWMNT",
+    "name": "Lendle Mantle Market WMNT",
+    "decimals": 18
+  },
+  {
+    "chainId": 5000,
+    "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+    "symbol": "AXL",
+    "name": "Axelar",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x467719ad09025fcc6cf6f8311755809d45a5e5f3/41180471c6922ea4cb57584478330418.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x787Cb0D29194f0fAcA73884C383CF4d2501bb874",
+    "symbol": "lvWETH",
+    "name": "Lendle Mantle Market WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 5000,
+    "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
+    "symbol": "GRAI",
+    "name": "Gravita Debt Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xca68ad4ee5c96871ec6c6dac2f714a8437a3fe66/91700a6cc713e4086eb36696ecc0f9b4.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x861A6Fc736Cbb12ad57477B535B829239c8347d7",
+    "symbol": "MVM",
+    "name": "VelociMantle",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x861a6fc736cbb12ad57477b535b829239c8347d7/2b9f3446dd23a8172c24553b55f6b3f0.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+    "symbol": "axlETH",
+    "name": "Axelar Wrapped ETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0xF36AFb467D1f05541d998BBBcd5F7167D67bd8fC",
+    "symbol": "lvUSDC",
+    "name": "Lendle Mantle Market USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 5000,
+    "address": "0xE71cbaaa6B093FcE66211E6f218780685077D8B5",
+    "symbol": "lvUSDT",
+    "name": "Lendle Mantle Market USDT",
+    "decimals": 6
+  },
+  {
+    "chainId": 5000,
+    "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+    "symbol": "frxETH(axelar)",
+    "name": "Frax Ether",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0xecc68d0451e20292406967fe7c04280e5238ac7d/71b8a5f7684c752901272fb31842abdf.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0xC01a7AD7Fb8a085a3cc16be8eaA10302c78a1783",
+    "symbol": "AU",
+    "name": "Aurelius Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0xc01a7ad7fb8a085a3cc16be8eaa10302c78a1783/5856f4485166292b1bd79f5aab1133f9.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+    "symbol": "sUSDe",
+    "name": "Staked USDe",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9d39a5de30e57443bff2a8307a4256c8797a3497/613e3c4b4b079a18bf8d7170d5b038bf.png"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x8731d54E9D02c286767d56ac03e8037C07e01e98",
+    "symbol": "STG",
+    "name": "StargateToken",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/stargate/3c6fbbbb1e62793ee34effb91d8769e7.png"
   }
 ]
