@@ -475,5 +475,62 @@
                 "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/linea/assets/0x7d43AABC515C356145049227CeE54B608342c0ad/logo.png"
             }
         ]
+    },
+    {
+        "key": "mantle",
+        "chainType": "EVM",
+        "name": "Mantle",
+        "coin": "MNT",
+        "id": 5000,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/mantle.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/5000.json",
+        "metamask": {
+            "chainId": "0x1388",
+            "blockExplorerUrls": [
+                "https://explorer.mantle.xyz/",
+                "https://mantlescan.xyz/"
+            ],
+            "chainName": "Mantle",
+            "nativeCurrency": {
+                "name": "Mantle",
+                "symbol": "MNT",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://rpc.mantle.xyz",
+                "https://mantle-rpc.publicnode.com",
+                "https://mantle.drpc.org",
+                "https://mantle.public-rpc.com",
+                "https://rpc.ankr.com/mantle"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 5000,
+            "symbol": "MNT",
+            "decimals": 18,
+            "name": "MNT",
+            "coinKey": "MNT",
+            "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8/a443c78c33704d48f06e5686bb87f85e.png"
+        },
+        "stablecoins": [
+            {
+                "name": "Tether USD",
+                "symbol": "USDT",
+                "type": "MANTLE",
+                "decimals": 6,
+                "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/mantle/assets/0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE/logo.png"
+            },
+            {
+                "name": "Axelar Wrapped USDC",
+                "symbol": "axlUSDC",
+                "type": "MANTLE",
+                "decimals": 6,
+                "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/mantle/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo.png"
+            }
+        ]
     }
 ]
