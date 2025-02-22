@@ -4104,5 +4104,21 @@
     "symbol": "WINK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54466/thumb/Jc8Xgw8j_400x400.jpg?1739897165"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0a2f2efdb1233c0da050fb47f19f98851753718f",
+    "name": "AlaunchAI",
+    "symbol": "ALAI",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54511/thumb/Alaunch_avt.png?1740069312"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+    "name": "Frax USD",
+    "symbol": "FRXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
   }
 ]

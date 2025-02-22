@@ -13787,5 +13787,69 @@
     "symbol": "CVAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54408/thumb/Logo_CVAI_TICKER.png?1739539559"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1f1c695f6b4a3f8b05f2492cef9474afb6d6ad69",
+    "name": "Sally A1C",
+    "symbol": "A1C",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54517/thumb/WhatsApp_Image_2025-02-20_at_07.33.46.jpeg?1740119984"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x938171227ece879267122a36847b219cbd3b9d47",
+    "name": "AI Protocol",
+    "symbol": "AI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54512/thumb/ai_200x200.png?1740070043"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfe7c0af60e52ddf05c0f5f89cbf89758a45f6928",
+    "name": "Block Agent",
+    "symbol": "BONUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36364/thumb/200x200.png?1740164836"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x227d920e20ebac8a40e7d6431b7d724bb64d7245",
+    "name": "Sweat Economy",
+    "symbol": "SWEAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1696524208"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa26a4611b8313bbb25ccb1a9e227ecc536a2f8f7",
+    "name": "Bright Union",
+    "symbol": "BRIGHT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17552/thumb/BrightToken_Token-only_200x200-1.png?1696517088"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb29749498954a3a821ec37bde86e386df3ce30b6",
+    "name": "Liquid Staked ETH",
+    "symbol": "LSETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28848/thumb/LsETH-receipt-token-circle.png?1696527824"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+    "name": "Frax USD",
+    "symbol": "FRXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc6bbaf4d804327d84931310e49c863e63a2bd868",
+    "name": "Dinari WEAT",
+    "symbol": "WEATD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53872/thumb/d-token-200.png?1737617091"
   }
 ]

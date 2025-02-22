@@ -4817,5 +4817,37 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x226bcf0e417428a25012d0fa2183d37f92bcedf6/d7005102d4df2f6f8a79a5e8abe93b06.png"
+  },
+  {
+    "address": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+    "symbol": "wbTSLA",
+    "name": "Wrapped Backed Tesla",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x1f82284c1658ad71c576f7230e6c2dee7901c1fa/logo.png"
+  },
+  {
+    "address": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392",
+    "symbol": "wbNVDA",
+    "name": "Wrapped Backed NVIDIA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x7e8101a1c322d394b3961498c7d40d2dfa94c392/logo.png"
+  },
+  {
+    "address": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+    "symbol": "wbMSTR",
+    "name": "Wrapped Backed Strategy",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x1a4f71b0ff3c22540887bcf83b50054a213c673d/logo.png"
+  },
+  {
+    "address": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
+    "symbol": "wbCOIN",
+    "name": "Wrapped Backed Coinbase",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xdec933e2392ad908263e70a386fbf34e703ffe8f/logo.png"
   }
 ]

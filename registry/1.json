@@ -58531,5 +58531,77 @@
     "symbol": "LF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54491/thumb/Zm2W3yS2_400x400.jpg?1739996813"
+  },
+  {
+    "chainId": 1,
+    "address": "0xca9b8d6df0729d85dcfc8ef8bb18af1ad1990786",
+    "name": "Catboy",
+    "symbol": "CATBOY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33891/thumb/200x200.png?1703213224"
+  },
+  {
+    "chainId": 1,
+    "address": "0x63230728bc219d991d2995ce92e96c16fcf8beb6",
+    "name": "Konnect",
+    "symbol": "KCT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25756/thumb/EAO_5JhW_400x400.jpg?1696524842"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdae0fafd65385e7775cf75b1398735155ef6acd2",
+    "name": "Truth",
+    "symbol": "TRU",
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/54518/thumb/Truth.jpg?1740120538"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3a872ae95f645acdd17db8aa961f4d39e0f5bc39",
+    "name": "Brillion",
+    "symbol": "BRLN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27976/thumb/LogoMark_Gradient_Bright.png?1736408710"
+  },
+  {
+    "chainId": 1,
+    "address": "0x006e730a6c36ff47a31a99931bedbddccf3de81c",
+    "name": "Race to a Billion",
+    "symbol": "RACE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54528/thumb/25952add6d22b6ed86b0b6e0-20250219030728.png?1740167945"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1db1afd9552eeb28e2e36597082440598b7f1320",
+    "name": "Constellation Staked RPL",
+    "symbol": "XRPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54530/thumb/token-xrpl.png?1740177776"
+  },
+  {
+    "chainId": 1,
+    "address": "0x12c88a3c30a7aabc1dd7f2c08a97145f5dccd830",
+    "name": "Game7",
+    "symbol": "G7",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37207/thumb/game7token-800x800.png?1738143341"
+  },
+  {
+    "chainId": 1,
+    "address": "0x570f09ac53b96929e3868f71864e36ff6b1b67d7",
+    "name": "Arcas",
+    "symbol": "ARCAS",
+    "decimals": 17,
+    "logoURI": "https://assets.coingecko.com/coins/images/17404/thumb/Arcas_Logo.png?1737199437"
+  },
+  {
+    "chainId": 1,
+    "address": "0x325dc9ebcec31940c658acaca45f8293418d811e",
+    "name": "Solv Protocol SolvBTC ENA",
+    "symbol": "SOLVBTCENA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38931/thumb/BTC_ena.png?1719562313"
   }
 ]

@@ -9031,5 +9031,13 @@
     "symbol": "L3",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37768/thumb/Square.png?1722045128"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf4acde4d938844751f34659c67056f7e69dbe85a",
+    "name": "Smoovie Phone",
+    "symbol": "SP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39837/thumb/clutch.jpg?1740172669"
   }
 ]

@@ -11037,5 +11037,13 @@
     "symbol": "L3",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37768/thumb/Square.png?1722045128"
+  },
+  {
+    "chainId": 137,
+    "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+    "name": "Frax USD",
+    "symbol": "FRXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
   }
 ]
