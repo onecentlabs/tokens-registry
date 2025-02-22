@@ -532,5 +532,60 @@
                 "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/mantle/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo.png"
             }
         ]
+    },
+    {
+        "key": "optimism",
+        "chainType": "EVM",
+        "name": "Optimism",
+        "coin": "ETH",
+        "id": 10,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/optimism.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/10.json",
+        "metamask": {
+            "chainId": "0xa",
+            "blockExplorerUrls": [
+                "https://optimistic.etherscan.io/"
+            ],
+            "chainName": "OP Mainnet",
+            "nativeCurrency": {
+                "name": "ETH",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://mainnet.optimism.io/",
+                "https://optimism.drpc.org",
+                "https://optimism-rpc.publicnode.com",
+                "https://rpc.ankr.com/optimism"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 10,
+            "symbol": "ETH",
+            "decimals": 18,
+            "name": "ETH",
+            "coinKey": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        "stablecoins": [
+            {
+                "name": "USD Coin",
+                "symbol": "USDC",
+                "type": "ERC20",
+                "decimals": 6,
+                "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png"
+            },
+            {
+                "name": "Tether USD",
+                "symbol": "USDT",
+                "type": "ERC20",
+                "decimals": 6,
+                "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png"
+            }
+        ]
     }
 ]
