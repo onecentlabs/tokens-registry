@@ -58603,5 +58603,21 @@
     "symbol": "SOLVBTCENA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38931/thumb/BTC_ena.png?1719562313"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd50b9bbf136d1bd5cd5ac6ed9b3f26c458a6d4a6",
+    "name": "Alpha USDC Vault",
+    "symbol": "AUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54542/thumb/alpha_vaults_icon_coingecko.png?1740218899"
+  },
+  {
+    "chainId": 1,
+    "address": "0x47fe8ab9ee47dd65c24df52324181790b9f47efc",
+    "name": "Alpha WETH Vault",
+    "symbol": "AWETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54543/thumb/alpha_vaults_icon_coingecko.png?1740218951"
   }
 ]

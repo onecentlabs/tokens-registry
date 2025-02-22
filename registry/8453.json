@@ -13851,5 +13851,13 @@
     "symbol": "WEATD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53872/thumb/d-token-200.png?1737617091"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
+    "name": "Glue",
+    "symbol": "GLUE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317"
   }
 ]
