@@ -290,10 +290,73 @@
             {
                 "name": "Dai",
                 "symbol": "DAI",
-                "type": "AVALANCHE",    
+                "type": "AVALANCHE",
                 "decimals": 18,
                 "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
                 "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
+            }
+        ]
+    },
+    {
+        "key": "polygon",
+        "chainType": "EVM",
+        "name": "Polygon",
+        "coin": "POL",
+        "id": 137,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/polygon.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/137.json",
+        "metamask": {
+            "chainId": "0x89",
+            "blockExplorerUrls": [
+                "https://polygonscan.com/"
+            ],
+            "chainName": "Polygon",
+            "nativeCurrency": {
+                "name": "Polygon Ecosystem Token",
+                "symbol": "POL",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://polygon-bor-rpc.publicnode.com",
+                "https://polygon.drpc.org",
+                "https://polygon-rpc.com",
+                "https://rpc.ankr.com/polygon"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 137,
+            "symbol": "POL",
+            "decimals": 18,
+            "name": "Polygon Ecosystem Token",
+            "coinKey": "POL",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/matic/6f5a6b6f0732a7a235131bd7804d357c.png"
+        },
+        "stablecoins": [
+            {
+                "name": "Bridged USD Coin",
+                "symbol": "USDC.e",
+                "type": "ERC20",
+                "decimals": 6,
+                "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+            },
+            {
+                "name": "Tether USD",
+                "symbol": "USDT",
+                "type": "ERC20",
+                "decimals": 6,
+                "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
+            },
+            {
+                "name": "Dai Stablecoin",
+                "symbol": "DAI",
+                "type": "ERC20",
+                "decimals": 18,
+                "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
             }
         ]
     }
