@@ -2,18 +2,32 @@
   {
     "chainId": 59144,
     "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
-    "name": "Bridged Tether Linea ",
+    "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 59144,
     "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
-    "name": "Bridged USD Coin  Linea ",
+    "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 59144,
@@ -26,7 +40,7 @@
   {
     "chainId": 59144,
     "address": "0xf5c6825015280cdfd0b56903f9f8b5a2233476f5",
-    "name": "Celer Bridged WBNB  Linea ",
+    "name": "Celer Bridged WBNB",
     "symbol": "WBNB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
@@ -34,7 +48,7 @@
   {
     "chainId": 59144,
     "address": "0xb5bedd42000b71fdde22d3ee8a79bd49a568fc8f",
-    "name": "Linea Bridged wstETH  Linea ",
+    "name": "wstETH",
     "symbol": "WSTETH",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0/7e931af8cb34b6f5671ca2eb1b847849.png"
@@ -42,7 +56,7 @@
   {
     "chainId": 59144,
     "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
-    "name": "Linea Bridged WBTC  Linea ",
+    "name": "WBTC",
     "symbol": "WBTC",
     "decimals": 8,
     "logoURI": "https://static.debank.com/image/doge_token/logo_url/0xfa9343c3897324496a05fc75abed6bac29f8a40f/fad0af39d842e1633a2dc0e879b5ea10.png"
@@ -50,7 +64,7 @@
   {
     "chainId": 59144,
     "address": "0x5471ea8f739dd37e9b81be9c5c77754d8aa953e4",
-    "name": "Celer Bridged WAVAX  Linea ",
+    "name": "Celer Bridged WAVAX",
     "symbol": "WAVAX",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/linea_token/logo_url/0x5471ea8f739dd37e9b81be9c5c77754d8aa953e4/753d82f0137617110f8dec56309b4065.png"
@@ -58,10 +72,17 @@
   {
     "chainId": 59144,
     "address": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
-    "name": "Bridged Dai Stablecoin  Linea ",
+    "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6b175474e89094c44da98b954eedeac495271d0f/549c4205dbb199f1b8b03af783f35e71.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6b175474e89094c44da98b954eedeac495271d0f/549c4205dbb199f1b8b03af783f35e71.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 59144,
@@ -154,7 +175,7 @@
   {
     "chainId": 59144,
     "address": "0xf3b001d64c656e30a62fbaaca003b1336b4ce12a",
-    "name": "MAI  Linea ",
+    "name": "MAI",
     "symbol": "MIMATIC",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/linea_token/logo_url/0xf3b001d64c656e30a62fbaaca003b1336b4ce12a/c5d9d1dfb990c25f098f53d98e7bf10a.png"
@@ -170,7 +191,7 @@
   {
     "chainId": 59144,
     "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
-    "name": "KelpDAO Bridged rsETH  Linea ",
+    "name": "KelpDAO Bridged rsETH",
     "symbol": "RSETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37843/thumb/29242.png?1715747269"
@@ -178,7 +199,7 @@
   {
     "chainId": 59144,
     "address": "0x1bf74c010e6320bab11e2e5a532b5ac15e0b8aa6",
-    "name": "ether fi Bridged weETH  Linea ",
+    "name": "Ether.fi Bridged weETH",
     "symbol": "WEETH",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png"
@@ -186,7 +207,7 @@
   {
     "chainId": 59144,
     "address": "0xdd3b8084af79b9bae3d1b668c0de08ccc2c9429a",
-    "name": "Magic Internet Money  Linea ",
+    "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37660/thumb/mim.png?1715165629"
@@ -226,7 +247,7 @@
   {
     "chainId": 59144,
     "address": "0x636b22bc471c955a8db60f28d4795066a8201fa3",
-    "name": "Linea Bridged UNI  Linea ",
+    "name": "UNI",
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984/fcee0c46fc9864f48ce6a40ed1cdd135.png"
@@ -234,7 +255,7 @@
   {
     "chainId": 59144,
     "address": "0x7da14988e4f390c2e34ed41df1814467d3ade0c3",
-    "name": "Linea Bridged PEPE  Linea ",
+    "name": "PEPE",
     "symbol": "PEPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50196/thumb/pepe.jpg?1726227928"
@@ -242,7 +263,7 @@
   {
     "chainId": 59144,
     "address": "0x2442bd7ae83b51f6664de408a385375fe4a84f52",
-    "name": "Linea Bridged MKR  LInea ",
+    "name": "MKR",
     "symbol": "MKR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50278/thumb/maker_32.png?1726782727"
@@ -250,7 +271,7 @@
   {
     "chainId": 59144,
     "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
-    "name": "Overnight fi USD   Linea ",
+    "name": "Overnight fi USD ",
     "symbol": "USD+",
     "decimals": 6,
     "logoURI": "https://static.debank.com/image/linea_token/logo_url/0xb79dd08ea68a908a97220c76d19a6aa9cbde4376/58363c9095ed5998f48688b3c52c78c7.png"
@@ -258,7 +279,7 @@
   {
     "chainId": 59144,
     "address": "0x6baa318cf7c51c76e17ae1ebe9bbff96ae017acb",
-    "name": "Linea Bridged APE  Linea ",
+    "name": "APE",
     "symbol": "APE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50251/thumb/apecoinlinea_32.png?1726698485"
@@ -266,7 +287,7 @@
   {
     "chainId": 59144,
     "address": "0x0e076aafd86a71dceac65508daf975425c9d0cb6",
-    "name": "Linea Bridged LDO  Linea ",
+    "name": "LDO",
     "symbol": "LDO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50237/thumb/ldo.jpeg?1726644437"
@@ -274,7 +295,7 @@
   {
     "chainId": 59144,
     "address": "0x0a79e44c99505c7f388ca30c787ff97217e73ecc",
-    "name": "Linea Bridged FXS  LInea ",
+    "name": "FXS",
     "symbol": "FXS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50277/thumb/fraxsharetoken_32.png?1726782493"
@@ -282,7 +303,7 @@
   {
     "chainId": 59144,
     "address": "0xe516a5cff996cc399efbb48355fd5ab83438e7a9",
-    "name": "Linea Bridged GNO  Linea ",
+    "name": "GNO",
     "symbol": "GNO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50268/thumb/GNO.png?1726744054"
@@ -290,7 +311,7 @@
   {
     "chainId": 59144,
     "address": "0x5b16228b94b68c7ce33af2acc5663ebde4dcfa2d",
-    "name": "Linea Bridged LINK  Linea ",
+    "name": "LINK",
     "symbol": "LINK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50166/thumb/link.png?1726136439"
@@ -306,7 +327,7 @@
   {
     "chainId": 59144,
     "address": "0x7d43aabc515c356145049227cee54b608342c0ad",
-    "name": "Binance USD  Linea ",
+    "name": "Binance USD",
     "symbol": "BUSD",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4fabb145d64652a948d72533023f6e7a623c7c53/a2442d82345bd7fcba54c5b380aeaf36.png"
@@ -314,7 +335,7 @@
   {
     "chainId": 59144,
     "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
-    "name": "Everclear Bridged ezETH  Linea ",
+    "name": "Everclear Bridged ezETH",
     "symbol": "EZETH",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbf5495efe5db9ce00f80364c8b423567e58d2110/e4cac3df2fe7caa7122de22911e72a41.png"
@@ -346,10 +367,18 @@
   {
     "chainId": 59144,
     "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
-    "name": "Bridged Wrapped Ether  Linea ",
+    "name": "Wrapped Ether (Linea)",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png"
+    "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png",
+    "tags": [
+      "NATIVE",
+      "WRAPPED",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 59144,
@@ -685,7 +714,14 @@
     "decimals": 18,
     "symbol": "ETH",
     "name": "Ether",
-    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 59144,
