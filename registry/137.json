@@ -83,7 +83,14 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 137,
@@ -264,7 +271,14 @@
     "symbol": "USDC.e",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "name": "Tether USD",
@@ -272,7 +286,14 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 137,
@@ -296,7 +317,13 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "tags": [
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "name": "Wrapped Ether",
@@ -305,6 +332,12 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -319,7 +352,15 @@
     "symbol": "WMATIC",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/f6e604ba0324726a3d687c618aa4f163.png"
+    "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/f6e604ba0324726a3d687c618aa4f163.png",
+    "tags": [
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME",
+      "NATIVE",
+      "WRAPPED"
+    ]
   },
   {
     "chainId": 137,
@@ -1313,10 +1354,16 @@
   {
     "chainId": 137,
     "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
-    "name": "Multichain Bridged WBNB  Polygon POS ",
+    "name": "Bridged WBNB (Polygon POS)",
     "symbol": "WBNB",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
+    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615",
+    "tags": [
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 137,
@@ -8223,15 +8270,21 @@
   {
     "chainId": 137,
     "address": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
-    "name": "SOL  Wormhole ",
+    "name": "SOL Wormhole",
     "symbol": "SOL",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/4128/small/solana.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/4128/small/solana.png",
+    "tags": [
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 137,
     "address": "0x3553f861dec0257bada9f8ed268bf0d74e45e89c",
-    "name": "Bridged Tether  Wormhole ",
+    "name": "Bridged Tether Wormhole",
     "symbol": "USDTSO",
     "decimals": 6,
     "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x3553f861dec0257bada9f8ed268bf0d74e45e89c/8d38b2fe4d7cf49ebcc94effcba9fc75.png"
@@ -9048,7 +9101,14 @@
     "decimals": 18,
     "symbol": "POL",
     "name": "Polygon Ecosystem Token",
-    "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png"
+    "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
+    "tags": [
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME",
+      "NATIVE"
+    ]
   },
   {
     "address": "0xf84bd51eab957c2e7b7d646a3427c5a50848281d",
