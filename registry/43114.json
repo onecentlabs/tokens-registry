@@ -442,6 +442,12 @@
     "decimals": 6,
     "chainId": 43114,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -457,6 +463,12 @@
     "decimals": 6,
     "chainId": 43114,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdac17f958d2ee523a2206206994597c13d831ec7/464c0de678334b8fe87327e527bc476d.png",
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -471,7 +483,13 @@
     "name": "Wrapped AVAX",
     "symbol": "WAVAX",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/753d82f0137617110f8dec56309b4065.png"
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/753d82f0137617110f8dec56309b4065.png",
+    "tags": [
+      "POPULAR",
+      "NATIVE",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "name": "Wrapped BTC",
@@ -495,6 +513,11 @@
     "decimals": 18,
     "chainId": 43114,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -591,10 +614,16 @@
   {
     "chainId": 43114,
     "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
-    "name": "Bridged Tether  Avalanche ",
-    "symbol": "USDTE",
+    "name": "Bridged Tether Avalanche",
+    "symbol": "USDT.e",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "tags": [
+      "STABLE",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 43114,
@@ -682,7 +711,12 @@
     "name": "JOE",
     "symbol": "JOE",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/25f094b523a2d6c51e084eeb8f60dd2f.png"
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/25f094b523a2d6c51e084eeb8f60dd2f.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 43114,
@@ -986,7 +1020,12 @@
     "name": "The Arena",
     "symbol": "ARENA",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xb8d7710f7d8349a506b75dd184f05777c82dad0c/0d42e3b677a366e5e77b5760139a3a7a.png"
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xb8d7710f7d8349a506b75dd184f05777c82dad0c/0d42e3b677a366e5e77b5760139a3a7a.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 43114,
@@ -1346,7 +1385,12 @@
     "name": "GoGoPool",
     "symbol": "GGP",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x69260b9483f9871ca57f81a90d91e2f96c2cd11d/3bc3550fa61d7dc6634ccabcc09fa621.png"
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x69260b9483f9871ca57f81a90d91e2f96c2cd11d/3bc3550fa61d7dc6634ccabcc09fa621.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 43114,
@@ -2136,9 +2180,14 @@
     "chainId": 43114,
     "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
     "name": "BENQI Liquid Staked AVAX",
-    "symbol": "SAVAX",
+    "symbol": "sAVAX",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be/1c9f8f5ffdcd19e813f85159be7663a2.png"
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be/1c9f8f5ffdcd19e813f85159be7663a2.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 43114,
@@ -2175,10 +2224,15 @@
   {
     "chainId": 43114,
     "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
-    "name": "Avalanche Bridged BTC  Avalanche ",
-    "symbol": "BTCB",
+    "name": "Avalanche Bridged BTC Avalanche",
+    "symbol": "BTC.b",
     "decimals": 8,
-    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x152b9d0fdc40c096757f570a51e494bd4b943e50/2411fb147c1cc4328edff5d204f09f80.png"
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x152b9d0fdc40c096757f570a51e494bd4b943e50/2411fb147c1cc4328edff5d204f09f80.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 43114,
@@ -2463,7 +2517,7 @@
   {
     "chainId": 43114,
     "address": "0xe08b4c1005603427420e64252a8b120cace4d122",
-    "name": "Franklin OnChain U S  Government Money ",
+    "name": "Franklin OnChain US Government Money",
     "symbol": "BENJI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39660/thumb/FOBXX.jpg?1723523072"
@@ -2472,9 +2526,13 @@
     "chainId": 43114,
     "address": "0xbc78d84ba0c46dfe32cf2895a19939c86b81a777",
     "name": "Solv Protocol SolvBTC",
-    "symbol": "SOLVBTC",
+    "symbol": "SolvBTC",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xbc78d84ba0c46dfe32cf2895a19939c86b81a777/f2b98fef037f89d4c1e5f675a85da19c.png"
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xbc78d84ba0c46dfe32cf2895a19939c86b81a777/f2b98fef037f89d4c1e5f675a85da19c.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 43114,
@@ -3400,9 +3458,14 @@
     "chainId": 43114,
     "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
     "name": "Aave v3 USDC",
-    "symbol": "AUSDC",
+    "symbol": "aAvaUSDC",
     "decimals": 6,
-    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x625e7708f30ca75bfd92586e17077590c60eb4cd/edbff4857cf186c17bfdac67f2b0e6b1.png"
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x625e7708f30ca75bfd92586e17077590c60eb4cd/edbff4857cf186c17bfdac67f2b0e6b1.png",
+    "tags": [
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 43114,
@@ -3928,7 +3991,13 @@
     "decimals": 18,
     "symbol": "AVAX",
     "name": "Avalanche",
-    "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+    "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png",
+    "tags": [
+      "NATIVE",
+      "POPULAR",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "address": "0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21",

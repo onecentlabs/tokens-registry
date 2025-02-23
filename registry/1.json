@@ -18789,6 +18789,19 @@
     }
   },
   {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "chainId": 1,
+    "decimals": 18,
+    "symbol": "ETH",
+    "name": "Ether",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+    "tags": [
+      "NATIVE",
+      "POPULAR",
+      "VERIFIED"
+    ]
+  },
+  {
     "chainId": 1,
     "address": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
     "name": "Ethix",
@@ -39002,14 +39015,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x5e21d1ee5cf0077b314c381720273ae82378d613",
-    "name": "The Infinite Garden",
-    "symbol": "ETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34540/thumb/film.jpg?1705338132"
-  },
-  {
-    "chainId": 1,
     "address": "0xc01154b4ccb518232d6bbfc9b9e6c5068b766f82",
     "name": "NEXUS",
     "symbol": "NEX",
@@ -55090,14 +55095,6 @@
     "logoURI": "https://tokens.1inch.io/0x1e31b601488e97bc247c57af7b6aa336edbc5477.png"
   },
   {
-    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-    "chainId": 1,
-    "decimals": 18,
-    "symbol": "ETH",
-    "name": "Ether",
-    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
-  },
-  {
     "address": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
     "chainId": 1,
     "decimals": 18,
@@ -61743,6 +61740,14 @@
     "symbol": "SEI",
     "name": "SEI",
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x5e21d1ee5cf0077b314c381720273ae82378d613",
+    "name": "The Infinite Garden",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34540/thumb/film.jpg?1705338132"
   },
   {
     "chainId": 1,
