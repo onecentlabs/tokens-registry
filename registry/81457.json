@@ -354,10 +354,18 @@
   {
     "chainId": 81457,
     "address": "0x4300000000000000000000000000000000000004",
-    "name": "L2 Standard Bridged WETH  Blast ",
+    "name": "Bridged WETH",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png"
+    "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png",
+    "tags": [
+      "NATIVE",
+      "WRAPPED",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 81457,
@@ -381,7 +389,14 @@
     "name": "USDB",
     "symbol": "USDB",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x4300000000000000000000000000000000000003/43c9fafca023ddd62f7900f357b26714.png"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x4300000000000000000000000000000000000003/43c9fafca023ddd62f7900f357b26714.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 81457,
@@ -1324,7 +1339,29 @@
     "symbol": "ETH",
     "name": "ETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
+    "chainId": 81457,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "symbol": "ETH",
+    "name": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 81457,
@@ -1332,7 +1369,14 @@
     "symbol": "axlUSDC",
     "name": "Axelar Wrapped USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 81457,
