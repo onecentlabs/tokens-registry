@@ -37,7 +37,7 @@
         },
         "stablecoins": [
             {
-                "name": "USD Coin",
+                "name": "USDC",
                 "symbol": "USDC",
                 "type": "ERC20",
                 "decimals": 6,
@@ -166,7 +166,7 @@
         },
         "stablecoins": [
             {
-                "name": "USD Coin",
+                "name": "USDC",
                 "symbol": "USDC",
                 "type": "BASE",
                 "decimals": 6,
@@ -272,7 +272,7 @@
         },
         "stablecoins": [
             {
-                "name": "USD Coin",
+                "name": "USDC",
                 "symbol": "USDC",
                 "type": "AVALANCHE",
                 "decimals": 6,
@@ -571,7 +571,7 @@
         },
         "stablecoins": [
             {
-                "name": "USD Coin",
+                "name": "USDC",
                 "symbol": "USDC",
                 "type": "OPTIMISM",
                 "decimals": 6,
@@ -626,7 +626,7 @@
         },
         "stablecoins": [
             {
-                "name": "USD Coin",
+                "name": "USDC",
                 "symbol": "USDC",
                 "type": "SCROLL",
                 "decimals": 6,
@@ -688,7 +688,7 @@
         },
         "stablecoins": [
             {
-                "name": "USD Coin",
+                "name": "USDC",
                 "symbol": "USDC",
                 "type": "TAIKO",
                 "decimals": 6,

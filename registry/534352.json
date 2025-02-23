@@ -42,7 +42,7 @@
   {
     "chainId": 534352,
     "address": "0x65421ba909200b81640d98b979d07487c9781b66",
-    "name": "KelpDAO Bridged rsETH  Scroll ",
+    "name": "KelpDAO Bridged rsETH",
     "symbol": "RSETH",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7/9b29efed86aff5a64f238d6d30032f40.png"
@@ -50,10 +50,17 @@
   {
     "chainId": 534352,
     "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-    "name": "Bridged Tether  Scroll ",
+    "name": "Bridged Tether",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 534352,
@@ -74,10 +81,17 @@
   {
     "chainId": 534352,
     "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
-    "name": "Bridged Wrapped Bitcoin  Scroll ",
+    "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "tags": [
+      "WRAPPED",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 534352,
@@ -90,10 +104,18 @@
   {
     "chainId": 534352,
     "address": "0x5300000000000000000000000000000000000004",
-    "name": "Bridged Wrapped Ether  Scroll ",
+    "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/era_token/logo_url/0x5aea5775959fbc2557cc8789bc1bf90a239d9a91/61844453e63cf81301f845d7864236f6.png"
+    "logoURI": "https://static.debank.com/image/era_token/logo_url/0x5aea5775959fbc2557cc8789bc1bf90a239d9a91/61844453e63cf81301f845d7864236f6.png",
+    "tags": [
+      "NATIVE",
+      "WRAPPED",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 534352,
@@ -154,18 +176,32 @@
   {
     "chainId": 534352,
     "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
-    "name": "Bridged Axelar Wrapped USD Coin  Scroll",
-    "symbol": "AXLUSDC",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "AxlUSDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 534352,
     "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
-    "name": "Bridged USD Coin  Scroll ",
+    "name": "Bridged USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 534352,
@@ -337,11 +373,33 @@
   },
   {
     "chainId": 534352,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "name": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
+    "chainId": 534352,
     "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
     "symbol": "DAI",
     "name": "DAI Stablecoin",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 534352,

@@ -13000,7 +13000,7 @@
     "chainId": 137,
     "address": "0x7800FE8951cdc1cDea748d878fAce63018D97960",
     "symbol": "USDC(Wormhole)",
-    "name": "USD Coin",
+    "name": "USDC",
     "decimals": 6,
     "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xaf88d065e77c8cc2239327c5edb3a432268e5831/fffcd27b9efff5a86ab942084c05924d.png"
   },

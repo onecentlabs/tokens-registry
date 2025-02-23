@@ -60,7 +60,7 @@
     "chainId": 1313161554,
     "decimals": 6,
     "symbol": "USDC.e",
-    "name": "USD Coin",
+    "name": "USDC",
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
@@ -138,7 +138,7 @@
     "chainId": 1313161554,
     "address": "0x368EBb46ACa6b8D0787C96B2b20bD3CC3F2c45F7",
     "symbol": "USDC",
-    "name": "USD Coin",
+    "name": "USDC",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },

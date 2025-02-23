@@ -9105,7 +9105,7 @@
     "chainId": 42161,
     "address": "0xC96F2715E2a242d50D1b0bC923dbe1740b8eCf18",
     "symbol": "USDC(Wormhole)",
-    "name": "USD Coin",
+    "name": "USDC",
     "decimals": 6,
     "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png"
   },
@@ -9783,7 +9783,7 @@
     "chainId": 42161,
     "address": "0x1a0590F951bc9C3818Ce75ba5Bbe92831b2cf57e",
     "symbol": "USDCbnb(Wormhole)",
-    "name": "USD Coin",
+    "name": "USDC",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/zkfair_token/logo_url/zkfair/35ab0987153a8355a454223aae371ac7.png"
   },
@@ -9805,7 +9805,7 @@
     "chainId": 42161,
     "address": "0x599ADB10E6A012dF34935D47407450f6D7170e3C",
     "symbol": "USDC",
-    "name": "USD Coin",
+    "name": "USDC",
     "decimals": 6
   },
   {
@@ -9843,7 +9843,7 @@
     "chainId": 42161,
     "address": "0xF6938032c44bB69CD0aF34a2A50eAB75d89b35dc",
     "symbol": "USDC",
-    "name": "USD Coin",
+    "name": "USDC",
     "decimals": 6
   },
   {
