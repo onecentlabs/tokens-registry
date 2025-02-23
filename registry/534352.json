@@ -373,21 +373,6 @@
   },
   {
     "chainId": 534352,
-    "address": "0x0000000000000000000000000000000000000000",
-    "symbol": "ETH",
-    "name": "ETH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-    "tags": [
-      "NATIVE",
-      "FEATURED",
-      "POPULAR",
-      "VERIFIED",
-      "TRADE_VOLUME"
-    ]
-  },
-  {
-    "chainId": 534352,
     "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
     "symbol": "DAI",
     "name": "DAI Stablecoin",

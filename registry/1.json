@@ -61756,5 +61756,13 @@
     "name": "Andrew Tate",
     "decimals": 9,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x67afc204674be8a53ef7f66e05fdde6a068c795a/e9bcc10901fdf08b12f0fa48e8c31ca9.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2",
+    "name": "Falcon Finance",
+    "symbol": "USDF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54558/thumb/ff1.png?1740313729"
   }
 ]
