@@ -198,6 +198,13 @@
     "decimals": 18,
     "chainId": 10,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -435,7 +442,14 @@
     "name": "Optimism",
     "symbol": "OP",
     "decimals": 18,
-    "logoURI": "https://optimistic.etherscan.io/token/images/optimism_32.png"
+    "logoURI": "https://optimistic.etherscan.io/token/images/optimism_32.png",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 10,
@@ -652,6 +666,13 @@
     "decimals": 6,
     "chainId": 10,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -663,10 +684,17 @@
   {
     "chainId": 10,
     "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-    "name": "USDCoin (Bridged from Ethereum)",
+    "name": "USDC (Bridged from Ethereum)",
     "symbol": "USDC.e",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "name": "Tether USD",
@@ -675,6 +703,13 @@
     "decimals": 6,
     "chainId": 10,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -698,6 +733,13 @@
     "decimals": 8,
     "chainId": 10,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "tags": [
+      "WRAPPED",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -713,6 +755,14 @@
     "decimals": 18,
     "chainId": 10,
     "logoURI": "https://static.debank.com/image/op_token/logo_url/0x4200000000000000000000000000000000000006/61844453e63cf81301f845d7864236f6.png",
+    "tags": [
+      "NATIVE",
+      "WRAPPED",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -3904,7 +3954,14 @@
     "decimals": 18,
     "symbol": "ETH",
     "name": "Ether",
-    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
