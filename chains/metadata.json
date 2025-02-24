@@ -589,6 +589,51 @@
         ]
     },
     {
+        "key": "berachain",
+        "chainType": "EVM",
+        "name": "Berachain",
+        "coin": "BERA",
+        "id": 80094,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/berachain.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/80094.json",
+        "metamask": {
+            "chainId": "0x138de",
+            "blockExplorerUrls": [
+                "https://berascan.com/",
+                "https://beratrail.io/"
+            ],
+            "chainName": "Berachain",
+            "nativeCurrency": {
+                "name": "Bera",
+                "symbol": "BERA",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://rpc.berachain.com"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 80094,
+            "symbol": "BERA",
+            "decimals": 18,
+            "name": "BERA",
+            "coinKey": "BERA",
+            "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/berachain.svg"
+        },
+        "stablecoins": [
+            {
+                "name": "Bridged USDC (Stargate)",
+                "symbol": "USDC.e",
+                "type": "ERC20",
+                "decimals": 6,
+                "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
+                "logo": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png"
+            }
+        ]
+    },
+    {
         "key": "scroll",
         "chainType": "EVM",
         "name": "Scroll",
