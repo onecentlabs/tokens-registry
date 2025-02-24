@@ -61764,5 +61764,13 @@
     "symbol": "USDF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54558/thumb/ff1.png?1740313729"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe7dee4823ee18f1347f1cf7997f70b94efde2e1f",
+    "name": "Form",
+    "symbol": "FORM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54560/thumb/FORM_token_CoinGecko.png?1740362675"
   }
 ]

@@ -16622,5 +16622,13 @@
     "symbol": "BASELISK",
     "name": "Baselisk",
     "decimals": 9
+  },
+  {
+    "chainId": 8453,
+    "address": "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4",
+    "name": "Amped Finance",
+    "symbol": "AMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
   }
 ]
