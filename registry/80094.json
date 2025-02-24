@@ -157,5 +157,109 @@
     "name": "StakeStone Ether",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7122985656e38bdc0302db86685bb972b145bd3c/42726d1cb174e9460a5a875194e5a317.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x8f06863df59a042bcc2c86cc8ca1709ec1ee316b",
+    "name": "janitooor",
+    "symbol": "JANI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54525/thumb/janinew.png?1740137171"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x1f7210257fa157227d09449229a9266b0d581337",
+    "name": "BeramoniumCoin",
+    "symbol": "BERAMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54529/thumb/_BERAMO_logo.png?1740168354"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x047b41a14f0bef681b94f570479ae7208e577a0c",
+    "name": "Honey Is Money",
+    "symbol": "HIM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54552/thumb/HIM_LOGO.jpg?1740307478"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x36e9fe653e673fda3857dbe5afbc884af8a316a2",
+    "name": "BeraFi",
+    "symbol": "BERAFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54382/thumb/TOKEN_LOGO_%281%29.png?1739459375"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xa452810a4215fccc834ed241e6667f519b9856ec",
+    "name": "Berabot",
+    "symbol": "BBOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54546/thumb/Berabot_Logo.png?1740220386"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x656b95e550c07a9ffe548bd4085c72418ceb1dba",
+    "name": "Berachain Governance Token",
+    "symbol": "BGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54193/thumb/BGT.png?1738742690"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7",
+    "name": "Ramen",
+    "symbol": "RAMEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54443/thumb/rsz_tokens_1.png?1739772470"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xb749584f9fc418cf905d54f462fdbfdc7462011b",
+    "name": "bm",
+    "symbol": "BM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54413/thumb/photo_2025-02-13_05.15.34.jpeg?1739554671"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x08a38caa631de329ff2dad1656ce789f31af3142",
+    "name": "Yeet",
+    "symbol": "YEET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54416/thumb/IMG_7050.PNG?1739556073"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "name": "Yel Finance",
+    "symbol": "YEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17429/thumb/Logo200.png?1696516976"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4",
+    "name": "Amped Finance",
+    "symbol": "AMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "name": "Solv Protocol SolvBTC BBN",
+    "symbol": "SOLVBTCBBN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640"
   }
 ]
