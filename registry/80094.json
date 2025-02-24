@@ -1,0 +1,161 @@
+[
+  {
+    "chainId": 80094,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BERA",
+    "name": "BERA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/bera.svg"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6969696969696969696969696969696969696969",
+    "symbol": "WBERA",
+    "name": "Wrapped Bera",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/wbera.svg"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x549943e04f40284185054145c6E4e9568C1D3241",
+    "symbol": "USDC.e",
+    "name": "Bridged USD (Stargate)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "symbol": "WETH",
+    "name": "WETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC",
+    "name": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
+    "symbol": "HONEY",
+    "name": "HONEY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/honey.svg"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x688e72142674041f8f6Af4c808a4045cA1D6aC82",
+    "symbol": "BYUSD",
+    "name": "BYUSD",
+    "decimals": 6,
+    "logoURI": "https://hub.berachain.com/_next/image/?url=https%3A%2F%2Fres.cloudinary.com%2Fduv0g402y%2Fimage%2Fupload%2Fv1738732576%2Ftokens%2Fy6wa21vehnappbe2cruf.png&w=3840&q=75&dpl=dpl_FBim27rRDfMcGJQxRsgz2AneXzpt"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x09D4214C03D01F49544C0448DBE3A27f768F2b34",
+    "symbol": "rUSD",
+    "name": "Reservoir Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/reservoirxyz/759a2ac7d08479d0e0b3f288f4bb84a5.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5",
+    "symbol": "iBERA",
+    "name": "Infrared BERA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x9b6761bf2397bb5a6624a856cc84a3a14dcd3fe5/44cd7d48d92cc95521b36309f6cc233a.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xFF0a636Dfc44Bb0129b631cDd38D21B613290c98",
+    "symbol": "HOLD",
+    "name": "Holdstation",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/era_token/logo_url/0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2/98e281572409ba6d38fbb6a7baf76fda.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x5C43a5fEf2b056934478373A53d1cb08030fd382",
+    "symbol": "BRLY",
+    "name": "Berally Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x5c43a5fef2b056934478373a53d1cb08030fd382/1fc015bb5a4f6822c1ba18c52312e8d3.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E",
+    "symbol": "pumpBTC.bera",
+    "name": "pumpBTC.bera",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf469fbd2abcd6b9de8e169d128226c0fc90a012e/07a577c250ea34196b2584048789393a.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6fc6545d5cDE268D5C7f1e476D444F39c995120d",
+    "symbol": "beraETH",
+    "name": "Berachain Staked ETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x6fc6545d5cde268d5c7f1e476d444f39c995120d/5fedbf4b427ce58f3d2e4edb9bd18ad3.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+    "symbol": "SolvBTC",
+    "name": "Solv BTC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bob_token/logo_url/0x59889b7021243db5b1e065385f918316cd90d46c/31a6cb7216c2b772a41a8913cc36f2c0.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xC3827A4BC8224ee2D116637023b124CED6db6e90",
+    "symbol": "uniBTC",
+    "name": "uniBTC",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x93919784c523f39cacaa98ee0a9d96c3f32b593e/3adc425af3410e7c7cedb1ce4f777eda.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
+    "symbol": "USDa",
+    "name": "USDa",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x075df695b8e7f4361fa7f8c1426c63f11b06e326/6aca648e5ac1bcc962281245c478576c.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xE946Dd7d03F6F5C440F68c84808Ca88d26475FC5",
+    "symbol": "ylBTCLST",
+    "name": "CIAN yield layer BTCLST",
+    "decimals": 8
+  },
+  {
+    "chainId": 80094,
+    "address": "0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3",
+    "symbol": "NECT",
+    "name": "Nectar",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x1ce0a25d13ce4d52071ae7e02cf1f6606f4c79d3/00afe74ca7fec05cff5febbcc73b3d1a.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3",
+    "symbol": "STONE",
+    "name": "StakeStone Ether",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7122985656e38bdc0302db86685bb972b145bd3c/42726d1cb174e9460a5a875194e5a317.png"
+  }
+]
