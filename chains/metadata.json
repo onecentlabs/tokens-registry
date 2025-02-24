@@ -858,5 +858,49 @@
                 "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
             }
         ]
+    },
+    {
+        "key": "sonic",
+        "chainType": "EVM",
+        "name": "Sonic",
+        "coin": "S",
+        "id": 146,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/sonic.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/146.json",
+        "metamask": {
+            "chainId": "0x92",
+            "blockExplorerUrls": [
+                "https://sonicscan.org"
+            ],
+            "chainName": "Sonic",
+            "nativeCurrency": {
+                "name": "S",
+                "symbol": "S",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://rpc.soniclabs.com"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 146,
+            "symbol": "S",
+            "decimals": 18,
+            "name": "S",
+            "coinKey": "S",
+            "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/sonic.svg"
+        },
+        "stablecoins": [
+            {
+                "name": "Sonic Bridged USDC",
+                "symbol": "USDC.e",
+                "type": "ERC20",
+                "decimals": 6,
+                "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+            }
+        ]
     }
 ]

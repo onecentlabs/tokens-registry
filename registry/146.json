@@ -1,11 +1,67 @@
 [
   {
     "chainId": 146,
+    "address": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
+    "name": "Wrapped Sonic",
+    "symbol": "WS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52857/thumb/wrapped_sonic.png?1734536585"
+  },
+  {
+    "chainId": 146,
+    "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+    "name": "Sonic Bridged USDC",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/53064/thumb/logo.png?1735179479"
+  },
+  {
+    "chainId": 146,
+    "address": "0x5af79133999f7908953e94b7a5cf367740ebee35",
+    "symbol": "CRV",
+    "name": "Curve DAO Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415/logo.png"
+  },
+  {
+    "chainId": 146,
+    "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "symbol": "LBTC",
+    "name": "Lombard Staked Bitcoin",
+    "decimals": 8,
+    "logoURI": "https://sonicscan.org/token/images/lbtc_64.png"
+  },
+  {
+    "chainId": 146,
+    "address": "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b",
+    "name": "Wagmi",
+    "symbol": "WAGMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31887/thumb/wagmi_token_logo.png?1696530698"
+  },
+  {
+    "chainId": 146,
+    "address": "0x6047828dc181963ba44974801ff68e538da5eaf9",
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
+  },
+  {
+    "chainId": 146,
     "address": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
     "name": "Beets Staked Sonic",
     "symbol": "STS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52937/thumb/token-beets-staked-sonic.png?1734712659"
+  },
+  {
+    "chainId": 146,
+    "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "name": "Hey Anon",
+    "symbol": "ANON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/ICON.png?1734862960"
   },
   {
     "chainId": 146,
@@ -153,14 +209,6 @@
   },
   {
     "chainId": 146,
-    "address": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
-    "name": "Wrapped Sonic",
-    "symbol": "WS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52857/thumb/wrapped_sonic.png?1734536585"
-  },
-  {
-    "chainId": 146,
     "address": "0x17af1df44444ab9091622e4aa66db5bb34e51ad5",
     "name": "TinHatCat",
     "symbol": "THC",
@@ -201,14 +249,6 @@
   },
   {
     "chainId": 146,
-    "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
-    "name": "Hey Anon",
-    "symbol": "ANON",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/ICON.png?1734862960"
-  },
-  {
-    "chainId": 146,
     "address": "0x8ad39144b37741573f85aa03d6c3e817a0054161",
     "name": "Fate Adventure",
     "symbol": "FA",
@@ -225,14 +265,6 @@
   },
   {
     "chainId": 146,
-    "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
-    "name": "Sonic Bridged USDC e  Sonic ",
-    "symbol": "USDCE",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/53064/thumb/logo.png?1735179479"
-  },
-  {
-    "chainId": 146,
     "address": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
     "name": "Wrapped Origin Sonic",
     "symbol": "WOS",
@@ -242,7 +274,7 @@
   {
     "chainId": 146,
     "address": "0x50c42deacd8fc9773493ed674b675be577f2634b",
-    "name": "Bridged Wrapped Ether  Sonic ",
+    "name": "Bridged Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53332/thumb/weth_2.jpg?1736149977"
@@ -422,13 +454,5 @@
     "symbol": "BRUSH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18579/thumb/ps-cmc-200x200.png?1707862125"
-  },
-  {
-    "chainId": 146,
-    "address": "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b",
-    "name": "Wagmi",
-    "symbol": "WAGMI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31887/thumb/wagmi_token_logo.png?1696530698"
   }
 ]
