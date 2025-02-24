@@ -22,6 +22,17 @@ export class TokenRegistry {
       ARB: '42161',
       BASE: '8453',
       GNOSIS: '100',
+      POL: '137',
+      OPTIMISM: '10',
+      AVALANCHE: '43114',
+      LINEA: '59144',
+      BERACHAIN: '80094',
+      MANTLE: '5000',
+      SCROLL: '534352',
+      TAIKO: '167000',
+      SEI: '1329',
+      SONIC: '146',
+      BLAST: '81457'
     }
     this.tags = [
       'FEATURED',
