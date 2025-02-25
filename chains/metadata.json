@@ -589,6 +589,59 @@
         ]
     },
     {
+        "key": "unichain",
+        "chainType": "EVM",
+        "name": "Unichain",
+        "coin": "ETH",
+        "id": 130,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/unichain.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/130.json",
+        "metamask": {
+            "chainId": "0x82",
+            "blockExplorerUrls": [
+                "https://uniscan.xyz/"
+            ],
+            "chainName": "Unichain",
+            "nativeCurrency": {
+                "name": "ETH",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://unichain-rpc.publicnode.com",
+                "https://unichain.drpc.org"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 130,
+            "symbol": "ETH",
+            "decimals": 18,
+            "name": "ETH",
+            "coinKey": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        "stablecoins": [
+            {
+                "name": "USDC",
+                "symbol": "USDC",
+                "type": "UNICHAIN",
+                "decimals": 6,
+                "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png"
+            },
+            {
+                "name": "Dai Stablecoin",
+                "symbol": "DAI",
+                "type": "UNICHAIN",
+                "decimals": 18,
+                "address": "0x20CAb320A855b39F724131C69424240519573f81",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/scroll/assets/0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97/logo.png"
+            }
+        ]
+    },
+    {
         "key": "berachain",
         "chainType": "EVM",
         "name": "Berachain",
