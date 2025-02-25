@@ -24,7 +24,8 @@ export class RPCFetch {
       TAIKO: '167000',
       SEI: '1329',
       SONIC: '146',
-      BLAST: '81457'
+      BLAST: '81457',
+      UNICHAIN: '130'
     }
 
     this.rpcMap = {}
