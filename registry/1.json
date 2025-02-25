@@ -61788,5 +61788,13 @@
     "symbol": "NVG8",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54565/thumb/nav_logo_transparent.png?1740379516"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0994bd54cde8f83eab517d833a581b4be5b6f919",
+    "name": "PALCOIN Ventures",
+    "symbol": "PALCOIN",
+    "decimals": 4,
+    "logoURI": "https://assets.coingecko.com/coins/images/51317/thumb/IMG_20241029_021655_516.jpg?1730707511"
   }
 ]
