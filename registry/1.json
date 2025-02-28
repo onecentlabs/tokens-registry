@@ -61857,5 +61857,13 @@
     "symbol": "MMEV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54592/thumb/mmev_logo.png?1740565795"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8b7cf3a97c1f840bcf490dfd7d6a16a96dd5dd0c",
+    "name": "Quick Sync",
+    "symbol": "QS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54612/thumb/Icon_Black.jpg?1740707473"
   }
 ]

@@ -269,5 +269,13 @@
     "symbol": "OHM",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1696514169"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xac03caba51e17c86c921e1f6cbfbdc91f8bb2e6b",
+    "name": "Infrared BGT",
+    "symbol": "IBGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54614/thumb/ibgt.jpg?1740718302"
   }
 ]
