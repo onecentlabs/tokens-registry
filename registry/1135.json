@@ -92,5 +92,18 @@
     "name": "WETH",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/lyra_token/logo_url/lyra/48bfb74adddd170e936578aec422836d.png"
+  },
+  {
+    "chainId": 1135,
+    "address": "0x398697b203cA909e05690B6684D56938964b07A0",
+    "name": "UTU Coin",
+    "symbol": "UTU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UTU/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "UTU"
+    }
   }
 ]

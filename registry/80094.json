@@ -261,5 +261,13 @@
     "symbol": "SOLVBTCBBN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x18878df23e2a36f81e820e4b47b4a40576d3159c",
+    "name": "Olympus",
+    "symbol": "OHM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1696514169"
   }
 ]

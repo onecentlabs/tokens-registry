@@ -16630,5 +16630,95 @@
     "symbol": "AMP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4aCFF883f2879e69e67B7003ccec56C73ee41F6f",
+    "name": "BTREE",
+    "symbol": "BTREE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTREE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BTREE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6774DFC16e1D9B6cE5b0AeC4fFed37A0dAeF0602",
+    "name": "Shutter Token",
+    "symbol": "SHU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SHU/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SHU"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3c8cd0db9a01efa063a7760267b822a129bc7dca",
+    "name": "Based Froc",
+    "symbol": "FROC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54585/thumb/IMG_9229.jpeg?1740552706"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe8b46b116d3bdfa787ce9cf3f5acc78dc7ca380e",
+    "name": "MarketVector Token Terminal Fundamental",
+    "symbol": "MVTT10F",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54605/thumb/MV-logo.png?1740639926"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa344b6bcf28750fff890a5660b5d3ec8fd1079ea",
+    "name": "EPAY",
+    "symbol": "EPAY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54599/thumb/11111.png?1740637069"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc23e4352cdba6fc951398bf274619c4529eac867",
+    "name": "Terrace",
+    "symbol": "TRC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54577/thumb/200x200TerraceIcon.jpg?1740496502"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd600e748c17ca237fcb5967fa13d688aff17be78",
+    "name": "MarketVector Digital Assets 25 Index",
+    "symbol": "MVDA25",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54600/thumb/MV-logo.png?1740638035"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdfbe977fcb971d3c8b06e1b5cb416ea3d84fa6c2",
+    "name": "MeFI",
+    "symbol": "MEFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53761/thumb/_MTS.png?1737189967"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x23418de10d422ad71c9d5713a2b8991a9c586443",
+    "name": "Bloomberg Galaxy Crypto Index",
+    "symbol": "BGCI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54578/thumb/images_%282%29.png?1740538343"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa7e4509dcb46a67e73c18fe0d11dd9a337e52ac0",
+    "name": "Frencoin",
+    "symbol": "FREN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54601/thumb/Coin_%282%29.png?1740638073"
   }
 ]

@@ -454,5 +454,13 @@
     "symbol": "BRUSH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18579/thumb/ps-cmc-200x200.png?1707862125"
+  },
+  {
+    "chainId": 146,
+    "address": "0xe4a4353cd8f008f1a70f1a564535990479e8ceb7",
+    "name": "Paladin",
+    "symbol": "PAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24558/thumb/PAL-Token-dark_%281%29.png?1735661952"
   }
 ]

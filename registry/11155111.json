@@ -495,5 +495,18 @@
       "opListId": "extended",
       "opTokenId": "YYY"
     }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xC3586558ddb1Cc6C7c5338691842b8d5F47D253d",
+    "name": "UTUCoinMock",
+    "symbol": "UTUM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UTU/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0x1Fb30e446eA791cd1f011675E5F3f5311b70faF5",
+      "opListId": "extended",
+      "opTokenId": "UTU"
+    }
   }
 ]
