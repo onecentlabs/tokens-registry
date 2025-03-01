@@ -14320,5 +14320,13 @@
     "name": "Backed Coinbase",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54429/standard/bCOIN_200p.png?1740041341"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MA",
+    "name": "Mind-AI",
+    "decimals": 18,
+    "address": "0xb5Ab5cF2e2c686aE43F01F23859F3a55a8629C1C",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb5Ab5cF2e2c686aE43F01F23859F3a55a8629C1C.png"
   }
 ]

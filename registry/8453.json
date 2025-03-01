@@ -16720,5 +16720,37 @@
     "symbol": "FREN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54601/thumb/Coin_%282%29.png?1740638073"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3c86129b990876ea63751fa7a27deba91fc5bfad",
+    "name": "LUCIA",
+    "symbol": "LUCIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54620/thumb/Logo_Pindora_CG.jpg?1740735868"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00096697dc24bd10423690126d91546a20ccb3f0",
+    "name": "Veritas",
+    "symbol": "VPT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54623/thumb/white_circle_icon.png?1740736633"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x901f1d2bf312e6fa1716df603df8f86315bcb355",
+    "name": "Links",
+    "symbol": "LINKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54627/thumb/links-logo.jpg?1740753903"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf8252c05ec4cb2fdf1e0398bae049d454ddba3ad",
+    "name": "JAM",
+    "symbol": "JAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53706/thumb/2_%281%29_%281%29%281%29.png?1737086677"
   }
 ]

@@ -462,5 +462,13 @@
     "symbol": "PAL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24558/thumb/PAL-Token-dark_%281%29.png?1735661952"
+  },
+  {
+    "chainId": 146,
+    "address": "0xf1ef7d2d4c0c881cd634481e0586ed5d2871a74b",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1696514728"
   }
 ]
