@@ -10460,5 +10460,13 @@
     "symbol": "DICE",
     "name": "Party Dice",
     "decimals": 18
+  },
+  {
+    "chainId": 42161,
+    "address": "0x56264286b18903889d03de41cf6acfab1fe1defc",
+    "name": "Beyond Gaming",
+    "symbol": "BDG",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54650/thumb/bdg-logo.png?1740832068"
   }
 ]

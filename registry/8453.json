@@ -16752,5 +16752,61 @@
     "symbol": "JAM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53706/thumb/2_%281%29_%281%29%281%29.png?1737086677"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x44551ca46fa5592bb572e20043f7c3d54c85cad7",
+    "name": "Clanker Index",
+    "symbol": "CLX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54636/thumb/clnk-icon-1.png?1740815528"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x65553f5c85c78b977668cec098ec09475099aa61",
+    "name": "QubeCV AI",
+    "symbol": "QCV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54656/thumb/_QCV_Logo.png?1740894275"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xebcda5b80f62dd4dd2a96357b42bb6facbf30267",
+    "name": "Alpha Base Index",
+    "symbol": "ABX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54637/thumb/Logomark_Blue_Background.png?1740815637"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb8753941196692e322846cfee9c14c97ac81928a",
+    "name": "Base Memeindexer DTF",
+    "symbol": "BDTF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54665/thumb/IMG_1010.jpeg?1740898964"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd51827754a56860f04acd1d2699b049b026a5925",
+    "name": "G Agents AI",
+    "symbol": "GTY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54641/thumb/G-Agents_AI.png?1740816738"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x47686106181b3cefe4eaf94c4c10b48ac750370b",
+    "name": "Virtuals Index",
+    "symbol": "VTF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54638/thumb/VTFLOGO.png?1740815702"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf2e244d4020c182e8e2c936d4055e3f0e578064f",
+    "name": "ChirpPad",
+    "symbol": "CHPD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54687/thumb/ChirpPad_Logo_200.png?1741015873"
   }
 ]

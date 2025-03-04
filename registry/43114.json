@@ -4978,5 +4978,21 @@
     "name": "Good Bridging",
     "decimals": 9,
     "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x90842eb834cfd2a1db0b1512b254a18e4d396215/a389fc56e350d6db75357e1881eb56e0.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xad4cb79293322c07973ee83aed5df66a53214dc6",
+    "name": "Stargate Bridged Shell  Avalanche ",
+    "symbol": "SHELL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54682/thumb/shell.jpg?1740987456"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x08c4b51e6ca9eb89c255f0a5ab8afd721420e447",
+    "name": "Stargate Bridged Pearl  Avalanche ",
+    "symbol": "PEARL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54681/thumb/pearl.jpg?1740987269"
   }
 ]

@@ -285,5 +285,13 @@
     "symbol": "BERO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54626/thumb/beradrome_logo.webp?1740746547"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6536cead649249cae42fc9bfb1f999429b3ec755",
+    "name": "NAV",
+    "symbol": "NAV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54663/thumb/NAV_Token.png?1740898251"
   }
 ]

@@ -470,5 +470,37 @@
     "symbol": "PENDLE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1696514728"
+  },
+  {
+    "chainId": 146,
+    "address": "0x89f0462e56930cfea4a481c1b9a0d26fa8bd94e6",
+    "name": "BurnX",
+    "symbol": "BRNX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54670/thumb/_7fb37859-d9ab-499f-ae08-76b52afec310.jpeg?1740935217"
+  },
+  {
+    "chainId": 146,
+    "address": "0x65a3e654790a2b7ed80afca646caaebaa84db4df",
+    "name": "Magic Internet Money  Meme ",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54667/thumb/logo200x.png?1740900280"
+  },
+  {
+    "chainId": 146,
+    "address": "0xe53afa646d48e9ef68fcd559f2a598880a3f1370",
+    "name": "Plus Bet",
+    "symbol": "PLUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37511/thumb/cmc-cg.png?1714620294"
+  },
+  {
+    "chainId": 146,
+    "address": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
+    "name": "Backed CSPX Core S P 500",
+    "symbol": "BCSPX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31891/thumb/bCSPX_200p.png?1740041074"
   }
 ]

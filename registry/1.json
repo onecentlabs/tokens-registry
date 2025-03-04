@@ -61865,5 +61865,53 @@
     "symbol": "QS",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/54612/thumb/Icon_Black.jpg?1740707473"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf983da3ca66964C02628189Ea8Ca99fa9E24f66c",
+    "name": "Wrapped Analog One Token",
+    "symbol": "WANLOG",
+    "decimals": 12,
+    "logoURI": "https://assets.kraken.com/marketing/web/icons-uni-webp/s_anlog.webp?i=kds"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf9902edfca4f49dcaebc335c73aebd82c79c2886",
+    "name": "ADO Protocol",
+    "symbol": "ADO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27346/thumb/ado-200x200.png?1696526393"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9a1741e151233a82cf69209a2f1bc7442b1fb29c",
+    "name": "DeFi Growth Index",
+    "symbol": "DGI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54639/thumb/Logomark_Sand_Background.png?1740815823"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa5cdea03b11042fc10b52af9eca48bb17a2107d2",
+    "name": "RWA Index",
+    "symbol": "MVRWA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54640/thumb/MEV-RWA.png?1740815951"
+  },
+  {
+    "chainId": 1,
+    "address": "0x98509e66fbf5a68d18ebb01dc4a52ce020fc8d1f",
+    "name": "MUMUBIT TOKEN",
+    "symbol": "MCTP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54654/thumb/mctp.jpeg?1740892679"
+  },
+  {
+    "chainId": 1,
+    "address": "0x87c9053c819bb28e0d73d33059e1b3da80afb0cf",
+    "name": "Midas mRe7YIELD",
+    "symbol": "MRE7YIELD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54660/thumb/mre7yield_logo.png?1740896178"
   }
 ]
