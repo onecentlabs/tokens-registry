@@ -228,7 +228,7 @@
                 "symbol": "xDAI",
                 "type": "GNOSIS",
                 "decimals": 18,
-                "address": "0x0000000000000000000000000000000000000000",
+                "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
                 "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
             }
         ]
