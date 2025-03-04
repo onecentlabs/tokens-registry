@@ -16808,5 +16808,53 @@
     "symbol": "CHPD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54687/thumb/ChirpPad_Logo_200.png?1741015873"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc5cdeb649ed1a7895b935acc8eb5aa0d7a8492be",
+    "name": "Wrapped Chiliz  Universal ",
+    "symbol": "UCHZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54704/thumb/UA-CHZ.png?1741108067"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x16275fd42439a6671b188bdc3949a5ec61932c48",
+    "name": "Wrapped MultiversX  Universal ",
+    "symbol": "UEGLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54706/thumb/UA-EGLD.png?1741108121"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf653e8b6fcbd2a63246c6b7722d1e9d819611241",
+    "name": "Wrapped Cronos  Universal ",
+    "symbol": "UCRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54705/thumb/UA-CRO_%285%29.png?1741108092"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5a03841c2e2f5811f9e548cf98e88e878e55d99e",
+    "name": "Wrapped Axie Infinity Shards  Universal",
+    "symbol": "UAXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54703/thumb/UA-AXS.png?1741108025"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd01cb4171a985571deff48c9dc2f6e153a244d64",
+    "name": "Wrapped Arbitrum  Universal ",
+    "symbol": "UARB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54701/thumb/UA-ARB_%281%29.png?1741107828"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6e934283dae5d5d1831cbe8d557c44c9b83f30ee",
+    "name": "Wrapped Cosmos  Universal ",
+    "symbol": "UATOM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54702/thumb/UA-ATOM.png?1741107902"
   }
 ]

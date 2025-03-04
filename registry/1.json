@@ -61913,5 +61913,13 @@
     "symbol": "MRE7YIELD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54660/thumb/mre7yield_logo.png?1740896178"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2a897de60073e13c1f34f672033c1c1d08657fbb",
+    "name": "Dawae",
+    "symbol": "DAWAE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54403/thumb/IMG_0775.png?1739519972"
   }
 ]

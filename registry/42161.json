@@ -10468,5 +10468,13 @@
     "symbol": "BDG",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/54650/thumb/bdg-logo.png?1740832068"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x53ce5f2a18a623317357d6366ec59b47cbb0060d",
+    "name": "Runbot",
+    "symbol": "RBOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37033/thumb/runbot.jpeg?1713158872"
   }
 ]
