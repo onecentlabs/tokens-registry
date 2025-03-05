@@ -5,7 +5,12 @@
     "name": "Blast",
     "symbol": "BLAST",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad/b4e512695ffca06a48f86664e85879af.png"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad/b4e512695ffca06a48f86664e85879af.png",
+    "tag": [
+      "NATIVE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 81457,
@@ -109,7 +114,10 @@
     "name": "CYBRO",
     "symbol": "CYBRO",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x963eec23618bbc8e1766661d5f263f18094ae4d5/493d3923b822619a88af16e1464200b8.png"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x963eec23618bbc8e1766661d5f263f18094ae4d5/493d3923b822619a88af16e1464200b8.png",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 81457,
@@ -173,7 +181,10 @@
     "name": "Orbit Protocol",
     "symbol": "ORBIT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35675/thumb/orbit.png?1709520496"
+    "logoURI": "https://assets.coingecko.com/coins/images/35675/thumb/orbit.png?1709520496",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 81457,
@@ -205,7 +216,10 @@
     "name": "BlastUP",
     "symbol": "BLASTUP",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6/899d6de9772560afeb39ac8fc7f4f833.png"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6/899d6de9772560afeb39ac8fc7f4f833.png",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 81457,
@@ -506,9 +520,12 @@
     "chainId": 81457,
     "address": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd",
     "name": "Wrapped rsETH",
-    "symbol": "WRSETH",
+    "symbol": "wrsETH",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7/9b29efed86aff5a64f238d6d30032f40.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7/9b29efed86aff5a64f238d6d30032f40.png",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 81457,
@@ -611,7 +628,10 @@
     "name": "Eesee",
     "symbol": "ESE",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x491e6de43b55c8eae702edc263e32339da42f58c/e190ef1f25559cc171c00f46264437b0.png"
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x491e6de43b55c8eae702edc263e32339da42f58c/e190ef1f25559cc171c00f46264437b0.png",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 81457,
@@ -625,9 +645,12 @@
     "chainId": 81457,
     "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
     "name": "Renzo Restaked ETH",
-    "symbol": "EZETH",
+    "symbol": "ezETH",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbf5495efe5db9ce00f80364c8b423567e58d2110/e4cac3df2fe7caa7122de22911e72a41.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbf5495efe5db9ce00f80364c8b423567e58d2110/e4cac3df2fe7caa7122de22911e72a41.png",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 81457,
@@ -1384,7 +1407,10 @@
     "symbol": "weETH",
     "name": "Wrapped eETH",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 81457,
