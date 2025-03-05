@@ -33,7 +33,7 @@ export class TokenRegistry {
       SEI: '1329',
       SONIC: '146',
       BLAST: '81457',
-      UNICHAIN: '130'
+      UNICHAIN: '130',
     }
     this.tags = [
       'FEATURED',
@@ -93,17 +93,34 @@ export class TokenRegistry {
             return false
           }
           if (
-            token.symbol.toLowerCase() === 'avax' && token.chainId === 43114 &&
+            token.symbol.toLowerCase() === 'eth' &&
+            token.chainId === 10 &&
+            token.address === '0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000'
+          ) {
+            return false
+          }
+          if (
+            token.symbol.toLowerCase() === 'avax' &&
+            token.chainId === 43114 &&
             token.address === '0x0000000000000000000000000000000000000000'
           ) {
             return false
           }
           if (
-            token.symbol.toLowerCase() === 'xdai' && token.chainId === 100 &&
+            token.symbol.toLowerCase() === 'xdai' &&
+            token.chainId === 100 &&
             token.address === '0x0000000000000000000000000000000000000000'
-         ) {
+          ) {
             return false
-         }
+          }
+          if (
+            token.symbol.toLowerCase() === 'pol' &&
+            token.chainId === 137 &&
+            (token.address === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee' ||
+              token.address === '0x0000000000000000000000000000000000000000')
+          ) {
+            return false
+          }
           if (!collected_addresses.includes(token.address) && token.tags?.includes(tag)) {
             return true
           }
@@ -121,17 +138,34 @@ export class TokenRegistry {
           return false
         }
         if (
-            token.symbol.toLowerCase() === 'avax' && token.chainId === 43114 &&
-            token.address === '0x0000000000000000000000000000000000000000'
-          ) {
-            return false
-          }
+          token.symbol.toLowerCase() === 'eth' &&
+          token.chainId === 10 &&
+          token.address === '0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000'
+        ) {
+          return false
+        }
         if (
-            token.symbol.toLowerCase() === 'xdai' && token.chainId === 100 &&
-            token.address === '0x0000000000000000000000000000000000000000'
-         ) {
-            return false
-         }
+          token.symbol.toLowerCase() === 'avax' &&
+          token.chainId === 43114 &&
+          token.address === '0x0000000000000000000000000000000000000000'
+        ) {
+          return false
+        }
+        if (
+          token.symbol.toLowerCase() === 'xdai' &&
+          token.chainId === 100 &&
+          token.address === '0x0000000000000000000000000000000000000000'
+        ) {
+          return false
+        }
+        if (
+          token.symbol.toLowerCase() === 'pol' &&
+          token.chainId === 137 &&
+          (token.address === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee' ||
+            token.address === '0x0000000000000000000000000000000000000000')
+        ) {
+          return false
+        }
         if (collected_addresses.includes(token.address)) {
           return false
         }
