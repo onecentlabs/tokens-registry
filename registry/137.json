@@ -165,10 +165,10 @@
   {
     "chainId": 137,
     "address": "0x0000000000000000000000000000000000001010",
-    "name": "Polygon",
-    "symbol": "MATIC",
+    "name": "Polygon Ecosystem Token",
+    "symbol": "POL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
+    "logoURI": "https://static.debank.com/image/matic_token/logo_url/matic/6f5a6b6f0732a7a235131bd7804d357c.png",
     "extensions": {
       "bridgeInfo": {
         "1": {
