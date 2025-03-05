@@ -13258,5 +13258,13 @@
     "symbol": "DDD",
     "name": "Durgan Dynasty Doubloon",
     "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
   }
 ]
