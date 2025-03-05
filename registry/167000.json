@@ -5,7 +5,25 @@
     "symbol": "ETH",
     "name": "ETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tag": [
+      "NATIVE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 167000,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "symbol": "ETH",
+    "name": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tag": [
+      "NATIVE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 167000,
@@ -13,7 +31,12 @@
     "symbol": "USDC",
     "name": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tag": [
+      "STABLE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 167000,
@@ -21,7 +44,12 @@
     "symbol": "USDT",
     "name": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "tag": [
+      "STABLE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 167000,
@@ -29,23 +57,39 @@
     "symbol": "WETH",
     "name": "WETH",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png",
+    "tag": [
+      "NATIVE",
+      "WRAPPED",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 167000,
     "address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
-    "symbol": "USDC.e(Stargate)",
-    "name": "Bridged USDC (Stargate)",
+    "symbol": "USDC.e",
+    "name": "Bridged USDC (stargate)",
     "decimals": 6,
-    "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tag": [
+      "STABLE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 167000,
     "address": "0x9c2dc7377717603eB92b2655c5f2E7997a4945BD",
-    "symbol": "USDT(Stargate)",
+    "symbol": "USDT (stargate)",
     "name": "Tether USD",
     "decimals": 6,
-    "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "tag": [
+      "STABLE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 167000,
@@ -53,6 +97,32 @@
     "symbol": "TAIKO",
     "name": "Taiko Token",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x10dea67478c5f8c5e2d90e5e9b26dbe60c54d800/2f88b2a5e9d4156b721b5e657a01059e.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x10dea67478c5f8c5e2d90e5e9b26dbe60c54d800/2f88b2a5e9d4156b721b5e657a01059e.png",
+    "tag": [
+      "NATIVE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 167000,
+    "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "name": "Solv Protocol",
+    "symbol": "SolvBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
+    "tag": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 167000,
+    "address": "0xed197058a19e3a7c0d1ac402aaadef22a0f31d0b",
+    "name": "TaikoSwap",
+    "symbol": "TKOSWAP",
+    "decimals": 18,
+    "tag": [
+      "VERIFIED"
+    ]
   }
 ]
