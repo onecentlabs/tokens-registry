@@ -16856,5 +16856,37 @@
     "symbol": "UATOM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54702/thumb/UA-ATOM.png?1741107902"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2e7df1528f4ea427f48b49ae8a1f78149db7185a",
+    "name": "ProductClank",
+    "symbol": "PRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54712/thumb/ProductClank_Transparent_Background.png?1741185094"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0340ff1765f0099b3bd1c4664ce03d8fd794fad1",
+    "name": "Wrapped Curve  Universal ",
+    "symbol": "UCRV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54716/thumb/UA-CRV.png?1741185880"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x44951c66dfe920baed34457a2cfa65a0c7ff2025",
+    "name": "Wrapped Blur  Universal ",
+    "symbol": "UBLUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54714/thumb/UA-BLUR.png?1741185673"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf56ce53561a9cc084e094952232bbfe1e5fb599e",
+    "name": "Wrapped Bonk  Universal ",
+    "symbol": "UBONK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54715/thumb/UA-BONK.png?1741185707"
   }
 ]

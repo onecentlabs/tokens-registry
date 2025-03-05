@@ -62169,5 +62169,13 @@
     "symbol": "BMR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54711/thumb/0xdc300854b0ef52650057158e8a33afe703525539.png?1741179043"
+  },
+  {
+    "chainId": 1,
+    "address": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
+    "name": "Bitget Token",
+    "symbol": "BGB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11610/thumb/photo_2022-01-24_14-08-03.jpg?1643019457"
   }
 ]
