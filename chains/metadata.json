@@ -198,6 +198,7 @@
         "metamask": {
             "chainId": "0x64",
             "blockExplorerUrls": [
+                "https://gnosisscan.io/",
                 "https://gnosis.blockscout.com/"
             ],
             "chainName": "Gnosis",
@@ -245,6 +246,7 @@
         "metamask": {
             "chainId": "0xa86a",
             "blockExplorerUrls": [
+                "https://snowscan.xyz/",
                 "https://snowtrace.io/"
             ],
             "chainName": "Avalanche C-Chain",
@@ -488,8 +490,8 @@
         "metamask": {
             "chainId": "0x1388",
             "blockExplorerUrls": [
-                "https://explorer.mantle.xyz/",
-                "https://mantlescan.xyz/"
+                "https://mantlescan.xyz/",
+                "https://explorer.mantle.xyz/"
             ],
             "chainName": "Mantle",
             "nativeCurrency": {
