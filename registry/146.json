@@ -1,11 +1,30 @@
 [
   {
     "chainId": 146,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "name": "Sonic",
+    "symbol": "S",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/sonic_token/logo_url/0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38/b4cc70d040518a88adac18d906fcbfff.png",
+    "tag": [
+      "NATIVE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 146,
     "address": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
     "name": "Wrapped Sonic",
     "symbol": "WS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52857/thumb/wrapped_sonic.png?1734536585"
+    "logoURI": "https://static.debank.com/image/sonic_token/logo_url/0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38/b4cc70d040518a88adac18d906fcbfff.png",
+    "tag": [
+      "NATIVE",
+      "TRADE_VOLUME",
+      "WRAPPED",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -13,7 +32,12 @@
     "name": "Sonic Bridged USDC",
     "symbol": "USDC.e",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/53064/thumb/logo.png?1735179479"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tag": [
+      "STABLE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -21,7 +45,11 @@
     "symbol": "CRV",
     "name": "Curve DAO Token",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415/logo.png",
+    "tag": [
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -29,7 +57,11 @@
     "symbol": "LBTC",
     "name": "Lombard Staked Bitcoin",
     "decimals": 8,
-    "logoURI": "https://sonicscan.org/token/images/lbtc_64.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8236a87084f8b84306f72007f36f2618a5634494/81ef37c87c9741f74d2e8558c09240ed.png",
+    "tag": [
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -37,7 +69,11 @@
     "name": "Wagmi",
     "symbol": "WAGMI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31887/thumb/wagmi_token_logo.png?1696530698"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/sonic/assets/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png",
+    "tag": [
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -61,7 +97,11 @@
     "name": "Hey Anon",
     "symbol": "ANON",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/ICON.png?1734862960"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/sonic/assets/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png",
+    "tag": [
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -114,7 +154,7 @@
   {
     "chainId": 146,
     "address": "0x284d81e48fbc782aa9186a03a226690aea5cbe0e",
-    "name": "Atoll ETH  Sonic ",
+    "name": "Atoll ETH",
     "symbol": "ATETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53797/thumb/IMG_7045.jpeg?1737477230"
@@ -133,7 +173,10 @@
     "name": "Origin Sonic",
     "symbol": "OS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53773/thumb/os-256x256.png?1737271726"
+    "logoURI": "https://assets.coingecko.com/coins/images/53773/thumb/os-256x256.png?1737271726",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -237,12 +280,15 @@
     "name": "Moon Bay",
     "symbol": "MOON",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53021/thumb/moonbay.png?1735003620"
+    "logoURI": "https://assets.coingecko.com/coins/images/53021/thumb/moonbay.png?1735003620",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
     "address": "0x446649f0727621bdbb76644b1910be2163b62a11",
-    "name": "Sonic",
+    "name": "Sonic (meme)",
     "symbol": "SONIC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53254/thumb/sonic-dyorswap.jpg?1735896701"
@@ -277,7 +323,11 @@
     "name": "Bridged Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53332/thumb/weth_2.jpg?1736149977"
+    "logoURI": "https://assets.coingecko.com/coins/images/53332/thumb/weth_2.jpg?1736149977",
+    "tag": [
+      "WRAPPED",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -293,7 +343,11 @@
     "name": "Shadow",
     "symbol": "SHADOW",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53747/thumb/tokenbg.png?1737180639"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/sonic/assets/0x3333b97138D4b086720b5aE8A7844b1345a33333/logo.png",
+    "tag": [
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -309,7 +363,10 @@
     "name": "Beets",
     "symbol": "BEETS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53249/thumb/beets.png?1735873104"
+    "logoURI": "https://assets.coingecko.com/coins/images/53249/thumb/beets.png?1735873104",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -349,7 +406,10 @@
     "name": "SwapX",
     "symbol": "SWPX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53530/thumb/IMG_6986.jpeg?1736579863"
+    "logoURI": "https://assets.coingecko.com/coins/images/53530/thumb/IMG_6986.jpeg?1736579863",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -357,7 +417,11 @@
     "name": "Metropolis",
     "symbol": "METRO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54040/thumb/metropolis_logo_square.png?1738076053"
+    "logoURI": "https://assets.coingecko.com/coins/images/54040/thumb/metropolis_logo_square.png?1738076053",
+    "tag": [
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -411,7 +475,7 @@
     "chainId": 146,
     "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
     "name": "Solv Protocol SolvBTC",
-    "symbol": "SOLVBTC",
+    "symbol": "SolvBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684"
   },
@@ -427,9 +491,12 @@
     "chainId": 146,
     "address": "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
     "name": "Rings scUSD",
-    "symbol": "SCUSD",
+    "symbol": "scUSD",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/53456/thumb/scusd_%281%29.png?1736404738"
+    "logoURI": "https://assets.coingecko.com/coins/images/53456/thumb/scusd_%281%29.png?1736404738",
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 146,
@@ -443,7 +510,7 @@
     "chainId": 146,
     "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
     "name": "Solv Protocol SolvBTC BBN",
-    "symbol": "SOLVBTCBBN",
+    "symbol": "SolvBTC.BBN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640"
   },
