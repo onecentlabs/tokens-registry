@@ -61921,5 +61921,13 @@
     "symbol": "DAWAE",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/54403/thumb/IMG_0775.png?1739519972"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdc300854b0ef52650057158e8a33afe703525539",
+    "name": "BetMore Casino",
+    "symbol": "BMR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54711/thumb/0xdc300854b0ef52650057158e8a33afe703525539.png?1741179043"
   }
 ]
