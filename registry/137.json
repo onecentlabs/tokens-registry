@@ -175,7 +175,14 @@
           "tokenAddress": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
         }
       }
-    }
+    },
+    "tags": [
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME",
+      "NATIVE"
+    ]
   },
   {
     "name": "Maker",
@@ -9096,21 +9103,6 @@
     "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xe46b4a950c389e80621d10dfc398e91613c7e25e/93639a203f032ecfe4d0937c83df573b.png"
   },
   {
-    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-    "chainId": 137,
-    "decimals": 18,
-    "symbol": "POL",
-    "name": "Polygon Ecosystem Token",
-    "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
-    "tags": [
-      "FEATURED",
-      "POPULAR",
-      "VERIFIED",
-      "TRADE_VOLUME",
-      "NATIVE"
-    ]
-  },
-  {
     "address": "0xf84bd51eab957c2e7b7d646a3427c5a50848281d",
     "chainId": 137,
     "decimals": 8,
@@ -11105,14 +11097,6 @@
     "symbol": "FRXUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
-  },
-  {
-    "chainId": 137,
-    "address": "0x0000000000000000000000000000000000000000",
-    "symbol": "POL",
-    "name": "Polygon Ecosystem Token",
-    "decimals": 18,
-    "logoURI": "https://static.debank.com/image/matic_token/logo_url/matic/6f5a6b6f0732a7a235131bd7804d357c.png"
   },
   {
     "chainId": 137,

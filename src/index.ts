@@ -39,7 +39,6 @@ app.get('/token', async (req: Request, res: Response) => {
   }
 
   const tokenData = tokenRegisry.getToken(token, chain)
-  console.log(`Token data: ${JSON.stringify(tokenData)}`)
 
   if (tokenData === undefined) {
     console.log(`Token ${token} not found in registry, fetching from RPC`)

@@ -87,12 +87,23 @@ export class TokenRegistry {
         const tag = this.tags[i]
         const chainTagData: Token[] = chainData.filter((token: Token) => {
           if (
-            chainKey === '1' &&
             token.symbol.toLowerCase() === 'eth' &&
             token.address === '0x0000000000000000000000000000000000000000'
           ) {
             return false
           }
+          if (
+            token.symbol.toLowerCase() === 'avax' && token.chainId === 43114 &&
+            token.address === '0x0000000000000000000000000000000000000000'
+          ) {
+            return false
+          }
+          if (
+            token.symbol.toLowerCase() === 'xdai' && token.chainId === 100 &&
+            token.address === '0x0000000000000000000000000000000000000000'
+         ) {
+            return false
+         }
           if (!collected_addresses.includes(token.address) && token.tags?.includes(tag)) {
             return true
           }
@@ -104,12 +115,23 @@ export class TokenRegistry {
       }
       const remainingTokens: Token[] = chainData.filter((token: Token) => {
         if (
-          chainKey === '1' &&
           token.symbol.toLowerCase() === 'eth' &&
           token.address === '0x0000000000000000000000000000000000000000'
         ) {
           return false
         }
+        if (
+            token.symbol.toLowerCase() === 'avax' && token.chainId === 43114 &&
+            token.address === '0x0000000000000000000000000000000000000000'
+          ) {
+            return false
+          }
+        if (
+            token.symbol.toLowerCase() === 'xdai' && token.chainId === 100 &&
+            token.address === '0x0000000000000000000000000000000000000000'
+         ) {
+            return false
+         }
         if (collected_addresses.includes(token.address)) {
           return false
         }
@@ -143,9 +165,21 @@ export class TokenRegistry {
       )
     }
     return chainData.find((token: Token) => {
-      if (tokenName.toLowerCase() === 'eth' && chainId === '1') {
+      if (tokenName.toLowerCase() === 'eth') {
         return (
           token.symbol.toLowerCase() === 'eth' &&
+          token.address.toLowerCase() === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+        )
+      }
+      if (tokenName.toLowerCase() === 'avax' && chainId === '43114') {
+        return (
+          token.symbol.toLowerCase() === 'avax' &&
+          token.address.toLowerCase() === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+        )
+      }
+      if (tokenName.toLowerCase() === 'xdai' && chainId === '100') {
+        return (
+          token.symbol.toLowerCase() === 'xdai' &&
           token.address.toLowerCase() === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
         )
       }
