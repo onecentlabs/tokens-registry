@@ -5,7 +5,14 @@
     "symbol": "BERA",
     "name": "BERA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/bera.svg"
+    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/bera.svg",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 80094,
@@ -13,7 +20,15 @@
     "symbol": "WBERA",
     "name": "Wrapped Bera",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/wbera.svg"
+    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/wbera.svg",
+    "tags": [
+      "NATIVE",
+      "WRAPPED",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 80094,
@@ -21,7 +36,12 @@
     "symbol": "USDC.e",
     "name": "Bridged USD (Stargate)",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 80094,
@@ -29,7 +49,11 @@
     "symbol": "WETH",
     "name": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "WRAPPED",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -37,7 +61,11 @@
     "symbol": "WBTC",
     "name": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "tags": [
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 80094,
@@ -45,7 +73,10 @@
     "symbol": "HONEY",
     "name": "HONEY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/honey.svg"
+    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/honey.svg",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -53,7 +84,10 @@
     "symbol": "BYUSD",
     "name": "BYUSD",
     "decimals": 6,
-    "logoURI": "https://hub.berachain.com/_next/image/?url=https%3A%2F%2Fres.cloudinary.com%2Fduv0g402y%2Fimage%2Fupload%2Fv1738732576%2Ftokens%2Fy6wa21vehnappbe2cruf.png&w=3840&q=75&dpl=dpl_FBim27rRDfMcGJQxRsgz2AneXzpt"
+    "logoURI": "https://hub.berachain.com/_next/image/?url=https%3A%2F%2Fres.cloudinary.com%2Fduv0g402y%2Fimage%2Fupload%2Fv1738732576%2Ftokens%2Fy6wa21vehnappbe2cruf.png&w=3840&q=75&dpl=dpl_FBim27rRDfMcGJQxRsgz2AneXzpt",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -61,7 +95,10 @@
     "symbol": "rUSD",
     "name": "Reservoir Stablecoin",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/project/logo_url/reservoirxyz/759a2ac7d08479d0e0b3f288f4bb84a5.png"
+    "logoURI": "https://static.debank.com/image/project/logo_url/reservoirxyz/759a2ac7d08479d0e0b3f288f4bb84a5.png",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -69,7 +106,11 @@
     "symbol": "USDe",
     "name": "USDe",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png"
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png",
+    "tags": [
+      "STABLE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -77,7 +118,10 @@
     "symbol": "iBERA",
     "name": "Infrared BERA",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x9b6761bf2397bb5a6624a856cc84a3a14dcd3fe5/44cd7d48d92cc95521b36309f6cc233a.png"
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x9b6761bf2397bb5a6624a856cc84a3a14dcd3fe5/44cd7d48d92cc95521b36309f6cc233a.png",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -117,7 +161,10 @@
     "symbol": "SolvBTC",
     "name": "Solv BTC",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/bob_token/logo_url/0x59889b7021243db5b1e065385f918316cd90d46c/31a6cb7216c2b772a41a8913cc36f2c0.png"
+    "logoURI": "https://static.debank.com/image/bob_token/logo_url/0x59889b7021243db5b1e065385f918316cd90d46c/31a6cb7216c2b772a41a8913cc36f2c0.png",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -133,7 +180,10 @@
     "symbol": "USDa",
     "name": "USDa",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x075df695b8e7f4361fa7f8c1426c63f11b06e326/6aca648e5ac1bcc962281245c478576c.png"
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x075df695b8e7f4361fa7f8c1426c63f11b06e326/6aca648e5ac1bcc962281245c478576c.png",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -148,7 +198,10 @@
     "symbol": "NECT",
     "name": "Nectar",
     "decimals": 18,
-    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x1ce0a25d13ce4d52071ae7e02cf1f6606f4c79d3/00afe74ca7fec05cff5febbcc73b3d1a.png"
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x1ce0a25d13ce4d52071ae7e02cf1f6606f4c79d3/00afe74ca7fec05cff5febbcc73b3d1a.png",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -204,7 +257,14 @@
     "name": "Berachain Governance Token",
     "symbol": "BGT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54193/thumb/BGT.png?1738742690"
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x656b95e550c07a9ffe548bd4085c72418ceb1dba/dde74b78a73815e74ab723506e90ad11.png",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
   },
   {
     "chainId": 80094,
@@ -228,7 +288,10 @@
     "name": "Yeet",
     "symbol": "YEET",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54416/thumb/IMG_7050.PNG?1739556073"
+    "logoURI": "https://assets.coingecko.com/coins/images/54416/thumb/IMG_7050.PNG?1739556073",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -257,10 +320,13 @@
   {
     "chainId": 80094,
     "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
-    "name": "Solv Protocol SolvBTC BBN",
-    "symbol": "SOLVBTCBBN",
+    "name": "Solv Protocol Babylon",
+    "symbol": "SolvBTC.BBN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640"
+    "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -268,7 +334,10 @@
     "name": "Olympus",
     "symbol": "OHM",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1696514169"
+    "logoURI": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1696514169",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -276,7 +345,10 @@
     "name": "Infrared BGT",
     "symbol": "IBGT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54614/thumb/ibgt.jpg?1740718302"
+    "logoURI": "https://assets.coingecko.com/coins/images/54614/thumb/ibgt.jpg?1740718302",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 80094,
@@ -300,6 +372,9 @@
     "name": "Henlo",
     "symbol": "HENLO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54719/thumb/Full_Circle_Logo_Large_%28YellowBlue%29_%281%29.png?1741193376"
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0xb2f776e9c1c926c4b2e54182fac058da9af0b6a5/ac3e2de8c216e337c9a62a9b33d9dc35.png",
+    "tags": [
+      "VERIFIED"
+    ]
   }
 ]
