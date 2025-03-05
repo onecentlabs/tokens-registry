@@ -1,18 +1,54 @@
 [
   {
+    "chainId": 130,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "symbol": "ETH",
+    "name": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
+    "chainId": 130,
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "Wrapped ETH",
+    "name": "WETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png",
+    "tags": [
+      "NATIVE",
+      "WRAPPED",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
     "name": "Uniswap",
     "address": "0x8f187aA05619a017077f5308904739877ce9eA21",
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 130,
-    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984/fcee0c46fc9864f48ce6a40ed1cdd135.png",
     "extensions": {
       "bridgeInfo": {
         "1": {
           "tokenAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
         }
       }
-    }
+    },
+    "tag": [
+      "NATIVE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "name": "USDC",
@@ -27,7 +63,12 @@
           "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
         }
       }
-    }
+    },
+    "tag": [
+      "STABLE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "name": "Dai Stablecoin",
@@ -42,7 +83,12 @@
           "tokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
         }
       }
-    }
+    },
+    "tag": [
+      "STABLE",
+      "TRADE_VOLUME",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 130,
@@ -57,7 +103,10 @@
           "tokenAddress": "0x111111111117dC0aa78b770fA6A738034120C302"
         }
       }
-    }
+    },
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 130,
@@ -87,7 +136,10 @@
           "tokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
         }
       }
-    }
+    },
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 130,
@@ -132,7 +184,10 @@
           "tokenAddress": "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F"
         }
       }
-    }
+    },
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 130,
@@ -177,7 +232,10 @@
           "tokenAddress": "0xB528edBef013aff855ac3c50b381f253aF13b997"
         }
       }
-    }
+    },
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 130,
@@ -312,7 +370,10 @@
           "tokenAddress": "0x8457CA5040ad67fdebbCC8EdCE889A335Bc0fbFB"
         }
       }
-    }
+    },
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 130,
@@ -4302,7 +4363,10 @@
           "tokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
         }
       }
-    }
+    },
+    "tag": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 130,
