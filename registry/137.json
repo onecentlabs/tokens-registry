@@ -13250,5 +13250,13 @@
     "symbol": "AUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+  },
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "chainId": 137,
+    "decimals": 18,
+    "symbol": "POL",
+    "name": "Polygon Ecosystem Token",
+    "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png"
   }
 ]
