@@ -4994,5 +4994,13 @@
     "symbol": "PEARL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54681/thumb/pearl.jpg?1740987269"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xfec5906e8470ea7e2a2242b314a35f4ff42b19e1",
+    "name": "Lamina1",
+    "symbol": "L1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52023/thumb/L1-symbol-200x200.png?1732353782"
   }
 ]
