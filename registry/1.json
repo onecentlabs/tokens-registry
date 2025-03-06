@@ -62177,5 +62177,13 @@
     "symbol": "BGB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11610/thumb/photo_2022-01-24_14-08-03.jpg?1643019457"
+  },
+  {
+    "chainId": 1,
+    "address": "0x94314a14df63779c99c0764a30e0cd22fa78fc0e",
+    "name": "Epic Chain",
+    "symbol": "EPIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54734/thumb/epic-chain.jpg?1741247760"
   }
 ]

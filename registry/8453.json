@@ -16896,5 +16896,109 @@
     "symbol": "KTA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54723/thumb/2025-03-05_22.53.06.jpg?1741234207"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbf388570ebd5b88bfc7cd21ec469813c15f453a3",
+    "name": "Pepper Meme",
+    "symbol": "PEPPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54732/thumb/Favicon_without_bg.png?1741246540"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x17d70172c7c4205bd39ce80f7f0ee660b7dc5a23",
+    "name": "Dimes",
+    "symbol": "DIME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54733/thumb/dime_dot.png?1741247716"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xacbf16f82753f3d52a2c87e4eeda220c9a7a3762",
+    "name": "Wrapped Artificial Superintelligence Al",
+    "symbol": "UFET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54728/thumb/UA-FET.png?1741245784"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8f2bd24a6406142cbae4b39e14be8efc8157d951",
+    "name": "Wrapped Ethereum Name Service  Universa",
+    "symbol": "UENS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54725/thumb/UA-ENS.png?1741244441"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdf5913632251585a55970134fad8a774628e9388",
+    "name": "Wrapped Filecoin  Universal ",
+    "symbol": "UFIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54729/thumb/UA-FIL.png?1741245876"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x269cae7dc59803e5c596c95756faeebb6030e0af",
+    "name": "Real MXN",
+    "symbol": "MXNE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54735/thumb/mxne-logo-200.png?1741253834"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcb474f3dee195a951f3584b213d16d2d4d4ee503",
+    "name": "Wrapped Floki  Universal ",
+    "symbol": "UFLOKI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54731/thumb/UA-FLOKI.png?1741245928"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcb6ab91007fe165c81b1e672007361cce9995fd1",
+    "name": "Agentwood",
+    "symbol": "AWS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54736/thumb/aws-logo.jpg?1741254599"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x31d664ebd97a50d5a2cd49b16f7714ab2516ed25",
+    "name": "Wrapped EOS  Universal ",
+    "symbol": "UEOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54726/thumb/UA-EOS.png?1741244637"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x99ba92234e0f0f7c2a16cb087e7307ade19cab1c",
+    "name": "WECO",
+    "symbol": "WECO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54730/thumb/weco.jpg?1741245926"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd61bcf79b26787ae993f75b064d2e3b3cc738c5d",
+    "name": "Wrapped Ethereum Classic  Universal ",
+    "symbol": "UETC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54727/thumb/UA-ETC.png?1741245697"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb2a93afcf5d3af8ae28dd50d6c18556ea532c5a",
+    "name": "Sage Market",
+    "symbol": "SAGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38811/thumb/Logo_for_CMC_200x200.png?1719069825"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfb8718a69aed7726afb3f04d2bd4bfde1bdcb294",
+    "name": "BiLira",
+    "symbol": "TRYB",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/10119/thumb/JBs9jiXO_400x400.jpg?1696510144"
   }
 ]
