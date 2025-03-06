@@ -121,6 +121,14 @@ export class TokenRegistry {
           ) {
             return false
           }
+          if (
+            token.symbol.toLowerCase() === 'mnt' &&
+            token.chainId === 5000 &&
+            (token.address === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee' ||
+              token.address === '0x0000000000000000000000000000000000000000')
+          ) {
+            return false
+          }
           if (!collected_addresses.includes(token.address) && token.tags?.includes(tag)) {
             return true
           }
@@ -161,6 +169,14 @@ export class TokenRegistry {
         if (
           token.symbol.toLowerCase() === 'pol' &&
           token.chainId === 137 &&
+          (token.address === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee' ||
+            token.address === '0x0000000000000000000000000000000000000000')
+        ) {
+          return false
+        }
+        if (
+          token.symbol.toLowerCase() === 'mnt' &&
+          token.chainId === 5000 &&
           (token.address === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee' ||
             token.address === '0x0000000000000000000000000000000000000000')
         ) {
@@ -215,6 +231,18 @@ export class TokenRegistry {
         return (
           token.symbol.toLowerCase() === 'xdai' &&
           token.address.toLowerCase() === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+        )
+      }
+      if (tokenName.toLowerCase() === 'pol' && chainId === '137') {
+        return (
+          token.symbol.toLowerCase() === 'pol' &&
+          token.address.toLowerCase() === '0x0000000000000000000000000000000000001010'
+        )
+      }
+      if (tokenName.toLowerCase() === 'mnt' && chainId === '5000') {
+        return (
+          token.symbol.toLowerCase() === 'mnt' &&
+          token.address.toLowerCase() === '0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000'
         )
       }
       return token.symbol.toLowerCase() === tokenName.toLowerCase()
