@@ -13,6 +13,7 @@ This is a simple Express-based API for managing and fetching token information a
     - [**GET /token**](#get-token)
   - [Project Structure](#project-structure)
   - [License](#license)
+  - [Current Deployment](#current-deployment)
 
 ---
 
@@ -148,3 +149,10 @@ curl "http://localhost:3000/token?chain=ethereum&token=ETH"
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Current Deployment
+
+Currently deployed at 
+```
+https://exchange-rates.onecentlabs.xyz
+```
