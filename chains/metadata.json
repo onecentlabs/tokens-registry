@@ -820,7 +820,7 @@
         "coin": "ETH",
         "id": 81457,
         "mainnet": true,
-        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/blast.svg",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/blast/info/logo.png",
         "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/81457.json",
         "metamask": {
             "chainId": "0x13e31",
@@ -868,7 +868,7 @@
         "coin": "S",
         "id": 146,
         "mainnet": true,
-        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/sonic.svg",
+        "logoURI": "https://static.debank.com/image/sonic_token/logo_url/0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38/b4cc70d040518a88adac18d906fcbfff.png",
         "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/146.json",
         "metamask": {
             "chainId": "0x92",
