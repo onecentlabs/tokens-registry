@@ -5002,5 +5002,13 @@
     "symbol": "L1",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52023/thumb/L1-symbol-200x200.png?1732353782"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd",
+    "name": "Blub",
+    "symbol": "BLUB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54739/thumb/u_5C-c5m_400x400.jpg?1741278200"
   }
 ]

@@ -17000,5 +17000,21 @@
     "symbol": "TRYB",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/10119/thumb/JBs9jiXO_400x400.jpg?1696510144"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2133031f5acbc493572c02f271186f241cd8d6a5",
+    "name": "BLCKMRKT",
+    "symbol": "MRKT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54740/thumb/base_szn.png?1741282709"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8102b2864eade51a1c36497747132af689824b59",
+    "name": "DOLZ io",
+    "symbol": "DOLZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33605/thumb/dolz_200.png?1702510960"
   }
 ]
