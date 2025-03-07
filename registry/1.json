@@ -60714,7 +60714,11 @@
     "address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
     "symbol": "syrupUSDC",
     "name": "Syrup USDC",
-    "decimals": 6
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/karthiks373/assets/refs/heads/master/blockchains/ethereum/assets/0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b/syrupUSD.jpg",
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 1,
