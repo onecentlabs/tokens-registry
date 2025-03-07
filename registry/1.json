@@ -62197,5 +62197,29 @@
     "symbol": "AX",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/54738/thumb/round_x200.png?1741276092"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de",
+    "name": "RedStone",
+    "symbol": "RED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53640/thumb/RedStone_Logo_New_White.png?1740640919"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdac070102b0cfde1493026454c9c608924f6db71",
+    "name": "POPG",
+    "symbol": "POPG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54752/thumb/logo_200x200.png?1741337502"
+  },
+  {
+    "chainId": 1,
+    "address": "0x89a8c847f41c0dfa6c8b88638bacca8a0b777da7",
+    "name": "Elixir",
+    "symbol": "ELX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30711/thumb/ELX_logo_%281%29.png?1741217569"
   }
 ]

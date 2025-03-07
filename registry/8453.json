@@ -17016,5 +17016,13 @@
     "symbol": "DOLZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33605/thumb/dolz_200.png?1702510960"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x83db73ef5192de4b6a4c92bd0141ba1a0dc87c65",
+    "name": "Compounding OpenDollar",
+    "symbol": "CUSDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53751/thumb/cUSDO_logo_white.png?1737182014"
   }
 ]

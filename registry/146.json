@@ -569,5 +569,13 @@
     "symbol": "BCSPX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31891/thumb/bCSPX_200p.png?1740041074"
+  },
+  {
+    "chainId": 146,
+    "address": "0x674a430f531847a6f8976a900f8ace765f896a1b",
+    "name": "gSNAKE",
+    "symbol": "GSNAKE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54749/thumb/gsnake_logo.png?1741335570"
   }
 ]
