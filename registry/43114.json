@@ -5018,5 +5018,13 @@
     "symbol": "ALBERT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54748/thumb/ALBERT_Token_Logo_1.png?1741331150"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x35a7341ae0adb31cb210524d4d02563c061feac5",
+    "name": "Woof",
+    "symbol": "WOOF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54758/thumb/Woof_PfP.png?1741427536"
   }
 ]

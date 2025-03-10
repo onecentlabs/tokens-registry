@@ -62221,5 +62221,69 @@
     "symbol": "ELX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/30711/thumb/ELX_logo_%281%29.png?1741217569"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaafec8e08d524d534327fa13fb306f440b5f88eb",
+    "name": "Wrapped CTC",
+    "symbol": "WCTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54774/thumb/WCTC_32px.png?1741515061"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfa7ed49eb24a6117d8a3168eee69d26b45c40c63",
+    "name": "Alpha ZCHF Vault",
+    "symbol": "AZCHF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54777/thumb/Alpha_Logo_200x200.png?1741516812"
+  },
+  {
+    "chainId": 1,
+    "address": "0xac6708e83698d34cd5c09d48249b0239008d0ccf",
+    "name": "Fort Knox",
+    "symbol": "FORTKNOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54779/thumb/Fort_Knox.jpg?1741517347"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4604151d4c98d1eea200b0d6bffb79a2613182aa",
+    "name": "Uno",
+    "symbol": "UNO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54781/thumb/output-onlinepngtools_4.png?1741518111"
+  },
+  {
+    "chainId": 1,
+    "address": "0x736ecc5237b31edec6f1ab9a396fae2416b1d96e",
+    "name": "GASP",
+    "symbol": "GASP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54764/thumb/gasp-mark-orange_%284%29.png?1741415044"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe19d1c837b8a1c83a56cd9165b2c0256d39653ad",
+    "name": "Stake DAO FXN",
+    "symbol": "SDFXN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54770/thumb/sersfsf.png?1741420732"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc214a0b73ce4c30594b4173219e885691254801b",
+    "name": "TOTO",
+    "symbol": "",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54709/thumb/toto-logo.png?1741421676"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72b658bd674f9c2b4954682f517c17d14476e417",
+    "name": "opTrade AI",
+    "symbol": "OPTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54757/thumb/opTrade_AI.png?1741374147"
   }
 ]

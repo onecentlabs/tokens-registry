@@ -577,5 +577,21 @@
     "symbol": "GSNAKE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54749/thumb/gsnake_logo.png?1741335570"
+  },
+  {
+    "chainId": 146,
+    "address": "0x78a76316f66224cbaca6e70acb24d5ee5b2bd2c7",
+    "name": "Stability",
+    "symbol": "STBL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54772/thumb/STBL_Logo_%281%29.png?1741445415"
+  },
+  {
+    "chainId": 146,
+    "address": "0x5fd9cd00c975ccedb4298a562d132fb2683164d9",
+    "name": "SpinDash",
+    "symbol": "SPINDASH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54769/thumb/9A1CC8CE-E92C-47C2-B2F5-722FA291B1FB.png?1741420512"
   }
 ]

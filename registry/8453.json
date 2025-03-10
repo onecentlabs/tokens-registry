@@ -17024,5 +17024,29 @@
     "symbol": "CUSDO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53751/thumb/cUSDO_logo_white.png?1737182014"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x937a1cfaf0a3d9f5dc4d0927f72ee5e3e5f82a00",
+    "name": "Cocoro",
+    "symbol": "COCORO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54771/thumb/cocoro-logo.png?1741442335"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd4554bea546efa83c1e6b389ecac40ea999b3e78",
+    "name": "SQD",
+    "symbol": "SQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37869/thumb/New_Logo_SQD_Icon.png?1720048443"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "name": "ynETH MAX",
+    "symbol": "YNETHX",
+    "decimals": 16,
+    "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
   }
 ]
