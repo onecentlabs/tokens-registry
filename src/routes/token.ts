@@ -129,6 +129,12 @@ export class TokenRegistry {
           ) {
             return false
           }
+          if (
+            token.symbol.toLowerCase() === 'bnb' &&
+            token.address === '0x0000000000000000000000000000000000000000'
+          ) {
+            return false
+          }
           if (!collected_addresses.includes(token.address) && token.tags?.includes(tag)) {
             return true
           }
@@ -182,6 +188,12 @@ export class TokenRegistry {
         ) {
           return false
         }
+        if (
+            token.symbol.toLowerCase() === 'bnb' &&
+            token.address === '0x0000000000000000000000000000000000000000'
+          ) {
+            return false
+          }
         if (collected_addresses.includes(token.address)) {
           return false
         }
@@ -243,6 +255,12 @@ export class TokenRegistry {
         return (
           token.symbol.toLowerCase() === 'mnt' &&
           token.address.toLowerCase() === '0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000'
+        )
+      }
+      if (tokenName.toLowerCase() === 'bnb' && chainId === '56') {
+        return (
+          token.symbol.toLowerCase() === 'bnb' &&
+          token.address.toLowerCase() === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
         )
       }
       return token.symbol.toLowerCase() === tokenName.toLowerCase()
