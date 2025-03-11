@@ -593,5 +593,13 @@
     "symbol": "SPINDASH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54769/thumb/9A1CC8CE-E92C-47C2-B2F5-722FA291B1FB.png?1741420512"
+  },
+  {
+    "chainId": 146,
+    "address": "0xc5cb0b67d24d72b9d86059344c88fb3ce93bf37c",
+    "name": "9mm",
+    "symbol": "9MM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54791/thumb/9mm.jpg?1741590221"
   }
 ]

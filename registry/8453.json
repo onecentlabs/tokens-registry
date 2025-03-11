@@ -17048,5 +17048,53 @@
     "symbol": "YNETHX",
     "decimals": 16,
     "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbf82115918a88e2120c0f73d99ccd8f95c301b59",
+    "name": "Winkies",
+    "symbol": "WNK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22260/thumb/wnk.png?1696521605"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2e2cc4dfce60257f091980631e75f5c436b71c87",
+    "name": "Grokster",
+    "symbol": "GRK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54783/thumb/grokster.jpg?1741571880"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xff45161474c39cb00699070dd49582e417b57a7e",
+    "name": "Mint Token",
+    "symbol": "MT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54790/thumb/mint-token.jpg?1741578876"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3ec2156d4c0a9cbdab4a016633b7bcf6a8d68ea2",
+    "name": "DebtReliefBot",
+    "symbol": "DRB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54784/thumb/drb.jpg?1741572687"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe290816384416fb1db9225e176b716346db9f9fe",
+    "name": "9mm",
+    "symbol": "9MM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54791/thumb/9mm.jpg?1741590221"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf4fa93f76220414cdf6fd95a85e7a407e2dd3e3d",
+    "name": "Biaoqing",
+    "symbol": "BIAO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/38643/thumb/oPnGc4zJ_400x400.jpg?1718210024"
   }
 ]

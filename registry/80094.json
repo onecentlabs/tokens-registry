@@ -376,5 +376,13 @@
     "tags": [
       "VERIFIED"
     ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "name": "Lombard Staked BTC",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
   }
 ]

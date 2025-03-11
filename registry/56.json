@@ -14328,5 +14328,13 @@
     "decimals": 18,
     "address": "0xb5Ab5cF2e2c686aE43F01F23859F3a55a8629C1C",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xb5Ab5cF2e2c686aE43F01F23859F3a55a8629C1C.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BMT",
+    "name": "Bubblemaps",
+    "decimals": 18,
+    "address": "0x7d814b9eD370Ec0a502EdC3267393bF62d891B62",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7d814b9eD370Ec0a502EdC3267393bF62d891B62.png"
   }
 ]
