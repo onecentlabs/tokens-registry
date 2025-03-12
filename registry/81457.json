@@ -1619,5 +1619,13 @@
     "name": "nETH",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x3ea9b0ab55f34fb188824ee288ceaefc63cf908e/1fc6698f634693d1e354bbff3795bab1.png"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "name": "ynETH MAX",
+    "symbol": "YNETHX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
   }
 ]
