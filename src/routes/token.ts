@@ -189,11 +189,11 @@ export class TokenRegistry {
           return false
         }
         if (
-            token.symbol.toLowerCase() === 'bnb' &&
-            token.address === '0x0000000000000000000000000000000000000000'
-          ) {
-            return false
-          }
+          token.symbol.toLowerCase() === 'bnb' &&
+          token.address === '0x0000000000000000000000000000000000000000'
+        ) {
+          return false
+        }
         if (collected_addresses.includes(token.address)) {
           return false
         }
@@ -222,9 +222,35 @@ export class TokenRegistry {
       return undefined
     }
     if (isAddress(tokenName)) {
-      return chainData.find(
-        (token: Token) => token.address.toLowerCase() === tokenName.toLowerCase()
-      )
+      return chainData.find((token: Token) => {
+        if (token.address.toLowerCase() === tokenName.toLowerCase()) {
+          if (token.symbol.toLowerCase() === 'eth') {
+            token.address = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+            return true
+          }
+          if (token.symbol.toLowerCase() === 'avax' && chainId === '43114') {
+            token.address = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+            return true
+          }
+          if (token.symbol.toLowerCase() === 'xdai' && chainId === '100') {
+            token.address = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+            return true
+          }
+          if (token.symbol.toLowerCase() === 'pol' && chainId === '137') {
+            token.address = '0x0000000000000000000000000000000000001010'
+            return true
+          }
+          if (token.symbol.toLowerCase() === 'mnt' && chainId === '5000') {
+            token.address = '0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000'
+            return true
+          }
+          if (token.symbol.toLowerCase() === 'bnb' && chainId === '56') {
+            token.address = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+            return true
+          }
+          return true
+        }
+      })
     }
     return chainData.find((token: Token) => {
       if (tokenName.toLowerCase() === 'eth') {
