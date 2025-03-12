@@ -28,6 +28,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 1,
             "symbol": "ETH",
             "decimals": 18,
@@ -94,6 +95,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 42161,
             "symbol": "ETH",
             "decimals": 18,
@@ -157,6 +159,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 8453,
             "symbol": "ETH",
             "decimals": 18,
@@ -216,6 +219,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 100,
             "symbol": "xDAI",
             "decimals": 18,
@@ -265,6 +269,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 43114,
             "symbol": "AVAX",
             "decimals": 18,
@@ -328,6 +333,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 137,
             "symbol": "POL",
             "decimals": 18,
@@ -392,6 +398,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 56,
             "symbol": "BNB",
             "decimals": 18,
@@ -452,6 +459,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 59144,
             "symbol": "ETH",
             "decimals": 18,
@@ -509,6 +517,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 5000,
             "symbol": "MNT",
             "decimals": 18,
@@ -564,6 +573,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 10,
             "symbol": "ETH",
             "decimals": 18,
@@ -617,6 +627,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 130,
             "symbol": "ETH",
             "decimals": 18,
@@ -670,6 +681,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0x0000000000000000000000000000000000001010",
             "chainId": 80094,
             "symbol": "BERA",
             "decimals": 18,
@@ -717,6 +729,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 534352,
             "symbol": "ETH",
             "decimals": 18,
@@ -779,6 +792,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 167000,
             "symbol": "ETH",
             "decimals": 18,
@@ -843,6 +857,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 81457,
             "symbol": "ETH",
             "decimals": 18,
@@ -887,6 +902,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
+            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "chainId": 146,
             "symbol": "S",
             "decimals": 18,
