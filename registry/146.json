@@ -601,5 +601,13 @@
     "symbol": "9MM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54791/thumb/9mm.jpg?1741590221"
+  },
+  {
+    "chainId": 146,
+    "address": "0xc3827a4bc8224ee2d116637023b124ced6db6e90",
+    "name": "Universal BTC",
+    "symbol": "UNIBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
   }
 ]

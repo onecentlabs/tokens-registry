@@ -62285,5 +62285,13 @@
     "symbol": "OPTR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54757/thumb/opTrade_AI.png?1741374147"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6243558a24cc6116abe751f27e6d7ede50abfc76",
+    "name": "Levva Protocol",
+    "symbol": "LVVA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54803/thumb/YoUaL3yh_400x400.jpg?1741712015"
   }
 ]

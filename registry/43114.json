@@ -5026,5 +5026,13 @@
     "symbol": "WOOF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54758/thumb/Woof_PfP.png?1741427536"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1e4c0e060fba7d62fa9fbb1aa624e58f796b4efe",
+    "name": "Sweat Economy",
+    "symbol": "SWEAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1696524208"
   }
 ]

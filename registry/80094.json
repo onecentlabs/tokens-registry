@@ -384,5 +384,21 @@
     "symbol": "LBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912",
+    "name": "Wrapped gBera",
+    "symbol": "WGBERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54804/thumb/wgbera.jpg?1741743688"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "name": "Bedrock BTC",
+    "symbol": "BRBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374"
   }
 ]

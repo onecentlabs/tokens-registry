@@ -13258,5 +13258,13 @@
     "symbol": "POL",
     "name": "Polygon Ecosystem Token",
     "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x0cc931c30f4fc7fa36d290a4cd8d94acd738826e",
+    "name": "Sweat Economy",
+    "symbol": "SWEAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1696524208"
   }
 ]

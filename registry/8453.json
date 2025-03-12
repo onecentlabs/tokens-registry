@@ -17096,5 +17096,13 @@
     "symbol": "BIAO",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/38643/thumb/oPnGc4zJ_400x400.jpg?1718210024"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x268d46d09d59d555350701a5336dc0d516f80de3",
+    "name": "OnlyUp Token",
+    "symbol": "ONLYUP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54801/thumb/AVA_%281%29.jpg?1741702453"
   }
 ]

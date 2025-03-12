@@ -10640,5 +10640,13 @@
     "symbol": "YNETHX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xca7dec8550f43a5e46e3dfb95801f64280e75b27",
+    "name": "Sweat Economy",
+    "symbol": "SWEAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1696524208"
   }
 ]
