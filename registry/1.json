@@ -62293,5 +62293,21 @@
     "symbol": "LVVA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54803/thumb/YoUaL3yh_400x400.jpg?1741712015"
+  },
+  {
+    "chainId": 1,
+    "address": "0x17418038ecf73ba4026c4f428547bf099706f27b",
+    "name": "Apollo Diversified Credit Securitize Fu",
+    "symbol": "ACRED",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54809/thumb/ACRED.png?1741801356"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8730762cad4a27816a467fac54e3dd1e2e9617a1",
+    "name": "Grindery X",
+    "symbol": "GX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54812/thumb/nRJLYA_H_400x400.png?1741811175"
   }
 ]

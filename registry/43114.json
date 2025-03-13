@@ -5034,5 +5034,13 @@
     "symbol": "SWEAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1696524208"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x7c64925002bfa705834b118a923e9911bee32875",
+    "name": "Apollo Diversified Credit Securitize Fu",
+    "symbol": "ACRED",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54809/thumb/ACRED.png?1741801356"
   }
 ]

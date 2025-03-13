@@ -17104,5 +17104,13 @@
     "symbol": "ONLYUP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54801/thumb/AVA_%281%29.jpg?1741702453"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4a0c64af541439898448659aedcec8e8e819fc53",
+    "name": "PONKE",
+    "symbol": "PONKE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33929/thumb/ponke.jpeg?1738897723"
   }
 ]

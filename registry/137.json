@@ -13266,5 +13266,21 @@
     "symbol": "SWEAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1696524208"
+  },
+  {
+    "chainId": 137,
+    "address": "0x4c5ca366e26409845624e29b62c388a06961a792",
+    "name": "Hamilton Lane Senior Credit Opportuniti",
+    "symbol": "HLSCOPE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54810/thumb/Scope.png?1741801488"
+  },
+  {
+    "chainId": 137,
+    "address": "0xfce60bbc52a5705cec5b445501fbaf3274dc43d0",
+    "name": "Apollo Diversified Credit Securitize Fu",
+    "symbol": "ACRED",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54809/thumb/ACRED.png?1741801356"
   }
 ]
