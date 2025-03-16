@@ -609,5 +609,29 @@
     "symbol": "UNIBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+  },
+  {
+    "chainId": 146,
+    "address": "0xcbfe13919530cb054b9cabbf9cda1dd1d811e3e6",
+    "name": "Coal",
+    "symbol": "COAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54831/thumb/Transparent_Logo.png?1741953527"
+  },
+  {
+    "chainId": 146,
+    "address": "0x61647882acf21792e577a963d320d51e2c8f6194",
+    "name": "Origin Token",
+    "symbol": "OGN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/3296/thumb/op.jpg?1696504006"
+  },
+  {
+    "chainId": 146,
+    "address": "0x7a5c61047ad8fa4a743c75eb46a01300c7c9dada",
+    "name": "Dawae",
+    "symbol": "DAWAE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54403/thumb/IMG_0775.png?1739519972"
   }
 ]

@@ -400,5 +400,13 @@
     "symbol": "BRBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "name": "ynETH MAX",
+    "symbol": "YNETHX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
   }
 ]

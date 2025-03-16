@@ -13282,5 +13282,13 @@
     "symbol": "ACRED",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/54809/thumb/ACRED.png?1741801356"
+  },
+  {
+    "chainId": 137,
+    "address": "0xcddbd374a9df30bbbe4bc4c008fa229cb3587511",
+    "name": "Deutsche Mark",
+    "symbol": "DDM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54837/thumb/LOGO_DEUTSCHE_DDM_MARK_200x200_pixel.png?1742015618"
   }
 ]

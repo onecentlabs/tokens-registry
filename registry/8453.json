@@ -17112,5 +17112,77 @@
     "symbol": "PONKE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33929/thumb/ponke.jpeg?1738897723"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x21cfcfc3d8f98fc728f48341d10ad8283f6eb7ab",
+    "name": "TRUE",
+    "symbol": "TRUE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54818/thumb/512x512.png?1741851363"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x04175b1f982b8c8444f238ac0aae59f029e21099",
+    "name": "BankrX",
+    "symbol": "BNXR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54822/thumb/bnxr-logo.png?1741858158"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x290f057a2c59b95d8027aa4abf31782676502071",
+    "name": "cliza",
+    "symbol": "CLIZA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54846/thumb/GlrnRZOaIAAwvFx.jpeg?1742020067"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xea87169699dabd028a78d4b91544b4298086baf6",
+    "name": "The SWARM",
+    "symbol": "SWARM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54841/thumb/SWARM.jpg?1742017845"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "name": "OpenUSDT",
+    "symbol": "OUSDT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54815/thumb/ousdt.jpg?1741848258"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfe0c0b15798b8c9107cd4aa556a87eb031263e8b",
+    "name": "AetherX",
+    "symbol": "AETX",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/54839/thumb/logomark_x200.png?1742016823"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd71552d9e08e5351adb52163b3bbbc4d7de53ce1",
+    "name": "Solidus Ai Tech",
+    "symbol": "AITECH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22114/thumb/CMC_Logo_200x200.png?1719949930"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd2563fc9fc787853229aab2bda7211484051c256",
+    "name": "BetMore Casino",
+    "symbol": "BMR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54711/thumb/0xdc300854b0ef52650057158e8a33afe703525539.png?1741179043"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+    "name": "InteNet",
+    "symbol": "INT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54832/thumb/dDZtouYf_400x400.jpg?1741957002"
   }
 ]

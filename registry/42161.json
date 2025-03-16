@@ -10648,5 +10648,29 @@
     "symbol": "SWEAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1696524208"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5f8a7c646511a790c53f171891e5d469ca884ede",
+    "name": "Slingshot",
+    "symbol": "SLING",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54842/thumb/coingecko_%282%29.png?1742018280"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+    "name": "Pell Network Token",
+    "symbol": "PELL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53967/thumb/logo-200*200.png?1737793038"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+    "name": "InteNet",
+    "symbol": "INT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54832/thumb/dDZtouYf_400x400.jpg?1741957002"
   }
 ]

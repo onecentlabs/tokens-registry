@@ -4953,5 +4953,29 @@
     "symbol": "SWEAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1696524208"
+  },
+  {
+    "chainId": 10,
+    "address": "0x2baa7e92f3f14883264bfa63058cc223ad719438",
+    "name": "iBTC Network",
+    "symbol": "IBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/37289/thumb/iBTC_main.png?1742022373"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "name": "OpenUSDT",
+    "symbol": "OUSDT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54815/thumb/ousdt.jpg?1741848258"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+    "name": "InteNet",
+    "symbol": "INT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54832/thumb/dDZtouYf_400x400.jpg?1741957002"
   }
 ]

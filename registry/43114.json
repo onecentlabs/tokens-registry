@@ -5042,5 +5042,21 @@
     "symbol": "ACRED",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/54809/thumb/ACRED.png?1741801356"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x25be3edd820a8fce6b8e211f40c5b82ba176994c",
+    "name": "iBTC Network",
+    "symbol": "IBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/37289/thumb/iBTC_main.png?1742022373"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761",
+    "name": "ZeUSD",
+    "symbol": "ZEUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54829/thumb/zoth_32.webp?1741933336"
   }
 ]

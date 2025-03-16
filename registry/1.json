@@ -62309,5 +62309,77 @@
     "symbol": "GX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54812/thumb/nRJLYA_H_400x400.png?1741811175"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+    "name": "InteNet",
+    "symbol": "INT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54832/thumb/dDZtouYf_400x400.jpg?1741957002"
+  },
+  {
+    "chainId": 1,
+    "address": "0x866f8a50a64e68ca66e97e032c5da99538b3f942",
+    "name": "eBlockStock",
+    "symbol": "EBSO",
+    "decimals": 4,
+    "logoURI": "https://assets.coingecko.com/coins/images/18636/thumb/eBSO_logo_szines.png?1696518108"
+  },
+  {
+    "chainId": 1,
+    "address": "0x419905009e4656fdc02418c7df35b1e61ed5f726",
+    "name": "Resupply",
+    "symbol": "RSUP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54833/thumb/RSUP-icon.png?1741965338"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761",
+    "name": "ZeUSD",
+    "symbol": "ZEUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54829/thumb/zoth_32.webp?1741933336"
+  },
+  {
+    "chainId": 1,
+    "address": "0x04e69ff14a86e1ca9a155a8563e95887973ee175",
+    "name": "Agentcoin TV",
+    "symbol": "AITV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54817/thumb/AITV_Logo.png?1741850718"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e7f11641c1ec71591828e531334192d622703f7",
+    "name": "Space Nation Oikos",
+    "symbol": "OIK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54823/thumb/oik-logo.jpeg?1741858662"
+  },
+  {
+    "chainId": 1,
+    "address": "0x57ab1e0003f623289cd798b1824be09a793e4bec",
+    "name": "Resupply USD",
+    "symbol": "REUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54836/thumb/reusd-icon-black-200px.png?1741970002"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa93d86af16fe83f064e3c0e2f3d129f7b7b002b0",
+    "name": "Cocoro",
+    "symbol": "COCORO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54821/thumb/photo_2025-03-10_7.51.53_PM.jpeg?1741857858"
+  },
+  {
+    "chainId": 1,
+    "address": "0x26827f7f51769ea21f94ba98ba64f5d0dc8988f9",
+    "name": "FAME  Rumble Kong League",
+    "symbol": "FAME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54814/thumb/fame-token-3d.png?1741835413"
   }
 ]
