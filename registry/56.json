@@ -14344,5 +14344,13 @@
     "decimals": 18,
     "address": "0x997A58129890bBdA032231A52eD1ddC845fc18e1",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x997A58129890bBdA032231A52eD1ddC845fc18e1.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "mubarak",
+    "name": "mubarak",
+    "decimals": 18,
+    "address": "0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6.png"
   }
 ]

@@ -62381,5 +62381,37 @@
     "symbol": "FAME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54814/thumb/fame-token-3d.png?1741835413"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdd3878ac92166d6c4e46b26ddd162b72c00d1623",
+    "name": "Pantheon",
+    "symbol": "EON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54851/thumb/logosquare.jpg?1742104477"
+  },
+  {
+    "chainId": 1,
+    "address": "0x43c5034469bce262d32f64c5e7f9f359f5b1495f",
+    "name": "Department Of Propaganda Everywhere",
+    "symbol": "DOPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54869/thumb/dope_%281%29.jpg?1742199543"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0885f91c72a8de62a5349d4c89ca31b4ef650929",
+    "name": "ALF TOKEN",
+    "symbol": "ALF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54856/thumb/WhatsApp_Image_2025-03-14_at_15.26.18.jpeg?1742106625"
+  },
+  {
+    "chainId": 1,
+    "address": "0x92217ccaedbdbc54c76c15fea18823db1558fdc9",
+    "name": "Functionland",
+    "symbol": "FULA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24782/thumb/FULA_IconGRN_200.png?1742180793"
   }
 ]

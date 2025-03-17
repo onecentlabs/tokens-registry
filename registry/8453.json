@@ -17184,5 +17184,29 @@
     "symbol": "INT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54832/thumb/dDZtouYf_400x400.jpg?1741957002"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x555fff48549c1a25a723bd8e7ed10870d82e8379",
+    "name": "BIM",
+    "symbol": "BIM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54860/thumb/bim-fi.jpg?1742179842"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb887cac66cf5eaaa0bf0cdb5d76905e19bc391a5",
+    "name": "Sharp AI",
+    "symbol": "SHARP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54859/thumb/sharp-ai.png?1742110692"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9e12735d77c72c5c3670636d428f2f3815d8a4cb",
+    "name": "Functionland",
+    "symbol": "FULA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24782/thumb/FULA_IconGRN_200.png?1742180793"
   }
 ]

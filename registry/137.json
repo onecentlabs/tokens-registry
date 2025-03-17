@@ -13290,5 +13290,13 @@
     "symbol": "DDM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54837/thumb/LOGO_DEUTSCHE_DDM_MARK_200x200_pixel.png?1742015618"
+  },
+  {
+    "chainId": 137,
+    "address": "0x68f610f2220a6974eb69963bdaf5a0de0dc9bd8c",
+    "name": "SMB Token",
+    "symbol": "SMB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54870/thumb/smb-token.png?1742201938"
   }
 ]
