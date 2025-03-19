@@ -408,5 +408,13 @@
     "symbol": "YNETHX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xbaadcc2962417c01af99fb2b7c75706b9bd6babe",
+    "name": "Liquid BGT",
+    "symbol": "LBGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54878/thumb/lbgt.png?1742327918"
   }
 ]

@@ -17208,5 +17208,13 @@
     "symbol": "FULA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24782/thumb/FULA_IconGRN_200.png?1742180793"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd52333441c0553facb259600fa833a69186893a5",
+    "name": "PAAL AI",
+    "symbol": "PAAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30815/thumb/Paal_New_Logo_%281%29.png?1718160584"
   }
 ]
