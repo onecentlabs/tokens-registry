@@ -14352,5 +14352,13 @@
     "decimals": 18,
     "address": "0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BR",
+    "name": "Bedrock",
+    "decimals": 18,
+    "address": "0xFf7d6A96ae471BbCD7713aF9CB1fEeB16cf56B41",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xFf7d6A96ae471BbCD7713aF9CB1fEeB16cf56B41.png"
   }
 ]

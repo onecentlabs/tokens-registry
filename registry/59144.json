@@ -1093,5 +1093,13 @@
     "symbol": "alETH",
     "name": "Alchemix ETH",
     "decimals": 18
+  },
+  {
+    "chainId": 59144,
+    "address": "0x3ff47c5bf409c86533fe1f4907524d304062428d",
+    "name": "Monerium EUR emoney",
+    "symbol": "EURE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54303/thumb/eure.jpg?1739167959"
   }
 ]

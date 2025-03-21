@@ -13298,5 +13298,21 @@
     "symbol": "SMB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54870/thumb/smb-token.png?1742201938"
+  },
+  {
+    "chainId": 137,
+    "address": "0x418a89b177b41e24fa50712a1822f6e6e8c629a1",
+    "name": "iAI Token",
+    "symbol": "IAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54910/thumb/iai-logo.jpg?1742456296"
+  },
+  {
+    "chainId": 137,
+    "address": "0xa1a39558718d6fa57c699dc45981e5a1b2e25d08",
+    "name": "GINI",
+    "symbol": "GINI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54652/thumb/Kalp.png?1740892400"
   }
 ]

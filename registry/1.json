@@ -62413,5 +62413,37 @@
     "symbol": "FULA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24782/thumb/FULA_IconGRN_200.png?1742180793"
+  },
+  {
+    "chainId": 1,
+    "address": "0x590830dfdf9a3f68afcdde2694773debdf267774",
+    "name": "Giza",
+    "symbol": "GIZA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54922/thumb/giza_token_dark.png?1742538409"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe24a3dc889621612422a64e6388927901608b91d",
+    "name": "Staked USN",
+    "symbol": "SUSN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54924/thumb/sUSN_Logo.png?1742538935"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9bbe8f42b9c2333fe2a80323028ab107379646c7",
+    "name": "Power Play",
+    "symbol": "POWER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54886/thumb/Power_Play.jpg?1742384183"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd58826d2c0babf1a60d8b508160b52e9c19aff07",
+    "name": "CYBRO",
+    "symbol": "CYBRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36941/thumb/3xhsAKWd_400x400.jpg?1712853902"
   }
 ]

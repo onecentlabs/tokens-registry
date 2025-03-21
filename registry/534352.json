@@ -578,5 +578,13 @@
     "symbol": "YNETHX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
+  },
+  {
+    "chainId": 534352,
+    "address": "0xd7bb130a48595fcdf9480e36c1ae97ff2938ac21",
+    "name": "Monerium EUR emoney",
+    "symbol": "EURE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54303/thumb/eure.jpg?1739167959"
   }
 ]

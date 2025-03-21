@@ -10672,5 +10672,13 @@
     "symbol": "INT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54832/thumb/dDZtouYf_400x400.jpg?1741957002"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xef4a1d459d62dfd2ebb9c45b04f90f0a7ba1d56e",
+    "name": "Pepe Community",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31482/thumb/photo_2023-08-25_07-54-16.jpg?1696530294"
   }
 ]

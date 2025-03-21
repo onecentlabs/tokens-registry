@@ -17216,5 +17216,61 @@
     "symbol": "PAAL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/30815/thumb/Paal_New_Logo_%281%29.png?1718160584"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x313f2cddcdc74747c18d2f529ec9c087860198ed",
+    "name": "Agent Humpty Dumpty",
+    "symbol": "AHD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54888/thumb/IMG_3611.png?1742385756"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfdca15bd55f350a36e63c47661914d80411d2c22",
+    "name": "Wrapped Bittensor  Universal ",
+    "symbol": "UTAO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54906/thumb/Untitled_%281%29.png?1742450295"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x991ab5d07f28232ec1677e2c13239fb9b4b9ccb7",
+    "name": "Agent Smith",
+    "symbol": "SMITH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54903/thumb/smith_portrait.jpg?1742449619"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x544f87a5aa41fcd725ef7c78a37cd9c1c4ba1650",
+    "name": "Wrapped Berachain  Universal ",
+    "symbol": "UBERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54905/thumb/Untitled.png?1742449920"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1f94d6a61973edf53252b9e61c6250f303957b9d",
+    "name": "Parabol USD",
+    "symbol": "PARAUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54918/thumb/logo.png?1742536896"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0",
+    "name": "OpenEden OpenDollar",
+    "symbol": "USDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53750/thumb/USDO_LOGO-white.png?1737181887"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x915424ac489433130d92b04096f3b96c82e92a9d",
+    "name": "Prosper",
+    "symbol": "PROS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53917/thumb/Prosper_Token_LightMode_%281%29.png?1738143554"
   }
 ]
