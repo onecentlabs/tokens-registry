@@ -333,7 +333,7 @@
         },
         "nativeToken": {
             "address": "0x0000000000000000000000000000000000000000",
-            "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+            "alternate": "0x0000000000000000000000000000000000001010",
             "chainId": 137,
             "symbol": "POL",
             "decimals": 18,
