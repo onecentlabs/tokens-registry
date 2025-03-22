@@ -17272,5 +17272,13 @@
     "symbol": "PROS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53917/thumb/Prosper_Token_LightMode_%281%29.png?1738143554"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x226a2fa2556c48245e57cd1cba4c6c9e67077dd2",
+    "name": "Bio Protocol",
+    "symbol": "BIO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53022/thumb/bio.jpg?1735011002"
   }
 ]
