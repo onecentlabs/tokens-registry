@@ -5058,5 +5058,13 @@
     "symbol": "ZEUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/54829/thumb/zoth_32.webp?1741933336"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x41cbfd7c8709d1e459ce816703a1fc882daa77d3",
+    "name": "LOK",
+    "symbol": "LOK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54931/thumb/LOK200.png?1742627108"
   }
 ]

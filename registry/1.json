@@ -62445,5 +62445,13 @@
     "symbol": "CYBRO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36941/thumb/3xhsAKWd_400x400.jpg?1712853902"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfbcb83037d770b28f758530022897362521b6141",
+    "name": "BiorBank",
+    "symbol": "BYB",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54930/thumb/logo_1x1.png?1742800998"
   }
 ]

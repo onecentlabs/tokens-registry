@@ -14360,5 +14360,13 @@
     "decimals": 18,
     "address": "0xFf7d6A96ae471BbCD7713aF9CB1fEeB16cf56B41",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xFf7d6A96ae471BbCD7713aF9CB1fEeB16cf56B41.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PARTI",
+    "name": "PARTI Token",
+    "decimals": 18,
+    "address": "0x59264f02D301281f3393e1385c0aEFd446Eb0F00",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x59264f02D301281f3393e1385c0aEFd446Eb0F00.png"
   }
 ]

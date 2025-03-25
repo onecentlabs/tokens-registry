@@ -17280,5 +17280,29 @@
     "symbol": "BIO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53022/thumb/bio.jpg?1735011002"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3a43aec53490cb9fa922847385d82fe25d0e9de7",
+    "name": "Yield Optimizer ETH",
+    "symbol": "YOETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54932/thumb/yoETH.png?1742627957"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x521ebb84ea82ee65154b68ecfe3a7292fb3779d6",
+    "name": "iAgent Protocol",
+    "symbol": "AGNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39468/thumb/coingeckoAGNT.png?1742200816"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x17ce44b66dfd15c270dc24aca2e367adfed41620",
+    "name": "BEMU",
+    "symbol": "BEMU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54936/thumb/jyTx7YWK_400x400.jpg?1742629118"
   }
 ]
