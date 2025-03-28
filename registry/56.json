@@ -14368,5 +14368,29 @@
     "decimals": 18,
     "address": "0x59264f02D301281f3393e1385c0aEFd446Eb0F00",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x59264f02D301281f3393e1385c0aEFd446Eb0F00.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ORA",
+    "name": "ORA Coin",
+    "decimals": 18,
+    "address": "0x333333C465a19C85f85c6CfbED7B16b0B26E3333",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x333333C465a19C85f85c6CfbED7B16b0B26E3333.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MERL",
+    "name": "MERL",
+    "decimals": 18,
+    "address": "0xa0c56a8c0692bD10B3fA8f8bA79Cf5332B7107F9",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xa0c56a8c0692bD10B3fA8f8bA79Cf5332B7107F9.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "KILO",
+    "name": "KiloEx Token",
+    "decimals": 18,
+    "address": "0x503Fa24B7972677F00C4618e5FBe237780C1df53",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x503Fa24B7972677F00C4618e5FBe237780C1df53.png"
   }
 ]

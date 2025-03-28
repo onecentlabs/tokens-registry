@@ -665,5 +665,13 @@
     "symbol": "BOOM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54917/thumb/photo_2025-03-18_17-49-49.jpg?1742498260"
+  },
+  {
+    "chainId": 146,
+    "address": "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
+    "name": "Rings scBTC",
+    "symbol": "SCBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/54997/thumb/scBTC_32.png?1743095543"
   }
 ]

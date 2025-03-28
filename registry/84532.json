@@ -387,5 +387,18 @@
       "opListId": "extended",
       "opTokenId": "YYY"
     }
+  },
+  {
+    "chainId": 84532,
+    "address": "0x8cE7F2C51445e50e2A5438769468Ac50f4D5E84B",
+    "name": "Impossible Cloud Network Token (Testnet)",
+    "symbol": "tICNT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ICNT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ICNT"
+    }
   }
 ]

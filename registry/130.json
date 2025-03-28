@@ -4532,5 +4532,18 @@
         }
       }
     }
+  },
+  {
+    "chainId": 130,
+    "address": "0x03C2868c6D7fD27575426f395EE081498B1120dd",
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
+    "extensions": {
+      "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GRG"
+    }
   }
 ]

@@ -508,5 +508,18 @@
       "opListId": "extended",
       "opTokenId": "UTU"
     }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x8a4CB9e34335e0D432CCa9b7199DC99aF5eD20EB",
+    "name": "Impossible Cloud Network Token (Testnet)",
+    "symbol": "tICNT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ICNT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "ICNT"
+    }
   }
 ]

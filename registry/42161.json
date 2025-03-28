@@ -10680,5 +10680,53 @@
     "symbol": "PEPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31482/thumb/photo_2023-08-25_07-54-16.jpg?1696530294"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xcf6c2bb97a8978321c9e207afe8a2037fa9be45c",
+    "name": "Orbit Ether",
+    "symbol": "ORBETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54981/thumb/orbETH-token_icon.png?1743026013"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x65d51305e969ff19d96954c4a75d8e9fde86ce07",
+    "name": "Helping Hearts International",
+    "symbol": "HHI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54978/thumb/Helping_Hearts_International_1.png?1743001188"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0",
+    "name": "Fasttoken",
+    "symbol": "FTN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28478/thumb/lightenicon_200x200.png?1696527472"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xcded6b899edba762d793f44ed295248049440e1e",
+    "name": "Sygnum FIUSD Liquidity Fund",
+    "symbol": "FIUSD",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/50749/thumb/FIUDS_200x200px_%281%29.png?1728956878"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5829d6fe7528bc8e92c4e81cc8f20a528820b51a",
+    "name": "Overtime",
+    "symbol": "OVER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54973/thumb/over.png?1742959291"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1cb9bd2c6e7f4a7de3778547d46c8d4c22abc093",
+    "name": "Stobox Token",
+    "symbol": "STBU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12637/thumb/123456826.png?1696512445"
   }
 ]

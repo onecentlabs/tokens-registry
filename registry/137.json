@@ -13314,5 +13314,21 @@
     "symbol": "GINI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54652/thumb/Kalp.png?1740892400"
+  },
+  {
+    "chainId": 137,
+    "address": "0x1a3c7d6cb66299f769040e6d4cf0c1945f6a2f32",
+    "name": "KIATOKEN",
+    "symbol": "KIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54969/thumb/Logo_200x200-2.PNG?1742940733"
+  },
+  {
+    "chainId": 137,
+    "address": "0x60f7dd499956ec8fcea8ed80e9d7eade4ccdc417",
+    "name": "USD DWIN",
+    "symbol": "USDW",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/53767/thumb/usdwlogo200x200.fw.png?1742896321"
   }
 ]

@@ -62453,5 +62453,93 @@
     "symbol": "BYB",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/54930/thumb/logo_1x1.png?1742800998"
+  },
+  {
+    "chainId": 1,
+    "address": "0x90ce5720c17587d28e4af120ae2d313b3bad1722",
+    "name": "Overtime",
+    "symbol": "OVER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54973/thumb/over.png?1742959291"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb96682a8f558b8199a2dc039b1dd8911e5068faf",
+    "name": "Ecotrader",
+    "symbol": "ECT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54992/thumb/Eco_DS.png?1743063491"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6eb64894cfb6a7d00749781ad01975584822dd5f",
+    "name": "The Wally Group",
+    "symbol": "TWG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54966/thumb/TWG_ICON.png?1742920904"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6055dc6ff1077eebe5e6d2ba1a1f53d7ef8430de",
+    "name": "Eclipse",
+    "symbol": "ES",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54958/thumb/image_%2832%29.png?1742979704"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0aff507ac29b8cea2fb10d2ad14408c2d79a35ad",
+    "name": "CrypTalk",
+    "symbol": "TALK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54965/thumb/bRKUOO7n_400x400.jpg?1742905904"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdb99b0477574ac0b2d9c8cec56b42277da3fdb82",
+    "name": "DEC Token",
+    "symbol": "DECT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54986/thumb/dectoken_dect_logo_200_200.png?1743058530"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "name": "USD1",
+    "symbol": "USD1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54977/thumb/30Q2SFVH_400x400.jpg?1742998328"
+  },
+  {
+    "chainId": 1,
+    "address": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6",
+    "name": "Corn",
+    "symbol": "CORN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54471/thumb/corn.jpg?1739933588"
+  },
+  {
+    "chainId": 1,
+    "address": "0x24d7ad9402717f429a81925fe7643b78918eda8b",
+    "name": "XION",
+    "symbol": "XION",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39034/thumb/Burnt-Xion-Blaise-Logo-White-On-Black-Square.png?1720038410"
+  },
+  {
+    "chainId": 1,
+    "address": "0x856d602e73545deaa1491a3726cf628d49f74f51",
+    "name": "GRAM Ecosystem",
+    "symbol": "GRAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54984/thumb/GRAM_200_%281%29.png?1743057342"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf222b0e892f419c35e61892cddf0a8ec190c4b9d",
+    "name": "RandomDEX",
+    "symbol": "RDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52766/thumb/Icon_removed_BG.png?1734268221"
   }
 ]

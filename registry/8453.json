@@ -17304,5 +17304,156 @@
     "symbol": "BEMU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54936/thumb/jyTx7YWK_400x400.jpg?1742629118"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20A4Bd059F5914a2F8B9c18881c637f79efb7df",
+    "name": "Adshares",
+    "symbol": "ADS",
+    "decimals": 11,
+    "logoURI": "https://ethereum-optimism.github.io/data/ADS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ADS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5262001cb1c8060bea611b0a59518f56d83ab70e",
+    "name": "Moonray",
+    "symbol": "MNRY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MNRY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MNRY"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x60edae6E86546428DA423b5FBe0fba46Ca552Fc7",
+    "name": "Protocol Monsters",
+    "symbol": "PMON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PMON/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PMON"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x667d0fb35364b0711b8566bee4dc3d0f96d6a688",
+    "name": "Token S",
+    "symbol": "S",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54975/thumb/token-s.jpg?1742970082"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x856d602e73545deaa1491a3726cf628d49f74f51",
+    "name": "GRAM Ecosystem",
+    "symbol": "GRAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54984/thumb/GRAM_200_%281%29.png?1743057342"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x90d81fc9817d00c1c01c7d8735d5a80cee1e341c",
+    "name": "Metanopoly Tokenized Share",
+    "symbol": "MTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53761/thumb/Metanopoly_Tokenized_Share_200x200.png?1742452377"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4c95cd5b24cba798c56f9c3045975d7b24437415",
+    "name": "Samsara Build",
+    "symbol": "SAMS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54961/thumb/IMG_6936.jpeg?1742892962"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4381bc7d5640bf514a508e2732ec522c650c414c",
+    "name": "Aura",
+    "symbol": "AURA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54983/thumb/CMC_Logo.png?1743035811"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x958a405cfd2789e2b7f261d542feae84a8514c44",
+    "name": "STYLE Token",
+    "symbol": "STYLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37507/thumb/STYLE_Icon_200x200.png?1738142802"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9bba915f036158582c20b51113b925f243a1a1a1",
+    "name": "IMGN Labs",
+    "symbol": "IMGN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28666/thumb/imgnai-200x200.png?1698476572"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x72e1868f8eb8f9fb86455c10e72aa4b24774a5a3",
+    "name": "Polytrade",
+    "symbol": "TRADE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16416/thumb/Logo_colored_200.png?1696516012"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe4c3461a20f50dad7b9e88ca0222a255c4126fc0",
+    "name": "XION",
+    "symbol": "XION",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39034/thumb/Burnt-Xion-Blaise-Logo-White-On-Black-Square.png?1720038410"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0",
+    "name": "Fasttoken",
+    "symbol": "FTN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28478/thumb/lightenicon_200x200.png?1696527472"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x59264f02d301281f3393e1385c0aefd446eb0f00",
+    "name": "Particle Network",
+    "symbol": "PARTI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54955/thumb/parti-token-200.png?1742822558"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x75161fa0afe6dfc768cff2b82ecd7ba51728b341",
+    "name": "Johnny Suede",
+    "symbol": "SUEDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54437/thumb/IMG_8918.jpeg?1739713085"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7750c092e284e2c7366f50c8306f43c7eb2e82a2",
+    "name": "Overtime",
+    "symbol": "OVER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54973/thumb/over.png?1742959291"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4489d0a0345ecb216a3994de780d453c7fa6312c",
+    "name": "STP",
+    "symbol": "STPT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/8713/thumb/STP.png?1696508875"
   }
 ]

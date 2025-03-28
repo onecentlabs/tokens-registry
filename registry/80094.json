@@ -424,5 +424,29 @@
     "symbol": "BREAD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54952/thumb/photo_2025-03-21_13.46.43.jpeg?1742805118"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x69f1e971257419b1e9c405a553f252c64a29a30a",
+    "name": "Origami iBGT Auto Compounder",
+    "symbol": "ORIBGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54994/thumb/oriBGT.png?1743069741"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb",
+    "name": "Berally Token",
+    "symbol": "BRLY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54295/thumb/Dex-01_%282%29.png?1739085758"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x5475611dffb8ef4d697ae39df9395513b6e947d7",
+    "name": "Reservoir srUSD",
+    "symbol": "SRUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54118/thumb/srUSD.png?1738313910"
   }
 ]
