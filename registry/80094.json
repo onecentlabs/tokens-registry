@@ -448,5 +448,13 @@
     "symbol": "SRUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54118/thumb/srUSD.png?1738313910"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x147c9a7f5265d7ca9a671c3817b212a0cf88856e",
+    "name": "BeraXBT",
+    "symbol": "BIXBT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55022/thumb/BeraLogo-200px.jpg?1743243276"
   }
 ]

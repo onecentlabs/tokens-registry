@@ -5010,5 +5010,13 @@
     "symbol": "OVER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54973/thumb/over.png?1742959291"
+  },
+  {
+    "chainId": 10,
+    "address": "0x01bff41798a0bcf287b996046ca68b395dbc1071",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
   }
 ]

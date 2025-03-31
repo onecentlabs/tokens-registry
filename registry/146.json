@@ -673,5 +673,21 @@
     "symbol": "SCBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/54997/thumb/scBTC_32.png?1743095543"
+  },
+  {
+    "chainId": 146,
+    "address": "0x0e899da2ad0817ed850ce68f7f489688e4d42d9d",
+    "name": "GHOG",
+    "symbol": "GHOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55034/thumb/GHOD_LOGO.png?1743322844"
+  },
+  {
+    "chainId": 146,
+    "address": "0x44bd4f79a95cf04505f2dc5c8e2e4043f67c7b07",
+    "name": "Polter finance",
+    "symbol": "POLTER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35730/thumb/logo-200.png?1743249114"
   }
 ]

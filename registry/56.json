@@ -14392,5 +14392,13 @@
     "decimals": 18,
     "address": "0x503Fa24B7972677F00C4618e5FBe237780C1df53",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x503Fa24B7972677F00C4618e5FBe237780C1df53.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "XTER",
+    "name": "Xterio",
+    "decimals": 18,
+    "address": "0x103071Da56e7cD95b415320760D6a0dDC4DA1ca5",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x103071Da56e7cD95b415320760D6a0dDC4DA1ca5.png"
   }
 ]

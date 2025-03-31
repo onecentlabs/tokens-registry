@@ -5066,5 +5066,29 @@
     "symbol": "LOK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54931/thumb/LOK200.png?1742627108"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xa77d05fd853af120cd4db48e73498e0cabd3f628",
+    "name": "AI404",
+    "symbol": "ERROR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55012/thumb/dex_pfp.jpg?1743162530"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x66584240143bb36b59065342b3eecac06876ec11",
+    "name": "Guardians Of The Spark",
+    "symbol": "GOTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55003/thumb/logo.png?1743157298"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x59234b44214d88c57b7c54a6d2633334d95c5161",
+    "name": "NUMINE Token",
+    "symbol": "NUMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55029/thumb/Token_Logo_NUMI_200.png?1743320367"
   }
 ]

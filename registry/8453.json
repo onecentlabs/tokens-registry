@@ -17455,5 +17455,29 @@
     "symbol": "STPT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/8713/thumb/STP.png?1696508875"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1027d69d77567039f37bf2e4b2c5ccbafce100f2",
+    "name": "VaultX",
+    "symbol": "VAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55036/thumb/vax-logo.png?1743327108"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x155979e71d5b781b546ab05b5bee313dbb2f6394",
+    "name": "GPUs",
+    "symbol": "GPUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55024/thumb/nov_ai.png?1743244016"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x33ac788bc9ccb27e9ec558fb2bde79950a6b9d5b",
+    "name": "glonkybot",
+    "symbol": "GLANKER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55021/thumb/bw.jpg?1743324937"
   }
 ]
