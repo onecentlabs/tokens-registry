@@ -14400,5 +14400,13 @@
     "decimals": 18,
     "address": "0x103071Da56e7cD95b415320760D6a0dDC4DA1ca5",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x103071Da56e7cD95b415320760D6a0dDC4DA1ca5.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "brBTC",
+    "name": "brBTC",
+    "decimals": 8,
+    "address": "0x733a6c29eDA4a58931AE81b8d91e29f2EAf01df3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x733a6c29eDA4a58931AE81b8d91e29f2EAf01df3.png"
   }
 ]

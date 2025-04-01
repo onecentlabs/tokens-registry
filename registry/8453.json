@@ -17479,5 +17479,37 @@
     "symbol": "GLANKER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55021/thumb/bw.jpg?1743324937"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x758a3e0b1f842c9306b783f8a4078c6c8c03a270",
+    "name": "Usual USD",
+    "symbol": "USD0",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38272/thumb/USD0LOGO.png?1716962811"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4acd4d03af6f9cc0fb7c5f0868b7b6287d7969c5",
+    "name": "Usual",
+    "symbol": "USUAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51091/thumb/USUAL.jpg?1730035787"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x74299a718b2c44483a27325d7725f0b2646de3b1",
+    "name": "Constellation",
+    "symbol": "DAG",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/4645/thumb/Constellation_Network_Logo.png?1696505213"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfe9885baff18074846aaa2d5541581adf068731d",
+    "name": "Dor",
+    "symbol": "DOR",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/33044/thumb/dortoken_red.png?1700429057"
   }
 ]

@@ -456,5 +456,21 @@
     "symbol": "BIXBT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55022/thumb/BeraLogo-200px.jpg?1743243276"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x01c8a5ccad23a4d3764ef71c403862160aa2913a",
+    "name": "Wizzwoods Token",
+    "symbol": "WIZZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55049/thumb/200x200_logo.png?1743437086"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xc99e948e9d183848a6c4f5e6c1d225f02f171d79",
+    "name": "Pollen",
+    "symbol": "POLLEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54929/thumb/Pollen_200x200.png?1742578406"
   }
 ]

@@ -5018,5 +5018,13 @@
     "symbol": "USDT0",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+  },
+  {
+    "chainId": 10,
+    "address": "0x74d5b4a317fffd3cbf8ed94327ff07e2884e84bc",
+    "name": "Oracul Analytics",
+    "symbol": "ORCL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55043/thumb/cfZ9cjrJ_400x400.png?1743432308"
   }
 ]

@@ -62581,5 +62581,37 @@
     "symbol": "FIAS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55026/thumb/fias-logomark-new200x200.png?1743245947"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbad6c59d72d44512616f25b3d160c79db5a69ddf",
+    "name": "Vatan",
+    "symbol": "VATAN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55045/thumb/Vatan.png?1743433948"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1c95519d3fc922fc04fcf5d099be4a1ed8b15240",
+    "name": "My life as Grok",
+    "symbol": "GROK",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55046/thumb/photo_2025-03-29_19-46-10.jpg?1743434260"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1d88713b483a8e45cff0e5cd7c2e15e5fab4534d",
+    "name": "StakeStone",
+    "symbol": "STO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55050/thumb/STO-white-bg.png?1743437541"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf4445049080ae2fde75aaf0c6e603fb55875f02c",
+    "name": "DIGIKA",
+    "symbol": "DGK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55038/thumb/dgk-dark-800px.png?1743404518"
   }
 ]
