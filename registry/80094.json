@@ -472,5 +472,37 @@
     "symbol": "POLLEN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54929/thumb/Pollen_200x200.png?1742578406"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x66a501076865a2b21df9dbd51fa931317188418b",
+    "name": "BERATARDIO",
+    "symbol": "BERATARDIO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55086/thumb/for_resizing_.png?1743665350"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xd3415dcfbda117814e24a4cbaf61128a4d79b860",
+    "name": "Celeron token",
+    "symbol": "CEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55094/thumb/Celeron_Logo.png?1743699296"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xfaf4c16847bd0ebac546c49a9c9c6b81abd4b08c",
+    "name": "NOME",
+    "symbol": "NOME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55095/thumb/Nome_400x400.jpg?1743699482"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6",
+    "name": "USDbr",
+    "symbol": "USDBR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55096/thumb/USDbr.png?1743699568"
   }
 ]

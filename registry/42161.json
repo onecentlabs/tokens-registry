@@ -10728,5 +10728,21 @@
     "symbol": "STBU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12637/thumb/123456826.png?1696512445"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaedf7656fbb47c5b97dd529ac1d0e807e051f2dd",
+    "name": "Moonchain",
+    "symbol": "MXC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4604/thumb/M_1-modified.png?1712206949"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x812f2d5ff6088ed7a655567dbcdf0d42cf07ca38",
+    "name": "Grix",
+    "symbol": "GRIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55060/thumb/grix_logo_black-background.png?1743524648"
   }
 ]

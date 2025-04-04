@@ -13330,5 +13330,28 @@
     "symbol": "USDW",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/53767/thumb/usdwlogo200x200.fw.png?1742896321"
+  },
+  {
+    "chainId": 137,
+    "address": "0x1D47e931F82bb9F8D967F0Cc3288268449835806",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x808507121B80c02388fAd14726482e061B8da827"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "address": "0x6a5e73099d8d68ec5aa1ca34fce22d16d8d115e9",
+    "name": "Carmin",
+    "symbol": "CARMIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29073/thumb/carmin.png?1696528039"
   }
 ]

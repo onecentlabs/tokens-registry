@@ -62613,5 +62613,61 @@
     "symbol": "DGK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55038/thumb/dgk-dark-800px.png?1743404518"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a",
+    "name": "Aegis YUSD",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55085/thumb/Figma_Group_2087326928.png?1743664857"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8e0b3e3cb4468b6aa07a64e69deb72aea8eddc6f",
+    "name": "Sanji",
+    "symbol": "SANJI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55089/thumb/output-onlinepngtools_6.png?1743666375"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf6ad4965f7779c6b8ae4d25bf2a2e009a47c3dae",
+    "name": "Brainedge",
+    "symbol": "LEARN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55093/thumb/BE-learn_token1.png?1743679595"
+  },
+  {
+    "chainId": 1,
+    "address": "0x792905a8b7c0a22d56e78e849f95c162018a4e2d",
+    "name": "Renta Network",
+    "symbol": "RENTA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55059/thumb/logo200x200.png?1743524174"
+  },
+  {
+    "chainId": 1,
+    "address": "0x437cc33344a0b27a429f795ff6b469c72698b291",
+    "name": "WrappedM by M 0",
+    "symbol": "WM",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55070/thumb/wm.jpg?1743589588"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1fc122fe8b6fa6b8598799baf687539b5d3b2783",
+    "name": "RavenQuest",
+    "symbol": "QUEST",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55071/thumb/token_200x200.png?1743598440"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf27441230eadeac85b764610325cc9a0d7859689",
+    "name": "Astar",
+    "symbol": "ASTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22617/thumb/astr.png?1696521933"
   }
 ]

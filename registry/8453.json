@@ -17511,5 +17511,21 @@
     "symbol": "DOR",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/33044/thumb/dortoken_red.png?1700429057"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd628dc2c4ec10feb07e5c8bf039f7c1c374d1b07",
+    "name": "Ziggy",
+    "symbol": "ZIGGY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55087/thumb/200x200.png?1743665692"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xed6e000def95780fb89734c07ee2ce9f6dcaf110",
+    "name": "Definitive",
+    "symbol": "EDGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55072/thumb/EDGE-120x120.png?1743598652"
   }
 ]

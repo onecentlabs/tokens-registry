@@ -14408,5 +14408,37 @@
     "decimals": 8,
     "address": "0x733a6c29eDA4a58931AE81b8d91e29f2EAf01df3",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x733a6c29eDA4a58931AE81b8d91e29f2EAf01df3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PUMP",
+    "name": "pumpBTC Governance token",
+    "decimals": 18,
+    "address": "0xB7C0007ab75350c582d5eAb1862b872B5cF53F0C",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xB7C0007ab75350c582d5eAb1862b872B5cF53F0C.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "sUSDe",
+    "name": "Staked USDe",
+    "decimals": 18,
+    "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "STO",
+    "name": "StakeStone",
+    "decimals": 18,
+    "address": "0xdAf1695c41327b61B9b9965Ac6A5843A3198cf07",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xdAf1695c41327b61B9b9965Ac6A5843A3198cf07.png"
   }
 ]
