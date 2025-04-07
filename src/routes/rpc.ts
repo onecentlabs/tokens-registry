@@ -25,7 +25,8 @@ export class RPCFetch {
       SEI: '1329',
       SONIC: '146',
       BLAST: '81457',
-      UNICHAIN: '130'
+      UNICHAIN: '130',
+      HYPEREVM: '999',
     }
 
     this.rpcMap = {}

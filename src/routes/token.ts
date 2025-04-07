@@ -34,6 +34,7 @@ export class TokenRegistry {
       SONIC: '146',
       BLAST: '81457',
       UNICHAIN: '130',
+      HYPEREVM: '999',
     }
     this.tags = [
       'FEATURED',
