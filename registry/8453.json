@@ -17575,5 +17575,13 @@
     "symbol": "REZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37327/thumb/renzo_200x200.png?1714025012"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657",
+    "name": "Clearstar OpenEden USDC",
+    "symbol": "COUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55135/thumb/USDC_LOGO.png?1744007880"
   }
 ]

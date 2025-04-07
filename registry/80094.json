@@ -512,5 +512,21 @@
     "symbol": "OOGA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55119/thumb/Ooga_Booga_Listing_Icon_200x200.png?1743839384"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x28e0e3b9817012b356119df9e217c25932d609c2",
+    "name": "Burr Governance Token",
+    "symbol": "BURR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55134/thumb/BURR_Token_logo.png?1744006499"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
   }
 ]

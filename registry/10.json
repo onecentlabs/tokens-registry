@@ -5047,5 +5047,13 @@
     "symbol": "VDOT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28875/thumb/vDOT.png?1696527852"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
   }
 ]
