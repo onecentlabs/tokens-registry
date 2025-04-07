@@ -1,0 +1,142 @@
+[
+  {
+    "chainId": 999,
+    "address": "0x2222222222222222222222222222222222222222",
+    "name": "HYPE",
+    "symbol": "HYPE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54509/large/hyperliquid.jpg?1740065301",
+    "tags": ["NATIVE", "VERIFIED"]
+  },
+  {
+    "chainId": 999,
+    "address": "0x5555555555555555555555555555555555555555",
+    "name": "Wrapped HYPE",
+    "symbol": "WHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54469/thumb/_UP3jBsi_400x400.jpg?1739905920",
+    "tags": ["NATIVE", "VERIFIED", "WRAPPED"]
+  },
+  {
+    "chainId": 999,
+    "address": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
+    "name": "Staked HYPE",
+    "symbol": "STHYPE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54509/large/hyperliquid.jpg?1740065301",
+    "tags": ["NATIVE", "VERIFIED", "WRAPPED"]
+  },
+  {
+    "chainId": 999,
+    "address": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+    "name": "Looped Hype",
+    "symbol": "LHYPE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54816/large/loopedhype_logo_transparent.png?1741850425",
+    "tags": ["VERIFIED"]
+  },
+  {
+    "chainId": 999,
+    "address": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
+    "name": "Last USD",
+    "symbol": "USDXL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55083/large/usdxl.jpg?1743648438",
+    "tags": ["VERIFIED"]
+  },
+  {
+    "chainId": 999,
+    "address": "0xb5fe77d323d69eb352a02006ea8ecc38d882620c",
+    "name": "KEI Stablecoin",
+    "symbol": "KEI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55084/large/kei.jpg?1743648809"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+    "name": "Unit Bitcoin",
+    "symbol": "UBTC",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55066/large/ubtc.jpg?1743580113"
+  },
+  {
+    "chainId": 999,
+    "address": "0xbe6727b535545c67d5caa73dea54865b92cf7907",
+    "name": "Unit Ethereum",
+    "symbol": "UETH",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55069/large/eth.jpg?1743582414"
+  },
+  {
+    "chainId": 999,
+    "address": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+    "name": "Felix feUSD",
+    "symbol": "FEUSD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55068/large/feusd.jpg?1743581333"
+  },
+  {
+    "chainId": 999,
+    "address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "name": "Staked HYPE Shares",
+    "symbol": "WSTHYPE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54722/large/hyperliquid.png?1741232793"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e",
+    "name": "Purr",
+    "symbol": "PURR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37125/large/PURR_CG.png?1713368828"
+  },
+  {
+    "chainId": 999,
+    "address": "0x47bb061c0204af921f43dc73c7d7768d2672ddee",
+    "name": "alright buddy",
+    "symbol": "BUDDY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54657/thumb/alright_buddy_pfp.png?1740895394"
+  },
+  {
+    "chainId": 999,
+    "address": "0x1bee6762f0b522c606dc2ffb106c0bb391b2e309",
+    "name": "PiP",
+    "symbol": "PIP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51298/thumb/JPEG_image-458B-A87B-DA-0.jpeg?1734770153"
+  },
+  {
+    "chainId": 999,
+    "address": "0x52e444545fbe9e5972a7a371299522f7871aec1f",
+    "name": "Jeff",
+    "symbol": "JEFF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38693/thumb/jef_jeffing_no_background.png?1718764325"
+  },
+  {
+    "chainId": 999,
+    "address": "0x11735dbd0b97cfa7accf47d005673ba185f7fd49",
+    "name": "Catbal",
+    "symbol": "CATBAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51085/thumb/Catbal_Minilogo.png?1732046278"
+  },
+  {
+    "chainId": 999,
+    "address": "0xb09158c8297acee00b900dc1f8715df46b7246a6",
+    "name": "Vegas",
+    "symbol": "VEGAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39376/thumb/logo.png?1721957143"
+  },
+  {
+    "chainId": 999,
+    "address": "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
+    "name": "Hyperpie Staked HYPE",
+    "symbol": "mHYPE",
+    "decimals": 18
+  }
+]

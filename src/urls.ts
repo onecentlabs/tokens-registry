@@ -40,6 +40,7 @@ const urls: string[] = [
   'https://tokens.coingecko.com/scroll/all.json',
   'https://tokens.coingecko.com/sonic/all.json',
   'https://tokens.coingecko.com/berachain/all.json',
+  'https://tokens.coingecko.com/hyperevm/all.json',
 ] as const
 
 export default urls
