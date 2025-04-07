@@ -6,7 +6,10 @@
     "symbol": "HYPE",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54509/large/hyperliquid.jpg?1740065301",
-    "tags": ["NATIVE", "VERIFIED"]
+    "tags": [
+      "NATIVE",
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 999,
@@ -15,7 +18,11 @@
     "symbol": "WHYPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54469/thumb/_UP3jBsi_400x400.jpg?1739905920",
-    "tags": ["NATIVE", "VERIFIED", "WRAPPED"]
+    "tags": [
+      "NATIVE",
+      "VERIFIED",
+      "WRAPPED"
+    ]
   },
   {
     "chainId": 999,
@@ -24,7 +31,11 @@
     "symbol": "STHYPE",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54509/large/hyperliquid.jpg?1740065301",
-    "tags": ["NATIVE", "VERIFIED", "WRAPPED"]
+    "tags": [
+      "NATIVE",
+      "VERIFIED",
+      "WRAPPED"
+    ]
   },
   {
     "chainId": 999,
@@ -33,7 +44,9 @@
     "symbol": "LHYPE",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54816/large/loopedhype_logo_transparent.png?1741850425",
-    "tags": ["VERIFIED"]
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 999,
@@ -42,7 +55,9 @@
     "symbol": "USDXL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/55083/large/usdxl.jpg?1743648438",
-    "tags": ["VERIFIED"]
+    "tags": [
+      "VERIFIED"
+    ]
   },
   {
     "chainId": 999,
