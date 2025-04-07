@@ -43,5 +43,18 @@
         }
       }
     }
+  },
+  {
+    "chainId": 1868,
+    "address": "0x6ef08F42C936f5d101B76160c816D3c8181C9867",
+    "name": "QuickSwap",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/QUICK/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "QUICK"
+    }
   }
 ]

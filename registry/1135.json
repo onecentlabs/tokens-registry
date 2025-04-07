@@ -105,5 +105,30 @@
       "opListId": "extended",
       "opTokenId": "UTU"
     }
+  },
+  {
+    "chainId": 1135,
+    "address": "0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22",
+    "name": "IDRX",
+    "symbol": "IDRX",
+    "decimals": 2,
+    "logoURI": "https://ethereum-optimism.github.io/data/IDRX/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "IDRX"
+    }
+  },
+  {
+    "chainId": 1135,
+    "address": "0x2fcAb60dc6Ad65be5F2Aae6a1B2E2ecB93017888",
+    "name": "Swarm Markets",
+    "symbol": "SMT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SMT/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SMT"
+    }
   }
 ]

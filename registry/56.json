@@ -14440,5 +14440,13 @@
     "decimals": 18,
     "address": "0xdAf1695c41327b61B9b9965Ac6A5843A3198cf07",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xdAf1695c41327b61B9b9965Ac6A5843A3198cf07.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ORDER",
+    "name": "Orderly Network",
+    "decimals": 18,
+    "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8.png"
   }
 ]

@@ -404,5 +404,18 @@
     "name": "Swap Mode",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/mode_token/logo_url/0xfda619b6d20975be80a10332cd39b9a4b0faa8bb/2c5b6e2e011880370599eae8e6445eaf.png"
+  },
+  {
+    "chainId": 34443,
+    "address": "0x06d6a7BDFFAFa3c953d7B9842f7F414a6e0bEb4A",
+    "name": "Swarm Markets",
+    "symbol": "SMT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SMT/logo.svg",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SMT"
+    }
   }
 ]

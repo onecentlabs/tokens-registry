@@ -5098,5 +5098,21 @@
     "symbol": "COLS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55044/thumb/MJQlzeE-_400x400.png?1743433037"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x26debd39d5ed069770406fca10a0e4f8d2c743eb",
+    "name": "Gunz",
+    "symbol": "GUN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55027/thumb/gunz.jpg?1743262298"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x3fe4902b275caf603c46c81f3d921bb8515b5bc0",
+    "name": "JACK",
+    "symbol": "JACK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54835/thumb/200x200_token.png?1741969713"
   }
 ]

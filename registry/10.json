@@ -5026,5 +5026,26 @@
     "symbol": "ORCL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55043/thumb/cfZ9cjrJ_400x400.png?1743432308"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5E0F5388896A6b6232aBF076ee89BC6Dfc043685",
+    "name": "Ajna",
+    "symbol": "AJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AJNA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AJNA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5",
+    "name": "Voucher DOT",
+    "symbol": "VDOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28875/thumb/vDOT.png?1696527852"
   }
 ]

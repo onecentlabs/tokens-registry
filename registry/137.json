@@ -13353,5 +13353,37 @@
     "symbol": "CARMIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29073/thumb/carmin.png?1696528039"
+  },
+  {
+    "chainId": 137,
+    "address": "0x98965474ecbec2f532f1f780ee37b0b05f77ca55",
+    "name": "Super Trust",
+    "symbol": "SUT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55122/thumb/sut-logo.png?1743842563"
+  },
+  {
+    "chainId": 137,
+    "address": "0xc2ff25dd99e467d2589b2c26edd270f220f14e47",
+    "name": "Decentralized Euro",
+    "symbol": "DEURO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55108/thumb/dEuro_CoinLogo_200px.png?1743753944"
+  },
+  {
+    "chainId": 137,
+    "address": "0x440017a1b021006d556d7fc06a54c32e42eb745b",
+    "name": "Graphite Network",
+    "symbol": "G",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54587/thumb/Logo.jpg?1740555504"
+  },
+  {
+    "chainId": 137,
+    "address": "0x9de41aff9f55219d5bf4359f167d1d0c772a396d",
+    "name": "CAD Coin",
+    "symbol": "CADC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1696513868"
   }
 ]

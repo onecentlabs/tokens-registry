@@ -24,5 +24,18 @@
       "opListId": "extended",
       "opTokenId": "MUGLOO"
     }
+  },
+  {
+    "chainId": 1750,
+    "address": "0xBCFc435d8F276585f6431Fc1b9EE9A850B5C00A9",
+    "name": "Metal DAO",
+    "symbol": "MTL",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/MTL/logo.svg",
+    "extensions": {
+      "metall2BridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MTL"
+    }
   }
 ]

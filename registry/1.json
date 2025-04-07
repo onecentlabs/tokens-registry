@@ -62669,5 +62669,82 @@
     "symbol": "ASTR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/22617/thumb/astr.png?1696521933"
+  },
+  {
+    "chainId": 1,
+    "address": "0xCEB1Ad1420252fc66856EB38497C267cF81F67cC",
+    "name": "Metal DAO",
+    "symbol": "MTL",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/MTL/logo.svg",
+    "extensions": {
+      "metall2BridgeAddress": "0x6d0f65D59b55B0FEC5d2d15365154DcADC140BF3",
+      "opListId": "extended",
+      "opTokenId": "MTL"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x78c6b27be6db520d332b1b44323f94bc831f5e33",
+    "name": "Level Wrapped aUSDC",
+    "symbol": "LVLWAUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55114/thumb/usdc1.png?1743789339"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb723377679b807370ae8615ae3e76f6d1e75a5f2",
+    "name": "Level Wrapped aUSDT",
+    "symbol": "LVLWAUSDT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55115/thumb/usdt.png?1743789612"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7ee089ebb18771caf5bf483a4ee49c4de04295f2",
+    "name": "Kekius Maximusa",
+    "symbol": "KEKIUSA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55097/thumb/2002000000.png?1743746516"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6282727946325daa05636adec103b385b7c995bf",
+    "name": "VedoraAI",
+    "symbol": "VED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55101/thumb/VED_%281%29.jpg?1743752494"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba3f535bbcccca2a154b573ca6c5a49baae0a3ea",
+    "name": "Decentralized Euro",
+    "symbol": "DEURO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55108/thumb/dEuro_CoinLogo_200px.png?1743753944"
+  },
+  {
+    "chainId": 1,
+    "address": "0x64b3b21ee104f434380270749d8d5bfd481fdcf6",
+    "name": "American Bitcoin",
+    "symbol": "ABTC",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55121/thumb/1000003919.jpg?1743840691"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa3b71add41c9e4e1034fe665f946baebfe9c07c4",
+    "name": "LEGAL",
+    "symbol": "LEGAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55128/thumb/DexTools_-_Logo_.png?1743921567"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5",
+    "name": "Voucher DOT",
+    "symbol": "VDOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28875/thumb/vDOT.png?1696527852"
   }
 ]

@@ -689,5 +689,13 @@
     "symbol": "POLTER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35730/thumb/logo-200.png?1743249114"
+  },
+  {
+    "chainId": 146,
+    "address": "0x9d549c39e5e1a0e7ef41d4b7d74c49f976102e36",
+    "name": "JACK",
+    "symbol": "JACK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54835/thumb/200x200_token.png?1741969713"
   }
 ]

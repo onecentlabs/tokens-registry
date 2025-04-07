@@ -37,5 +37,17 @@
       "opListId": "extended",
       "opTokenId": "UTU"
     }
+  },
+  {
+    "chainId": 4202,
+    "address": "0xD63029C1a3dA68b51c67c6D1DeC3DEe50D681661",
+    "name": "IDRX",
+    "symbol": "IDRX",
+    "decimals": 2,
+    "logoURI": "https://ethereum-optimism.github.io/data/IDRX/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "IDRX"
+    }
   }
 ]

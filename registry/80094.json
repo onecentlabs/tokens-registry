@@ -504,5 +504,13 @@
     "symbol": "USDBR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55096/thumb/USDbr.png?1743699568"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x009af46df68db0e76bfe9ea35663f6ed17877956",
+    "name": "Ooga Booga",
+    "symbol": "OOGA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55119/thumb/Ooga_Booga_Listing_Icon_200x200.png?1743839384"
   }
 ]

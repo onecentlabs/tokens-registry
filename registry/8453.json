@@ -17527,5 +17527,53 @@
     "symbol": "EDGE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55072/thumb/EDGE-120x120.png?1743598652"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7772b39661b87a98521193b9f18f87cfabe401fa",
+    "name": "Thesirion",
+    "symbol": "TSO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55110/thumb/ThesirionLogo200x200.png?1743754699"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2425598dd959e47a294a737ee4104316864817cf",
+    "name": "CloudAI",
+    "symbol": "CLOUD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55126/thumb/cloudal.webp?1743920572"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5d6cae0422a950dbd7918d1e74434a35156b3ba4",
+    "name": "Navigate",
+    "symbol": "NVG8",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54565/thumb/nav_logo_transparent.png?1740379516"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1b68244b100a6713ca7f540697b1be12148a8bf9",
+    "name": "YES Money",
+    "symbol": "YES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35657/thumb/yes-money.jpeg?1709437181"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5",
+    "name": "Voucher DOT",
+    "symbol": "VDOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28875/thumb/vDOT.png?1696527852"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf757c9804cf2ee8d8ed64e0a8936293fe43a7252",
+    "name": "Renzo",
+    "symbol": "REZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37327/thumb/renzo_200x200.png?1714025012"
   }
 ]
