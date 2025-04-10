@@ -62754,5 +62754,21 @@
     "symbol": "WGC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb214b79eac9378a56d14d6e6d452150c80d6ad79",
+    "name": "Meme Index",
+    "symbol": "MEMEX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55142/thumb/TX8_XEQ1_400x400.jpg?1744114706"
+  },
+  {
+    "chainId": 1,
+    "address": "0x87a92428bbc876d463c21c8e51b903f127d9a9f4",
+    "name": "Advanced United Continent",
+    "symbol": "AUC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24369/thumb/200x200.png?1696523553"
   }
 ]

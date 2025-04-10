@@ -17583,5 +17583,37 @@
     "symbol": "COUSDC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55135/thumb/USDC_LOGO.png?1744007880"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x95308ec85a48376f253f36720355a54808c7857b",
+    "name": "Sophia",
+    "symbol": "SPH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55152/thumb/IMG_1204.jpeg?1744189746"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x34b2adb3bd4aef3af0b4541735c47b6364d88d1e",
+    "name": "DooggieCoin",
+    "symbol": "DOOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55150/thumb/DooggieCoin_copy.jpeg?1744189296"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x043eb4b75d0805c43d7c834902e335621983cf03",
+    "name": "CAD Coin",
+    "symbol": "CADC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1696513868"
   }
 ]

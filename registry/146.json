@@ -705,5 +705,13 @@
     "symbol": "WGC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 146,
+    "address": "0x777ecd9a05d4640133f6112f3aa777f1ed5acace",
+    "name": "Spin It",
+    "symbol": "SPIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55154/thumb/logospin.png?1744230889"
   }
 ]

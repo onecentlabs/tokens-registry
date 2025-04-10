@@ -396,5 +396,69 @@
     "name": "Frax Ether",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xecc68d0451e20292406967fe7c04280e5238ac7d/71b8a5f7684c752901272fb31842abdf.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xF6A54aff8c97f7AF3CC86dbaeE88aF6a7AaB6288",
+    "name": "Aave Token",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "AAVE"
+    }
+  },
+  {
+    "chainId": 42220,
+    "address": "0x75184c282e55a7393053f0b8F4F3E7BeAE067fdC",
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "CRV"
+    }
+  },
+  {
+    "chainId": 42220,
+    "address": "0xeE571697998ec64e32B57D754D700c4dda2f2a0e",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "UNI"
+    }
+  },
+  {
+    "chainId": 42220,
+    "address": "0xE79a3d9f18C20c93DbEc8db8B28C6542d63df5E9",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "WBTC"
+    }
+  },
+  {
+    "chainId": 42220,
+    "address": "0xD221812de1BD094f35587EE8E174B07B6167D9Af",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+    "extensions": {
+      "opListId": "default",
+      "opTokenId": "WETH"
+    }
   }
 ]
