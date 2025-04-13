@@ -460,5 +460,18 @@
       "opListId": "default",
       "opTokenId": "WETH"
     }
+  },
+  {
+    "chainId": 42220,
+    "address": "0x8aC2901Dd8A1F17a1A4768A6bA4C3751e3995B2D",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "WBTC"
+    }
   }
 ]

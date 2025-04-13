@@ -10792,5 +10792,13 @@
     "symbol": "CADC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1696513868"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x010700AB046Dd8e92b0e3587842080Df36364ed3",
+    "name": "Kinto",
+    "symbol": "K",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54964/standard/k200.png?1742894885"
   }
 ]

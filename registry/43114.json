@@ -5114,5 +5114,13 @@
     "symbol": "JACK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54835/thumb/200x200_token.png?1741969713"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x00da149c4e01e4a391ab86deddaae66e906b6fb7",
+    "name": "Kibble",
+    "symbol": "KIB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55159/thumb/Token200w.png?1744266173"
   }
 ]

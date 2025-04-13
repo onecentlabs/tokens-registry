@@ -17615,5 +17615,29 @@
     "symbol": "CADC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1696513868"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaaa843fb2916c0b57454270418e121c626402aaa",
+    "name": "Arcadia",
+    "symbol": "AAA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55185/thumb/AAA_Icon_V4_200x200.png?1744439759"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbcbc8cb4d1e8ed048a6276a5e94a3e952660bcbc",
+    "name": "Yield Optimizer BTC",
+    "symbol": "YOBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/55189/thumb/yoBTC.png?1744443242"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x30c7235866872213f68cb1f08c37cb9eccb93452",
+    "name": "Wayfinder",
+    "symbol": "PROMPT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55169/thumb/wayfinder.jpg?1744336900"
   }
 ]

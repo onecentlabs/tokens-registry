@@ -713,5 +713,13 @@
     "symbol": "SPIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55154/thumb/logospin.png?1744230889"
+  },
+  {
+    "chainId": 146,
+    "address": "0x871a101dcf22fe4fe37be7b654098c801cba1c88",
+    "name": "Beefy escrowed Sonic",
+    "symbol": "BES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55186/thumb/beS.png?1744440042"
   }
 ]
