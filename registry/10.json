@@ -5055,5 +5055,18 @@
     "symbol": "WGC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 10,
+    "address": "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
+    "name": "BRZ Token",
+    "symbol": "BRZ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BRZ/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BRZ"
+    }
   }
 ]

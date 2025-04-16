@@ -412,5 +412,18 @@
       "opListId": "extended",
       "opTokenId": "IDRX"
     }
+  },
+  {
+    "chainId": 84532,
+    "address": "0x0283F3bDE2566C41F88C10E269cE9a59e3C97700",
+    "name": "Massive Vehicle Ledger",
+    "symbol": "MVL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MVL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MVL"
+    }
   }
 ]

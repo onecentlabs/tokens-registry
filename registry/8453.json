@@ -17639,5 +17639,60 @@
     "symbol": "PROMPT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55169/thumb/wayfinder.jpg?1744336900"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
+    "name": "BRZ Token",
+    "symbol": "BRZ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BRZ/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BRZ"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC5aAEFD024Aa95C59712A931b3295e237fFD3f81",
+    "name": "CattButt",
+    "symbol": "CATTBUTT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CATTBUTT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CATTBUTT"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe1A38a87c076b456C6B39ecA955fd62Ac27e5ef4",
+    "name": "Massive Vehicle Ledger",
+    "symbol": "MVL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MVL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MVL"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcc4adb618253ed0d4d8a188fb901d70c54735e03",
+    "name": "Agent Zero Token",
+    "symbol": "A0T",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55202/thumb/favicon_round_200x200.png?1744622693"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xca09aa7b4f5a9380754f7e46037e3a383044bca3",
+    "name": "ABE",
+    "symbol": "ABE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50620/thumb/ABE.png?1728494431"
   }
 ]

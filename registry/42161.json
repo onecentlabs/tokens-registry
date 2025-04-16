@@ -10800,5 +10800,29 @@
     "symbol": "K",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54964/standard/k200.png?1742894885"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x723ce01b57dfd7148785b90d66275005aa2edd17",
+    "name": "LoungeM",
+    "symbol": "LZM",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/29068/thumb/_LoungeM_Logo.png?1696528034"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x374c5fb7979d5fdbaad2d95409e235e5cbdfd43c",
+    "name": "MiL k Alliance",
+    "symbol": "MLK",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/11978/thumb/2.png?1696511836"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb0f66bdb39acbb043308eb9dbe78f5bb47ea5430",
+    "name": "Hydranet",
+    "symbol": "HDN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25177/thumb/HDXdarkblueInv.png?1696524322"
   }
 ]

@@ -521,5 +521,18 @@
       "opListId": "extended",
       "opTokenId": "ICNT"
     }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x3cf4ccf7Ec4Bb094d1504D1315057A46005d5065",
+    "name": "Massive Vehicle Ledger",
+    "symbol": "MVL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MVL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "MVL"
+    }
   }
 ]

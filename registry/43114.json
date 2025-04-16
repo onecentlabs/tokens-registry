@@ -5122,5 +5122,13 @@
     "symbol": "KIB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55159/thumb/Token200w.png?1744266173"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x99f2bdf00acd067c65a79a0b6a3914c555196ea4",
+    "name": "Kula",
+    "symbol": "KULA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54208/thumb/Kula_Coin_Logo_200_px_x_200_px.png?1744725486"
   }
 ]
