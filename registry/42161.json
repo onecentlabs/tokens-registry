@@ -10824,5 +10824,13 @@
     "symbol": "HDN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25177/thumb/HDXdarkblueInv.png?1696524322"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
+    "name": "MXNB",
+    "symbol": "MXNB",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39136/thumb/MXNB_FULL.png?1720686155"
   }
 ]

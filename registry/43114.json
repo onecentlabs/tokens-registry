@@ -5130,5 +5130,13 @@
     "symbol": "KULA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54208/thumb/Kula_Coin_Logo_200_px_x_200_px.png?1744725486"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6b1ecf0c181afff3d7096b26c3d2bc31f55ceab9",
+    "name": "Muon",
+    "symbol": "MUON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55232/thumb/_MUON.png?1744872447"
   }
 ]

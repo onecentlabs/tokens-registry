@@ -17694,5 +17694,45 @@
     "symbol": "ABE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50620/thumb/ABE.png?1728494431"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd769d56f479e9e72a77bb1523e866a33098feec5",
+    "name": "Base is for everyone",
+    "symbol": "BASEISFOREVERYONE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55231/thumb/baseisforeveryone.jpg?1744862972"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x60833f3d219f52c0f694ad76a94d1aa06a63d64a",
+    "name": "FOMOFox",
+    "symbol": "FOMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52122/thumb/FOMOFox_200x200.png?1732606586"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x34be5b8c30ee4fde069dc878989686abe9884470",
+    "name": "Sidus",
+    "symbol": "SIDUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21401/thumb/SIDUS_coin_logo.png?1696520765"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4552fa6b0d21b1b135ffa2a573a568d58300b5a9",
+    "name": "Sancho",
+    "symbol": "SANCHO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54962/thumb/Sancho_avatar.webp?1742893865"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2b11834ed1feaed4b4b3a86a6f571315e25a884d",
+    "name": "Moca Network",
+    "symbol": "MOCA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37812/thumb/moca.jpg?1720693068"
   }
 ]

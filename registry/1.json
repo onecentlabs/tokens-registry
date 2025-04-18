@@ -62858,5 +62858,29 @@
     "symbol": "BTR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194"
+  },
+  {
+    "chainId": 1,
+    "address": "0x737d461917ccf0fa28a52da30672e2ddc214f0bf",
+    "name": "OpenZK Network",
+    "symbol": "OZK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55224/thumb/Logo.png?1744801850"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9ac9468e7e3e1d194080827226b45d0b892c77fd",
+    "name": "Yee Token",
+    "symbol": "YEE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55226/thumb/Yee_Token.png?1744802626"
+  },
+  {
+    "chainId": 1,
+    "address": "0x769916a66fdac0e3d57363129caac59386ea622b",
+    "name": "Integritee",
+    "symbol": "TEER",
+    "decimals": 12,
+    "logoURI": "https://assets.coingecko.com/coins/images/21131/thumb/Logo_New.png?1697563774"
   }
 ]

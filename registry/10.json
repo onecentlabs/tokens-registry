@@ -5068,5 +5068,13 @@
       "opListId": "extended",
       "opTokenId": "BRZ"
     }
+  },
+  {
+    "chainId": 10,
+    "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
   }
 ]

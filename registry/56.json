@@ -14464,5 +14464,21 @@
     "decimals": 18,
     "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BUBB",
+    "name": "Bubb",
+    "decimals": 18,
+    "address": "0xd5369a3CaC0f4448A9A96bb98AF9c887c92fC37B",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xd5369a3CaC0f4448A9A96bb98AF9c887c92fC37B.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "FAIR3",
+    "name": "Fair and Free",
+    "decimals": 18,
+    "address": "0x6952c5408b9822295ba4a7e694d0C5FfDB8fE320",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6952c5408b9822295ba4a7e694d0C5FfDB8fE320.png"
   }
 ]
