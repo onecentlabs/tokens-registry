@@ -882,7 +882,7 @@
     "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/999.json",
     "metamask": {
       "chainId": "0x3e7",
-      "blockExplorerUrls": ["https://hypurrscan.io", "https://app.hyperliquid.xyz/explorer"],
+      "blockExplorerUrls": ["https://purrsec.com/", "https://app.hyperliquid.xyz/explorer"],
       "chainName": "HyperEVM",
       "nativeCurrency": {
         "name": "HYPE",
