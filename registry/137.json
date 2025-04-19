@@ -13393,5 +13393,13 @@
     "symbol": "WGC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 137,
+    "address": "0xbab4286b2bf88e070da0aae411a168059b040e7f",
+    "name": "Fourth Star",
+    "symbol": "FSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55246/thumb/fstr.jpeg?1744959128"
   }
 ]

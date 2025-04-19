@@ -17734,5 +17734,13 @@
     "symbol": "MOCA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37812/thumb/moca.jpg?1720693068"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x39c5c62a0b098de643f20a6514ca5ef012fc4a94",
+    "name": "WarpBeam",
+    "symbol": "WPLAY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55249/thumb/wplay_coingecko_200.png?1744963046"
   }
 ]
