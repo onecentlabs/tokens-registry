@@ -62898,5 +62898,37 @@
     "symbol": "CTM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55253/thumb/CTM_BL-2.jpg?1744964714"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd27418c366ccfc4bec6b66e6f08fe22bb7f09552",
+    "name": "Vero X",
+    "symbol": "VERX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55264/thumb/VeroX-Icon-2.png?1745050759"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f79dff082b6f4324528f5ded2d6b8aa6d576277",
+    "name": "Uncle Sam",
+    "symbol": "USAM",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/55258/thumb/35C90F01-19FD-4EC2-8DE4-C39E1C7DC212.png?1745047470"
+  },
+  {
+    "chainId": 1,
+    "address": "0x93a2db22b7c736b341c32ff666307f4a9ed910f5",
+    "name": "Hyperlane",
+    "symbol": "HYPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55298/thumb/Hyperlane.png?1745248900"
+  },
+  {
+    "chainId": 1,
+    "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+    "name": "WalletConnect Token",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
   }
 ]

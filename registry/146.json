@@ -721,5 +721,13 @@
     "symbol": "BES",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55186/thumb/beS.png?1744440042"
+  },
+  {
+    "chainId": 146,
+    "address": "0xf61ccfc0ec470b2595fa08132c0102968b36cabc",
+    "name": "SONAR",
+    "symbol": "SONAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55268/thumb/SONAR.JPG?1745113491"
   }
 ]

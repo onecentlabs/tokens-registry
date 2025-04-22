@@ -13401,5 +13401,13 @@
     "symbol": "FSTR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55246/thumb/fstr.jpeg?1744959128"
+  },
+  {
+    "chainId": 137,
+    "address": "0x2b3b16826719bf0b494c8ddebaa5e882093ee37e",
+    "name": "FibSwap DEX",
+    "symbol": "FIBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17306/thumb/coingeckofile.png?1696516859"
   }
 ]

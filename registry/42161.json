@@ -10832,5 +10832,13 @@
     "symbol": "MXNB",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/39136/thumb/MXNB_FULL.png?1720686155"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4",
+    "name": "Hyperlane",
+    "symbol": "HYPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55298/thumb/Hyperlane.png?1745248900"
   }
 ]

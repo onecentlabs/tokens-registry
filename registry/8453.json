@@ -17742,5 +17742,45 @@
     "symbol": "WPLAY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55249/thumb/wplay_coingecko_200.png?1744963046"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x89f4307eadb19d8fd01844f8598f7d31569c77fb",
+    "name": "NuroX",
+    "symbol": "NUROX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55284/thumb/image_2025-04-20_00-45-36.png?1745216054"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x75e3af8bc4a93739384e5db2bda42a4341bed6ca",
+    "name": "Cointpoit",
+    "symbol": "CP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55289/thumb/Screenshot_20250420_134552.jpg?1745217569"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd007c4c900d1df6caea2a4122f3d551d7dfe08b0",
+    "name": "Staicy Sport",
+    "symbol": "SPORT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55297/thumb/staicy-sport.jpg?1745229639"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4",
+    "name": "Hyperlane",
+    "symbol": "HYPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55298/thumb/Hyperlane.png?1745248900"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa7921e4c3dc8e38069061a07c08fc0d2a35b9e6f",
+    "name": "ZED Token",
+    "symbol": "ZED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26607/thumb/X_-_profile_image_-_ZEDTOKEN_%281%29.jpg?1745053571"
   }
 ]

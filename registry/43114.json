@@ -5138,5 +5138,13 @@
     "symbol": "MUON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55232/thumb/_MUON.png?1744872447"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x841aef70237a88027ccb2d15c1bbaf88a669674a",
+    "name": "Space Token",
+    "symbol": "SPACE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/20676/thumb/jYw3kgsY_400x400.png?1696520076"
   }
 ]
