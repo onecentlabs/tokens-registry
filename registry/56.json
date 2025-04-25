@@ -14496,5 +14496,29 @@
     "decimals": 18,
     "address": "0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "HYPER",
+    "name": "Hyperlane",
+    "decimals": 18,
+    "address": "0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SKYAI",
+    "name": "SKYAI",
+    "decimals": 18,
+    "address": "0x92aa03137385F18539301349dcfC9EbC923fFb10",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x92aa03137385F18539301349dcfC9EbC923fFb10.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "EPT",
+    "name": "Balance",
+    "decimals": 18,
+    "address": "0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c.png"
   }
 ]

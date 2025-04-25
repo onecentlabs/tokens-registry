@@ -17782,5 +17782,58 @@
     "symbol": "ZED",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26607/thumb/X_-_profile_image_-_ZEDTOKEN_%281%29.jpg?1745053571"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x66AE6198Dcd1B12A6e245356BA15B63d16F56BBe",
+    "name": "Polemos",
+    "symbol": "PLMS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PLMS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PLMS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1111111111166b7fe7bd91427724b487980afc69",
+    "name": "Zora",
+    "symbol": "ZORA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54693/thumb/zora.jpg?1741094751"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7dc542dd65d010ca588ef40a05bf3b27b899a594",
+    "name": "Cryptaine",
+    "symbol": "CRY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55340/thumb/cryptaine_presentationlikyellow.png?1745503572"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9ea01819f6fbd41cb004216680e73096eed56cbf",
+    "name": "Oxai",
+    "symbol": "OXAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55343/thumb/OXAI_Token_Logo_200x200.png?1745511956"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x795abcb2a9901f6ec510e18d40de08b84628c354",
+    "name": "AskTianAI",
+    "symbol": "TIAN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55320/thumb/AskTian_logo_%28200px%29.png?1745401171"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8c7568cc28ddac01ab6779daa4f6be66b1201dd0",
+    "name": "One World Chain",
+    "symbol": "OWCT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38585/thumb/1000123546.png?1718088756"
   }
 ]

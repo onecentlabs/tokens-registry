@@ -536,5 +536,13 @@
     "symbol": "AIBERA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55198/thumb/HoneyFunAI-LogoRebrand-200px.png?1744617530"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
+    "name": "Dolomite",
+    "symbol": "DOLO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54710/thumb/DOLO-small.png?1745398535"
   }
 ]

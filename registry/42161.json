@@ -10840,5 +10840,13 @@
     "symbol": "HYPER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55298/thumb/Hyperlane.png?1745248900"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0419e8bfbbb2623728c3a6129090da4ff4e48113",
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/1899/thumb/tel.png?1696502892"
   }
 ]

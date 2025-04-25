@@ -13409,5 +13409,13 @@
     "symbol": "FIBO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17306/thumb/coingeckofile.png?1696516859"
+  },
+  {
+    "chainId": 137,
+    "address": "0xe3fdd286e810a838da30e5872e841fe80729d101",
+    "name": "ReNeW",
+    "symbol": "RENEW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55304/thumb/Logo_200_200.png?1745309291"
   }
 ]

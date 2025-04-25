@@ -641,5 +641,13 @@
     "symbol": "WGC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 5000,
+    "address": "0xd0728f5b1f53a834f8dcd1b86f62ceb8726eb0a0",
+    "name": "Vertex",
+    "symbol": "VRTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27927/thumb/vrtx.png?1696526947"
   }
 ]

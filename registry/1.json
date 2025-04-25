@@ -62930,5 +62930,106 @@
     "symbol": "WCT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
+  },
+  {
+    "chainId": 1,
+    "address": "0x68614481AeF06e53D23bbe0772343fB555ac40c8",
+    "name": "Polemos",
+    "symbol": "PLMS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PLMS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "PLMS"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x38b0e3a59183814957d83df2a97492aed1f003e2",
+    "name": "Animal Concerts",
+    "symbol": "ANML",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22869/thumb/ANML_LogoAsset.png?1696522169"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9471d30d78a3c9f076ce206d14867a8d8be1efde",
+    "name": "ZENEX",
+    "symbol": "ZNX",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/29638/thumb/znx-logo.png?1696528575"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd85a68faa78b4431dce816c157b66fc9911b3612",
+    "name": "Infinaeon",
+    "symbol": "INF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55333/thumb/Infinaeon.jpg?1745478767"
+  },
+  {
+    "chainId": 1,
+    "address": "0x94a21565c923d2f75b3fcef158960a8b7e6ed07d",
+    "name": "MerchMinter",
+    "symbol": "MRCHR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55323/thumb/MerchMinter.jpg?1745401907"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbc4c5dff630a86b864bebf48f55faa626ef12323",
+    "name": "UNIT",
+    "symbol": "UNIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55326/thumb/UNIT_LOGO.png?1745423634"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa150376112dd24e873086b51347eddd5f2e147d5",
+    "name": "Grix",
+    "symbol": "GRIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55060/thumb/grix_logo_black-background.png?1743524648"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a43795941113c2f58eb487001f4f8ee74b6938a",
+    "name": "Stabull Finance",
+    "symbol": "STABUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55300/thumb/stabull-icon_1_.png?1745280165"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
+    "name": "Dolomite",
+    "symbol": "DOLO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54710/thumb/DOLO-small.png?1745398535"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9e3b5582b22e3835896368017baff6d942a41cd9",
+    "name": "Haven1",
+    "symbol": "H1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28771/thumb/haven1-colored-symbol_2x_%281%29.png?1696527751"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb841f365d5221bed66d60e69094418d8c2aa5a44",
+    "name": "Districts",
+    "symbol": "DSTRX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55327/thumb/districts_%282%29.jpg?1745430528"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd2e57e7019a8faea8b3e4a3738ee5b269975008a",
+    "name": "THAT",
+    "symbol": "THAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50896/thumb/that-icon-cgx2.png?1729507036"
   }
 ]

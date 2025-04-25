@@ -425,5 +425,18 @@
       "opListId": "extended",
       "opTokenId": "MVL"
     }
+  },
+  {
+    "chainId": 84532,
+    "address": "0xFEce410118e578dcBFd489e2B6fE5FeE390093D0",
+    "name": "Polemos",
+    "symbol": "PLMS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PLMS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PLMS"
+    }
   }
 ]
