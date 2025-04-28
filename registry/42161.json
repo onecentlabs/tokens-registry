@@ -10848,5 +10848,13 @@
     "symbol": "TEL",
     "decimals": 2,
     "logoURI": "https://assets.coingecko.com/coins/images/1899/thumb/tel.png?1696502892"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x53985d52936e8052b87035084fda74d832ad3c00",
+    "name": "PrimeFi",
+    "symbol": "PRFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445"
   }
 ]

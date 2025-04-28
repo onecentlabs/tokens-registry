@@ -17835,5 +17835,53 @@
     "symbol": "OWCT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38585/thumb/1000123546.png?1718088756"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0f1a9f3b8b971ac72a2d362cf2858f21fb799601",
+    "name": "SUISSMA AI by Virtuals",
+    "symbol": "SUISS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55383/thumb/_SUISS_Token_Logo.png?1745703247"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5a70be406ce7471a44f0183b8d7091f4ad751db5",
+    "name": "Sato The Dog",
+    "symbol": "SATO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55378/thumb/IMG_3596.jpeg?1745667975"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0000000f2eb9f69274678c76222b35eec7588a65",
+    "name": "Yield Optimizer USD",
+    "symbol": "YOUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55386/thumb/yoUSD.png?1745708461"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x36692131ccc0a478e26b3a1ada6447d95f79df21",
+    "name": "Baby Pepe",
+    "symbol": "BABYPEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55369/thumb/200kb_200x200px.png?1745665423"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x53985d52936e8052b87035084fda74d832ad3c00",
+    "name": "PrimeFi",
+    "symbol": "PRFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb146326778227a8498b105a18f84e0987a684b4",
+    "name": "Permission Coin",
+    "symbol": "ASK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12521/thumb/rjQjTU3c_400x400.jpg?1696512335"
   }
 ]

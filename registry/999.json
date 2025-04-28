@@ -153,5 +153,13 @@
     "name": "Hyperpie Staked HYPE",
     "symbol": "mHYPE",
     "decimals": 18
+  },
+  {
+    "chainId": 999,
+    "address": "0xb6b636627bccec61f24d1d3eb430397774c304fc",
+    "name": "PrimeFi",
+    "symbol": "PRFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445"
   }
 ]

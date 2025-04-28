@@ -63031,5 +63031,61 @@
     "symbol": "THAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50896/thumb/that-icon-cgx2.png?1729507036"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5accb2e5c22d84bc2e34decd9b769a0c46b0deba",
+    "name": "Midas of DeFi",
+    "symbol": "MIDAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55356/thumb/MIDAS_OF_DESI_LOGO-02.png?1745608603"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4d0528598f916fd1d8dc80e5f54a8feedcfd4b18",
+    "name": "Atoshi",
+    "symbol": "ATOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55359/thumb/ATOS.png?1745609448"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc71104001a3ccda1bef1177d765831bd1bfe8ee6",
+    "name": "Native Decentralized Euro Protocol Shar",
+    "symbol": "NDEPS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55366/thumb/DEPS-CoinLogo_256px.png?1745664471"
+  },
+  {
+    "chainId": 1,
+    "address": "0x67d9c7daecc5b87c3e68ac89f33ee924fac88c05",
+    "name": "Moo Cow",
+    "symbol": "MOOCOW",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55394/thumb/1000004222.jpg?1745745026"
+  },
+  {
+    "chainId": 1,
+    "address": "0x99d6ed75cddc1e47527613a4ce7c4a0a3526f183",
+    "name": "Buldak",
+    "symbol": "BUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55379/thumb/buldak-logo.jpg?1745680722"
+  },
+  {
+    "chainId": 1,
+    "address": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+    "name": "Sign",
+    "symbol": "SIGN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55303/thumb/sign.jpg?1745303393"
+  },
+  {
+    "chainId": 1,
+    "address": "0x53985d52936e8052b87035084fda74d832ad3c00",
+    "name": "PrimeFi",
+    "symbol": "PRFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445"
   }
 ]

@@ -5154,5 +5154,13 @@
     "symbol": "VRTX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/27927/thumb/vrtx.png?1696526947"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x22bc1c924a6174eb9b2c98035f8d2f20e8bc4a1e",
+    "name": "Supcoin",
+    "symbol": "SUP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55387/thumb/supcoin.jpg?1745740153"
   }
 ]

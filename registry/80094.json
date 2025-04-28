@@ -544,5 +544,13 @@
     "symbol": "DOLO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54710/thumb/DOLO-small.png?1745398535"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xf3530788deb3d21e8fa2c3cbbf93317fb38a0d3c",
+    "name": "Lair",
+    "symbol": "LAIR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55181/thumb/Lair_token.png?1744616096"
   }
 ]

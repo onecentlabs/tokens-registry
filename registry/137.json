@@ -13417,5 +13417,13 @@
     "symbol": "RENEW",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55304/thumb/Logo_200_200.png?1745309291"
+  },
+  {
+    "chainId": 137,
+    "address": "0x75c551ade6762b5ad4ebd50dca4238c9de4d357d",
+    "name": "Gamex Coin",
+    "symbol": "GXC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55361/thumb/WechatIMG5703.jpg?1745610104"
   }
 ]
