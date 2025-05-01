@@ -14528,5 +14528,37 @@
     "decimals": 18,
     "address": "0x55ad16Bd573B3365f43A9dAeB0Cc66A73821b4a5",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x55ad16Bd573B3365f43A9dAeB0Cc66A73821b4a5.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SIGN",
+    "name": "Sign",
+    "decimals": 18,
+    "address": "0x868FCEd65edBF0056c4163515dD840e9f287A4c3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x868FCEd65edBF0056c4163515dD840e9f287A4c3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MILK",
+    "name": "MilkyWay",
+    "decimals": 6,
+    "address": "0x7b4Bf9fEcCfF207eF2CB7101Ceb15b8516021AcD",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7b4Bf9fEcCfF207eF2CB7101Ceb15b8516021AcD.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "HAEDAL",
+    "name": "Haedal",
+    "decimals": 9,
+    "address": "0x3D9bE0aC1001cd81c32464276D863d2FFdCa4967",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x3D9bE0aC1001cd81c32464276D863d2FFdCa4967.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "B2",
+    "name": "BSquared Token",
+    "decimals": 18,
+    "address": "0x783c3f003f172c6Ac5AC700218a357d2D66Ee2a2",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x783c3f003f172c6Ac5AC700218a357d2D66Ee2a2.png"
   }
 ]

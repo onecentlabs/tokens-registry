@@ -63087,5 +63087,45 @@
     "symbol": "PRFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445"
+  },
+  {
+    "chainId": 1,
+    "address": "0x000000096cb3d4007fc2b79b935c4540c5c2d745",
+    "name": "Jigsaw USD",
+    "symbol": "JUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55405/thumb/Group_48095621.png?1745834144"
+  },
+  {
+    "chainId": 1,
+    "address": "0x323c03c48660fe31186fa82c289b0766d331ce21",
+    "name": "Open Stablecoin Index",
+    "symbol": "OPEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55406/thumb/Open-Token-Icon_200x200.png?1745839482"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe6bfd33f52d82ccb5b37e16d3dd81f9ffdabb195",
+    "name": "Space and Time",
+    "symbol": "SXT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55424/thumb/sxt-token_circle.jpg?1745935919"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7bbcf1b600565ae023a1806ef637af4739de3255",
+    "name": "PrimeFi",
+    "symbol": "PRFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5651fa7a726b9ec0cad00ee140179912b6e73599",
+    "name": "OORT",
+    "symbol": "OORT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34460/thumb/Token_Logo_Transparent_200x200.png?1704957692"
   }
 ]

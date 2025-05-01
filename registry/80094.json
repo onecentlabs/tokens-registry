@@ -552,5 +552,13 @@
     "symbol": "LAIR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55181/thumb/Lair_token.png?1744616096"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xb7e448e5677d212b8c8da7d6312e8afc49800466",
+    "name": "Goldilocks DAO",
+    "symbol": "LOCKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55422/thumb/Goldilocks_logo_no_text.png?1745919245"
   }
 ]

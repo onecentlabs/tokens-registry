@@ -5162,5 +5162,13 @@
     "symbol": "SUP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55387/thumb/supcoin.jpg?1745740153"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xacc95afa65768aa74044e6f6e267ad6417cd3e55",
+    "name": "Boi the Bear",
+    "symbol": "BOI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55397/thumb/Boi_the_Bear.jpg?1745825057"
   }
 ]

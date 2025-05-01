@@ -38,5 +38,18 @@
     "name": "WLD",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x163f8c2467924be0ae7b5347228cabf260318753/30ac094d49a4b6e7561810c16ddc8c69.png"
+  },
+  {
+    "chainId": 480,
+    "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+    "name": "Stargate USD₮0 (Bridged)",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "worldchainBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
+    }
   }
 ]

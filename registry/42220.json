@@ -473,5 +473,18 @@
       "opListId": "default",
       "opTokenId": "WBTC"
     }
+  },
+  {
+    "chainId": 42220,
+    "address": "0x3776228836bfcfc87cac36c28830b67759c02707",
+    "name": "Tether Gold",
+    "symbol": "XAUt",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/XAUt/logo.svg",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XAUt"
+    }
   }
 ]
