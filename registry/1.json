@@ -63127,5 +63127,53 @@
     "symbol": "OORT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34460/thumb/Token_Logo_Transparent_200x200.png?1704957692"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe5e0b73380181273abcfd88695f52c4d0c825661",
+    "name": "Impossible Cloud Network Token",
+    "symbol": "ICNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55484/thumb/Logo_-_Square_-_Transperent.png?1746260195"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd588099529386028455ab8d91dc82552e9e5aaf0",
+    "name": "Anju",
+    "symbol": "ANJU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55485/thumb/0xd588099529386028455ab8d91dc82552e9e5aaf0.jpg?1746261786"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb01b6a7ef8560017aa59a990e39f26b8df29f80f",
+    "name": "Module",
+    "symbol": "MODULE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55487/thumb/newp.png?1746262597"
+  },
+  {
+    "chainId": 1,
+    "address": "0x27cf096db452425c51daa356e7d9c574c75e8737",
+    "name": "PATIC",
+    "symbol": "PTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55455/thumb/patic.jpg?1746093449"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9fbc367b9bb966a2a537989817a088afcaffdc4c",
+    "name": "Nest Institutional Core",
+    "symbol": "NELIXIR",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55469/thumb/nELIXIR.png?1746208257"
+  },
+  {
+    "chainId": 1,
+    "address": "0x14862c03a0caccc1ab328b062e64e31b2a1afcd7",
+    "name": "SEDA",
+    "symbol": "SEDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36689/thumb/SEDA_Logo.png?1712087674"
   }
 ]

@@ -560,5 +560,13 @@
     "symbol": "LOCKS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55422/thumb/Goldilocks_logo_no_text.png?1745919245"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xd352dc6e5f0c45e2f2b38eb5565eb286a1ea4087",
+    "name": "Bedrock",
+    "symbol": "BR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54908/thumb/BR_200px.png?1742453499"
   }
 ]

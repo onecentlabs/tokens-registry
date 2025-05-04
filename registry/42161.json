@@ -10864,5 +10864,13 @@
     "symbol": "PRFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2e412435928efe43b156caa8f4b1068729fee275",
+    "name": "King Protocol",
+    "symbol": "KING",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51041/thumb/crown-circle.png?1738143389"
   }
 ]

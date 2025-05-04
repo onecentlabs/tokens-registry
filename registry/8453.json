@@ -17936,5 +17936,85 @@
     "symbol": "BONDETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55435/thumb/bondETH.png?1746012530"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2531ec1720e5d1bc82052585271d4be3f43e392f",
+    "name": "Based BOBR",
+    "symbol": "BOBR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55479/thumb/bobr-logo-transparent.png?1746258383"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x81f35261b90ad59a1277c0e94f8012371eaafcb9",
+    "name": "LadyLuck",
+    "symbol": "LUCKY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55458/thumb/20250428-171101.png?1746123879"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xacb31d2ee40e81720c6374097d2e1a9a8e3b7806",
+    "name": "EstaliaX",
+    "symbol": "ESXA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55489/thumb/estaliax-logo.jpg?1746273066"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x096746e984e57ae9a2922a08fc969bbe76963a72",
+    "name": "VitaNova",
+    "symbol": "SHOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55480/thumb/2yA3dpOv_400x400.jpg?1746259110"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1f95a616944d35824334fd1db25e55eb9c93f5e7",
+    "name": "TRADY",
+    "symbol": "TRADY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55482/thumb/DALL%C2%B7E_2024-11-21_23.37.38_-_A_flat_design_illustration_of_an_otter's_face_with_a_friendly_and_cheerful_expression._The_design_is_minimalist_and_uses_a_soft_pastel_color_palette___%281%29.jpg?1746259540"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x37d6080ca82e42db3cf94a6fd07416cdd419a4a4",
+    "name": "Based Hotdog",
+    "symbol": "BOTDOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55456/thumb/mining_dog.jpg?1746123454"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x14b2f229097df3c92b43ea871860e3fae08d7f06",
+    "name": "Rob Banks",
+    "symbol": "BANKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55447/thumb/Rob_Banks_%28_BANKS%29_token_icon_logo_%28200x200%29.png?1746055815"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe22c243c7559c667a1eb94b593369d192c5fbac0",
+    "name": "King Protocol",
+    "symbol": "KING",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51041/thumb/crown-circle.png?1738143389"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4eed0d2deb4c588393c80869b122327581b0d98e",
+    "name": "Jackal Protocol",
+    "symbol": "JKL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/28025/thumb/coingeckoJKL.png?1718409293"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x306acd0c07c430abbbb2e74ef7bde94f32a898c0",
+    "name": "SEDA",
+    "symbol": "SEDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36689/thumb/SEDA_Logo.png?1712087674"
   }
 ]
