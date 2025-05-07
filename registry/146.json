@@ -753,5 +753,13 @@
     "symbol": "MCLB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55426/thumb/MCLB.jpg?1745946696"
+  },
+  {
+    "chainId": 146,
+    "address": "0xe8c962493104b71f1bf22bc415e02ed3ef685c26",
+    "name": "Wrapped SAFU",
+    "symbol": "WSAFU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55496/thumb/Frame_1116602414.png?1746352304"
   }
 ]

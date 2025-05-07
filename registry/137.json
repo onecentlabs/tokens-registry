@@ -13425,5 +13425,13 @@
     "symbol": "GXC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55361/thumb/WechatIMG5703.jpg?1745610104"
+  },
+  {
+    "chainId": 137,
+    "address": "0x774b9dd3977a7556bf16cc22b74b2991e4511e13",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
   }
 ]

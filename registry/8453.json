@@ -18016,5 +18016,77 @@
     "symbol": "SEDA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36689/thumb/SEDA_Logo.png?1712087674"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd3b0b58ec9516e4b875a075328e2cb059d4d54db",
+    "name": "ArchAI",
+    "symbol": "ARCHAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55531/thumb/arch400x400.jpg?1746547815"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb5d409f6e679b0f89a669ac9714173177683eb7c",
+    "name": "Christ Is King",
+    "symbol": "CIK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55530/thumb/IMG_2564.PNG?1746544876"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x73cb479f2ccf77bad90bcda91e3987358437240a",
+    "name": "BasisOS by Virtuals",
+    "symbol": "BIOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55534/thumb/8K7xbWmZ_400x400.jpg?1746558482"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9818b6c09f5ecc843060927e8587c427c7c93583",
+    "name": "RIZE",
+    "symbol": "RIZE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55521/thumb/RIZE_Logo_200x200.png?1746488284"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x80f4d22aa2437fa0dd4634b505ac3668835d9b84",
+    "name": "Michael Taolor           ",
+    "symbol": "TAOLOR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55502/thumb/MichaelTaolorPFP_200x200.png?1746427569"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9f44218d487bff2f81bef45202601df4bd4d1055",
+    "name": "Architex",
+    "symbol": "ARCX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36026/thumb/arcx.jpeg?1710387472"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x03ceac3c28e353f5e4626c1242a6c7a41d004354",
+    "name": "BYTE",
+    "symbol": "BYTE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55507/thumb/photo_2025-05-03_18-22-47.jpg?1746434529"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf5de8697232a16a942f7cf706415f553ce53e27f",
+    "name": "BLCK Coin",
+    "symbol": "BLCK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55493/thumb/IMG_9656.jpeg?1746348568"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x774b9dd3977a7556bf16cc22b74b2991e4511e13",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
   }
 ]

@@ -10872,5 +10872,36 @@
     "symbol": "KING",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51041/thumb/crown-circle.png?1738143389"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9c1a1C7bA9c2602123FD7EF3eb41a769edf6C53A",
+    "name": "Mantle",
+    "symbol": "MNT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30980/large/Mantle-Logo-mark.png?1739213200",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x3c3a81e81dc49A522A592e7622A7E711c06bf354"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
+    "name": "Nest Treasury Vault",
+    "symbol": "NTBILL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55513/thumb/nTBILL-token.png?1746437745"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x774b9dd3977a7556bf16cc22b74b2991e4511e13",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
   }
 ]

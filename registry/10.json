@@ -5084,5 +5084,13 @@
     "symbol": "HYPER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55298/thumb/Hyperlane.png?1745248900"
+  },
+  {
+    "chainId": 10,
+    "address": "0x774b9dd3977a7556bf16cc22b74b2991e4511e13",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
   }
 ]
