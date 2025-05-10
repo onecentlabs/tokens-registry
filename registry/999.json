@@ -61,6 +61,18 @@
   },
   {
     "chainId": 999,
+    "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://app.hypurr.fi/tokens/usdt0.svg",
+    "tags": [
+      "STABLE",
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 999,
     "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
     "name": "Ethena USDe",
     "symbol": "USDe",
