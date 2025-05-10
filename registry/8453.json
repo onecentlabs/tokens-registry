@@ -18088,5 +18088,85 @@
     "symbol": "SCAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x55ff51da774b8ce0ed1abaed1cb76236bc6b2f16",
+    "name": "Voice of the Gods by Virtuals",
+    "symbol": "ADM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55551/thumb/s1CGEw5S_400x400.jpg?1746647321"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61bebce04b9bd9bc333127b7058bb5458b3421e6",
+    "name": "Pilot3",
+    "symbol": "PTAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55537/thumb/Untitled_design.png?1746584090"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x25fbfff98d07fe586ea91953a5106e612c8b9e03",
+    "name": "Baby Sato",
+    "symbol": "BABYSATO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55553/thumb/6usIHpuk_400x400.jpg?1746648281"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2f74f818e81685c8086dd783837a4605a90474b8",
+    "name": "Crestal Nation",
+    "symbol": "NATION",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55598/thumb/Layer_1.png?1746856514"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x78aca94075efdfa7220cd7aae02ac1488a8c5134",
+    "name": "Henlo Kart",
+    "symbol": "KART",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55597/thumb/_KART_logo_cropped.png?1746835671"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfb7a83abe4f4a4e51c77b92e521390b769ff6467",
+    "name": "Ethermax",
+    "symbol": "MAXX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55552/thumb/sHqed-GQ_400x400.png?1746647602"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x83190636c344cf1220ffcbfc0c1198f7867b3667",
+    "name": "JOOCE Memecoin Index",
+    "symbol": "JMX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55641/thumb/JMX_dex_logo_blue_bg.png?1746863772"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3b313f5615bbd6b200c71f84ec2f677b94df8674",
+    "name": "Gloria AI",
+    "symbol": "GLORIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55576/thumb/gloria_logo_token.png?1746775041"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x77a4b0bfe5c7257f67a1de1b99aa7e157035b1b2",
+    "name": "Token 7007",
+    "symbol": "7007",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55626/thumb/7007_Black_Logo.png?1746862370"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9a574ea719b5e69df7c783d15c9514a26f3faf53",
+    "name": "RWAI by Virtuals",
+    "symbol": "RWAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54108/thumb/Picture1.png?1738307034"
   }
 ]

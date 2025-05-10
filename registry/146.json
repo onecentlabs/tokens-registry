@@ -761,5 +761,37 @@
     "symbol": "WSAFU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55496/thumb/Frame_1116602414.png?1746352304"
+  },
+  {
+    "chainId": 146,
+    "address": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
+    "name": "Aave USDC  Sonic ",
+    "symbol": "ASONUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55659/thumb/aSonUSDC_200x200.png?1746866473"
+  },
+  {
+    "chainId": 146,
+    "address": "0x614914b028a7d1fd4fab1e5a53a3e2df000bcb0e",
+    "name": "dTRINITY S",
+    "symbol": "DS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55573/thumb/dS.png?1746774377"
+  },
+  {
+    "chainId": 146,
+    "address": "0x53a6abb52b2f968fa80df6a894e4f1b1020da975",
+    "name": "dTRINITY USD",
+    "symbol": "DUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462"
+  },
+  {
+    "chainId": 146,
+    "address": "0xb098afc30fce67f1926e735db6fdadfe433e61db",
+    "name": "Silo Finance",
+    "symbol": "SILO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55596/thumb/silo.png?1746815000"
   }
 ]

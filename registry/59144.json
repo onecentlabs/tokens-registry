@@ -1109,5 +1109,13 @@
     "symbol": "WGC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "name": "Solv Protocol Staked BTC",
+    "symbol": "XSOLVBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824"
   }
 ]

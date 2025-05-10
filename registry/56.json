@@ -14584,5 +14584,13 @@
     "decimals": 18,
     "address": "0x5b73A93b4E5e4f1FD27D8b3F8C97D69908b5E284",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x5b73A93b4E5e4f1FD27D8b3F8C97D69908b5E284.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "DONKEY",
+    "name": "donkey",
+    "decimals": 18,
+    "address": "0xA49fA5E8106E2d6d6a69E78df9B6A20AaB9c4444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA49fA5E8106E2d6d6a69E78df9B6A20AaB9c4444.png"
   }
 ]

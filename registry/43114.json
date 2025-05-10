@@ -5186,5 +5186,13 @@
     "symbol": "H4SH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55490/thumb/H4SH_logo.png?1746347187"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xcac4904e1db1589aa17a2ec742f5a6bcf4c4d037",
+    "name": "Erol Musk",
+    "symbol": "EROL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55617/thumb/LOGO_1_V2.png_1_ku%CC%88c%CC%A7u%CC%88k_200x200.png?1746859253"
   }
 ]

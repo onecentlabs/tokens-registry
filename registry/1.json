@@ -63255,5 +63255,101 @@
     "symbol": "SCAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9c4ab3c926ad52e1281f6e8783cb4fe4512c5e3f",
+    "name": "Cellex",
+    "symbol": "CELLEX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55566/thumb/200x200.png?1746721431"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfb70859efec2ceb84dd4935a0842aa69290020bc",
+    "name": "Pairs",
+    "symbol": "PAIRS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55557/thumb/3F_G-jM8_400x400.jpg?1746672246"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb4371da53140417cbb3362055374b10d97e420bb",
+    "name": "Carbon Protocol",
+    "symbol": "SWTH",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/3645/thumb/SWTH_Symbol_Origin.png?1696504327"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf816507e690f5aa4e29d164885eb5fa7a5627860",
+    "name": "Rato The Rat",
+    "symbol": "RATO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55583/thumb/Oy5yMkyC_400x400.jpg?1746798218"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
+    "name": "Velora",
+    "symbol": "VLR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55593/thumb/PNG_Round.png?1746809175"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf0b2dd79324a66d2108c961d680f7616e1486bb0",
+    "name": "Silo Finance",
+    "symbol": "SILO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55596/thumb/silo.png?1746815000"
+  },
+  {
+    "chainId": 1,
+    "address": "0x547213367cfb08ab418e7b54d7883b2c2aa27fd7",
+    "name": "Anzen Staked USDz",
+    "symbol": "SUSDZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38040/thumb/susdz-symbol-200x200.png?1716334492"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdddd73f5df1f0dc31373357beac77545dc5a6f3f",
+    "name": "Plume USD",
+    "symbol": "PUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55542/thumb/pUSD-token.png?1746610746"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9b784f7fd6c888463666eb2c05aa6e61628e06b2",
+    "name": "BOSS FIGHTERS Token",
+    "symbol": "BFTOKEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55547/thumb/BFT_256x256.png?1746630882"
+  },
+  {
+    "chainId": 1,
+    "address": "0x593ccca4c4bf58b7526a4c164ceef4003c6388db",
+    "name": "Nest Alpha Vault",
+    "symbol": "NALPHA",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55541/thumb/nALPHA-token.png?1746610637"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc7f380530c789f61dff8b022874e5185076cc1fb",
+    "name": "Pectra Giraffe",
+    "symbol": "GPECTRA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55645/thumb/gpectra_200.jpg?1746864092"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0e7779e698052f8fe56c415c3818fcf89de9ac6d",
+    "name": "Ultiverse",
+    "symbol": "ULTI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37141/thumb/ultiverse.jpeg?1713421569"
   }
 ]

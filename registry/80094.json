@@ -568,5 +568,13 @@
     "symbol": "BR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54908/thumb/BR_200px.png?1742453499"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6b26f778bfae56cfb4bf9b62c678d9d40e725227",
+    "name": "HarryPotterObamaSonic10Inu  ETH ",
+    "symbol": "BITCOIN",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/30323/thumb/hpos10i_logo_casino_night-dexview.png?1696529224"
   }
 ]

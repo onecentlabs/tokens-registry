@@ -13433,5 +13433,21 @@
     "symbol": "SCAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 137,
+    "address": "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
+    "name": "Solv Protocol BTC",
+    "symbol": "SOLVBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684"
+  },
+  {
+    "chainId": 137,
+    "address": "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077",
+    "name": "Solv Protocol Staked BTC",
+    "symbol": "XSOLVBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824"
   }
 ]
