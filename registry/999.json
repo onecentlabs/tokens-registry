@@ -61,6 +61,18 @@
   },
   {
     "chainId": 999,
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "name": "Ethena USDe",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png",
+    "tags": [
+      "STABLE",
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 999,
     "address": "0xb5fe77d323d69eb352a02006ea8ecc38d882620c",
     "name": "KEI Stablecoin",
     "symbol": "KEI",
