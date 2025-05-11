@@ -63351,5 +63351,13 @@
     "symbol": "ULTI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37141/thumb/ultiverse.jpeg?1713421569"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3f40514a01fe69943c84416f528bc73f323f02cd",
+    "name": "QU3ai",
+    "symbol": "QU3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55661/thumb/QU3_Sign_AVA_1.png?1746946172"
   }
 ]
