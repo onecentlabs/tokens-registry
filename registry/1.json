@@ -63359,5 +63359,69 @@
     "symbol": "QU3",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55661/thumb/QU3_Sign_AVA_1.png?1746946172"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdea736937d464d288ec80138bcd1a2e109a200e3",
+    "name": "Nest ETF Vault",
+    "symbol": "NETF",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55574/thumb/nETF-token.png?1746774786"
+  },
+  {
+    "chainId": 1,
+    "address": "0x02cdb5ccc97d5dc7ed2747831b516669eb635706",
+    "name": "Nest BTC Vault",
+    "symbol": "NBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/55575/thumb/nBTC-token.png?1746774818"
+  },
+  {
+    "chainId": 1,
+    "address": "0x103c45ffcf40f481a318480718501527929a89c3",
+    "name": "FRAGMA",
+    "symbol": "FRAGMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55664/thumb/PFP.png?1746960843"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfc7ea2eb0e0ba0d1d1951ce0a12999f761cfdb98",
+    "name": "Mato The Mouse",
+    "symbol": "MATO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55672/thumb/Mato_The_Mouse.jpg?1746963754"
+  },
+  {
+    "chainId": 1,
+    "address": "0xed291c4ea45be02481e7f8359caada27d5909f42",
+    "name": "Traceon AI",
+    "symbol": "TOAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55688/thumb/1000092033.jpg?1747033931"
+  },
+  {
+    "chainId": 1,
+    "address": "0x962c8a85f500519266269f77dffba4cea0b46da1",
+    "name": "Strawberry In Bloom",
+    "symbol": "BERRY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55683/thumb/berry.jpg?1746983682"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd86830e9c56785e2b703eb0029ae71a943e4d442",
+    "name": "Kobushi",
+    "symbol": "KOBUSHI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55685/thumb/kobushi1_%281%29.png?1746984806"
+  },
+  {
+    "chainId": 1,
+    "address": "0x781db9a4d8ae055571e8796dd4423bc13cee5dd6",
+    "name": "DeCenter AI",
+    "symbol": "DEAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55693/thumb/DeAI_cg.png?1747039131"
   }
 ]

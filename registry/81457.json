@@ -1627,5 +1627,69 @@
     "symbol": "YNETHX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x30c7b9f4cd589203d250ad165651e82e338cb5bb",
+    "name": "Few Wrapped Juice",
+    "symbol": "FWJUICE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55677/thumb/juice-logo.png?1746978537"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x66714db8f3397c767d0a602458b5b4e3c0fe7dd1",
+    "name": "Few Wrapped Wrapped Ether",
+    "symbol": "FWWETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55674/thumb/wrapped-eth-logo.png?1746978129"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x04d4fd245acd3d7b3a1126ae27173fca354f658b",
+    "name": "Few Wrapped Duo USD",
+    "symbol": "FWDUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55678/thumb/usdb-logo.png?1746978644"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x866f2c06b83df2ed7ca9c2d044940e7cd55a06d6",
+    "name": "Few Wrapped USDB",
+    "symbol": "FWUSDB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55673/thumb/usdb-logo.png?1746977964"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x97ecad323f63060df37ff0cf05350803db4d17bd",
+    "name": "Few Wrapped Wrapped BTC",
+    "symbol": "FWWBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55679/thumb/wrapped-btc-logo.png?1746978816"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xb0de93a54da8a2cfcde44a06f797ab2fb9d39fb8",
+    "name": "Few Wrapped Duo ETH",
+    "symbol": "FWDETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55680/thumb/duo-eth-logo.png?1746978931"
+  },
+  {
+    "chainId": 81457,
+    "address": "0xb1e4e8b433c76c1fd42bd3099a5e5817fff69fe4",
+    "name": "Few Wrapped Blast",
+    "symbol": "FWBLAST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55675/thumb/blast-logo.png?1746978286"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x35b1cd11b684c7a9e1aa8d34e6b2a500310ec35c",
+    "name": "Few Wrapped Orbit Protocol",
+    "symbol": "FWORBIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55676/thumb/orbit-protocol-logo.png?1746978419"
   }
 ]

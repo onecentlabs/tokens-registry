@@ -5194,5 +5194,13 @@
     "symbol": "EROL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55617/thumb/LOGO_1_V2.png_1_ku%CC%88c%CC%A7u%CC%88k_200x200.png?1746859253"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc09a033927f9fd558c92cf7aeabe34b71ce4b31e",
+    "name": "PLYR L1",
+    "symbol": "PLYR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50507/thumb/logo_exchange.png?1728008614"
   }
 ]

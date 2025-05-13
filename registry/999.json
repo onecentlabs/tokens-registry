@@ -209,5 +209,13 @@
     "symbol": "XSOLVBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824"
+  },
+  {
+    "chainId": 999,
+    "address": "0xcb0ac0aa94c67dde8688ac34c8e4d6c18e78b638",
+    "name": "LiquidScan",
+    "symbol": "LQSCAN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55686/thumb/7210ad01-56a9-4ca5-9b71-466a43fe34ec.jpg?1747033308"
   }
 ]

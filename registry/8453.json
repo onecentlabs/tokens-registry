@@ -18168,5 +18168,21 @@
     "symbol": "RWAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54108/thumb/Picture1.png?1738307034"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf697a91e2fbf7f0f6c09c9b32d6523628ec5d3f6",
+    "name": "Ample",
+    "symbol": "AMPD",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55668/thumb/ample-ICON-01.png?1746962135"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380",
+    "name": "Flower",
+    "symbol": "FLOWER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55689/thumb/flower_200.png?1747034605"
   }
 ]

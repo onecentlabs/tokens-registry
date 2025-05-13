@@ -14592,5 +14592,13 @@
     "decimals": 18,
     "address": "0xA49fA5E8106E2d6d6a69E78df9B6A20AaB9c4444",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xA49fA5E8106E2d6d6a69E78df9B6A20AaB9c4444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PUFFER",
+    "name": "PUFFER",
+    "decimals": 18,
+    "address": "0x87d00066cf131ff54B72B134a217D5401E5392b6",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x87d00066cf131ff54B72B134a217D5401E5392b6.png"
   }
 ]
