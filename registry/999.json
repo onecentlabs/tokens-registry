@@ -133,6 +133,22 @@
   },
   {
     "chainId": 999,
+    "address": "0x28245AB01298eaEf7933bC90d35Bd9DbCA5C89DB",
+    "name": "Peg",
+    "symbol": "PEG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/curvefi/curve-assets/d1ce7a26b64f4189427a153d4175f399b862b8b0/images/assets-hyperliquid/0x28245ab01298eaef7933bc90d35bd9dbca5c89db.png"
+  },
+  {
+    "chainId": 999,
+    "address": "0x8fF0dd9f9C40a0d76eF1BcFAF5f98c1610c74Bd8",
+    "name": "Hyperstable",
+    "symbol": "USH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/curvefi/curve-assets/d1ce7a26b64f4189427a153d4175f399b862b8b0/images/assets-hyperliquid/0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8.png"
+  },
+  {
+    "chainId": 999,
     "address": "0x47bb061c0204af921f43dc73c7d7768d2672ddee",
     "name": "alright buddy",
     "symbol": "BUDDY",
