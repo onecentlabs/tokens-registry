@@ -11351,5 +11351,165 @@
     "symbol": "SILO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55596/thumb/silo.png?1746815000"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd812b37181ae89801e4bb3f49e4c1faf11fc0b57",
+    "name": "Wrapped Abbott xStock",
+    "symbol": "WABTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55772/thumb/Ticker_ABT__Company_Name_Abbot__size_200x200_2x.png?1747330846"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa2b1335256cd663da89f650180508dd1f0dc3baa",
+    "name": "Wrapped Bank of America xStock",
+    "symbol": "WBACX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55778/thumb/Ticker_BAC__Company_Name_Bank_of_America_Corporation__size_200x200_2x.png?1747331461"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa150245f155778e749185c9446e9e59e406674ef",
+    "name": "Wrapped Berkshire Hathaway xStock",
+    "symbol": "WBRKBX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55779/thumb/Ticker_BRK.B__Company_Name_berkshire-hathaway__size_200x200_2x.png?1747331467"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd1a01e3f9c7565e88b1cf2413ba0a0e671e57b33",
+    "name": "Wrapped Comcast xStock",
+    "symbol": "WCMCSAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55780/thumb/Ticker_CMCSA__Company_Name_Comcast__size_200x200_2x.png?1747331471"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3a98e79cdc7d8b2716a8696e25af028e429f11da",
+    "name": "Wrapped Coinbase xStock",
+    "symbol": "WCOINX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55781/thumb/Ticker_COIN__Company_Name_Coinbase__size_200x200_2x.png?1747331475"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc6b6b8d50a6673c04c495e30b411da5a7adf39f5",
+    "name": "Wrapped Salesforce xStock",
+    "symbol": "WCRMX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55782/thumb/Ticker_CRM__Company_Name_SP500__size_200x200_2x.png?1747331479"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd71a6adbc40c2674591cdb11b8c7ae03a880b06e",
+    "name": "Wrapped CrowdStrike xStock",
+    "symbol": "WCRWDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55783/thumb/Ticker_CRWD__Company_Name_Crowdstrike__size_200x200_2x.png?1747331482"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xcfa485bc42c2492917351f89f5cf5c7b2c5a66aa",
+    "name": "Wrapped Cisco xStock",
+    "symbol": "WCSCOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55784/thumb/Ticker_CSCO__Company_Name_Cisco_Systems_Inc.__size_200x200_2x.png?1747331507"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd17e483364d849e3b3a52464bb2ca56626edfc31",
+    "name": "Wrapped AppLovin xStock",
+    "symbol": "WAPPX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55775/thumb/Ticker_APP__Company_Name_app_lovin__size_200x200_2x.png?1747331322"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8deb752aaa807e0258afd5ccffe2b5a804026f28",
+    "name": "Wrapped Broadcom xStock",
+    "symbol": "WAVGOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55776/thumb/Ticker_AVGO__Company_Name_Broadcom_Inc.__size_200x200_2x.png?1747331337"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb908feaeab7e671db697d77c3acfd8859e92a4e2",
+    "name": "Wrapped AstraZeneca xStock",
+    "symbol": "WAZNX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55777/thumb/Ticker_AZN__Company_Name_astrazeneca__size_200x200_2x.png?1747331356"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xac85d37acbadca37545e21ab0fb991bce8c1187c",
+    "name": "Wrapped Amazon xStock",
+    "symbol": "WAMZNX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55774/thumb/Ticker_AMZN__Company_Name_Amazon.com_Inc.__size_200x200_2x.png?1747331302"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x05905af7933f89280ab258919f0dfa056ced8e43",
+    "name": "Clutch",
+    "symbol": "CLUTCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54708/thumb/clutch.jpg?1741140872"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5aa7649fdbda47de64a07ac81d64b682af9c0724",
+    "name": "Wrapped Apple xStock",
+    "symbol": "WAAPLX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55769/thumb/Ticker_AAPL__Company_Name_Apple_Inc.__size_200x200_2x.png?1747330791"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc262bea18cb810cc7715ee48fe3cbd3d79b4afe1",
+    "name": "Wrapped Accenture xStock",
+    "symbol": "WACNX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55773/thumb/Ticker_ACN__Company_Name_accenture__size_200x200_2x.png?1747331284"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x93e62845c1dd5822ebc807ab71a5fb750decd15a",
+    "name": "Wrapped NVIDIA xStock",
+    "symbol": "WNVDAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55770/thumb/Ticker_NVDA__Company_Name_NVIDIA_Corp__size_200x200_2x.png?1747330806"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5cc079963fb70c0f987f65f539e3b61a6ebdf6db",
+    "name": "Wrapped AbbVie xStock",
+    "symbol": "WABBVX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55771/thumb/Ticker_ABBV__Company_Name_SP500__size_200x200_2x.png?1747330824"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
+    "name": "Wrapped Solana  Universal ",
+    "symbol": "USOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39987/thumb/UA-SOL_1.png?1725027946"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
+    "name": "Wrapped SUI  Universal ",
+    "symbol": "USUI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50482/thumb/UA-SUI-PAD.png?1727888681"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
+    "name": "Wrapped XRP  Universal ",
+    "symbol": "UXRP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51658/thumb/UA-XRP_1.png?1731703523"
   }
 ]

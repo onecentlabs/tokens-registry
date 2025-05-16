@@ -14600,5 +14600,21 @@
     "decimals": 18,
     "address": "0x87d00066cf131ff54B72B134a217D5401E5392b6",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x87d00066cf131ff54B72B134a217D5401E5392b6.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PRAI",
+    "name": "Privasea AI",
+    "decimals": 18,
+    "address": "0x899357E54C2c4b014ea50A9A7Bf140bA6Df2eC73",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x899357E54C2c4b014ea50A9A7Bf140bA6Df2eC73.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "NXPC",
+    "name": "NXPC",
+    "decimals": 18,
+    "address": "0xf2b51CC1850fEd939658317a22d73d3482767591",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xf2b51CC1850fEd939658317a22d73d3482767591.png"
   }
 ]

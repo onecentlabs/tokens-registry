@@ -438,5 +438,18 @@
       "opListId": "extended",
       "opTokenId": "PLMS"
     }
+  },
+  {
+    "chainId": 84532,
+    "address": "0xF8c91a56db8485FCee21c5bf6345B063Cf4228F6",
+    "name": "BTREE",
+    "symbol": "BTREE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTREE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BTREE"
+    }
   }
 ]

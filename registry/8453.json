@@ -18184,5 +18184,74 @@
     "symbol": "FLOWER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55689/thumb/flower_200.png?1747034605"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1b745230a0320470a9af55bb0a67c47c90978a14",
+    "name": "Subvault Token Shares",
+    "symbol": "STS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/STS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "STS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf42c45e5b79c9564c95a9b8641518a58b0d089de",
+    "name": "FRENCHIE",
+    "symbol": "FREN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55740/thumb/Frenchie_LOGO_tracing.png?1747286881"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd3f68c6e8aee820569d58adf8d85d94489315192",
+    "name": "Redacted",
+    "symbol": "RDAC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55498/thumb/cg.png?1746353177"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x047157cffb8841a64db93fd4e29fa3796b78466c",
+    "name": "Scout Protocol Token",
+    "symbol": "DEV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55726/thumb/dev_token_icon_256.png?1747239363"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdcaa5e062b2be18e52ea6ed7ba232538621ddc10",
+    "name": "Aurra by Virtuals",
+    "symbol": "AURA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55744/thumb/black_icon.png?1747287977"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x33479a07983561ab5e27ad435399fc88159eea8b",
+    "name": "Kolwaii by Virtuals",
+    "symbol": "VIBES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53986/thumb/vibes.png?1747114714"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd46e2edc7314ee5cb69f86ab7b0e84e349971efb",
+    "name": "Ape Man",
+    "symbol": "APEMAN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/53603/thumb/2025-01-14_09.43.33.jpg?1736852368"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1b5f7fa46ed0f487f049c42f374ca4827d65a264",
+    "name": "Decentralized Euro",
+    "symbol": "DEURO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55108/thumb/dEuro_CoinLogo_200px.png?1743753944"
   }
 ]

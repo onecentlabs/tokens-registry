@@ -63423,5 +63423,93 @@
     "symbol": "DEAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55693/thumb/DeAI_cg.png?1747039131"
+  },
+  {
+    "chainId": 1,
+    "address": "0x24ace0aa510a4cf8d892e70d538001f84f5b5f3a",
+    "name": "Ludus",
+    "symbol": "LUDUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55760/thumb/coingecko1.png?1747327471"
+  },
+  {
+    "chainId": 1,
+    "address": "0x05a275ed9edf4378ac54928379ee6bc6e8900e4c",
+    "name": "USDV",
+    "symbol": "USDV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55700/thumb/V_%282%29.png?1747104136"
+  },
+  {
+    "chainId": 1,
+    "address": "0x92d3447e956613ee066ad5b4077a8c6e66424d5d",
+    "name": "AI Agent Factory",
+    "symbol": "AIAF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55720/thumb/Screenshot_2025-05-12_alle_11.58.38.png?1747234637"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4c6dfa353b67832a23d26e17b0737819c624437c",
+    "name": "Meana Raptor",
+    "symbol": "MRT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55731/thumb/photo_2025-02-24_22.34.39-2-2.png?1747242712"
+  },
+  {
+    "chainId": 1,
+    "address": "0x83f4389ccce1cc044dd7441add33c4f28b967434",
+    "name": "DRX",
+    "symbol": "DRX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55734/thumb/IMG_20250513_141550_538.jpg?1747244408"
+  },
+  {
+    "chainId": 1,
+    "address": "0xec2fbe79236fa86bf2aa5d674dea20e2a1e7b01a",
+    "name": "Mavryk Network",
+    "symbol": "MVRK",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55736/thumb/Logo_%281%29.png?1747244634"
+  },
+  {
+    "chainId": 1,
+    "address": "0x666acd390fa42d5bf86e9c42dc2fa6f6b4b2d8ab",
+    "name": "Gorth",
+    "symbol": "GORTH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55741/thumb/Gorth.jpg?1747287228"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1b887c8621ed207d831b846951a80474fb17a31d",
+    "name": "GearUp",
+    "symbol": "GUP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55750/thumb/0x1b887c8621ed207d831b846951a80474fb17a31d.jpg?1747290913"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd444b0d1dceedd7b0993ed04351a491d47048fc4",
+    "name": "RWADepin Protocol",
+    "symbol": "SUIRWAPIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55721/thumb/blue_to_be_used.png?1747234872"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc114678c6e4654d041b2006c90f08478b444c4e2",
+    "name": "edeXa",
+    "symbol": "EDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52589/thumb/edeXa-EDX.png?1733715873"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa4392e3cef22679fa36704d37e5a8192cf8350f2",
+    "name": "aiSUI",
+    "symbol": "SUIAGENT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55754/thumb/suiagent-logo.jpg?1747296195"
   }
 ]

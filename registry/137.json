@@ -13449,5 +13449,29 @@
     "symbol": "XSOLVBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824"
+  },
+  {
+    "chainId": 137,
+    "address": "0x1bdf71ede1a4777db1eebe7232bcda20d6fc1610",
+    "name": "Whalebit",
+    "symbol": "CES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55725/thumb/Whalebit_Logo.png?1747238624"
+  },
+  {
+    "chainId": 137,
+    "address": "0x784665471bb8b945b57a76a9200b109ee214e789",
+    "name": "Krasnalcoin",
+    "symbol": "KC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55749/thumb/Sizer200.png?1747290745"
+  },
+  {
+    "chainId": 137,
+    "address": "0xb424f20a80117472175f03853e2901f6fb0c0016",
+    "name": "Quick Drop",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55758/thumb/quick.jpg?1747302573"
   }
 ]
