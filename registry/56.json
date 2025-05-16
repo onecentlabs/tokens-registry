@@ -14616,5 +14616,13 @@
     "decimals": 18,
     "address": "0xf2b51CC1850fEd939658317a22d73d3482767591",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xf2b51CC1850fEd939658317a22d73d3482767591.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "AGT",
+    "name": "Alaya Governance Token",
+    "decimals": 18,
+    "address": "0x5dBde81fcE337FF4bcaaEe4Ca3466C00aeCaE274",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5dBde81fcE337FF4bcaaEe4Ca3466C00aeCaE274.png"
   }
 ]

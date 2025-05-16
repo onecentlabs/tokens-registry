@@ -63511,5 +63511,37 @@
     "symbol": "SUIAGENT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55754/thumb/suiagent-logo.jpg?1747296195"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8258df28cbaa51199c0a8b7e1de1d669e4be9fc1",
+    "name": "Zodor",
+    "symbol": "ZOD",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55836/thumb/Vector_logo.png?1747403531"
+  },
+  {
+    "chainId": 1,
+    "address": "0x774eaf7a53471628768dc679da945847d34b9a55",
+    "name": "Gasspas",
+    "symbol": "GASS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55843/thumb/Gasspas.png?1747405174"
+  },
+  {
+    "chainId": 1,
+    "address": "0x65b2c0e15ca0b6217e7f7669a205d627a36f6e5a",
+    "name": "CryptoDM",
+    "symbol": "CDM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55846/thumb/IMG_9964_%282%29.png?1747407812"
+  },
+  {
+    "chainId": 1,
+    "address": "0x817162975186d4d53dbf5a7377dd45376e2d2fc5",
+    "name": "Reactive Network",
+    "symbol": "REACT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54415/thumb/Symbol_ColorBlack_H32_%281%29.png?1739555520"
   }
 ]

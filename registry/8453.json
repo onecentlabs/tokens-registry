@@ -18253,5 +18253,29 @@
     "symbol": "DEURO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55108/thumb/dEuro_CoinLogo_200px.png?1743753944"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x129966d7d25775b57e3c5b13b2e1c2045fbc4926",
+    "name": "NIYOKO by Virtuals",
+    "symbol": "NYKO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55828/thumb/nykologo.png?1747384833"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb9f986d125dcb622ddfae1dc2df857ce84dc7deb",
+    "name": "Happy Acid",
+    "symbol": "ACID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55847/thumb/photo_2568-05-14_22.37.16.jpeg?1747408506"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7cea5b9548a4b48cf9551813ef9e73de916e41e0",
+    "name": "MIA",
+    "symbol": "MIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55833/thumb/IMG_20250516_091022_579.jpg?1747396842"
   }
 ]
