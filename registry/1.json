@@ -63543,5 +63543,29 @@
     "symbol": "REACT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54415/thumb/Symbol_ColorBlack_H32_%281%29.png?1739555520"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf7b2e24c53476899357d205c7923958ca85e49b4",
+    "name": "OctanePay",
+    "symbol": "OCT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55878/thumb/logo_%281%29.png?1747556046"
+  },
+  {
+    "chainId": 1,
+    "address": "0x30cbdfdaab4bc15e26caf11e1a4703323d77cd3e",
+    "name": "CMX Agent",
+    "symbol": "CMX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55867/thumb/CMX_Logo.png?1747481420"
+  },
+  {
+    "chainId": 1,
+    "address": "0x52c7aa73dc430dab948eee73ea253383fd223420",
+    "name": "Big Back Bitcoin",
+    "symbol": "BBBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55888/thumb/CG_Logo_%28200_x_200_px%29.png?1747558466"
   }
 ]

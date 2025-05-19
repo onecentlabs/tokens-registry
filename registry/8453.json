@@ -18277,5 +18277,29 @@
     "symbol": "MIA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55833/thumb/IMG_20250516_091022_579.jpg?1747396842"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc797fc5ca8ef5502aaa0307b9bfc45e877d6caf5",
+    "name": "Super Connector",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55873/thumb/23678_Super_Connector_5ba88a91b1.png?1747554890"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x05fc76666676f3afa90504e2ebc820612287a82f",
+    "name": "Mavryk Network",
+    "symbol": "MVRK",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55736/thumb/Logo_%281%29.png?1747244634"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61e030a56d33e8260fdd81f03b162a79fe3449cd",
+    "name": "Fluid",
+    "symbol": "FLUID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14688/thumb/Logo_1_%28brighter%29.png?1734430693"
   }
 ]

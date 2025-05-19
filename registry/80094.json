@@ -584,5 +584,13 @@
     "symbol": "MEAD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55743/thumb/MEAD.jpg?1747287719"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+    "name": "Peapods Finance",
+    "symbol": "PEAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653"
   }
 ]

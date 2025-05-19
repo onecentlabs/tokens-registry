@@ -11799,5 +11799,21 @@
     "symbol": "WGOOGLX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55796/thumb/Ticker_GOOG__Company_Name_Alphabet_Inc.__size_200x200_2x.png?1747382754"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x777777138f21799e0b5c96309d191825adfe6f62",
+    "name": "Depintech",
+    "symbol": "DEPIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55874/thumb/1000093460.png?1747555241"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0b2b2b2076d95dda7817e785989fe353fe955ef9",
+    "name": "sUSDai",
+    "symbol": "SUSDAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55861/thumb/sUSDai_200x200.png?1747474691"
   }
 ]

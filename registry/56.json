@@ -14624,5 +14624,13 @@
     "decimals": 18,
     "address": "0x5dBde81fcE337FF4bcaaEe4Ca3466C00aeCaE274",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x5dBde81fcE337FF4bcaaEe4Ca3466C00aeCaE274.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "B",
+    "name": "B",
+    "decimals": 18,
+    "address": "0x6bdcCe4A559076e37755a78Ce0c06214E59e4444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6bdcCe4A559076e37755a78Ce0c06214E59e4444.png"
   }
 ]

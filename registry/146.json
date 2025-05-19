@@ -793,5 +793,13 @@
     "symbol": "SILO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55596/thumb/silo.png?1746815000"
+  },
+  {
+    "chainId": 146,
+    "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+    "name": "Peapods Finance",
+    "symbol": "PEAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653"
   }
 ]

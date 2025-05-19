@@ -5092,5 +5092,13 @@
     "symbol": "SCAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1b5f7fa46ed0f487f049c42f374ca4827d65a264",
+    "name": "Decentralized Euro",
+    "symbol": "DEURO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55108/thumb/dEuro_CoinLogo_200px.png?1743753944"
   }
 ]
