@@ -5100,5 +5100,21 @@
     "symbol": "DEURO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55108/thumb/dEuro_CoinLogo_200px.png?1743753944"
+  },
+  {
+    "chainId": 10,
+    "address": "0xfe3b2f655b725ba6cd0cc78961e013968ffb30fb",
+    "name": "Rubicon",
+    "symbol": "RUBI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55956/thumb/RUbi_Token.png?1747864046"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
   }
 ]

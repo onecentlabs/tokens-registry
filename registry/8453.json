@@ -18301,5 +18301,106 @@
     "symbol": "FLUID",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14688/thumb/Logo_1_%28brighter%29.png?1734430693"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb78e7d4c5d47af92942321ed40419dab0e573810",
+    "name": "Goldfinch",
+    "symbol": "GFI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GFI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GFI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x94a47aa810e85190fed418892ecbd68d5f463ff4",
+    "name": "VIVI",
+    "symbol": "VIVI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55921/thumb/VIVI_coingecko.png?1747734839"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1a9be8a692de04bcb7ce5cddd03afca97d732c62",
+    "name": "Yield TRYB",
+    "symbol": "YTRYB",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/55950/thumb/yTRYB_%281%29.png?1747851507"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbdc27118ca76b375c6887b0ff068afb03dfc21a0",
+    "name": "Arbus",
+    "symbol": "ARBUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39872/thumb/Arbus_Logo.png?1724602074"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1b4617734c43f6159f3a70b7e06d883647512778",
+    "name": "AWE Network",
+    "symbol": "AWE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/8713/thumb/awe-network.jpg?1747816016"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb3836098d1e94ec651d74d053d4a0813316b2a2f",
+    "name": "Rubicon",
+    "symbol": "RUBI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55956/thumb/RUbi_Token.png?1747864046"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe4c94c578f53b58bdb580f15fc438ff10c7343a8",
+    "name": "xLLM2",
+    "symbol": "XLLM2",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55895/thumb/White_Symbol_Logo.png?1747639983"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x62039061c366433e6d075b78905681c19795313c",
+    "name": "AI Dev Agent",
+    "symbol": "AIDEV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55945/thumb/logo_aidev_cmc.png?1747839749"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf3dd141109dfe8e4c006f88a2a8747a086e7c1f8",
+    "name": "Holo",
+    "symbol": "HOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/3348/thumb/hot-mark-med.png?1747766692"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x590830dfdf9a3f68afcdde2694773debdf267774",
+    "name": "GIZA",
+    "symbol": "GIZA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54922/thumb/giza_token_dark.png?1742538409"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x40461291347e1ecbb09499f3371d3f17f10d7159",
+    "name": "Johnny Suede",
+    "symbol": "SUEDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54437/thumb/IMG_8918.jpeg?1739713085"
   }
 ]

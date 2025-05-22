@@ -63567,5 +63567,157 @@
     "symbol": "BBBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55888/thumb/CG_Logo_%28200_x_200_px%29.png?1747558466"
+  },
+  {
+    "address": "0x6440f144b7e50d6a8439336510312d2f54beb01d",
+    "symbol": "BOLD",
+    "name": "BOLD",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x6440f144b7e50d6a8439336510312d2f54beb01d/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8cf5f383fd3a5a730813c61371f90b6ecddf2d3e",
+    "name": "QU3ai",
+    "symbol": "QU3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55661/thumb/QU3_Sign_AVA_1.png?1746946172"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcccccccccc33d538dbc2ee4feab0a7a1ff4e8a94",
+    "name": "Centrifuge",
+    "symbol": "CFG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55913/thumb/centrifuge.jpg?1747707741"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa3e7aa0dcf8c7df9ee6d7bafadbaa7ee89ad2da2",
+    "name": "NexusChain",
+    "symbol": "NEXUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55893/thumb/Nexus_Logo.png?1747624773"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd86571bfb6753c252764c4ae37fd54888774d32e",
+    "name": "Kabosu ERC20",
+    "symbol": "KABOSU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55903/thumb/Kabosu_ERC20.png?1747647048"
+  },
+  {
+    "chainId": 1,
+    "address": "0xae9f227a68a307afa799fa024198ba6d1d83da4b",
+    "name": "Taro",
+    "symbol": "TARO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55916/thumb/1000041860.jpg?1747714862"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9e72a0e219cff0011069ae7b0da73fa26280f41b",
+    "name": "Izzy",
+    "symbol": "IZZY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55894/thumb/izzy-logo.jpg?1747639009"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf42845b7fd65709f251146ab373933f20e9d7c41",
+    "name": "FROGO",
+    "symbol": "FROGO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55917/thumb/artboard_4-03.png?1747733128"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa4b855f6713d1a04a2331149db995476dc3e694b",
+    "name": "Babydog",
+    "symbol": "BABYDOG",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55935/thumb/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png?1747822421"
+  },
+  {
+    "chainId": 1,
+    "address": "0x66d13dc0e8c2428c9ff4bc0bd93e934110d17fce",
+    "name": "Snardler Wormfriend",
+    "symbol": "SNARDLER",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55936/thumb/LOGO_%281%29.jpeg?1747822604"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1930411152437a3a85d76d6d0720618b31a555e4",
+    "name": "Encryptum",
+    "symbol": "ENCT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55938/thumb/encryptum_logo.png?1747825054"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa61d1b0b5f3c1bfe7f7ccd42f0f48012592a2952",
+    "name": "Euphoria",
+    "symbol": "EUPH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55926/thumb/Logo1-1.png?1747762942"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6505f1cc7c08061c6d77a62f59cb501e7550cd50",
+    "name": "LMGroupToken",
+    "symbol": "LMGX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55930/thumb/lmgx.png?1747764476"
+  },
+  {
+    "chainId": 1,
+    "address": "0xed61755893418c11a0e1c3137147f93b956cb5c4",
+    "name": "MOOD AI",
+    "symbol": "MOOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55941/thumb/logo_black_bg.png?1747826092"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf8ea18ca502de3ffaa9b8ed95a21878ee41a2f4a",
+    "name": "Boochie by Matt Furie",
+    "symbol": "BOOCHIE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55946/thumb/Boochie_by_Matt_Furie.png?1747848192"
+  },
+  {
+    "chainId": 1,
+    "address": "0x418e9cdd368818334d2a97470f77e0ebf1b8224a",
+    "name": "Ambient AGI",
+    "symbol": "AGI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55949/thumb/Ambient_AGI.jpg?1747850019"
+  },
+  {
+    "chainId": 1,
+    "address": "0xed02aaeee74ab6ebef76fe9f0959f1ba9fd7e318",
+    "name": "RedHive",
+    "symbol": "HIV3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55955/thumb/TokenImage.png?1747857282"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7483e83b481c69a93cb025395194e0dc4f32d9c4",
+    "name": "Rubicon",
+    "symbol": "RUBI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55956/thumb/RUbi_Token.png?1747864046"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
   }
 ]

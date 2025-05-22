@@ -11815,5 +11815,61 @@
     "symbol": "SUSDAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55861/thumb/sUSDai_200x200.png?1747474691"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x17e1e5c6bc9ebb11647c94e1c5e3ba619f2781ea",
+    "name": "Holo",
+    "symbol": "HOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/3348/thumb/hot-mark-med.png?1747766692"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe333e7754a2dc1e020a162ecab019254b9dab653",
+    "name": "XSGD",
+    "symbol": "XSGD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/12832/thumb/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1696512623"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2ad62eb9744c720364f6ac856360a43e8a2229b5",
+    "name": "Dollar On Chain",
+    "symbol": "DOC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33003/thumb/d4ff7852-9d02-4dd6-b609-a86ee5919d2f.jpg?1705680577"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdbae615958708c0bc61234d2624b95077b017eb7",
+    "name": "BitPRO",
+    "symbol": "BPRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33002/thumb/moc-token-bpro.png?1700122216"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6a4db980360fc55762e32f6921610601e1882846",
+    "name": "Money On Chain",
+    "symbol": "MOC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33004/thumb/moc-token-moc.png?1700122500"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x565f12c7f08d906ea9f32c0826412ec13d4f8030",
+    "name": "Rubicon",
+    "symbol": "RUBI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55956/thumb/RUbi_Token.png?1747864046"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
   }
 ]
