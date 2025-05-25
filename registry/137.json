@@ -13489,5 +13489,13 @@
     "symbol": "SCAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 137,
+    "address": "0xc4420347a4791832bb7b16bf070d5c017d9fabc4",
+    "name": "Stabull Finance",
+    "symbol": "STABUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55300/thumb/stabull-icon_1_.png?1745280165"
   }
 ]

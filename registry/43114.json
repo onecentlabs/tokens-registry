@@ -5202,5 +5202,21 @@
     "symbol": "PLYR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50507/thumb/logo_exchange.png?1728008614"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5e0e90e268bc247cc850c789a0db0d5c7621fb59",
+    "name": "Nexpace",
+    "symbol": "NXPC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55703/thumb/wk63iOZz_400x400.png?1747126039"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x7f4546ef315efc65336187fe3765ea779ac90183",
+    "name": "VanEck Treasury Fund",
+    "symbol": "VBILL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/56023/thumb/vbill_200.png?1748092620"
   }
 ]

@@ -14640,5 +14640,37 @@
     "decimals": 6,
     "address": "0xaf44A1E76F56eE12ADBB7ba8acD3CbD474888122",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xaf44A1E76F56eE12ADBB7ba8acD3CbD474888122.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "RWA",
+    "name": "Allo",
+    "decimals": 18,
+    "address": "0x9C8B5CA345247396bDfAc0395638ca9045C6586E",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9C8B5CA345247396bDfAc0395638ca9045C6586E.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "CA",
+    "name": "Caila",
+    "decimals": 18,
+    "address": "0x74da4c5F8C254dd4Fb39F9804C0924F52a808318",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x74da4c5F8C254dd4Fb39F9804C0924F52a808318.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SOON",
+    "name": "SOON Token",
+    "decimals": 18,
+    "address": "0xb9E1Fd5A02D3A33b25a14d661414E6ED6954a721",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb9E1Fd5A02D3A33b25a14d661414E6ED6954a721.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "HODL",
+    "name": "HODL",
+    "decimals": 18,
+    "address": "0x32B407ee915432Be6D3F168bc1EfF2a6F8b2034C",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x32B407ee915432Be6D3F168bc1EfF2a6F8b2034C.png"
   }
 ]

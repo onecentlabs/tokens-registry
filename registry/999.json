@@ -233,5 +233,29 @@
     "symbol": "LQSCAN",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/55686/thumb/7210ad01-56a9-4ca5-9b71-466a43fe34ec.jpg?1747033308"
+  },
+  {
+    "chainId": 999,
+    "address": "0x502ee789b448aa692901fe27ab03174c90f07dd1",
+    "name": "Staked LOOP",
+    "symbol": "STLOOP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56009/thumb/stLOOP.png?1748020765"
+  },
+  {
+    "chainId": 999,
+    "address": "0x00fdbc53719604d924226215bc871d55e40a1009",
+    "name": "Looping Collective",
+    "symbol": "LOOP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55979/thumb/LOOP.png?1747918773"
+  },
+  {
+    "chainId": 999,
+    "address": "0x45ec8f63fe934c0213476cfb5870835e61dd11fa",
+    "name": "OMNIX",
+    "symbol": "OMNIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55995/thumb/omnix-color-small-d.png?1747990074"
   }
 ]

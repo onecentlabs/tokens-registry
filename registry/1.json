@@ -63719,5 +63719,109 @@
     "symbol": "SCAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 1,
+    "address": "0x01d3077eeb27f55d82079297f2896dadfbde470b",
+    "name": "Auralex AI",
+    "symbol": "AURA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55991/thumb/Logo1.png?1747988590"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe778fd9a8d074e4a808092896b33fe3d3452c125",
+    "name": "FROGGER",
+    "symbol": "FROGGER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55994/thumb/IMG_8030.jpeg?1747989730"
+  },
+  {
+    "chainId": 1,
+    "address": "0xccebc855b4ddb8b90dbbe2a9b89506aa306b17f4",
+    "name": "HYPE",
+    "symbol": "HYPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/56001/thumb/IMG_9924.jpeg?1747993188"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe4ad6e3a254d545215089c972056494dfc12406c",
+    "name": "Kolytics",
+    "symbol": "KOLT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/56008/thumb/logo_%282%29.png?1748020458"
+  },
+  {
+    "chainId": 1,
+    "address": "0xed61d3e74e0dcd2d73dbd46ebb1bb19ba93bc482",
+    "name": "Arbion AI",
+    "symbol": "ARAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56014/thumb/500.png?1748022951"
+  },
+  {
+    "chainId": 1,
+    "address": "0x404d3295c8b1c61662068db584125a7ebcc0d651",
+    "name": "Mambo",
+    "symbol": "MAMBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56018/thumb/Mambo.jpg?1748023803"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1ce9345d16cd3f9332438fc2c18dfa6556c5658e",
+    "name": "Lylo ai",
+    "symbol": "LYLO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56020/thumb/lylo-logo1-1_%282%29.png?1748024209"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f7dc5d02cc1e1f5ee47854d534d332a1081ccc8",
+    "name": "Pepes Dog",
+    "symbol": "ZEUS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/56021/thumb/Pepes_Dog.jpg?1748024354"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2255718832bc9fd3be1caf75084f4803da14ff01",
+    "name": "VanEck Treasury Fund",
+    "symbol": "VBILL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/56023/thumb/vbill_200.png?1748092620"
+  },
+  {
+    "chainId": 1,
+    "address": "0x340d7adda2a709e488faf443612ca69eac063a80",
+    "name": "wenlambo",
+    "symbol": "WENLAMBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56024/thumb/20250523_1045_Pepe's_Purple_Ride_remix_01jvy5113keng9by342xcbtsqs_copy.png?1748038730"
+  },
+  {
+    "chainId": 1,
+    "address": "0xde496a902836601e86e79d5b10e713c95580640b",
+    "name": "Cloak Network",
+    "symbol": "CLOAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55988/thumb/CLOAK.jpg?1748030235"
+  },
+  {
+    "chainId": 1,
+    "address": "0x21e133e07b6cb3ff846b5a32fa9869a1e5040da1",
+    "name": "Syntor Ai",
+    "symbol": "TOR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56041/thumb/SYNTOR.png?1748096217"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a89228055c7c28430692e342f149f37462b478b",
+    "name": "Spectra",
+    "symbol": "SPECTRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52854/thumb/spectra.jpg?1734517434"
   }
 ]
