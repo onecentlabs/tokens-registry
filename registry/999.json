@@ -85,6 +85,17 @@
   },
   {
     "chainId": 999,
+    "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+    "name": "Staked USDe",
+    "symbol": "sUSDe",
+    "decimals": 18,
+    "logoURI": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets-hyperliquid/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 999,
     "address": "0xb5fe77d323d69eb352a02006ea8ecc38d882620c",
     "name": "KEI Stablecoin",
     "symbol": "KEI",
