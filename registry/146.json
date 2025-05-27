@@ -801,5 +801,21 @@
     "symbol": "PEAS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653"
+  },
+  {
+    "chainId": 146,
+    "address": "0x261dfa2528dfa19011f10b168c856e02baaf0eb6",
+    "name": "Foxify",
+    "symbol": "FOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32354/thumb/Foxify_200x200.png?1697475371"
+  },
+  {
+    "chainId": 146,
+    "address": "0xcc5d9cc0d781d7f41f6809c0e8356c15942b775e",
+    "name": "Samurai Starter",
+    "symbol": "SAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37552/thumb/samurai-coingecko-logo_2.png?1714751141"
   }
 ]

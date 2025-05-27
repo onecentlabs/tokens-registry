@@ -11871,5 +11871,13 @@
     "symbol": "SCAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x10ea9e5303670331bdddfa66a4cea47dae4fcf3b",
+    "name": "Session Token",
+    "symbol": "SESH",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/56073/thumb/SES_Logo_RGB_Brandmark_Colour.png?1748330955"
   }
 ]

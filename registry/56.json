@@ -14672,5 +14672,21 @@
     "decimals": 18,
     "address": "0x32B407ee915432Be6D3F168bc1EfF2a6F8b2034C",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x32B407ee915432Be6D3F168bc1EfF2a6F8b2034C.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PUNDIAI",
+    "name": "Pundi AI",
+    "decimals": 18,
+    "address": "0x67AA700Ab0110Cc52bf7F308fe25068E87a0f581",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x67AA700Ab0110Cc52bf7F308fe25068E87a0f581.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ELDE",
+    "name": "Elderglade",
+    "decimals": 18,
+    "address": "0x799a290F9CC4085a0ce5b42b5F2C30193A7a872B",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x799a290F9CC4085a0ce5b42b5F2C30193A7a872B.png"
   }
 ]

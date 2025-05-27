@@ -63823,5 +63823,85 @@
     "symbol": "SPECTRA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52854/thumb/spectra.jpg?1734517434"
+  },
+  {
+    "address": "0x85e30b8b263bc64d94b827ed450f2edfee8579da",
+    "symbol": "USDaf",
+    "name": "Asymmetry USDaf Stablecoin",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x85e30b8b263bc64d94b827ed450f2edfee8579da/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe868084cf08f3c3db11f4b73a95473762d9463f7",
+    "name": "YU",
+    "symbol": "YU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56070/thumb/YU.png?1748275951"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7e4c9923fd8f18442532a737365c1bfb52579d2f",
+    "name": "ArcadiaOS",
+    "symbol": "ARCOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56072/thumb/200x200.png?1748280483"
+  },
+  {
+    "chainId": 1,
+    "address": "0x10ea9e5303670331bdddfa66a4cea47dae4fcf3b",
+    "name": "Session Token",
+    "symbol": "SESH",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/56073/thumb/SES_Logo_RGB_Brandmark_Colour.png?1748330955"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd014cb8d4bbccb75fc3a7c941528fd5e891259cf",
+    "name": "Launch On USD1",
+    "symbol": "L",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56058/thumb/gecko-200x200.png?1748164953"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf2b733bdddb8e12f0b3e15781b319389d499dad6",
+    "name": "NovaQ",
+    "symbol": "NOVAQ",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/56042/thumb/NOVAQ_%281%29.jpg?1748154978"
+  },
+  {
+    "chainId": 1,
+    "address": "0x94babe9ee75c38034920bc6ed42748e8eefbedd4",
+    "name": "Zivoe Vault",
+    "symbol": "ZVLT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56043/thumb/Zivoe-zVLT-Logo.png?1748155782"
+  },
+  {
+    "chainId": 1,
+    "address": "0x63a4faa0edc59811f9d3fd8b9aae5131a9488437",
+    "name": "Nodelight",
+    "symbol": "NODL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56047/thumb/Profile_01_2x.png?1748156879"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4d4574f50dd8b9dbe623cf329dcc78d76935e610",
+    "name": "Zeus",
+    "symbol": "ZEUS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/56049/thumb/IMG_8143.jpeg?1748157666"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbc2ecbe2195114b82f03680ed4270fa7008f3be0",
+    "name": "Bitcoin 2 0",
+    "symbol": "BTC2",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56050/thumb/IMG_8144.jpeg?1748158028"
   }
 ]
