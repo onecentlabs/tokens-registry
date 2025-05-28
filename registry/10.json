@@ -5116,5 +5116,13 @@
     "symbol": "SCAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+    "name": "YieldFi yToken",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/yUSD.png?1739862886"
   }
 ]

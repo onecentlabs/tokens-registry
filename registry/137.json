@@ -13497,5 +13497,13 @@
     "symbol": "STABUL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55300/thumb/stabull-icon_1_.png?1745280165"
+  },
+  {
+    "chainId": 137,
+    "address": "0xa9a8eed4c7b91de6d6d2a6b2d21300ec162b1375",
+    "name": "SKPANAX",
+    "symbol": "SKX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39348/thumb/skx_%EB%A1%9C%EA%B3%A0.png?1721882792"
   }
 ]

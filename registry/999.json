@@ -268,5 +268,13 @@
     "symbol": "OMNIX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55995/thumb/omnix-color-small-d.png?1747990074"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9c84d78839ade4d3211a9b5fa73ef079eca4f739",
+    "name": "WET",
+    "symbol": "WET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56089/thumb/logo_wet.png?1748371556"
   }
 ]

@@ -63903,5 +63903,29 @@
     "symbol": "BTC2",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/56050/thumb/IMG_8144.jpeg?1748158028"
+  },
+  {
+    "chainId": 1,
+    "address": "0x19ebd191f7a24ece672ba13a302212b5ef7f35cb",
+    "name": "YieldFi yToken",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/yUSD.png?1739862886"
+  },
+  {
+    "chainId": 1,
+    "address": "0xecca809227d43b895754382f1fd871628d7e51fb",
+    "name": "LanLan Cat",
+    "symbol": "LANLAN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/56077/thumb/LanLan_Cat.jpg?1748356408"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3157874a7508fcf972379d24590c6806522b784f",
+    "name": "Puffverse",
+    "symbol": "PFVS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56067/thumb/logo.png?1748355229"
   }
 ]
