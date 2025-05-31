@@ -14696,5 +14696,45 @@
     "decimals": 18,
     "address": "0x30C60b20C25b2810cA524810467A0c342294FC61",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x30C60b20C25b2810cA524810467A0c342294FC61.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PORT3",
+    "name": "Port3 Network",
+    "decimals": 18,
+    "address": "0xb4357054c3dA8D46eD642383F03139aC7f090343",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb4357054c3dA8D46eD642383F03139aC7f090343.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ZRC",
+    "name": "Zircuit",
+    "decimals": 18,
+    "address": "0xDaC991621fd8048D9f235324780ABD6c3aD26421",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xDaC991621fd8048D9f235324780ABD6c3aD26421.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SOPH",
+    "name": "Sophon",
+    "decimals": 18,
+    "address": "0x31DbA3c96481FDe3CD81C2aaF51F2D8bf618C742",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x31DbA3c96481FDe3CD81C2aaF51F2D8bf618C742.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "RDO",
+    "name": "RDO Token",
+    "decimals": 18,
+    "address": "0xd86E6ef14b96D942eF0AbF0720C549197EA8c528",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xd86E6ef14b96D942eF0AbF0720C549197EA8c528.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ASRR",
+    "name": "Assisterr AI",
+    "decimals": 9,
+    "address": "0xf7626c7FF7B778AAF187d508d056a9398d9545D1",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xf7626c7FF7B778AAF187d508d056a9398d9545D1.png"
   }
 ]

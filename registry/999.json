@@ -276,5 +276,21 @@
     "symbol": "WET",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/56089/thumb/logo_wet.png?1748371556"
+  },
+  {
+    "chainId": 999,
+    "address": "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
+    "name": "HyperEVM Bridged USR  HyperEVM ",
+    "symbol": "USR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66152/thumb/usr.jpg?1748492157"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9b530b0ac8817f4b6c29cff236df85ed33ece660",
+    "name": "HarryPotterHyperMarioLiquidFentJeffSpec",
+    "symbol": "HYPE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66155/thumb/200200.jpg?1748497704"
   }
 ]

@@ -63927,5 +63927,98 @@
     "symbol": "PFVS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/56067/thumb/logo.png?1748355229"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa20ce45A0348c88f484Cf92ac3278A46ba98A563",
+    "name": "Veera Gold",
+    "symbol": "VGT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VGT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "VGT"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x57240c3e140f98abe315ca8e0213c7a77f34a334",
+    "name": "Reddio",
+    "symbol": "RDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55332/thumb/reddio.png?1745470527"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd3fd63209fa2d55b07a0f6db36c2f43900be3094",
+    "name": "Wrapped Savings rUSD",
+    "symbol": "WSRUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4ae149fd6059af772b962efac6bf0236872d6940",
+    "name": "Lemmy The Bat",
+    "symbol": "LBAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66167/thumb/ZC_AVgAX_400x400.jpg?1748536210"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb6d369faf21cda1b281013ea83badf6bb26b884d",
+    "name": "Mu Chan",
+    "symbol": "MU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66170/thumb/photo_2025-05-28_20-26-16_%282%29.jpg?1748538216"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6b7774cb12ed7573a7586e7d0e62a2a563ddd3f0",
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38680/thumb/sophon_logo_200.png?1747898236"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe6d07e1a7c9f8f9826aa82e6faf7feab698dd4fe",
+    "name": "Project Rocket",
+    "symbol": "ROCKET",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66131/thumb/IMG_2385.jpeg?1748439454"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a76a004f3bda1447b7d8bbea8355866420b8cb5",
+    "name": "Charlie",
+    "symbol": "CHARLIE",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/66139/thumb/charlie_logo_200x200_%281%29.png?1748442414"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfb9f255788e6743a6fecaa5de55ec0ee86ab4bdb",
+    "name": "OSCA Stack",
+    "symbol": "OSCA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66145/thumb/osca_icon.png?1748465288"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb0415d55f2c87b7f99285848bd341c367feac1ea",
+    "name": "R0AR Token",
+    "symbol": "1R0R",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66194/thumb/R0ARToken200x200.png?1748641994"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2efa572467c50c04a6eed6742196c0d0d287c1bb",
+    "name": "Based Chad",
+    "symbol": "CHAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36285/thumb/logo_200_200_square.jpg?1712167823"
   }
 ]

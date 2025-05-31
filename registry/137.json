@@ -13505,5 +13505,21 @@
     "symbol": "SKX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39348/thumb/skx_%EB%A1%9C%EA%B3%A0.png?1721882792"
+  },
+  {
+    "chainId": 137,
+    "address": "0x888883b5f5d21fb10dfeb70e8f9722b9fb0e5e51",
+    "name": "EUR P",
+    "symbol": "EUROP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/52132/thumb/europ-symbol-rgb.jpg?1732634862"
+  },
+  {
+    "chainId": 137,
+    "address": "0xeb971fd26783f32694dbb392dd7289de23109148",
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38680/thumb/sophon_logo_200.png?1747898236"
   }
 ]

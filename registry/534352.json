@@ -594,5 +594,13 @@
     "symbol": "WGC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 534352,
+    "address": "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
+    "name": "Quill USDQ",
+    "symbol": "USDQ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66132/thumb/image_%289%29.png?1748439949"
   }
 ]

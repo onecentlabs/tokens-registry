@@ -69,5 +69,18 @@
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
+  },
+  {
+    "chainId": 1868,
+    "address": "0xf93322688ddfE432c21c0B4E709d77DEab7e923F",
+    "name": "TRALA TOKEN",
+    "symbol": "TRALA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TRALA/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TRALA"
+    }
   }
 ]

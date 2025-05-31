@@ -825,5 +825,13 @@
     "symbol": "YUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/yUSD.png?1739862886"
+  },
+  {
+    "chainId": 146,
+    "address": "0x0e346e34165c831018f98414caf2689d0d3aa3e6",
+    "name": "Rush",
+    "symbol": "RUSH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66176/thumb/1000004712.png?1748586905"
   }
 ]

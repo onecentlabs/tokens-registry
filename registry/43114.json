@@ -5218,5 +5218,21 @@
     "symbol": "VBILL",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/56023/thumb/vbill_200.png?1748092620"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xb9c188bc558a82a1ee9e75ae0857df443f407632",
+    "name": "GreatestOfAVAXTrenches",
+    "symbol": "GOAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66148/thumb/goat_coin.png?1748466241"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4bf8cf8e8a20d965d585097256ecf2be98a5fbd8",
+    "name": "BENIS",
+    "symbol": "BENIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66186/thumb/benis.png?1748618246"
   }
 ]
