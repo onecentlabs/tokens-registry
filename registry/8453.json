@@ -18676,5 +18676,13 @@
     "symbol": "SOPH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38680/thumb/sophon_logo_200.png?1747898236"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x58db197e91bc8cf1587f75850683e4bd0730e6bf",
+    "name": "Axelrod by Virtuals",
+    "symbol": "AXR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66200/thumb/Axelrod_1.png?1748668901"
   }
 ]

@@ -64020,5 +64020,45 @@
     "symbol": "CHAD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36285/thumb/logo_200_200_square.jpg?1712167823"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb7d29ec03d87dcd5d6f6ea39a855d5566e6c8f36",
+    "name": "GX3 A",
+    "symbol": "GX3",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66196/thumb/logo_200.png?1748664333"
+  },
+  {
+    "chainId": 1,
+    "address": "0x381f60b3d3d50a3353586f48db4c580139157f5e",
+    "name": "EonIQ",
+    "symbol": "EONIQ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66197/thumb/FRAMELOGO.png?1748664467"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6133dca8149c0eb57328cf8fa4f212f0241ffbb1",
+    "name": "Cornbit",
+    "symbol": "CORN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66198/thumb/logo_200.png?1748664774"
+  },
+  {
+    "chainId": 1,
+    "address": "0x11fa1193743061591cbe47c9e0765eaebaa3a046",
+    "name": "NonKyotoProtocol",
+    "symbol": "NKP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66201/thumb/NKP_Logo_Transparent.png?1748669264"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1bd1bc78a183c0547cdc2dcea12c0a8c05bdc034",
+    "name": "Synari",
+    "symbol": "SYN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66204/thumb/Logo_4.png?1748669846"
   }
 ]
