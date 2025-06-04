@@ -1,6 +1,6 @@
 import { readFileSync, readdirSync } from 'fs'
 import { join } from 'path'
-import { isAddress } from '../isAddress.js'
+import { isAddress } from 'ethers'
 import { Token } from '../types.js'
 
 interface TokenData {
@@ -217,82 +217,50 @@ export class TokenRegistry {
   }
 
   public getToken(tokenName: string, chainName: string): Token | undefined {
-    const chainId = this.chainMap[chainName] || chainName
-    const chainData = this.tokens.get(chainId)
-    if (!chainData) {
-      return undefined
-    }
+    const chainId = this.chainMap[chainName] || chainName;
+    const chainData = this.tokens.get(chainId);
+    if (!chainData) return;
+    const name = tokenName.toLowerCase();
     if (isAddress(tokenName)) {
-      return chainData.find((token: Token) => {
+      return chainData.find((token) => {
         if (token.address.toLowerCase() === tokenName.toLowerCase()) {
-          if (token.symbol.toLowerCase() === 'eth') {
-            token.address = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
-            return true
+          const symbol = token.symbol.toLowerCase();
+          if (
+            symbol === 'eth' ||
+            (symbol === 'avax' && chainId === '43114') ||
+            (symbol === 'xdai' && chainId === '100') ||
+            (symbol === 'mnt' && chainId === '5000') ||
+            (symbol === 'bnb' && chainId === '56')
+          ) {
+            token.address = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee';
+          } else if (symbol === 'pol' && chainId === '137') {
+            token.address = '0x0000000000000000000000000000000000001010';
           }
-          if (token.symbol.toLowerCase() === 'avax' && chainId === '43114') {
-            token.address = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
-            return true
-          }
-          if (token.symbol.toLowerCase() === 'xdai' && chainId === '100') {
-            token.address = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
-            return true
-          }
-          if (token.symbol.toLowerCase() === 'pol' && chainId === '137') {
-            token.address = '0x0000000000000000000000000000000000001010'
-            return true
-          }
-          if (token.symbol.toLowerCase() === 'mnt' && chainId === '5000') {
-            token.address = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
-            return true
-          }
-          if (token.symbol.toLowerCase() === 'bnb' && chainId === '56') {
-            token.address = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
-            return true
-          }
-          return true
+          return true;
         }
-      })
+        return false;
+      });
     }
-    return chainData.find((token: Token) => {
-      if (tokenName.toLowerCase() === 'eth') {
-        return (
-          token.symbol.toLowerCase() === 'eth' &&
-          token.address.toLowerCase() === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
-        )
+  
+    return chainData.find((token) => {
+      const symbol = token.symbol.toLowerCase();
+      const address = token.address.toLowerCase();
+  
+      if (
+        (name === 'eth' && symbol === 'eth' && address === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee') ||
+        (name === 'avax' && chainId === '43114' && symbol === 'avax' && address === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee') ||
+        (name === 'xdai' && chainId === '100' && symbol === 'xdai' && address === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee') ||
+        (name === 'mnt' && chainId === '5000' && symbol === 'mnt' && address === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee') ||
+        (name === 'bnb' && chainId === '56' && symbol === 'bnb' && address === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee') ||
+        (name === 'pol' && chainId === '137' && symbol === 'pol' && address === '0x0000000000000000000000000000000000001010')
+      ) {
+        return true;
       }
-      if (tokenName.toLowerCase() === 'avax' && chainId === '43114') {
-        return (
-          token.symbol.toLowerCase() === 'avax' &&
-          token.address.toLowerCase() === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
-        )
-      }
-      if (tokenName.toLowerCase() === 'xdai' && chainId === '100') {
-        return (
-          token.symbol.toLowerCase() === 'xdai' &&
-          token.address.toLowerCase() === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
-        )
-      }
-      if (tokenName.toLowerCase() === 'pol' && chainId === '137') {
-        return (
-          token.symbol.toLowerCase() === 'pol' &&
-          token.address.toLowerCase() === '0x0000000000000000000000000000000000001010'
-        )
-      }
-      if (tokenName.toLowerCase() === 'mnt' && chainId === '5000') {
-        return (
-          token.symbol.toLowerCase() === 'mnt' &&
-          token.address.toLowerCase() === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
-        )
-      }
-      if (tokenName.toLowerCase() === 'bnb' && chainId === '56') {
-        return (
-          token.symbol.toLowerCase() === 'bnb' &&
-          token.address.toLowerCase() === '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
-        )
-      }
-      return token.symbol.toLowerCase() === tokenName.toLowerCase()
-    })
+  
+      return symbol === name;
+    });
   }
+  
 
   public getAllTokens(chains: string[] | null): Map<string, Token[]> {
     if (chains === null || chains.length === 0) {
