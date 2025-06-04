@@ -64060,5 +64060,53 @@
     "symbol": "SYN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66204/thumb/Logo_4.png?1748669846"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7cfd34ca2dceca6c835adc7e61409a089cfff14a",
+    "name": "DaWae",
+    "symbol": "DAWAE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66236/thumb/IMG_8293.jpeg?1748895844"
+  },
+  {
+    "chainId": 1,
+    "address": "0x81987681443c156f881b70875724cc78b08ada26",
+    "name": "Mirai The WhiteRabbit",
+    "symbol": "MIRAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66210/thumb/photo_2025-05-30_18.57.18-2.jpeg?1748758707"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe7ae968823c79ca4022096c0887971358d97acaa",
+    "name": "DelNorte Club Token",
+    "symbol": "DTVC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66218/thumb/IMG_5656.jpeg?1748762956"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaa9806c938836627ed1a41ae871c7e1889ae02ca",
+    "name": "LayerEdge",
+    "symbol": "EDGEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66227/thumb/-AlLx9IW_400x400.png?1748866702"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdb4e144234b65eb147acf1694cbdccf3381af438",
+    "name": "Chudjak",
+    "symbol": "CHUD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66248/thumb/chud-logo.png?1748946582"
+  },
+  {
+    "chainId": 1,
+    "address": "0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
+    "name": "Superseed",
+    "symbol": "SUPR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55519/thumb/Small.png?1746469855"
   }
 ]

@@ -5234,5 +5234,21 @@
     "symbol": "BENIS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66186/thumb/benis.png?1748618246"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xb06f504453032b6c2303a0108cf374d5b3d6a5ef",
+    "name": "AVIL",
+    "symbol": "AVIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66212/thumb/photo_2025-03-02_11-36-21.jpg?1748759936"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x34a528da3b2ea5c6ad1796eba756445d1299a577",
+    "name": "Integrity DAO",
+    "symbol": "ID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66237/thumb/mX-SWQl5_400x400.jpg?1748896112"
   }
 ]

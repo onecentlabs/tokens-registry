@@ -5132,5 +5132,26 @@
     "symbol": "NOI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66171/thumb/LOGO_200x200.png?1748538866"
+  },
+  {
+    "chainId": 10,
+    "address": "0x44805a7597Ab90624E0B4aa6947a47F358AE4eF1",
+    "name": "Cortensor",
+    "symbol": "COR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/COR/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "COR"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
+    "name": "Superseed",
+    "symbol": "SUPR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55519/thumb/Small.png?1746469855"
   }
 ]

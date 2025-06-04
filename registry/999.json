@@ -292,5 +292,21 @@
     "symbol": "HYPE",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/66155/thumb/200200.jpg?1748497704"
+  },
+  {
+    "chainId": 999,
+    "address": "0x4ae080eccd89cf1dc2965dbd5198b7a4efdfa7b8",
+    "name": "GLO",
+    "symbol": "GLO",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66222/thumb/MjLgDD39_400x400.png?1748846587"
+  },
+  {
+    "chainId": 999,
+    "address": "0xb2589c360fbb7b3a6ee061359c5a9a2714d26006",
+    "name": "Hl Gato",
+    "symbol": "HLGATO",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66253/thumb/HlGato_%283%29_%281%29.png?1748972398"
   }
 ]

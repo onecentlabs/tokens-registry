@@ -18684,5 +18684,58 @@
     "symbol": "AXR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66200/thumb/Axelrod_1.png?1748668901"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe30C0801a516F0C67EbC0c4B45FfA7dCBd72ea9a",
+    "name": "Cortensor",
+    "symbol": "COR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/COR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "COR"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x677db5a751fbd0b130ddc02715223d9da4a98f8f",
+    "name": "MetaYield",
+    "symbol": "MY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66251/thumb/Meta-Yield-200x200.png?1748947738"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcec3661ac188c692fd1f5e5bd0c4ae37771ca3db",
+    "name": "HELLOWORLD",
+    "symbol": "HELLOWORLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66255/thumb/voY0SqgA_400x400.jpg?1748986711"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb56b5269c03421765c28aa61037536ea5690741c",
+    "name": "DessalinesAI by Virtuals",
+    "symbol": "DESSAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66238/thumb/dessaline-ai-token.png.jpg?1748896351"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
+    "name": "Superseed",
+    "symbol": "SUPR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55519/thumb/Small.png?1746469855"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+    "name": "Sign",
+    "symbol": "SIGN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55303/thumb/sign.jpg?1745303393"
   }
 ]

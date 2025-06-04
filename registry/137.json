@@ -13521,5 +13521,29 @@
     "symbol": "SOPH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38680/thumb/sophon_logo_200.png?1747898236"
+  },
+  {
+    "chainId": 137,
+    "address": "0x7b2d2732dccc1830aa63241dc13649b7861d9b54",
+    "name": "ZENY",
+    "symbol": "ZENY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66225/thumb/kamon_B_%281%29.png?1748848453"
+  },
+  {
+    "chainId": 137,
+    "address": "0xcc0643b786d8b566a98e85dde48077239eaa8598",
+    "name": "Averra Finance",
+    "symbol": "AVR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66252/thumb/averra.png?1748948070"
+  },
+  {
+    "chainId": 137,
+    "address": "0x7b43e83a5c5d60a7b8886b4205ace88d1f4e2803",
+    "name": "Paparazzi Token",
+    "symbol": "PAPARAZZI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66230/thumb/pGyaoVew_400x400.jpg?1748868384"
   }
 ]
