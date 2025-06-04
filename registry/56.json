@@ -14840,5 +14840,13 @@
     "decimals": 18,
     "address": "0x4fa7C69a7B69f8Bc48233024D546bc299d6B03bf",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x4fa7C69a7B69f8Bc48233024D546bc299d6B03bf.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BDXN",
+    "name": "Bondex Token",
+    "decimals": 18,
+    "address": "0x1036b2379F506761f237FBa7463857924Ef21Ce3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1036b2379F506761f237FBa7463857924Ef21Ce3.png"
   }
 ]

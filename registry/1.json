@@ -64108,5 +64108,13 @@
     "symbol": "SUPR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55519/thumb/Small.png?1746469855"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4af322ff4a6f2858f6b51e546b9ec499654493c5",
+    "name": "Orbiter Finance",
+    "symbol": "OBT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53783/thumb/orbiter.jpg?1737352795"
   }
 ]
