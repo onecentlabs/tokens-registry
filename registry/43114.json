@@ -5250,5 +5250,29 @@
     "symbol": "ID",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66237/thumb/mX-SWQl5_400x400.jpg?1748896112"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc55fa890fd62c25c85d46f57ac972f3f30839e2f",
+    "name": "CRIME",
+    "symbol": "CRIME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66355/thumb/crime.png?1749244449"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a",
+    "name": "Unity",
+    "symbol": "UTY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66299/thumb/UTY_token.jpg?1749148591"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x180af87b47bf272b2df59dccf2d76a6eafa625bf",
+    "name": "Re Protocol reUSD",
+    "symbol": "REUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66291/thumb/re_blue.png?1749110516"
   }
 ]

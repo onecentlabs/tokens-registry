@@ -11895,5 +11895,13 @@
     "symbol": "SOPH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38680/thumb/sophon_logo_200.png?1747898236"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x76ce01f0ef25aa66cc5f1e546a005e4a63b25609",
+    "name": "Re Protocol reUSD",
+    "symbol": "REUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66291/thumb/re_blue.png?1749110516"
   }
 ]

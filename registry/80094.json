@@ -592,5 +592,69 @@
     "symbol": "PEAS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xcb700b56226d3b28a3b897c6ce8881bbfb22d2f8",
+    "name": "TWIN ASSET TOKEN iAAPL",
+    "symbol": "IAAPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66277/thumb/TWIN_Asset_Token_Logo_iAAPL_CG.png?1749050831"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x9ea30078bc52740f10812539e77b6502a2a5387a",
+    "name": "TWIN Asset Token iCOIN short",
+    "symbol": "ICOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66284/thumb/TWIN_Asset_Token_Logo_iCOIN_CG.png?1749108530"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x65967109401506222609bdc86e3039f910c4d08b",
+    "name": "TWIN ASSET TOKEN COIN",
+    "symbol": "COIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66282/thumb/TWIN_Asset_Token_Logo_COIN_CG.png?1749056586"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x3a4b2d07c237c701c68238da07e11302353a16f1",
+    "name": "TWIN Asset Token iNVDA Short",
+    "symbol": "INVDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66286/thumb/TWIN_Asset_Token_Logo_iNVDA_CG.png?1749108927"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xe5a08b6f213a7c530e03ad40522befcbaa1a7f8c",
+    "name": "TWIN ASSET TOKEN iMSTR",
+    "symbol": "IMSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66280/thumb/TWIN_Asset_Token_Logo_iMSTR_CG.png?1749054879"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x80d6206c800a6ede51ec52fe724df57fa4b4410b",
+    "name": "TWIN ASSET TOKEN MSTR",
+    "symbol": "MSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66278/thumb/TWIN_Asset_Token_Logo_MSTR_CG.png?1749051204"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x1de7efabfa656d077cfd961e4a83b061d351a83b",
+    "name": "TWIN Asset Token NVDA Long",
+    "symbol": "NVDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66285/thumb/TWIN_Asset_Token_Logo_NVDA_CG.png?1749108863"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x63ca3e797cbbcb16b1875d42b4869af7d328d820",
+    "name": "TWIN ASSET TOKEN AAPL",
+    "symbol": "AAPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66276/thumb/TWIN_Asset_Token_Logo_AAPL_CG.png?1749050463"
   }
 ]

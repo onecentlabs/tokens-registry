@@ -14848,5 +14848,93 @@
     "decimals": 18,
     "address": "0x1036b2379F506761f237FBa7463857924Ef21Ce3",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1036b2379F506761f237FBa7463857924Ef21Ce3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BOB",
+    "name": "Build On BNB",
+    "decimals": 18,
+    "address": "0x51363F073b1E4920fdA7AA9E9d84BA97EdE1560e",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x51363F073b1E4920fdA7AA9E9d84BA97EdE1560e.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "LA",
+    "name": "Lagrange",
+    "decimals": 18,
+    "address": "0x389AD4bb96d0D6EE5B6eF0EFAF4b7db0bA2e02a0",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x389AD4bb96d0D6EE5B6eF0EFAF4b7db0bA2e02a0.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "Janitor",
+    "name": "Janitor",
+    "decimals": 18,
+    "address": "0x3c8D20001FE883934A15c949a3355a65Ca984444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x3c8D20001FE883934A15c949a3355a65Ca984444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "LABUBU",
+    "name": "Labubu",
+    "decimals": 18,
+    "address": "0x68485AfeA9a4f50D14893defE476970A6E7f4444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x68485AfeA9a4f50D14893defE476970A6E7f4444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "naiive",
+    "name": "naiive",
+    "decimals": 18,
+    "address": "0xB21b24F12c6125487a33fCF96aB06a5c74114444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xB21b24F12c6125487a33fCF96aB06a5c74114444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "CUDIS",
+    "name": "CUDIS",
+    "decimals": 18,
+    "address": "0xC1353D3Ee02FDbd4f65F92EEe543cfd709049CB1",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xC1353D3Ee02FDbd4f65F92EEe543cfd709049CB1.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "RLP",
+    "name": "Resolv Liquidity Provider Token",
+    "decimals": 18,
+    "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BULLA",
+    "name": "BULLA",
+    "decimals": 18,
+    "address": "0x595E21b20E78674F8a64C1566A20b2b316Bc3511",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x595E21b20E78674F8a64C1566A20b2b316Bc3511.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "EGL1",
+    "name": "EGL1",
+    "decimals": 18,
+    "address": "0xf4B385849f2e817E92bffBfB9AEb48F950Ff4444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xf4B385849f2e817E92bffBfB9AEb48F950Ff4444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "AB",
+    "name": "AB",
+    "decimals": 18,
+    "address": "0x95034f653D5D161890836Ad2B6b8cc49D14e029a",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x95034f653D5D161890836Ad2B6b8cc49D14e029a.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BC",
+    "name": "Big Cousin",
+    "decimals": 18,
+    "address": "0x2b41228B4Fec7aB712A1A4172c4E6a546BA54444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2b41228B4Fec7aB712A1A4172c4E6a546BA54444.png"
   }
 ]

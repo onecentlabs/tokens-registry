@@ -13545,5 +13545,13 @@
     "symbol": "PAPARAZZI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66230/thumb/pGyaoVew_400x400.jpg?1748868384"
+  },
+  {
+    "chainId": 137,
+    "address": "0xcc44674022a792794d219847362bb95c661937a9",
+    "name": "Routine Coin",
+    "symbol": "ROU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66269/thumb/ROU.png?1749024151"
   }
 ]

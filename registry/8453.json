@@ -18737,5 +18737,93 @@
     "symbol": "SIGN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55303/thumb/sign.jpg?1745303393"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaa5ad1f869b910e5f794b9366e05e5f2cab4bfad",
+    "name": "Friends With Benefits Pro",
+    "symbol": "FWB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66323/thumb/fwb.jpg?1749199829"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf6dc6b3c80179c88290548ad077160249abdf8e3",
+    "name": "Paddle Finance",
+    "symbol": "PADD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66168/thumb/Logo_Orange.png?1748537688"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x26c69e4924bd0d7d52d680b33616042ee13f621c",
+    "name": "SALUKI",
+    "symbol": "SALUKI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66313/thumb/SALUKI.png?1749195822"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8890de1637912fbbba36b8b19365cdc99122bd6e",
+    "name": "Slap",
+    "symbol": "SLAP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66314/thumb/Slap.png?1749196288"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4bfaa776991e85e5f8b1255461cbbd216cfc714f",
+    "name": "HOME",
+    "symbol": "HOME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54873/thumb/defi-app.png?1742235743"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcbd06e5a2b0c65597161de254aa074e489deb510",
+    "name": "Coinbase Wrapped DOGE",
+    "symbol": "CBDOGE",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/66268/thumb/Coinbase_Wrapped_Doge_%28cbDOGE%29.png?1749023465"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5d54725b48d2c8badf5f6046c71c3ffb73e26228",
+    "name": "Bookie AI by Virtuals",
+    "symbol": "BOOKIE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66272/thumb/SX_bloab_400x400.jpg?1749026933"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcb585250f852c6c6bf90434ab21a00f02833a4af",
+    "name": "Coinbase Wrapped XRP",
+    "symbol": "CBXRP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66267/thumb/Coinbase_Wrapped_XPR_%28cbXRP%29.png?1749023398"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7d214438d0f27afccc23b3d1e1a53906ace5cfea",
+    "name": "Re Protocol reUSD",
+    "symbol": "REUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66291/thumb/re_blue.png?1749110516"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7e5fe1e587a5c38b4a4a9ba38a35096f8ea35aac",
+    "name": "AGENT",
+    "symbol": "AGENT",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/54018/thumb/200x200.png?1738001282"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd080ed3c74a20250a2c9821885203034acd2d5ae",
+    "name": "ZyfAI",
+    "symbol": "ZFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39770/thumb/Iso_Blue_with_dark_circle.png?1749018927"
   }
 ]
