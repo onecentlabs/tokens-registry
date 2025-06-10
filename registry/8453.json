@@ -18825,5 +18825,61 @@
     "symbol": "ZFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39770/thumb/Iso_Blue_with_dark_circle.png?1749018927"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x000307575269863b6cb67916b9e7fc3c6235c000",
+    "name": "myEva",
+    "symbol": "MYEVA",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/66419/thumb/myeva_coin_front.png?1749374478"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa2d4aec94ba0896d95ccc5451c9525b9ec0314de",
+    "name": "Sniper Search",
+    "symbol": "SS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66480/thumb/ttdch2al9o7vv569j2dw70um554u.?1749484976"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8e665c3a3622d7c1bef8ed8ffd7317d3f6318e31",
+    "name": "Oracle of Preferences ZK by Virtuals",
+    "symbol": "OOPZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66410/thumb/oopz_token_image.png?1749371332"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x01812ca908b5731be0db86000c15c5afa3e834b2",
+    "name": "Inferium",
+    "symbol": "IFR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55367/thumb/Yellow_Symbol_Transparent_%281%29.png?1745664842"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd6a34b430c05ac78c24985f8abee2616bc1788cb",
+    "name": "Wrapped Avalanche  Universal ",
+    "symbol": "UAVAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66473/thumb/UA-AVAX.png?1749481568"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0a455245148fa54129d8266f5d8742dd0d05f0c6",
+    "name": "ARTSTED",
+    "symbol": "ARTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66477/thumb/zunzlml0qsw364riq9fpaa4g49z6.?1749483261"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd38b305cac06990c0887032a02c03d6839f770a8",
+    "name": "Legacy Token",
+    "symbol": "LGCT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50673/thumb/token2d.jpg?1728682508"
   }
 ]

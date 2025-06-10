@@ -64212,5 +64212,109 @@
     "symbol": "GRAY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66304/thumb/photo_2025-06-04_14.56.52_%281%29_%281%29.jpeg?1749155218"
+  },
+  {
+    "chainId": 1,
+    "address": "0x79d464248516bc6977ca2069ba15d8d1044479d8",
+    "name": "GPUnet",
+    "symbol": "GPU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66484/thumb/IMG_3154.jpeg?1749505264"
+  },
+  {
+    "chainId": 1,
+    "address": "0x09fd37d9aa613789c517e76df1c53aece2b60df4",
+    "name": "ebUSD Stablecoin",
+    "symbol": "EBUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66485/thumb/0x09fd37d9aa613789c517e76df1c53aece2b60df4.png?1749505950"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1db1591540d7a6062be0837ca3c808add28844f6",
+    "name": "Origami hOHM",
+    "symbol": "HOHM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66457/thumb/hOHM_200px.png?1749435178"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7059161a6becfce54e8bbd565c11019f2bf54994",
+    "name": "Axira",
+    "symbol": "AXI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55745/thumb/axion-05.png?1747289419"
+  },
+  {
+    "chainId": 1,
+    "address": "0x70bb8bcfafcf60446d5071d4427da8e99f0168aa",
+    "name": "Birdei",
+    "symbol": "BIRDEI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66396/thumb/Birdei_200x200.png?1749287522"
+  },
+  {
+    "chainId": 1,
+    "address": "0x734eec7930bc84ec5732022b9eb949a81fb89abe",
+    "name": "Usual ETH",
+    "symbol": "ETH0",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66400/thumb/ETH0512px.png?1749288687"
+  },
+  {
+    "chainId": 1,
+    "address": "0x594dd710e3bef17cb0585ffb863e0fc9e0f257ab",
+    "name": "The America Party",
+    "symbol": "TAP",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66460/thumb/logoTAP.png?1749461244"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72e228cdfdc77a36048a7ef62485be11b6d3b25e",
+    "name": "Manyu the Shiba Inu",
+    "symbol": "MANYU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66466/thumb/logo_%281%29.png?1749463153"
+  },
+  {
+    "chainId": 1,
+    "address": "0x61dbbbb552dc893ab3aad09f289f811e67cef285",
+    "name": "Skate",
+    "symbol": "SKATE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54864/thumb/skate.jpg?1742193428"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3ddc84940ab509c11b20b76b466933f40b750dc9",
+    "name": "Franklin Templeton BENJI",
+    "symbol": "BENJI",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/66409/thumb/Benji_Logo.png?1749371083"
+  },
+  {
+    "chainId": 1,
+    "address": "0x13b22eba36493772b3a75b7217dcbb258ea8b1da",
+    "name": "Smart Quantum Game",
+    "symbol": "SQMG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66467/thumb/sqmg-200x200.png?1749468354"
+  },
+  {
+    "chainId": 1,
+    "address": "0xed93a0bcbd7793b4dd6ca0033b813344512c106d",
+    "name": "Tuggin",
+    "symbol": "TUGGIN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66472/thumb/0xed93a0bcbd7793b4dd6ca0033b813344512c106d.jpg?1749481284"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8080779e8366ea28cd1c99bd66ac6d04fce73bf9",
+    "name": "The America Party",
+    "symbol": "TAP",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66420/thumb/1_%281%29.jpeg?1749374708"
   }
 ]

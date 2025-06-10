@@ -841,5 +841,21 @@
     "symbol": "LBP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66235/thumb/loopburn_dex_icon.png?1748895522"
+  },
+  {
+    "chainId": 146,
+    "address": "0x6c9b3a74ae4779da5ca999371ee8950e8db3407f",
+    "name": "Fly",
+    "symbol": "FLY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66394/thumb/fly.jpg?1749286672"
+  },
+  {
+    "chainId": 146,
+    "address": "0x9138a8733dce2e877f430b7500e3c229ad7599d9",
+    "name": "Atlantis AQUA Token",
+    "symbol": "AQUA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66414/thumb/atlantis.jpg?1749372880"
   }
 ]

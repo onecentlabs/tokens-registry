@@ -656,5 +656,13 @@
     "symbol": "AAPL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66276/thumb/TWIN_Asset_Token_Logo_AAPL_CG.png?1749050463"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x804cf700de1e18f2411bd05aad5fa10d60e1900f",
+    "name": "aSUGAR",
+    "symbol": "ASUGAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66395/thumb/aSUGAR.png?1749286870"
   }
 ]

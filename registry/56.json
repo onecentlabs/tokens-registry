@@ -14936,5 +14936,37 @@
     "decimals": 18,
     "address": "0x2b41228B4Fec7aB712A1A4172c4E6a546BA54444",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x2b41228B4Fec7aB712A1A4172c4E6a546BA54444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "HOME",
+    "name": "Home",
+    "decimals": 18,
+    "address": "0x4BfAa776991E85e5f8b1255461cbbd216cFc714f",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4BfAa776991E85e5f8b1255461cbbd216cFc714f.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "cUSDO",
+    "name": "Compounding Open Dollar",
+    "decimals": 18,
+    "address": "0x64748ea3E31d0B7916F0fF91b017B9f404DED8eF",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x64748ea3E31d0B7916F0fF91b017B9f404DED8eF.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "4EVER",
+    "name": "4EVERLAND",
+    "decimals": 18,
+    "address": "0x63eC886286f30AD392749b9e8f24f67F5b8Ac394",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x63eC886286f30AD392749b9e8f24f67F5b8Ac394.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "satUSD",
+    "name": "Satoshi Stablecoin V2",
+    "decimals": 18,
+    "address": "0xb4818BB69478730EF4e33Cc068dD94278e2766cB",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb4818BB69478730EF4e33Cc068dD94278e2766cB.png"
   }
 ]

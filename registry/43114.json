@@ -5274,5 +5274,37 @@
     "symbol": "REUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66291/thumb/re_blue.png?1749110516"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x39e58c9b8a539e007b4457a5dd1107b1434d278b",
+    "name": "Baby JubJub",
+    "symbol": "BJUB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66392/thumb/favicon.png?1749284942"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8f0a35cabd10e830c8c10629cf539c2e0f1f3481",
+    "name": "XPowermine com XPOW",
+    "symbol": "",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66402/thumb/XPOW.png?1749351409"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6f43ff77a9c0cf552b5b653268fbfe26a052429b",
+    "name": "LAMBO",
+    "symbol": "LAMBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66462/thumb/IMG_3249.jpeg?1749461496"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1bed077195307229fccbc719c5f2ce6416a58180",
+    "name": "ORDER",
+    "symbol": "ORDER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66413/thumb/order-logo.png?1749372552"
   }
 ]

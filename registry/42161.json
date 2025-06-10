@@ -11903,5 +11903,45 @@
     "symbol": "REUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66291/thumb/re_blue.png?1749110516"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3572f8f8c2d8f4ec9469bb1c8573439c7500771e",
+    "name": "KNOW",
+    "symbol": "KNOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66408/thumb/200x200.png?1749370458"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8eef5ed361c6823156d936209e23a8e0349e5c61",
+    "name": "RIF US Dollar",
+    "symbol": "USDRIF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39869/thumb/USDRIF.webp?1724500201"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8e4d81cbcbb0cc7fda2b709259dfd28adae7e000",
+    "name": "RIFPro",
+    "symbol": "RIFP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55609/thumb/rifro_copy.png?1746858777"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x93c9932e4afa59201f0b5e63f7d816516f1669fe",
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31079/thumb/FDUSD_icon_black.png?1731097953"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x61dbbbb552dc893ab3aad09f289f811e67cef285",
+    "name": "Skate",
+    "symbol": "SKATE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54864/thumb/skate.jpg?1742193428"
   }
 ]
