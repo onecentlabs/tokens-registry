@@ -11943,5 +11943,58 @@
     "symbol": "SKATE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54864/thumb/skate.jpg?1742193428"
+  },
+  {
+    "name": "PancakeSwap",
+    "address": "0xCdc343ebf71e38F003eD6c80171F5B8D7cF58860",
+    "symbol": "CAKE",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6380F3d0C1412a80EB00F49064DA30749DB991DE",
+    "name": "Portal",
+    "symbol": "PORTAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35436/standard/portal.jpeg",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x1Bbe973BeF3a977Fc51CbED703E8ffDEfE001Fed"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3c45038f4807c5bb72F6BC72c2A2B9c012155e49",
+    "name": "Radicle",
+    "symbol": "RAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14013/thumb/radicle.png?1614402918",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
+    "name": "USDai",
+    "symbol": "USDAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55857/thumb/USDai_200x200.png?1747469907"
   }
 ]

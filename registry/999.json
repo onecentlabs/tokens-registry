@@ -308,5 +308,37 @@
     "symbol": "HLGATO",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/66253/thumb/HlGato_%283%29_%281%29.png?1748972398"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d",
+    "name": "Relend Network USDC  HyperEVM ",
+    "symbol": "RUSDC-HYPER",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66543/thumb/rUSDC-hyper.png?1749710631"
+  },
+  {
+    "chainId": 999,
+    "address": "0x738dd55c272b0b686382f62dd4a590056839f4f6",
+    "name": "Holy Liquid",
+    "symbol": "HL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66502/thumb/1500x500.jpeg?1749574229"
+  },
+  {
+    "chainId": 999,
+    "address": "0x7dcffcb06b40344eeced2d1cbf096b299fe4b405",
+    "name": "Reverse Unit Bias",
+    "symbol": "RUB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66538/thumb/rubfinal.webp?1749708367"
+  },
+  {
+    "chainId": 999,
+    "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+    "name": "Tether Gold Tokens",
+    "symbol": "XAUT0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
   }
 ]

@@ -64316,5 +64316,141 @@
     "symbol": "TAP",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/66420/thumb/1_%281%29.jpeg?1749374708"
+  },
+  {
+    "name": "Lagrange",
+    "address": "0x0fc2a55d5BD13033f1ee0cdd11f60F7eFe66f467",
+    "symbol": "LA",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36510.png"
+  },
+  {
+    "address": "0xc20059e0317de91738d13af027dfc4a50781b066",
+    "symbol": "SPK",
+    "name": "Spark",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xc20059e0317de91738d13af027dfc4a50781b066/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5e362eb2c0706bd1d134689ec75176018385430b",
+    "name": "Decentralized Validator Token",
+    "symbol": "DVSTETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66541/thumb/ic_DVstETH_2x.png?1749709919"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbfd9fe9f991566c61c7c59a633d00743e5f9461c",
+    "name": "GoAsk",
+    "symbol": "ASK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66542/thumb/GoAsk.jpg?1749710132"
+  },
+  {
+    "chainId": 1,
+    "address": "0x48e205eb6db302a6e50d292cd382f6251d9a25cd",
+    "name": "boom fun",
+    "symbol": "BOOM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66549/thumb/boom.fun_200x200.png?1749713163"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf5f52266a57e6d7312da39bd7ab9527b9e975c40",
+    "name": "Agent Virtual Machine",
+    "symbol": "AVM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66521/thumb/200x200_%282%29.png?1749645467"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7159cc276d7d17ab4b3beb19959e1f39368a45ba",
+    "name": "YieldNest",
+    "symbol": "YND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66128/thumb/ynd.png?1748425341"
+  },
+  {
+    "chainId": 1,
+    "address": "0x259338656198ec7a76c729514d3cb45dfbf768a1",
+    "name": "Resolv",
+    "symbol": "RESOLV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56092/thumb/resolv.jpg?1748395654"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd460a96231e2aa497eca601f526913654fbd4977",
+    "name": "LilManyu",
+    "symbol": "MANYU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66522/thumb/download.png?1749645989"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc7290af237d1d3f6b207b7acb3dd186b868da500",
+    "name": "Beat Matchmaker",
+    "symbol": "BEAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66523/thumb/5807680981702919658_%281%29_%281%29.jpg?1749646187"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb27999185019f8d477fae62310ca728941ee77e6",
+    "name": "Invinos",
+    "symbol": "VINOS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66527/thumb/5897902043975239878.jpg?1749646964"
+  },
+  {
+    "chainId": 1,
+    "address": "0x11a001dc777f5bf8a5d63f246664d3bb67be496c",
+    "name": "Oggie",
+    "symbol": "OGGIE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66529/thumb/OGGIE_LOGO_-_coingecko.png?1749663619"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72c440b5a41cd48e4c362c706e3f42000de1d8f7",
+    "name": "Smart Lending AI",
+    "symbol": "SLAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66506/thumb/logo.png?1749576259"
+  },
+  {
+    "chainId": 1,
+    "address": "0x25517010a154ec41f76d203ab221019a37c2dab6",
+    "name": "Neuralis AI",
+    "symbol": "NEURAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66507/thumb/Neuralis_Round_%282%29.png?1749576506"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0d57436f2d39c0664c6f0f2e349229483f87ea38",
+    "name": "Wrapped A7A5",
+    "symbol": "WA7A5",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66559/thumb/wA7A5_200.png?1749723499"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb64c4379ae2d03ce6b7df0ca5135d3b7e9bb0a89",
+    "name": "Xybertic",
+    "symbol": "XYB",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66565/thumb/XYB_%281%29.jpg?1749760189"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5cbfe0b628858e3aaae7dbc81b0ce09ff2c80550",
+    "name": "Kochi Inu",
+    "symbol": "KOCHI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66567/thumb/kochi-logo-round-200.png?1749760711"
   }
 ]

@@ -18881,5 +18881,77 @@
     "symbol": "LGCT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50673/thumb/token2d.jpg?1728682508"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4d5cb527bd9d87c727b6dbe01114adc086e646a2",
+    "name": "ReachX Mainnet",
+    "symbol": "RX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66528/thumb/IMG_6839.jpeg?1749663319"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x03264d29e2498284c0043d8f83e040778ab6290a",
+    "name": "based aura",
+    "symbol": "AURA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66561/thumb/based_aura_logo_200px.png?1749755685"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb8b7dfacec9abbcb0093f1344c41cb7263c4795a",
+    "name": "Arcturian AI by Virtuals",
+    "symbol": "LIGHT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66495/thumb/4by4.jpeg?1749570259"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2b5050f01d64fbb3e4ac44dc07f0732bfb5ecadf",
+    "name": "QR coin",
+    "symbol": "QR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66513/thumb/8er336q7c7kf20ul7ag9e2zjptev.?1749596670"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbe1518af2419b8ead1fbca138a676d559fedb51d",
+    "name": "Nexa",
+    "symbol": "NXA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66494/thumb/NXA-cg.png?1749569512"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x019029665a6e73ef98e1970f8a5434b3de38d41c",
+    "name": "CalcifyTech",
+    "symbol": "CALCIFY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66504/thumb/FIUVQPxr_400x400.jpg?1749575179"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcf803ee29d3fd878880e5cdfee804efd97d599f5",
+    "name": "ENTERBEAT",
+    "symbol": "EBT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66531/thumb/photo_2025-06-03_19-41-51.jpg?1749671974"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6d5d854063114c18dadc54fe052d75c1c4f34b46",
+    "name": "Nemesis AI Trader",
+    "symbol": "NEMESIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66554/thumb/art9359b2w3i6netw4cn2cg011rx.?1749721330"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x02cb6968877a3a40a5d918af0aecc3481bfc0434",
+    "name": "ASYNCHRONUS by Virtuals",
+    "symbol": "ASYNC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66530/thumb/output-onlinepngtools_%281%29.png?1749671715"
   }
 ]

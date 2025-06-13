@@ -857,5 +857,13 @@
     "symbol": "AQUA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66414/thumb/atlantis.jpg?1749372880"
+  },
+  {
+    "chainId": 146,
+    "address": "0x2f2f2f74ab5db61ae8bd3c13ccd4dc8c9e8a2f2f",
+    "name": "zkSwap Finance",
+    "symbol": "ZF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31633/thumb/200x200_Black.png?1747800050"
   }
 ]

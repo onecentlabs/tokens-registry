@@ -5306,5 +5306,21 @@
     "symbol": "ORDER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66413/thumb/order-logo.png?1749372552"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xce8e89bb70aae88fb3fe4784045a718d00eb8e21",
+    "name": "Index Token",
+    "symbol": "IT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66525/thumb/Arena_Index_-_Index_Token_%28IT%29.png?1749646733"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xac6e53f1e1ebafda8553c0add8c5b32bcb5890c4",
+    "name": "FINANCE",
+    "symbol": "FINANCE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66500/thumb/Untitled_%2813%29.jpg?1749573161"
   }
 ]

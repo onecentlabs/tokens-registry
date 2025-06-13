@@ -13553,5 +13553,13 @@
     "symbol": "ROU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66269/thumb/ROU.png?1749024151"
+  },
+  {
+    "chainId": 137,
+    "address": "0x32dfe9b08826c24296f494ec1831ee7ceb45e4a6",
+    "name": "NEND",
+    "symbol": "NEND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66545/thumb/iHPiaAhm_400x400.png?1749711787"
   }
 ]
