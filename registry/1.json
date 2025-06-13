@@ -64452,5 +64452,13 @@
     "symbol": "KOCHI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66567/thumb/kochi-logo-round-200.png?1749760711"
+  },
+  {
+    "chainId": 1,
+    "address": "0xea87148a703adc0de89db2ac2b6b381093ae8ee0",
+    "name": "I R I S",
+    "symbol": "IRIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66509/thumb/iris.png?1749592361"
   }
 ]
