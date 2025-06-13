@@ -104,6 +104,14 @@
   },
   {
     "chainId": 999,
+    "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+    "name": "Tether Gold",
+    "symbol": "XAUT0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66560/standard/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 999,
     "address": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
     "name": "Unit Bitcoin",
     "symbol": "UBTC",
@@ -128,6 +136,14 @@
   },
   {
     "chainId": 999,
+    "address": "0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5",
+    "name": "Hyper USD",
+    "symbol": "USDHL",
+    "decimals": 6,
+    "logoURI": "https://pbs.twimg.com/profile_images/1928111403551911936/rkFUzZ4Z_400x400.jpg"
+  },
+  {
+    "chainId": 999,
     "address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
     "name": "Staked HYPE Shares",
     "symbol": "WSTHYPE",
@@ -144,6 +160,14 @@
   },
   {
     "chainId": 999,
+    "address": "0x8fF0dd9f9C40a0d76eF1BcFAF5f98c1610c74Bd8",
+    "name": "Hyperstable",
+    "symbol": "USH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/curvefi/curve-assets/d1ce7a26b64f4189427a153d4175f399b862b8b0/images/assets-hyperliquid/0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8.png"
+  },
+  {
+    "chainId": 999,
     "address": "0x28245AB01298eaEf7933bC90d35Bd9DbCA5C89DB",
     "name": "Peg",
     "symbol": "PEG",
@@ -152,11 +176,10 @@
   },
   {
     "chainId": 999,
-    "address": "0x8fF0dd9f9C40a0d76eF1BcFAF5f98c1610c74Bd8",
-    "name": "Hyperstable",
-    "symbol": "USH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/curvefi/curve-assets/d1ce7a26b64f4189427a153d4175f399b862b8b0/images/assets-hyperliquid/0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8.png"
+    "address": "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
+    "name": "Hyperpie Staked HYPE",
+    "symbol": "mHYPE",
+    "decimals": 18
   },
   {
     "chainId": 999,
@@ -197,13 +220,6 @@
     "symbol": "VEGAS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39376/thumb/logo.png?1721957143"
-  },
-  {
-    "chainId": 999,
-    "address": "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
-    "name": "Hyperpie Staked HYPE",
-    "symbol": "mHYPE",
-    "decimals": 18
   },
   {
     "chainId": 999,
@@ -289,7 +305,7 @@
     "chainId": 999,
     "address": "0x9b530b0ac8817f4b6c29cff236df85ed33ece660",
     "name": "HarryPotterHyperMarioLiquidFentJeffSpec",
-    "symbol": "HYPE",
+    "symbol": "HYPE (meme)",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/66155/thumb/200200.jpg?1748497704"
   },
@@ -332,13 +348,5 @@
     "symbol": "RUB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66538/thumb/rubfinal.webp?1749708367"
-  },
-  {
-    "chainId": 999,
-    "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
-    "name": "Tether Gold Tokens",
-    "symbol": "XAUT0",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
   }
 ]
