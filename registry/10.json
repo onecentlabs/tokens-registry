@@ -5153,5 +5153,18 @@
     "symbol": "SUPR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55519/thumb/Small.png?1746469855"
+  },
+  {
+    "chainId": 10,
+    "address": "0xB260d236F5eA5094D31F016160705ff53ac45028",
+    "name": "BTREE",
+    "symbol": "BTREE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTREE/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BTREE"
+    }
   }
 ]

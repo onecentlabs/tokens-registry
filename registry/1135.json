@@ -143,5 +143,18 @@
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
+  },
+  {
+    "chainId": 1135,
+    "address": "0xe12cEFaAD61e551691BFa5cDA36e5dE051778C65",
+    "name": "Bridged EURC (Lisk)",
+    "symbol": "EURC.e",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/BridgedEURC/logo.png",
+    "extensions": {
+      "liskBridgeAddress": "0x4db1c96C1f9c3d5429fDf35ED2e684b309b0c281",
+      "opListId": "extended",
+      "opTokenId": "BridgedEURC"
+    }
   }
 ]

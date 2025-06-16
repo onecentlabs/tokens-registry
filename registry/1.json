@@ -64460,5 +64460,69 @@
     "symbol": "IRIS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66509/thumb/iris.png?1749592361"
+  },
+  {
+    "chainId": 1,
+    "address": "0x360ee0225cd8abf0adf1f97f4c0f4079a4bf41ec",
+    "name": "Catalyse AI",
+    "symbol": "CAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66592/thumb/Catalyse_AI.jpg?1749883061"
+  },
+  {
+    "chainId": 1,
+    "address": "0x420658a1d8b8f5c36ddaf1bb828f347ba9011969",
+    "name": "Degen Arena",
+    "symbol": "DEGEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66594/thumb/Degen_Arena.jpg?1749883788"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf5174c9752c46208c30d0f1870b326c9a20c0679",
+    "name": "Maximize AI",
+    "symbol": "MAXI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66603/thumb/Maximize_ai_200x200.png?1749888812"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeb3127a8f1aa9ae9c9ef2459657c3f4fa1f192de",
+    "name": "PROFIT AI",
+    "symbol": "PROFIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66613/thumb/profit-ai-logo.jpeg?1749977226"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeea3edc017877c603e2f332fc1828a46432cdf96",
+    "name": "Cove USD",
+    "symbol": "COVEUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66612/thumb/coveUSD.png?1749902533"
+  },
+  {
+    "chainId": 1,
+    "address": "0x271c616157e69a43b4977412a64183cf110edf16",
+    "name": "Pareto Staked USP",
+    "symbol": "SUSP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66569/thumb/sUSP_icon.png?1749795733"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6967b9a8c0b14849cfe8f9e5732b401433fd2898",
+    "name": "Naka Go",
+    "symbol": "NAKA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66578/thumb/11zon_cropped_%2851%29.png?1749798766"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa0c56a8c0692bd10b3fa8f8ba79cf5332b7107f9",
+    "name": "Merlin Chain",
+    "symbol": "MERL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37118/thumb/merlin.jpeg?1713352230"
   }
 ]

@@ -5322,5 +5322,13 @@
     "symbol": "FINANCE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66500/thumb/Untitled_%2813%29.jpg?1749573161"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x66a7b00154cfa3354e6334185f740db88d12b3bb",
+    "name": "JindoJinju",
+    "symbol": "JINDOJINJU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66616/thumb/jindojinju_logo200.png?1749975597"
   }
 ]

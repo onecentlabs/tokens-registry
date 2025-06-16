@@ -15040,5 +15040,13 @@
     "decimals": 6,
     "address": "0x3fefe29dA25BEa166fB5f6ADe7b5976D2b0e586B",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x3fefe29dA25BEa166fB5f6ADe7b5976D2b0e586B.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SGC",
+    "name": "SGC",
+    "decimals": 18,
+    "address": "0xE0A441D23cedB44822dfC8562E4d8d39C6B7F946",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xE0A441D23cedB44822dfC8562E4d8d39C6B7F946.png"
   }
 ]

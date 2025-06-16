@@ -18953,5 +18953,85 @@
     "symbol": "ASYNC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66530/thumb/output-onlinepngtools_%281%29.png?1749671715"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6444c6c2d527d85ea97032da9a7504d6d1448ecf",
+    "name": "Ratio1",
+    "symbol": "R1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66614/thumb/Ratio1_200x200.png?1749974598"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdf8da8b53baa464a6ce7cac8ecc6d33e1aeab215",
+    "name": "Aagent ai",
+    "symbol": "AAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66602/thumb/Original_Logo.png?1749888485"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe4da9889db3d1987856e56da08ec7e9f484f6434",
+    "name": "King Kovu",
+    "symbol": "LAZY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66589/thumb/Untitled_design_%2834%29.png?1749831754"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x67446a5746b5f1ce62d78f40f8c83dba03ae3e15",
+    "name": "AppDuck by Virtuals",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66588/thumb/2.png?1749831193"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x40ba93835789b9958ed588308c299fa27ddc5838",
+    "name": "SUPAH",
+    "symbol": "SUPH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66575/thumb/Supah-logo-png-200x200-transparant-schuin.png?1749797584"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbe8728795b935bf6e2a9253ce7a2ef6fa831f51e",
+    "name": "Universal Operating System",
+    "symbol": "UOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66585/thumb/uos.jpg?1749825140"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1f015712aa2a48085ec93f87d643bb625b668b07",
+    "name": "Indexy",
+    "symbol": "I",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66582/thumb/qczwgqkspq47mk99h5tv11kqyf6w.?1749809300"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x91dd62e33c8d3f4ebef942c1d98e1298ba0f0029",
+    "name": "Brad",
+    "symbol": "BRAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66598/thumb/IMG_8439.jpeg?1749885990"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf327abd3c9709c9834d0ad1dc253ff6eed86c04d",
+    "name": "Coinbread",
+    "symbol": "BREAD",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66591/thumb/Coinbread_Shadow%282%29.png?1749882880"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc5449fafc8711b6fa68192586c9aa9302503b939",
+    "name": "Gracy",
+    "symbol": "GRACY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31943/thumb/gracy_200x200.png?1696530750"
   }
 ]

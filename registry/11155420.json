@@ -101,5 +101,18 @@
       "opListId": "default",
       "opTokenId": "wstETH"
     }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x7E5A0b6C5c32883AE8E5b830c05688Eff317c3fb",
+    "name": "BTREE",
+    "symbol": "BTREE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTREE/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BTREE"
+    }
   }
 ]
