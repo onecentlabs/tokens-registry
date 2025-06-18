@@ -5330,5 +5330,21 @@
     "symbol": "JINDOJINJU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66616/thumb/jindojinju_logo200.png?1749975597"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5ddc8d968a94cf95cfeb7379f8372d858b9c797d",
+    "name": "WOLFI",
+    "symbol": "WOLFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66620/thumb/wolfi_logo.png?1750056859"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe088d859d8bce513b76dc11c05d559254e28a336",
+    "name": "Wife Changing Money",
+    "symbol": "WIFE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66690/thumb/WIFE.jpg?1750255930"
   }
 ]

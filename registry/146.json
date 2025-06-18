@@ -865,5 +865,13 @@
     "symbol": "ZF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31633/thumb/200x200_Black.png?1747800050"
+  },
+  {
+    "chainId": 146,
+    "address": "0x123468b48eadbc13c65cd9c66a9913cde4e94321",
+    "name": "Long",
+    "symbol": "LONG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36497/thumb/Logo_Long_square.png?1717541650"
   }
 ]

@@ -11996,5 +11996,45 @@
     "symbol": "USDAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55857/thumb/USDai_200x200.png?1747469907"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x90a2a4c76b5d8c0bc892a69ea28aa775a8f2dd48",
+    "name": "SP500 xStock",
+    "symbol": "SPYX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66695/thumb/Ticker_SPX__Company_Name_SP500__size_200x200_2x.png?1750266819"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa753a7395cae905cd615da0b82a53e0560f250af",
+    "name": "Nasdaq xStock",
+    "symbol": "QQQX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66696/thumb/QQQx.png?1750266952"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xbd730e618bcd88c82ddee52e10275cf2f88a4777",
+    "name": "Vanguard xStock",
+    "symbol": "VTIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66697/thumb/Ticker_VTI__Company_Name_Vanguard__size_200x200_2x.png?1750266977"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2380f2673c640fb67e2d6b55b44c62f0e0e69da9",
+    "name": "Gold xStock",
+    "symbol": "GLDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66699/thumb/Ticker_GLD__Company_Name_Gold__size_200x200_2x.png?1750267259"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfdddb57878ef9d6f681ec4381dcb626b9e69ac86",
+    "name": "TQQQ xStock",
+    "symbol": "TQQQX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66700/thumb/TQQQx.png?1750267277"
   }
 ]

@@ -19033,5 +19033,93 @@
     "symbol": "GRACY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31943/thumb/gracy_200x200.png?1696530750"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x788470b87b87b1815dd2119615a946825342ae01",
+    "name": "PowerSnookerCoin",
+    "symbol": "PSC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66685/thumb/Token_Logo_%28200_x_200_px%29.png?1750253781"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbbe6693a1825270886fa53167359caa32ff87c5e",
+    "name": "BOOK OF RUGS",
+    "symbol": "BOOKOFRUGS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66703/thumb/2.png?1750267891"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc2704323a9f6b41b81a735cddd2ccb6273da1197",
+    "name": "baibysitter",
+    "symbol": "BAIBY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66619/thumb/WhatsApp_Image_2025-06-14_at_07.21.51.jpeg?1750056437"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcbada732173e39521cdbe8bf59a6dc85a9fc7b8c",
+    "name": "Coinbase Wrapped ADA",
+    "symbol": "CBADA",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66647/thumb/Coinbase_Wrapped_Ada_%28cbADA%29.png?1750129533"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x01e75e59eabf83c85360351a100d22e025a75bc2",
+    "name": "HEIR",
+    "symbol": "HEIR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66625/thumb/Screenshot_2025-06-15_at_11.20.09.png?1750058877"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0e15db17e1b2ed310c7201b0203d89b63f18eb53",
+    "name": "PrimoAI",
+    "symbol": "PRIMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66682/thumb/PrimoAI_Image2_1to1.png?1750252051"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9a55fab37d4a4f0e13c8fff5470798614af2b8c3",
+    "name": "Blaze",
+    "symbol": "BLAZE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66693/thumb/Untitled_design_%2884%29.png?1750265765"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6f0b30c20a7f97d9a048b2e53ef6bdf511b59d3d",
+    "name": "Agentik DEX",
+    "symbol": "AGENTIK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66655/thumb/zqShHvpC_400x400.jpg?1750155975"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcb17c9db87b595717c857a08468793f5bab6445f",
+    "name": "Coinbase Wrapped LTC",
+    "symbol": "CBLTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/66646/thumb/Coinbase_Wrapped_Litecoin_%28cbLTC%29.png?1750129508"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcb119fe73cd3b4eb6bbf4c5ad0d6c788e3f80d54",
+    "name": "ELYTRA",
+    "symbol": "ELYTRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66633/thumb/fd4lgaj8c8xvaj2qc94arnj58mvh.?1750086085"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x70654aad8b7734dc319d0c3608ec7b32e03fa162",
+    "name": "Satoshi Stablecoin",
+    "symbol": "SATUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306"
   }
 ]

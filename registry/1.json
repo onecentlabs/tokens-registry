@@ -64524,5 +64524,125 @@
     "symbol": "MERL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37118/thumb/merlin.jpeg?1713352230"
+  },
+  {
+    "address": "0x6c8984bc7dbbedaf4f6b2fd766f16ebb7d10aab4",
+    "symbol": "stUSR",
+    "name": "Staked USR",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x6c8984bc7dbbedaf4f6b2fd766f16ebb7d10aab4/logo.png"
+  },
+  {
+    "address": "0xfe4bce4b3949c35fb17691d8b03c3cadbe2e5e23",
+    "symbol": "stRESOLV",
+    "name": "Staked Resolv",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xfe4bce4b3949c35fb17691d8b03c3cadbe2e5e23/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x25ed873e64edc5d9769e2037f7098c110efd6111",
+    "name": "UA1",
+    "symbol": "UA1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66665/thumb/Logo_200x2000.png?1750194682"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfdffb411c4a70aa7c95d5c981a6fb4da867e1111",
+    "name": "Sahara AI",
+    "symbol": "SAHARA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66681/thumb/sahara_logo.jpeg?1750244681"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa1aa371e450c5aee7fff259cbf5cca9384227272",
+    "name": "Pentagon Chain",
+    "symbol": "PC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66638/thumb/pentagon-chain-token-fcp.png?1750094674"
+  },
+  {
+    "chainId": 1,
+    "address": "0x806a72273b961145cf5c5f040ad1fcd112b3f11a",
+    "name": "Owo",
+    "symbol": "OWO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66639/thumb/OWO_LOGO_.jpg?1750094811"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe4db4aa085d10585693c82fc588a4bb2c34def64",
+    "name": "Cypher App",
+    "symbol": "CYPHER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66642/thumb/Logo_3.jpg?1750106617"
+  },
+  {
+    "chainId": 1,
+    "address": "0x97ccc1c046d067ab945d3cf3cc6920d3b1e54c88",
+    "name": "Pareto USP",
+    "symbol": "USP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66694/thumb/USP.png?1750266258"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4a467232abe1472f9abeb49dcd2b34590222cae9",
+    "name": "Grid Protocol",
+    "symbol": "GRID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66702/thumb/log.png?1750267609"
+  },
+  {
+    "chainId": 1,
+    "address": "0xda891afeb0c9ff9377a05cd91d8eac1dd8331cfd",
+    "name": "Aros",
+    "symbol": "AROS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66651/thumb/aros_200.jpg?1750132606"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbcd75980d2e49655b2205fdbfebdebaef740fc23",
+    "name": "Cypher AI",
+    "symbol": "CYPHER",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66624/thumb/IMG_46D29E0E9E59-1.jpeg?1750058569"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6fa0be17e4bea2fcfa22ef89bf8ac9aab0ab0fc9",
+    "name": "A7A5",
+    "symbol": "A7A5",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66657/thumb/A7A5_200.png?1750163839"
+  },
+  {
+    "chainId": 1,
+    "address": "0x73414fb788f8a98e099f3642c94747d69e35201c",
+    "name": "RoboFlux",
+    "symbol": "RFQ",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66663/thumb/RFQ_Logo.png?1750176018"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd30e5c58c01cc0ec828051664e45f51f38c27b11",
+    "name": "Safe Quantum Wallet",
+    "symbol": "SQW",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66664/thumb/photo_2025-06-16_15.18.41.jpeg?1750194102"
+  },
+  {
+    "chainId": 1,
+    "address": "0xce14e4c778bd71645adaef1e54342f75355602bf",
+    "name": "HealthBuddyAI",
+    "symbol": "HBUD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66666/thumb/logo.jpg?1750194987"
   }
 ]

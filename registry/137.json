@@ -13561,5 +13561,13 @@
     "symbol": "NEND",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66545/thumb/iHPiaAhm_400x400.png?1749711787"
+  },
+  {
+    "address": "0x2f4efd3aa42e15a1ec6114547151b63ee5d39958",
+    "symbol": "COW",
+    "name": "CoW Protocol",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/137/0x2f4efd3aa42e15a1ec6114547151b63ee5d39958/logo.png"
   }
 ]

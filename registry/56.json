@@ -15048,5 +15048,45 @@
     "decimals": 18,
     "address": "0xE0A441D23cedB44822dfC8562E4d8d39C6B7F946",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xE0A441D23cedB44822dfC8562E4d8d39C6B7F946.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SPK",
+    "name": "Spark",
+    "decimals": 18,
+    "address": "0xAfF2e841851700D1Fc101995Ee6b81Ae21Bb87D7",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xAfF2e841851700D1Fc101995Ee6b81Ae21Bb87D7.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BOMB",
+    "name": "Bombie",
+    "decimals": 18,
+    "address": "0x7e975D85714B11d862C7cFFEe3C88d565a139Eb7",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7e975D85714B11d862C7cFFEe3C88d565a139Eb7.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "W",
+    "name": "W",
+    "decimals": 18,
+    "address": "0x19683a9d2a31508847a026DfE77f53A05A084444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x19683a9d2a31508847a026DfE77f53A05A084444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BEE",
+    "name": "BEE",
+    "decimals": 18,
+    "address": "0xDB6f1F098B55E36B036603c8e54663a8D907D6E1",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xDB6f1F098B55E36B036603c8e54663a8D907D6E1.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "P33L",
+    "name": "THE P33L",
+    "decimals": 18,
+    "address": "0x7528BD0F620d1568c307cc8d5db481A29E8d4E37",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7528BD0F620d1568c307cc8d5db481A29E8d4E37.png"
   }
 ]

@@ -348,5 +348,29 @@
     "symbol": "RUB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66538/thumb/rubfinal.webp?1749708367"
+  },
+  {
+    "chainId": 999,
+    "address": "0xbf7f2b530c073e21ea0627f36deeaec21a6adfec",
+    "name": "LICKO",
+    "symbol": "LICKO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66698/thumb/logo.jpg?1750267210"
+  },
+  {
+    "chainId": 999,
+    "address": "0xa320d9f65ec992eff38622c63627856382db726c",
+    "name": "Hypurr Fun",
+    "symbol": "HFUN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38401/thumb/hfun_small.png?1717458896"
+  },
+  {
+    "chainId": 999,
+    "address": "0x1ecd15865d7f8019d546f76d095d9c93cc34edfa",
+    "name": "LiquidLaunch",
+    "symbol": "LIQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53730/thumb/Logo.png?1737143175"
   }
 ]
