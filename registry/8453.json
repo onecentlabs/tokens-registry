@@ -19121,5 +19121,13 @@
     "symbol": "SATUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5ba8d32579a4497c12d327289a103c3ad5b64eb1",
+    "name": "Tipn",
+    "symbol": "TIPN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66706/thumb/gRSe-UCA_400x400.jpg?1750271503"
   }
 ]
