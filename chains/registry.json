@@ -1188,13 +1188,13 @@
       },
       "stablecoins": [
         {
-          "name": "Last USD",
-          "symbol": "USDXL",
+          "name": "Ethena USDe",
+          "symbol": "USDe",
           "type": "ERC20",
           "chainId": 999,
-          "address": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
+          "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
           "decimals": 18,
-          "logoURI": "https://coin-images.coingecko.com/coins/images/55083/large/usdxl.jpg?1743648438"
+          "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png"
         }
       ]
     }
