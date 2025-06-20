@@ -5346,5 +5346,13 @@
     "symbol": "WIFE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66690/thumb/WIFE.jpg?1750255930"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x870982d17cf51d3c304833924eac0ceec4183099",
+    "name": "BEATER",
+    "symbol": "BEATR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66737/thumb/GtoC5Aob0AANXeP.png?1750324467"
   }
 ]

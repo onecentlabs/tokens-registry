@@ -15088,5 +15088,13 @@
     "decimals": 18,
     "address": "0x7528BD0F620d1568c307cc8d5db481A29E8d4E37",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x7528BD0F620d1568c307cc8d5db481A29E8d4E37.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SPCX",
+    "name": "Paimon SpaceX SPV Token",
+    "decimals": 18,
+    "address": "0x872109274218cB50F310E2bFb160D135B502A9d5",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x872109274218cB50F310E2bFb160D135B502A9d5.png"
   }
 ]

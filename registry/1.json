@@ -64644,5 +64644,93 @@
     "symbol": "HBUD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66666/thumb/logo.jpg?1750194987"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9f277edfc463ebaa3d2a6274b01177697e910391",
+    "name": "Miniature Woolly Mammoth",
+    "symbol": "WOOLLY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66744/thumb/Miniature_Woolly_Mammoth.png?1750359865"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3db228fe836d99ccb25ec4dfdc80ed6d2cddcb4b",
+    "name": "ynUSD Max",
+    "symbol": "YNUSDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66745/thumb/ynUSDx.png?1750359980"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e8fafaf34f610af898d6a5eabcad82417c56ed9",
+    "name": "Dexlens",
+    "symbol": "DEXL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66748/thumb/profile_dexlens_200_200_png.png?1750361237"
+  },
+  {
+    "chainId": 1,
+    "address": "0x93aa0ccd1e5628d3a841c4dbdf602d9eb04085d6",
+    "name": "Pepe Unchained",
+    "symbol": "PEPU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66717/thumb/pepu.jpg?1750303081"
+  },
+  {
+    "chainId": 1,
+    "address": "0x926759a8eaecfadb5d8bdc7a9c7b193c5085f507",
+    "name": "Nura Labs",
+    "symbol": "NURA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66723/thumb/nura-labs-logo.jpg?1750317330"
+  },
+  {
+    "chainId": 1,
+    "address": "0x767a98a4f0ac1d1c09e93e97c752f357b8f86976",
+    "name": "Weblume AI",
+    "symbol": "WLAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66732/thumb/wlaicircle200.png?1750322631"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3d162937217758225776937d713ffb2f81a0c147",
+    "name": "HyperQuantum",
+    "symbol": "HQ",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66734/thumb/hyper200.jpg?1750323497"
+  },
+  {
+    "chainId": 1,
+    "address": "0x61c8e619ae7c8cbefbcceb9fb718135afb5d0d93",
+    "name": "ANGL TOKEN",
+    "symbol": "ANGL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66678/thumb/cg.png?1750238430"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5d3d01fd6d2ad1169b17918eb4f153c6616288eb",
+    "name": "KILT Protocol  OLD ",
+    "symbol": "KILT",
+    "decimals": 15,
+    "logoURI": "https://assets.coingecko.com/coins/images/20861/thumb/KILT_Protocol_pink_200x200_circled.png?1735891904"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7528bd0f620d1568c307cc8d5db481a29e8d4e37",
+    "name": "THE P33L",
+    "symbol": "P33L",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66670/thumb/CG_Ticker01.png?1750210438"
+  },
+  {
+    "chainId": 1,
+    "address": "0xec3502a9f98f151af52ee6cb423a0afe7bbf5a19",
+    "name": "Haust",
+    "symbol": "HAUST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52141/thumb/chain-logo-200.png?1732643394"
   }
 ]

@@ -19129,5 +19129,61 @@
     "symbol": "TIPN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66706/thumb/gRSe-UCA_400x400.jpg?1750271503"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3cc0d3ecc81ba57abf3494abc8d4cb0a43410b07",
+    "name": "GMonchain",
+    "symbol": "GM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66729/thumb/pen9xd15goki78bxl23o2tquzna9.?1750320330"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5d0dd05bb095fdd6af4865a1adf97c39c85ad2d8",
+    "name": "KILT Protocol",
+    "symbol": "KILT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66718/thumb/kilt.jpg?1750304219"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6555255b8ded3c538cb398d9e36769f45d7d3ea7",
+    "name": "Backroom",
+    "symbol": "ROOM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66724/thumb/8j8rklaclbkfkbioa8xlpsxgxcdf.?1750317925"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4ed9df25d38795a47f52614126e47f564d37f347",
+    "name": "VNX EURO",
+    "symbol": "VEUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29351/thumb/VNXEUR_%281%29.png?1696528300"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1fca74d9ef54a6ac80ffe7d3b14e76c4330fd5d8",
+    "name": "VNX Swiss Franc",
+    "symbol": "VCHF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29547/thumb/VNXCHF_%282%29.png?1696528488"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaeb4bb7debd1e5e82266f7c3b5cff56b3a7bf411",
+    "name": "VNX British Pound",
+    "symbol": "VGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55301/thumb/VGBP_2.png?1747482092"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6a72d3a87f97a0fee2c2ee4233bdaebc32813d7a",
+    "name": "EstateX",
+    "symbol": "ESX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/36937/thumb/logo.jpeg?1712847900"
   }
 ]
