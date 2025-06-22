@@ -15096,5 +15096,13 @@
     "decimals": 18,
     "address": "0x872109274218cB50F310E2bFb160D135B502A9d5",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x872109274218cB50F310E2bFb160D135B502A9d5.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BRIC",
+    "name": "BRIC",
+    "decimals": 18,
+    "address": "0xb40f2e5291c3Db45AbB0Ca8DF76F1C21E9f112a9",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb40f2e5291c3Db45AbB0Ca8DF76F1C21E9f112a9.png"
   }
 ]

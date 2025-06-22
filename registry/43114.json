@@ -5354,5 +5354,13 @@
     "symbol": "BEATR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66737/thumb/GtoC5Aob0AANXeP.png?1750324467"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x2d731dfe4e60d732ac7ecaed369eb106eb1e351f",
+    "name": "puff",
+    "symbol": "PUFF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66777/thumb/puff.jpg?1750490088"
   }
 ]

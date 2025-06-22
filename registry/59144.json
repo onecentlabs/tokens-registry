@@ -1117,5 +1117,13 @@
     "symbol": "XSOLVBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x374d7860c4f2f604de0191298dd393703cce84f3",
+    "name": "Aave USDC  Linea ",
+    "symbol": "ALINUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66757/thumb/usdc.png?1750409829"
   }
 ]

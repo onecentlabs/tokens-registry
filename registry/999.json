@@ -380,5 +380,13 @@
     "symbol": "WGC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 999,
+    "address": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+    "name": "Wrapped HLP",
+    "symbol": "WHLP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66783/thumb/image_%282%29.png?1750493063"
   }
 ]

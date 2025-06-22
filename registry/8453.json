@@ -19185,5 +19185,68 @@
     "symbol": "ESX",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/36937/thumb/logo.jpeg?1712847900"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc0ca42002d09172d832b59c2dc8bd91a5d839805",
+    "name": "CocaineToken.com",
+    "symbol": "COCAINE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/COCAINE/logo.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "COCAINE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x02300aC24838570012027E0A90D3FEcCEF3c51d2",
+    "name": "FOOM",
+    "symbol": "FOOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FOOM/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "FOOM"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6b67aac5e7456cf47d8901ba2cef01a89002973e",
+    "name": "Nativ",
+    "symbol": "NTV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66769/thumb/logo_nativ.png?1750446324"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x484c46efdc3f2f9ed6c28ef8a907b0da25245889",
+    "name": "Basetard",
+    "symbol": "TARD",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x41ed0311640a5e489a90940b1c33433501a21b07",
+    "name": "BRND",
+    "symbol": "BRND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66763/thumb/rajmr4th3d8vruzmagunildyi9h2.?1750415653"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x41485fa1ff3c677d1f09fc8b9576560e4a4c223c",
+    "name": "MNet Continuum",
+    "symbol": "NUUM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35534/thumb/NUUM_Logo.png?1709033172"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x834df4c1d8f51be24322e39e4766697be015512f",
+    "name": "Etherfuse CETES",
+    "symbol": "CETES",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37855/thumb/cetes.png?1715788161"
   }
 ]

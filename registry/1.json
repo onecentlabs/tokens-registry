@@ -64732,5 +64732,77 @@
     "symbol": "HAUST",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52141/thumb/chain-logo-200.png?1732643394"
+  },
+  {
+    "chainId": 1,
+    "address": "0x50bd66d59911f5e086ec87ae43c811e0d059dd11",
+    "name": "sBOLD by K3 Capital",
+    "symbol": "SBOLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66766/thumb/sBOLD-icon_2x.png?1750445515"
+  },
+  {
+    "chainId": 1,
+    "address": "0x52dd39e5d1a5f4b8a622466bbe880b5427bf038e",
+    "name": "CASE",
+    "symbol": "CASE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66768/thumb/photo_2025-06-19_13.02.28-2.jpeg?1750446076"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe0b7ad7f8f26e2b00c8b47b5df370f15f90fcf48",
+    "name": "Solaxy",
+    "symbol": "SOLX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66771/thumb/IMG_8575.jpeg?1750447361"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe6f98920852a360497dbcc8ec895f1bb1f7c8df4",
+    "name": "OpenVision",
+    "symbol": "VISION",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66753/thumb/OpenVision.jpg?1750407499"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0007efdf427313313c904ad88cba4d00a672e327",
+    "name": "Ishi Go",
+    "symbol": "ISHI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66754/thumb/ishigologo_%282%29.png?1750407767"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2bbd8602091bd1b90797d894163c0de76045f71c",
+    "name": "END",
+    "symbol": "END",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66758/thumb/END_Blue_Logo.png?1750412525"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4ba765ee44597d4986c3fbe9eab1535de3b3c3b6",
+    "name": "MXY6900",
+    "symbol": "MXY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66774/thumb/DT_logo_%281%29.png?1750487767"
+  },
+  {
+    "chainId": 1,
+    "address": "0x01ba69727e2860b37bc1a2bd56999c1afb4c15d8",
+    "name": "YieldNest RWA MAX",
+    "symbol": "YNRWAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66782/thumb/ynRWAx.png?1750492670"
+  },
+  {
+    "chainId": 1,
+    "address": "0x78d11e37e890af4589fc9d0f6f884fd165c5aa0a",
+    "name": "Cryptocurrency Coin",
+    "symbol": "CRYPTO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55850/thumb/cc_200x200_bg.png?1747410965"
   }
 ]
