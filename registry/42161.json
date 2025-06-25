@@ -12036,5 +12036,13 @@
     "symbol": "TQQQX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66700/thumb/TQQQx.png?1750267277"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7424f00845777A06E21F0bd8873f814A8A814B2Dba",
+    "name": "Wrapped XTZ",
+    "symbol": "WXTZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
   }
 ]

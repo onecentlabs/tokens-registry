@@ -873,5 +873,13 @@
     "symbol": "LONG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36497/thumb/Logo_Long_square.png?1717541650"
+  },
+  {
+    "chainId": 146,
+    "address": "0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9",
+    "name": "XSilo",
+    "symbol": "XSILO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66788/thumb/xSILO.png?1750575606"
   }
 ]

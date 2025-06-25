@@ -19248,5 +19248,101 @@
     "symbol": "CETES",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37855/thumb/cetes.png?1715788161"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd8707b400a5dc85cbaddb7279c2bf40221df2521",
+    "name": "Shards Protocol",
+    "symbol": "SHARDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66845/thumb/Logo.png?1750787090"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdad49a24dac278c9721f082eee7cefa350070c1a",
+    "name": "FairWitness",
+    "symbol": "FWT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66850/thumb/45rima6rn4d0dk3o92cvqp4p8x9y.?1750794497"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0c63a8c18deca4f0687616e1774918546727833f",
+    "name": "Sovra Ai by Virtuals",
+    "symbol": "SOVRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66824/thumb/IMG_0356.jpeg?1750662827"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x68c83304d5e348b392a2fd542f56dddbac03a984",
+    "name": "T A O S",
+    "symbol": "TAOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66851/thumb/uirm6q7qrn9uz9vxx7tu6fh5a9ld.?1750794601"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x80ded22d9c6487181ed74d0222add805815e8df4",
+    "name": "Cybercentry",
+    "symbol": "CENTRY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66802/thumb/Cybercentry_Emblem.jpg?1750577134"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x50b95509e8fc9cda3860c2ef80308467ab6534cc",
+    "name": "Balsa MM Fund",
+    "symbol": "BMMF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66844/thumb/BMMF.jpg?1750786793"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd92b53ef83afaf0d0a0167cf7ac5951ad1994824",
+    "name": "MemeGames AI",
+    "symbol": "MGAMES",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66806/thumb/MemeGames_AI.png?1750579618"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5ebdcac9082037f7024262fb813c8f549f2a894e",
+    "name": "CAIRE",
+    "symbol": "CAIRE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66839/thumb/portrait-200x200.png?1750763066"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x086d596d7062b3cdddaaa3714d656508668028fd",
+    "name": "Deepr fun",
+    "symbol": "DEEPR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66846/thumb/deepr_200.png?1750787337"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x289a086583a605c4af00de3bf859b70afc68f991",
+    "name": "Quokka",
+    "symbol": "QUOKKA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66808/thumb/Quokka_Logo.png?1750580435"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x91f9cc2649ac70a071602cade9b0c1a5868af51d",
+    "name": "Wrapped XTZ",
+    "symbol": "WXTZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x16a3832e690278d4979fd072fa4913bd1e8cbfd8",
+    "name": "NodeAI",
+    "symbol": "GPU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35432/thumb/NodeAI.png?1722373937"
   }
 ]

@@ -15104,5 +15104,29 @@
     "decimals": 18,
     "address": "0xb40f2e5291c3Db45AbB0Ca8DF76F1C21E9f112a9",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xb40f2e5291c3Db45AbB0Ca8DF76F1C21E9f112a9.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "UPTOP",
+    "name": "UPTOP",
+    "decimals": 18,
+    "address": "0x8a0DB359c38414B5F145F65cc1c69d9253067c43",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8a0DB359c38414B5F145F65cc1c69d9253067c43.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MGO",
+    "name": "MGO",
+    "decimals": 9,
+    "address": "0x5e0d6791EdbEEBa6a14D1d38e2b8233257118EB1",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5e0d6791EdbEEBa6a14D1d38e2b8233257118EB1.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "NEWT",
+    "name": "Newton",
+    "decimals": 18,
+    "address": "0xB8A677E6D805c8d743e6f14c8bC9C19305b5deFC",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xB8A677E6D805c8d743e6f14c8bC9C19305b5deFC.png"
   }
 ]

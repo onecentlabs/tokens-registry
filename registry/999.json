@@ -388,5 +388,13 @@
     "symbol": "WHLP",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/66783/thumb/image_%282%29.png?1750493063"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+    "name": "Hyperwave HLP",
+    "symbol": "HWHLP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66821/thumb/hwhlp.png?1750652862"
   }
 ]

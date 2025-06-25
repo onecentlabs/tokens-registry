@@ -5362,5 +5362,21 @@
     "symbol": "PUFF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66777/thumb/puff.jpg?1750490088"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xceee63ff114f8e8debf5e78a14e770e5b905ea91",
+    "name": "Meta Oasis",
+    "symbol": "AIM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34479/thumb/meta.jpg?1704999595"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x87202a2402414f4f58c52764faa7b015d104be82",
+    "name": "FOMO",
+    "symbol": "FOMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66787/thumb/Inverted_FOMO.png?1750574248"
   }
 ]
