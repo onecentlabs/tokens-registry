@@ -15136,5 +15136,53 @@
     "decimals": 18,
     "address": "0x8683BA2F8b0f69b2105f26f488bADe1d3AB4dec8",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8683BA2F8b0f69b2105f26f488bADe1d3AB4dec8.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "H",
+    "name": "Humanity",
+    "decimals": 18,
+    "address": "0x44F161aE29361E332dEA039DFA2F404E0bC5B5Cc",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x44F161aE29361E332dEA039DFA2F404E0bC5B5Cc.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "AFT",
+    "name": "AIFlow Token",
+    "decimals": 18,
+    "address": "0xaBd834A7823567673e1Ac07635d5D9857b34A8d3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xaBd834A7823567673e1Ac07635d5D9857b34A8d3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MAT",
+    "name": "Matchain",
+    "decimals": 18,
+    "address": "0xFE2DD2d57a05F89438F3AEC94EaFA4070396bab0",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xFE2DD2d57a05F89438F3AEC94EaFA4070396bab0.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SAHARA",
+    "name": "Sahara AI",
+    "decimals": 18,
+    "address": "0xFDFfB411C4A70AA7C95D5C981a6Fb4Da867e1111",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xFDFfB411C4A70AA7C95D5C981a6Fb4Da867e1111.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SWEAT",
+    "name": "SWEAT",
+    "decimals": 18,
+    "address": "0x510Ad22d8C956dCC20f68932861f54A591001283",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x510Ad22d8C956dCC20f68932861f54A591001283.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MORE",
+    "name": "Moonveil",
+    "decimals": 18,
+    "address": "0xFe723495f73714426493384eb5e49Aa5b827e1D5",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xFe723495f73714426493384eb5e49Aa5b827e1D5.png"
   }
 ]

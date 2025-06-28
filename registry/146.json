@@ -881,5 +881,13 @@
     "symbol": "XSILO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66788/thumb/xSILO.png?1750575606"
+  },
+  {
+    "chainId": 146,
+    "address": "0x3d75f2bb8abcdbd1e27443cb5cbce8a668046c81",
+    "name": "HLP0",
+    "symbol": "HLP0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66871/thumb/logo_%284%29.png?1750918092"
   }
 ]

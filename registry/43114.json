@@ -5378,5 +5378,21 @@
     "symbol": "FOMO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66787/thumb/Inverted_FOMO.png?1750574248"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6e6fdf266ef8b0d979d702165373329e638ae670",
+    "name": "3000",
+    "symbol": "3000",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66876/thumb/95988614-4518-61b9-54d9-f7aa21b6f0d41747956984240-1.jpeg?1750921485"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x3d75f2bb8abcdbd1e27443cb5cbce8a668046c81",
+    "name": "HLP0",
+    "symbol": "HLP0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66871/thumb/logo_%284%29.png?1750918092"
   }
 ]

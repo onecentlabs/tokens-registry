@@ -64916,5 +64916,141 @@
     "symbol": "BOOST",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66848/thumb/logo-02.png?1750787634"
+  },
+  {
+    "chainId": 1,
+    "address": "0x569dd3298e114da858415ee5672c8f2ab57938bf",
+    "name": "Vector AI",
+    "symbol": "VECTOR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66875/thumb/vectortokenlogo.png?1750921268"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7ebab7190d3d574ce82d29f2fa1422f18e29969c",
+    "name": "Squill",
+    "symbol": "SQUILL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66883/thumb/SQUILL-200x200.png?1750922589"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4a35feae3378298d65f123576c61acd62b52a920",
+    "name": "YieldStone",
+    "symbol": "YIELD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38766/thumb/YieldStone.png?1750493216"
+  },
+  {
+    "chainId": 1,
+    "address": "0x883f46033947b92df4140b37386725d6e3faa69a",
+    "name": "BUTTCOIN",
+    "symbol": "BUTTCOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66889/thumb/buttcoin_png.png?1750935198"
+  },
+  {
+    "chainId": 1,
+    "address": "0x98931a97a62ff3a8e2b42b7ea186cff193c2a67f",
+    "name": "Yobi",
+    "symbol": "YOBI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66895/thumb/yobi-logo.jpg?1750937358"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8e7a9f9817ecf2649c0316b22fea274d522c7b9b",
+    "name": "VIBE AI",
+    "symbol": "VIBE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66856/thumb/Vibe3DPurple.png?1750841683"
+  },
+  {
+    "chainId": 1,
+    "address": "0x42168a285252bd00e4930e2f9dc01d496b14c90a",
+    "name": "Skyops",
+    "symbol": "SKYOPS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66900/thumb/New_X_Logo.png?1750962124"
+  },
+  {
+    "chainId": 1,
+    "address": "0x775e8647b21606a21ee7f4a1efa1fc9be515666b",
+    "name": "Regentics",
+    "symbol": "REGEN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66904/thumb/regen_%281%29.jpg?1751010951"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcdbdd8a173c385d8a3c8cab7914a99e8c3d9c3a1",
+    "name": "FRAKTI ",
+    "symbol": "FRAKT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66908/thumb/LogoX.png?1751018694"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeb22e60a770b913eb47d6ae9a25a2c36b6876c56",
+    "name": "Inspira",
+    "symbol": "INSPI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66909/thumb/Inspira_logo_200x200.png?1751019704"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb",
+    "name": "NODE",
+    "symbol": "NODE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66913/thumb/NODE_%281%29.png?1751026714"
+  },
+  {
+    "chainId": 1,
+    "address": "0x90cb6c43b84a403dc1dea498a4620116677de9b1",
+    "name": "Buyai",
+    "symbol": "BAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66914/thumb/photo_2025-06-26_12.07.53.jpeg?1751027233"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9157e4b8b6b3b83297a6a7ecf2cdb486542c5136",
+    "name": "Silensio",
+    "symbol": "SILEN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66924/thumb/silenlogo.png?1751056438"
+  },
+  {
+    "chainId": 1,
+    "address": "0x40d09d1c989fcb3a68623fe1c1acb3b769e0d237",
+    "name": "Boss Burger",
+    "symbol": "BOSSBURGER",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66859/thumb/Boss_Burger.jpg?1750842522"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1e8e148055cbd5a02ea75eed79da7ce4b91108b9",
+    "name": "FartCoin",
+    "symbol": "FART",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66861/thumb/2025-06-24_00.22.50.jpg?1750855926"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1e44f98cc78d505a61f63b26d13b116cf51dbb87",
+    "name": "Rootstock Smart Bitcoin",
+    "symbol": "RBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/5070/thumb/RBTC-logo.png?1718152038"
+  },
+  {
+    "chainId": 1,
+    "address": "0x01b603be3d545f096015741e6503440282bf45fb",
+    "name": "Rootstock Infrastructure Framework",
+    "symbol": "RIF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/7460/thumb/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867"
   }
 ]

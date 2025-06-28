@@ -664,5 +664,13 @@
     "symbol": "ASUGAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66395/thumb/aSUGAR.png?1749286870"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x0000382fbb422b4f593931fc6f2d25cc16600000",
+    "name": "Zero",
+    "symbol": "ZERO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66874/thumb/Zero_Logo-Option_B-B_W.jpg?1750921009"
   }
 ]

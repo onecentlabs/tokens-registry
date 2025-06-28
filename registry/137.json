@@ -13577,5 +13577,21 @@
     "symbol": "GGUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/66714/thumb/ggusd-removebg-preview.png?1750296491"
+  },
+  {
+    "chainId": 137,
+    "address": "0xc7b1807822160a8c5b6c9eaf5c584aad0972deec",
+    "name": "Giveth",
+    "symbol": "GIV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21792/thumb/GIVToken_200x200.png?1722577147"
+  },
+  {
+    "chainId": 137,
+    "address": "0x834df4c1d8f51be24322e39e4766697be015512f",
+    "name": "Etherfuse CETES",
+    "symbol": "CETES",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37855/thumb/cetes.png?1715788161"
   }
 ]

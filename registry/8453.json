@@ -19344,5 +19344,69 @@
     "symbol": "GPU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35432/thumb/NodeAI.png?1722373937"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcc9ad02796dec5f4f0710df80c1f011af85eb9e1",
+    "name": "WachXBT",
+    "symbol": "WACH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66888/thumb/n41d3oi646hc1ke1ry075u8ic47h.?1750932730"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd413485aa9ca4f88419904255a2384f667dddcab",
+    "name": "Eli5a",
+    "symbol": "ELI5A",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66865/thumb/dhpurc2ze4s0y16cpbwyp8ucgka9.?1750882958"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb8147ce9b0dac5f8165785dec6494e57748e4b78",
+    "name": "DCAI",
+    "symbol": "DCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66863/thumb/200x200_dcai_logo_no_background.png?1750867947"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd2626a8408e13a364130bf25495ce242d30f4721",
+    "name": "Crazzers AI",
+    "symbol": "CRAZZERS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66885/thumb/kfWZUJhB_400x400_%285%29.jpg?1750923687"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x22491edfafdc9a635085a364ea336ed79df54da3",
+    "name": "COTI AI Agents",
+    "symbol": "COAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53318/thumb/Symbol_Logo-blue.png?1736085770"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xabc95b5ec2d9aad9acc7430ba86ccb1294c72981",
+    "name": "Craft Engine",
+    "symbol": "CRAFT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66899/thumb/Craft_Engine.jpg?1750961914"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x441fcb23dfe8289cf572126fedcf450974adc891",
+    "name": "Rootstock Smart Bitcoin",
+    "symbol": "RBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/5070/thumb/RBTC-logo.png?1718152038"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe5e851b01dd3eda24fde709a407db44555b6d1e0",
+    "name": "Rootstock Infrastructure Framework",
+    "symbol": "RIF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/7460/thumb/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867"
   }
 ]

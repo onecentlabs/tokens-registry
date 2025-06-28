@@ -396,5 +396,21 @@
     "symbol": "WGC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 999,
+    "address": "0xf2e6a23b1aa09565fdb3a77af7772709de3f4f95",
+    "name": "LILLY",
+    "symbol": "LILLY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66906/thumb/HL_CG.jpg?1751012423"
+  },
+  {
+    "chainId": 999,
+    "address": "0x3d75f2bb8abcdbd1e27443cb5cbce8a668046c81",
+    "name": "HLP0",
+    "symbol": "HLP0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66871/thumb/logo_%284%29.png?1750918092"
   }
 ]
