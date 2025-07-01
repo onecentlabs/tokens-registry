@@ -19408,5 +19408,37 @@
     "symbol": "RIF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/7460/thumb/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x02dd23668605ddc983bc2a2afa99f47d88a2f98b",
+    "name": "BRO on BASE",
+    "symbol": "BRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66925/thumb/logo_finish_1_1_cropped.png?1751091970"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7d928816cc9c462dd7adef911de41535e444cb07",
+    "name": "Faircaster",
+    "symbol": "FAIR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66928/thumb/3dyin0vecrn1w7frtsqhjqhclzu8.?1751094499"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe28eb199745904e6083db711ef0f936fd385823d",
+    "name": "Bubblebid",
+    "symbol": "BBB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66958/thumb/befexq2lki9tozpditlm9mflykn0.?1751264132"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x05a5b4e217004eb84c6787e0ecbe7a46cfd94cdd",
+    "name": "La ka",
+    "symbol": "LAKA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66950/thumb/Untitled_design_4.png?1751213374"
   }
 ]

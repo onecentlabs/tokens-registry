@@ -5394,5 +5394,13 @@
     "symbol": "HLP0",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/66871/thumb/logo_%284%29.png?1750918092"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xf3dd4e0a1db7c5dcbf3b225698cb6a916aeb24d9",
+    "name": "XPowermine com APOW",
+    "symbol": "APOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66955/thumb/logo-apower-360-round.png?1751259027"
   }
 ]

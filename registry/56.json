@@ -15184,5 +15184,13 @@
     "decimals": 18,
     "address": "0xFe723495f73714426493384eb5e49Aa5b827e1D5",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xFe723495f73714426493384eb5e49Aa5b827e1D5.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "NODE",
+    "name": "NodeOps",
+    "decimals": 18,
+    "address": "0x2F714d7b9A035d4ce24af8d9b6091c07E37f43Fb",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2F714d7b9A035d4ce24af8d9b6091c07E37f43Fb.png"
   }
 ]
