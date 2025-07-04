@@ -897,5 +897,13 @@
     "symbol": "ANS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66942/thumb/Angleslogo.png?1751108670"
+  },
+  {
+    "chainId": 146,
+    "address": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d",
+    "name": "Main Street USD",
+    "symbol": "MSUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66996/thumb/msUSD.png?1751389184"
   }
 ]

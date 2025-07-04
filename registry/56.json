@@ -15192,5 +15192,45 @@
     "decimals": 18,
     "address": "0x2F714d7b9A035d4ce24af8d9b6091c07E37f43Fb",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x2F714d7b9A035d4ce24af8d9b6091c07E37f43Fb.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BGSC",
+    "name": "BugsCoin",
+    "decimals": 18,
+    "address": "0xa4B68D48D7bc6f04420e8077E6F74bdeF809dEa3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xa4B68D48D7bc6f04420e8077E6F74bdeF809dEa3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "DESCI",
+    "name": "Descipher Fund",
+    "decimals": 18,
+    "address": "0x308f4F8979285416d21876843eE67E79B086Fa3A",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x308f4F8979285416d21876843eE67E79B086Fa3A.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "REKT",
+    "name": "Rekt",
+    "decimals": 18,
+    "address": "0x20482b0b4d9d8f60d3AB432b92F4c4B901a0D10C",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x20482b0b4d9d8f60d3AB432b92F4c4B901a0D10C.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ECHO",
+    "name": "Echo",
+    "decimals": 8,
+    "address": "0x06238c1b8e618AbeDf17669228dc95fB2D2e210b",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x06238c1b8e618AbeDf17669228dc95fB2D2e210b.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PFVS",
+    "name": "Puffverse Token",
+    "decimals": 18,
+    "address": "0x57df399CAcE62f98a74BFfdFfbB264E6F31Bd982",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x57df399CAcE62f98a74BFfdFfbB264E6F31Bd982.png"
   }
 ]

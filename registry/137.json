@@ -13593,5 +13593,13 @@
     "symbol": "CETES",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37855/thumb/cetes.png?1715788161"
+  },
+  {
+    "chainId": 137,
+    "address": "0xee997788f625809332baabb3110bcf1ba7400824",
+    "name": "Felysyum",
+    "symbol": "FELY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66984/thumb/output-onlinepngtools_%283%29.png?1751468482"
   }
 ]

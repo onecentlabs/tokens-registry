@@ -65164,5 +65164,138 @@
     "symbol": "VULPEFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66974/thumb/output-onlinepngtools.png?1751307335"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf828BA501B108FbC6c88eBDfF81C401BB6B94848",
+    "name": "coordinape.com",
+    "symbol": "CO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "CO"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xa1ecd506d5b178d7220fe175013ffa43ccad9610",
+    "name": "EchoMetrix",
+    "symbol": "MTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67004/thumb/icon.png?1751446796"
+  },
+  {
+    "chainId": 1,
+    "address": "0xde860ac02d0f22363da499577ca7894afd8c98b4",
+    "name": "Norexa",
+    "symbol": "NRX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67015/thumb/Norex.png?1751467551"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9ac4ee539403e3f101b9ae3620926f2ded0d0b99",
+    "name": "Chrema Coin",
+    "symbol": "CRMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/67018/thumb/CRMC_Logo_Black.png?1751471894"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6b2e4f25fa8d8c9a0c77477de50c166147bd891d",
+    "name": "SCORCH",
+    "symbol": "SCORCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66982/thumb/Logo_200x200px.png?1751360920"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6b9a58a87a05c4fdcc87b73c52b868bc6996e8de",
+    "name": "AIVA",
+    "symbol": "AIVA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66983/thumb/LOGO_-_AIVA_%283%29.jpg?1751361466"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6604c7d7e343e2abd10aa66f6c496abee875cf71",
+    "name": "Live Ai",
+    "symbol": "LAU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/66986/thumb/IMG_2437.jpeg?1751362599"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7b10d50b5885be4c7985a88408265c109bd1eec8",
+    "name": "Tharwa",
+    "symbol": "TRWA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66993/thumb/200x200.jpg?1751388636"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfc8dcfca8a37a855e352098af205b3a537b6b026",
+    "name": "Palladium Network",
+    "symbol": "PLLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67028/thumb/IMG_2187.jpeg?1751521194"
+  },
+  {
+    "chainId": 1,
+    "address": "0x553f4cb7256d8fc038e91d36cb63fa7c13b624ab",
+    "name": "Tanssi",
+    "symbol": "TANSSI",
+    "decimals": 12,
+    "logoURI": "https://assets.coingecko.com/coins/images/67030/thumb/Tanssi_Brand_Kit_Teal_Icon_no_bg.png?1751522958"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc3f822e94c321dd3ee53ca46b78098ea79b7ec8d",
+    "name": "Bitcoin Bull",
+    "symbol": "BTCBULL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67038/thumb/BTCBull_Logo_200x200.png?1751539220"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5900a453d0507be16fe91fef5d1edd5f8816dd20",
+    "name": "Ditto",
+    "symbol": "DITTO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67040/thumb/logoditto.png?1751567199"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32c1b3c43317cba8185d65227a54ae416dacc338",
+    "name": "Vaultec",
+    "symbol": "VLT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67041/thumb/VaultecLogo.jpeg?1751567589"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc0c592d6f9804f4fa8316cb4b95b047ef8f95a56",
+    "name": "fxhash",
+    "symbol": "FXH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56012/thumb/fxhlogo2.png?1748021929"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1c3547dfa9ce7acd9c54ae49244575fa65bc75e2",
+    "name": "Imagen Network",
+    "symbol": "IMAGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66923/thumb/ImagenLogo.png?1751056043"
+  },
+  {
+    "chainId": 1,
+    "address": "0x044fe33895cb7c6e4566da8e24420c1110933a63",
+    "name": "WOLF",
+    "symbol": "WOLF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66822/thumb/WOLF_LOGO.jpg?1750662193"
   }
 ]

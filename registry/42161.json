@@ -12100,5 +12100,37 @@
     "symbol": "LIBFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/30310/thumb/Logo_Unit_Vertical-01.png?1696529212"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0c3ff025aacfa2670420f1d4cb593dd2a0a0383e",
+    "name": "Wrapped eHMND  eHMND ",
+    "symbol": "WEHMND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33234/thumb/ehmnd.png?1701147033"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x747952a59292a9b3862f3c59664b95e8b461ef45",
+    "name": "Arowana",
+    "symbol": "ARW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67039/thumb/arw-logo.jpg?1751539721"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x113a05170273e9087f5d0e0cdee0388478a1546d",
+    "name": "Yieldflow",
+    "symbol": "YFLOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67032/thumb/yieldflow-logo.png?1751524569"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7424f00845777a06e21f0bd8873f814a8a814b2d",
+    "name": "Wrapped XTZ",
+    "symbol": "WXTZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
   }
 ]

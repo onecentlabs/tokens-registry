@@ -19440,5 +19440,50 @@
     "symbol": "LAKA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66950/thumb/Untitled_design_4.png?1751213374"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe8A9ABa04e6807Cc77501862cC7eA17c9603291E",
+    "name": "CoDAO",
+    "symbol": "CO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CO"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x046c9bf6bb1dfde64417f03ae2146dfafe0b7596",
+    "name": "PathOS",
+    "symbol": "PATHOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67012/thumb/logo-image.png?1751466000"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe014d2a4da6e450f21b5050120d291e63c8940fd",
+    "name": "Sogni AI",
+    "symbol": "SOGNI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67008/thumb/sogni.jpg?1751450446"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x320c99aeddf34721b8a566ba2540f8fb72400e88",
+    "name": "Frost",
+    "symbol": "FROST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66997/thumb/IMG_9617.png?1751526196"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x45e4e92f5a94f4b741c9cb553ff8be7b25eb7df5",
+    "name": "AITV",
+    "symbol": "AITV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54817/thumb/AITV_Logo.png?1741850718"
   }
 ]
