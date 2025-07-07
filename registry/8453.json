@@ -19485,5 +19485,77 @@
     "symbol": "AITV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54817/thumb/AITV_Logo.png?1741850718"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3d5e487b21e0569048c4d1a60e98c36e1b09db07",
+    "name": "TurboUSD Unstablecoin",
+    "symbol": "USD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67125/thumb/vsc0r2nysw8pq7mm8r32icyoyru1.?1751807440"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4dd3313764ee09853ae1ff91556fddaf6afd4c2e",
+    "name": "True Base Army",
+    "symbol": "TBA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67107/thumb/True_Base_Army.jpg?1751781515"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc33b0ba16875b94aaa55ae6c870cc01cd31501c2",
+    "name": "S3NSE AI",
+    "symbol": "S3NSE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67077/thumb/Logo_PNG_transparent.png?1751646403"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd6df108d516a5dc83f39020a349085c79d4edf0d",
+    "name": "Defidash",
+    "symbol": "DEFIDASH",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67082/thumb/wquALZ4i_400x400.jpg?1751699922"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf6da29a60e17081d80da142448de4438b74d20f9",
+    "name": "EVA",
+    "symbol": "EVA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67098/thumb/2hj5vaydeq9adi5ndmltxbwuyzd0.?1751710292"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb316e2469e32e4c782533d8dace9f70b2ad88557",
+    "name": "Aether AI",
+    "symbol": "AETHR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67127/thumb/8bsfaszywl7o8djm0i382lts0obl.?1751808339"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x36a947baa2492c72bf9d3307117237e79145a87d",
+    "name": "TONY",
+    "symbol": "TONY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67120/thumb/tony-logo.jpg?1751808668"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0ef6f57452d79971f81c5e131563b4444ba050b5",
+    "name": "Ski Mask Laika",
+    "symbol": "SKILAIKA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67099/thumb/ski-mask-laika-logo.jpg?1751710952"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61f47ec6d1d0ef9b095574d7b76cf0467d13fb07",
+    "name": "Hotdog",
+    "symbol": "HOTDOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67097/thumb/8snzw4tw1yrvoje49h2jnkji19mw.?1751710180"
   }
 ]

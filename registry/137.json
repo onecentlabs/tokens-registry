@@ -13601,5 +13601,21 @@
     "symbol": "FELY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66984/thumb/output-onlinepngtools_%283%29.png?1751468482"
+  },
+  {
+    "chainId": 137,
+    "address": "0x06737d16ad9c1e41aa44fee2a952b26723b20673",
+    "name": "GT3 Finance",
+    "symbol": "GT3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67083/thumb/GT3_token.png?1751700482"
+  },
+  {
+    "chainId": 137,
+    "address": "0xf9a3e803ed270cf0ca6cd76ea40b8cc8562cf93f",
+    "name": "IRIS Chain",
+    "symbol": "IRC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67084/thumb/coingecko_logo.png?1751700644"
   }
 ]

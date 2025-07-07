@@ -5402,5 +5402,13 @@
     "symbol": "APOW",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66955/thumb/logo-apower-360-round.png?1751259027"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335",
+    "name": "Yield BTC B",
+    "symbol": "YBTCB",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/67087/thumb/20250703-152236.png?1751702269"
   }
 ]

@@ -15232,5 +15232,29 @@
     "decimals": 18,
     "address": "0x57df399CAcE62f98a74BFfdFfbB264E6F31Bd982",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x57df399CAcE62f98a74BFfdFfbB264E6F31Bd982.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "M",
+    "name": "MemeCore",
+    "decimals": 18,
+    "address": "0x22b1458e780F8fA71E2F84502cEe8B5A3cc731Fa",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x22b1458e780F8fA71E2F84502cEe8B5A3cc731Fa.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "CROSS",
+    "name": "Cross",
+    "decimals": 18,
+    "address": "0x6bf62ca91e397B5A7d1D6bCe97D9092065d7A510",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6bf62ca91e397B5A7d1D6bCe97D9092065d7A510.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "AIN",
+    "name": "Infinity Ground AI",
+    "decimals": 18,
+    "address": "0x9558a9254890B2A8B057a789F413631B9084f4a3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9558a9254890B2A8B057a789F413631B9084f4a3.png"
   }
 ]

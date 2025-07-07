@@ -65297,5 +65297,149 @@
     "symbol": "WOLF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66822/thumb/WOLF_LOGO.jpg?1750662193"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2c5ee6c29e933daf4def84a1b67e8a2f7daa5799",
+    "name": "Anonium",
+    "symbol": "ANON",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67085/thumb/Logo.jpg?1751701836"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbcc711e8ed39b3ca38364f4135571c9877155875",
+    "name": "VIRTUE",
+    "symbol": "VIRTUE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67091/thumb/v_logo_png_%282%29_%281%29.png?1751703143"
+  },
+  {
+    "chainId": 1,
+    "address": "0x57d3757a8c3a6612b75480158d77ed853081471f",
+    "name": "AuditAI",
+    "symbol": "AUDAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53235/thumb/AuditAI.jpg?1735811417"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9e59a081320ddb046d74a106335ca6b84eadc067",
+    "name": "Biden Coin",
+    "symbol": "BIDEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67052/thumb/logo_1_1.jpg?1751613019"
+  },
+  {
+    "chainId": 1,
+    "address": "0x746966c9bd2d349ca0c0c9b9427e189e9144f7f5",
+    "name": "TikTrix",
+    "symbol": "TRIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67055/thumb/Trix-Token%28200_200%29.png?1751614732"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72bb0df29b6c595d0636bf028c3093a0d7fd9403",
+    "name": "XERO AI",
+    "symbol": "XERAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67056/thumb/1000005055.jpg?1751615153"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf86506384453d4875f7cfb31290b9b60daeb810a",
+    "name": "Bitcoin Bob",
+    "symbol": "O",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67093/thumb/bob.jpg?1751703386"
+  },
+  {
+    "chainId": 1,
+    "address": "0x753c18121d41ccb3e6c928520060f5febf4141e9",
+    "name": "FRIC",
+    "symbol": "FRIC",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67094/thumb/fric-logo.jpg?1751709654"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8e21856edada501a9cd5cb8b92ac632908c90c2f",
+    "name": "Datai",
+    "symbol": "DATAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67102/thumb/3vcmqb1vxz1bp6qoy3dd4p8s4id1.?1751712006"
+  },
+  {
+    "chainId": 1,
+    "address": "0x95af4af910c28e8ece4512bfe46f1f33687424ce",
+    "name": "Manyu",
+    "symbol": "MANYU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67068/thumb/manyu-shiba-logo.jpg?1751631683"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf8750b54d86be7ae9e32b4a0c826811198d63313",
+    "name": "Hex Trust USD",
+    "symbol": "USDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38997/thumb/USDX.png?1719809776"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaa509b02b71782645d2b124e3b073c9ae5f971f5",
+    "name": "Trackius ai",
+    "symbol": "TKUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67073/thumb/coingeckoProfile.jpg?1751643248"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbca23cc4b274a0e7e6f64dbc7e739cf5aaa6a3e1",
+    "name": "Magmar",
+    "symbol": "MGR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67076/thumb/Dextools_Logo_%283%29.png?1751644963"
+  },
+  {
+    "chainId": 1,
+    "address": "0x51bd4f39803fcaeff3ef45aae2c3aaff0b9fadcb",
+    "name": "BOSagora",
+    "symbol": "BOA",
+    "decimals": 7,
+    "logoURI": "https://assets.coingecko.com/coins/images/67104/thumb/BOSagora.jpg?1751769330"
+  },
+  {
+    "chainId": 1,
+    "address": "0x98d3cdd5888cc4a1d42e0c2e222c0083ce5cd2c0",
+    "name": "GoHost",
+    "symbol": "GOHOST",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67113/thumb/logo-main.png?1751785690"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd199e23e2396b4ad8734b7321ca0d435a97017a0",
+    "name": "Trench Digger",
+    "symbol": "TRENCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67114/thumb/TD-logo.png?1751785907"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2d3a55be8267effc7c6f41035b3d8d71f3a9c1af",
+    "name": "Puge",
+    "symbol": "PUGE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67115/thumb/WbfU-Nd2TUKGb4G0frQM9Le6SmBXpIWtVxpU5DZ6zD9XX0HbstBPiXhVhJufyS7D87oVQz3YF6oppkxEXWTYfPgDMOnJBBte4EcJ3T6Ookl65lpoKEiW-unzrWcvS5oUwmHKCTAbEml4pW7NeKd2jJuzjMRnwpxqDY71s3Nuc2UardsSe5N4Z0PznvtbGcsOZB9nkX3Z.jpg?1751786367"
+  },
+  {
+    "chainId": 1,
+    "address": "0x96c3530bfd0a906a123a4e26cebb635636b41f9d",
+    "name": "Wrapped Hydra",
+    "symbol": "WHYDRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27391/thumb/7iRuAuNw_400x400.jpeg?1696526432"
   }
 ]
