@@ -82,5 +82,18 @@
       "opListId": "extended",
       "opTokenId": "TRALA"
     }
+  },
+  {
+    "chainId": 1868,
+    "address": "0xF765356C901a064A74Fa4560622f21C91048c3D7",
+    "name": "SuperVerse",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SUPER/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SUPER"
+    }
   }
 ]

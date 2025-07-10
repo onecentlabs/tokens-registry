@@ -672,5 +672,13 @@
     "symbol": "ZERO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66874/thumb/Zero_Logo-Option_B-B_W.jpg?1750921009"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xd2c41bf4033a83c0fc3a7f58a392bf37d6dcdb58",
+    "name": "OpenState BGT",
+    "symbol": "OSBGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67157/thumb/osbgt.jpg?1751938475"
   }
 ]

@@ -905,5 +905,21 @@
     "symbol": "MSUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66996/thumb/msUSD.png?1751389184"
+  },
+  {
+    "chainId": 146,
+    "address": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
+    "name": "Wrapped stkscUSD",
+    "symbol": "WSTKSCUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67162/thumb/wstkscusd.jpg?1751943568"
+  },
+  {
+    "chainId": 146,
+    "address": "0x3e08cb3067dc198fc313e1789347c9ae72c079d4",
+    "name": "Womo",
+    "symbol": "WM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67129/thumb/WOMO_LOGO.jpg?1751839587"
   }
 ]

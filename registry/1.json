@@ -65441,5 +65441,156 @@
     "symbol": "WHYDRA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/27391/thumb/7iRuAuNw_400x400.jpeg?1696526432"
+  },
+  {
+    "chainId": 1,
+    "address": "0x69984efc8244f855a6fecdce254fe51b2836530e",
+    "name": "EPIC FAIL GUY",
+    "symbol": "EFG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67169/thumb/1000056785.jpg?1751984562"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd4c4407f3afb48d7d4ad954572f155f9237ae335",
+    "name": "Bitcoin Roller Coaster Guy",
+    "symbol": "BRCG",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67172/thumb/coingecko.png?1751985588"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6b6ed968c266de0e9b24ed055f5eaf44072c1730",
+    "name": "StratoStack",
+    "symbol": "STACK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67190/thumb/LOGO_DEXSCREENER.png?1752044618"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1078a104e8ae6a339db8e6c018b9a095423d47f7",
+    "name": "aiAPIS",
+    "symbol": "APIS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67154/thumb/logo_main.jpg?1751910591"
+  },
+  {
+    "chainId": 1,
+    "address": "0x76972f054ab43829064d31ff5f3acc5fabe57fe8",
+    "name": "Tharwa USD",
+    "symbol": "THUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67156/thumb/thUSD.png?1751913299"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3230d8e0ac4d6887cf3bddd57e9d8c1a06f33b62",
+    "name": "PEPECASH",
+    "symbol": "PEPECASH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67173/thumb/IMG_8346.jpeg?1751986197"
+  },
+  {
+    "chainId": 1,
+    "address": "0x73470eda64048ee2646261755a34602af03a4490",
+    "name": "Kolscope",
+    "symbol": "KSCO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67175/thumb/KolScope_no_Bg.png?1751986723"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb03eef386a61b5b462051636001485fffdd3d843",
+    "name": "America Party",
+    "symbol": "AMERICA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67195/thumb/1000280651.jpg?1752055373"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9b5390fa690721f8c7a6464222eddac886fc9e7b",
+    "name": "Virtual Trade Agent",
+    "symbol": "VTA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67198/thumb/200x200_%282%29.png?1752056040"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0ee375090f423934ebfbb241a3eb2ee4e01eaf0a",
+    "name": "Tako",
+    "symbol": "TAKO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67200/thumb/IMG_8760.jpeg?1752057145"
+  },
+  {
+    "chainId": 1,
+    "address": "0x738c3acec1a7002d7574b73e43319f86603dcfd6",
+    "name": "Quantz",
+    "symbol": "QUANTZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67132/thumb/quantz_logo.jpeg?1751867686"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb2089a7069861c8d90c8da3aacab8e9188c0c531",
+    "name": "Green",
+    "symbol": "GREEN",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/67136/thumb/GREEN_logo_200_x_200.png?1751868854"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe60e9bd04ccc0a394f1fdf29874e35a773cb07f4",
+    "name": "America Party",
+    "symbol": "AP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xa0b70a1e3a5cd766907def0eae1a9cc63a0b9c1e",
+    "name": "Agentic Studio",
+    "symbol": "AGENTIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67218/thumb/Agentic-studio-gradient-200x200.png?1752099721"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb74f399aac8335e44a50ffb8f7ece74b9db8c30e",
+    "name": "NALA",
+    "symbol": "NALA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67163/thumb/Nala_the_cat_%281%29.jpg?1751944656"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd073e6341a3aa6c4d94c4f8f20fbd1ede572b0da",
+    "name": "MetaCene",
+    "symbol": "MAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39303/thumb/mak_white.jpg?1724793119"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2b37127988e4e5e9576b7a533d873c23cfbdb1e9",
+    "name": "Zentium Tech",
+    "symbol": "ZENT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67166/thumb/ZENTIUM.jpg?1751970541"
+  },
+  {
+    "chainId": 1,
+    "address": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
+    "name": "Glue",
+    "symbol": "GLUE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317"
+  },
+  {
+    "chainId": 1,
+    "address": "0x04acaf8d2865c0714f79da09645c13fd2888977f",
+    "name": "Wrapped FRAX",
+    "symbol": "WFRAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
   }
 ]

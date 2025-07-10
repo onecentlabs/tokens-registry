@@ -19557,5 +19557,60 @@
     "symbol": "HOTDOG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67097/thumb/8snzw4tw1yrvoje49h2jnkji19mw.?1751710180"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0215ed0fe07951b2cd68e1b39ffbd0a841fe3c6e",
+    "name": "BOMO on Base",
+    "symbol": "BOMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67130/thumb/BOMO_BLue.png?1751862970"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x44f77502418c9b225ad8f80a9def915c8c271a19",
+    "name": "Catchcoin ",
+    "symbol": "CATCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67133/thumb/photo_2025-06-10_20-21-04.jpg?1751868308"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x38da67e7256e2eec878b6d83a6fb6a4564c98e2d",
+    "name": "Based Manyu",
+    "symbol": "MANYU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67180/thumb/OlvBEjkF_400x400.jpg?1751991499"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x16d5765e3dea16a6cdfcb24b5e05480dbaef798f",
+    "name": "KIBO",
+    "symbol": "KIBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67174/thumb/Kibo.png?1751986610"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3b53604113b5677291bfc0bc255379e7a796559b",
+    "name": "Assemble AI",
+    "symbol": "ASM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11605/thumb/200-200.png?1740625606"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x616b416f777e3dc904a44aa259a475bf26d06ef9",
+    "name": "blai",
+    "symbol": "BLAI",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcc309867cea3c1cf7c7829838f72ff70d17ceb07",
+    "name": "Asterion",
+    "symbol": "ASTERION",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67149/thumb/820p2pjikwj7sy8gdymhfkq71pmx.?1751890894"
   }
 ]

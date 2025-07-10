@@ -5410,5 +5410,21 @@
     "symbol": "YBTCB",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/67087/thumb/20250703-152236.png?1751702269"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9261330c6a2b472c58dbc149ca9dfc20e6861d66",
+    "name": "SUMMIT",
+    "symbol": "SUMMIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67197/thumb/SUMMIT.png?1752055918"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
+    "name": "Glue",
+    "symbol": "GLUE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317"
   }
 ]

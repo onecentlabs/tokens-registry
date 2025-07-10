@@ -412,5 +412,61 @@
     "symbol": "HLP0",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/66871/thumb/logo_%284%29.png?1750918092"
+  },
+  {
+    "chainId": 999,
+    "address": "0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb",
+    "name": "Hyperbeat Ultra HYPE",
+    "symbol": "HBHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67160/thumb/hyperbeat_hype.jpg?1751940550"
+  },
+  {
+    "chainId": 999,
+    "address": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
+    "name": "Hyperbeat USDT",
+    "symbol": "HBUSDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67161/thumb/hyperbeat_usdt.jpg?1751940634"
+  },
+  {
+    "chainId": 999,
+    "address": "0x3b4575e689ded21caad31d64c4df1f10f3b2cedf",
+    "name": "Unit Fartcoin",
+    "symbol": "UFART",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67158/thumb/fartcoin.jpg?1751939859"
+  },
+  {
+    "chainId": 999,
+    "address": "0xd2567ee20d75e8b74b44875173054365f6eb5052",
+    "name": "Perpcoin",
+    "symbol": "PERPCOIN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67137/thumb/m_MqmQq1_400x400.jpg?1751869423"
+  },
+  {
+    "chainId": 999,
+    "address": "0x068f321fa8fb9f0d135f290ef6a3e2813e1c8a29",
+    "name": "Unit Solana",
+    "symbol": "USOL",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67159/thumb/solana.jpg?1751940039"
+  },
+  {
+    "chainId": 999,
+    "address": "0x618275f8efe54c2afa87bfb9f210a52f0ff89364",
+    "name": "Kittenswap",
+    "symbol": "KITTEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67152/thumb/kitten.jpg?1751892796"
+  },
+  {
+    "chainId": 999,
+    "address": "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b",
+    "name": "M by M0",
+    "symbol": "M",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798"
   }
 ]

@@ -12132,5 +12132,29 @@
     "symbol": "WXTZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x077574441c4f8763a37a2cfee2ecb444aa60a15e",
+    "name": "RCADE Network",
+    "symbol": "RCADE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67060/thumb/rcade.jpg?1751624344"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x61e030a56d33e8260fdd81f03b162a79fe3449cd",
+    "name": "Fluid",
+    "symbol": "FLUID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14688/thumb/Logo_1_%28brighter%29.png?1734430693"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b",
+    "name": "M by M0",
+    "symbol": "M",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798"
   }
 ]

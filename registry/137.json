@@ -13617,5 +13617,13 @@
     "symbol": "IRC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67084/thumb/coingecko_logo.png?1751700644"
+  },
+  {
+    "chainId": 137,
+    "address": "0x8689aedf32d35aa9a90849f59ba6841c389e6cf9",
+    "name": "Xpedition",
+    "symbol": "XPED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67209/thumb/SITElogo_-_circular_200_x_200.png?1752089195"
   }
 ]
