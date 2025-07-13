@@ -37,7 +37,7 @@ app.get('/token', async (req: Request, res: Response) => {
     return
   }
 
-  if(chain === "ETH"&& (token == "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb" || token == "0xca79db4b49f608ef54a5cb813fbed3a6387bc645")) {
+  if((chain !== "HYPEREVM"&&chain !== "999") && (token == "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb" || token == "0xca79db4b49f608ef54a5cb813fbed3a6387bc645")) {
     res.status(400).send('Token not found in registry')
     return
   }
