@@ -15288,5 +15288,29 @@
     "decimals": 18,
     "address": "0xcE7C3B5E058C196a0EAAa21F8E4BF8C2C07C2935",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xcE7C3B5E058C196a0EAAa21F8E4BF8C2C07C2935.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "OIK",
+    "name": "Space Nation Oikos",
+    "decimals": 18,
+    "address": "0xB035723D62e0e2ea7499D76355c9D560f13ba404",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xB035723D62e0e2ea7499D76355c9D560f13ba404.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "RCADE",
+    "name": "RCADE",
+    "decimals": 18,
+    "address": "0x6f0037C79d144d5B8E3E6f04E49FBb5f25fD508f",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6f0037C79d144d5B8E3E6f04E49FBb5f25fD508f.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "VELVET",
+    "name": "Velvet",
+    "decimals": 18,
+    "address": "0x8b194370825E37b33373e74A41009161808C1488",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8b194370825E37b33373e74A41009161808C1488.png"
   }
 ]

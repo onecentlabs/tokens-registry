@@ -921,5 +921,21 @@
     "symbol": "WM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67129/thumb/WOMO_LOGO.jpg?1751839587"
+  },
+  {
+    "chainId": 146,
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "name": "Sonic Bridged WBTC  Sonic ",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/67278/thumb/wbtc.jpg?1752291892"
+  },
+  {
+    "chainId": 146,
+    "address": "0x4cae73a23078e7a94d1e828fa3baba5080c04fca",
+    "name": "Amped Finance",
+    "symbol": "AMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
   }
 ]

@@ -19612,5 +19612,77 @@
     "symbol": "ASTERION",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67149/thumb/820p2pjikwj7sy8gdymhfkq71pmx.?1751890894"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaea742f80922f7c94b8fd91686c9dfbdfe90d9e6",
+    "name": "Predi by Virtuals",
+    "symbol": "PREDI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67248/thumb/4wfrcsct1kzttp3q1679v5pd36vo.?1752168477"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1dce1604933dafb2c894481c631db34134738a7d",
+    "name": "Decrypting",
+    "symbol": "DCRYPT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67264/thumb/Decrypting.jpg?1752251311"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd901b38bdd0cd7a8800575cd505d65428a48ba38",
+    "name": "Dessistant by Virtuals",
+    "symbol": "DESS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67273/thumb/yobl2w9bsbz6fm093h4dcx52e99e.?1752259913"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0e6214f42992683a9177ce65d022f163d7bbd1d2",
+    "name": "TriviAgent by Virtuals",
+    "symbol": "TRIVI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67245/thumb/TRIVI_Logo.png?1752167681"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4b73c08ea7ba32593e8ca02c6910c6447e6f6642",
+    "name": "GoHacker AI",
+    "symbol": "BUIDL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67234/thumb/gohacker-logo.jpg?1752143353"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x072915a43ac255cde1fa568218e5b6b10d0cb10f",
+    "name": "Maya World",
+    "symbol": "MAYA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67257/thumb/001_dp_1b_logochest_big.png?1752223438"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaed7c2ed7bb84396afcb55ff72c8f8e87ffb68f3",
+    "name": "Glif Staked ICNT",
+    "symbol": "STICNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67228/thumb/sticnt.png?1752132153"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4ff4d349caa028bd069bbe85fa05253f96176741",
+    "name": "Songjam by Virtuals",
+    "symbol": "SANG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67267/thumb/songjam_logo.jpeg?1752253113"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6bd83abc39391af1e24826e90237c4bd3468b5d2",
+    "name": "Silencio",
+    "symbol": "SLC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53710/thumb/logo_circle.jpg?1738877034"
   }
 ]

@@ -65592,5 +65592,140 @@
     "symbol": "WFRAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb772c8745c46c8868610dcecdcefc803cfdf28f5",
+    "name": " ",
+    "symbol": "",
+    "decimals": 9
+  },
+  {
+    "chainId": 1,
+    "address": "0x92b7c1c801ca615aa845238d5fe4e50712358fa7",
+    "name": "Pridexa",
+    "symbol": "PRDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67253/thumb/WhatsApp_Image_2025-07-09_at_18.50.59-removebg-preview.png?1752219740"
+  },
+  {
+    "chainId": 1,
+    "address": "0x64442fe778f00b7d7ed1863b9327ca29342cf461",
+    "name": "MOOMOO THE BULL",
+    "symbol": "MOOMOO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67256/thumb/MOOMOO_THE_BULL.jpg?1752222568"
+  },
+  {
+    "chainId": 1,
+    "address": "0x66bff0d18513c648690edcdf5993c9da8c632ec8",
+    "name": "Brettwu",
+    "symbol": "BRETTWU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67286/thumb/Brettwu.jpg?1752300901"
+  },
+  {
+    "chainId": 1,
+    "address": "0x64ab176c545bb85eca75d53c3ffcb361deafb855",
+    "name": "Nest Alpha Vault  LP ",
+    "symbol": "INALPHA",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66319/thumb/nALPHA.png?1749197870"
+  },
+  {
+    "chainId": 1,
+    "address": "0x83e8fb8d8176224fcc828edc73e152ec1818a2da",
+    "name": "Chili Coin",
+    "symbol": "CHI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67287/thumb/dex-chi-logo-v2_360.png?1752301142"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfcfcb729e45f7037362ba61f6dfbcdaefacfd55e",
+    "name": "PLURcoin",
+    "symbol": "PLUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67291/thumb/PLURcoin_LogoMark_256.png?1752303970"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcb69e5750f8dc3b69647b9d8b1f45466ace0a027",
+    "name": "XiaoBai",
+    "symbol": "XIAOBAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67261/thumb/logo.jpg?1752234827"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe6f4567c330625f3488ec69266f5ddd3f3841f33",
+    "name": "Marutaro",
+    "symbol": "MARU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67262/thumb/LOGO_100.png?1752235143"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbb1e1399eee1f577f1b4359224155f5db39ca084",
+    "name": "JOCX",
+    "symbol": "JOCX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67263/thumb/TokenSymbol.png?1752235823"
+  },
+  {
+    "chainId": 1,
+    "address": "0xda1dcf1ceb9988442d8eb4ed980139d67afe65d6",
+    "name": "DataMind",
+    "symbol": "DMIND",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67225/thumb/datamind_%281%29.jpg?1752131233"
+  },
+  {
+    "chainId": 1,
+    "address": "0x696a1012a7f694a6f34a95872f806eda633ea463",
+    "name": "SLIPPY",
+    "symbol": "SLIPPY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67235/thumb/slippy-logo.jpg?1752143792"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeeea5086ae38df6c1f46f6f56011501d373731ab",
+    "name": "Zenk AI",
+    "symbol": "ZNK",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67242/thumb/icon_resized.jpg?1752161649"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe46c058b50c046e4544476f8517251dca0711d0e",
+    "name": "EvoPay",
+    "symbol": "EPAY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67244/thumb/epay.jpg?1752167510"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe6f2e92dfb7ac55a13b2056fc0b37dbc9fcee733",
+    "name": "America Party",
+    "symbol": "AMERICA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67246/thumb/AMERICAPARTYLOGOCG.jpg?1752167895"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbf5ce69a0e7a078675741723f770ae820716e298",
+    "name": "BJustCoin",
+    "symbol": "BJC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67247/thumb/BJustCoin.png?1752168043"
+  },
+  {
+    "chainId": 1,
+    "address": "0x761adda96819c4b31640679cd784594766f2681f",
+    "name": "Amped Finance",
+    "symbol": "AMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
   }
 ]

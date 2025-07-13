@@ -12156,5 +12156,21 @@
     "symbol": "M",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
+    "name": "XVGARB",
+    "symbol": "XVGARB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67254/thumb/xvgarb-200x200.png?1752221368"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x437cc33344a0b27a429f795ff6b469c72698b291",
+    "name": "WrappedM by M 0",
+    "symbol": "WM",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55070/thumb/wm.jpg?1743589588"
   }
 ]

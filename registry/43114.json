@@ -5426,5 +5426,29 @@
     "symbol": "GLUE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1edf79e77693561e80072becbcce1e16dc356aca",
+    "name": "APIX",
+    "symbol": "APIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67222/thumb/avaxpixel_square.png?1752127991"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9b3a8159e119eb09822115ae08ee1526849e1116",
+    "name": "Meme Alliance",
+    "symbol": "MMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33765/thumb/200x200.png?1709978615"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9b9fd410d5f01a6a60acf4678a5a99d8027fa5a7",
+    "name": "Mythos",
+    "symbol": "MYTH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28045/thumb/Mythos_Logos_200x200.png?1696527059"
   }
 ]
