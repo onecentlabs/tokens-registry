@@ -65783,5 +65783,13 @@
     "symbol": "HEDZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67365/thumb/photo_2025-07-13_22.51.30-2.jpeg?1752572249"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5a84fa4033b865543c5208f8c9786eda476a4102",
+    "name": "Websync",
+    "symbol": "WEBS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67377/thumb/webs.jpg?1752595528"
   }
 ]
