@@ -5450,5 +5450,13 @@
     "symbol": "MYTH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28045/thumb/Mythos_Logos_200x200.png?1696527059"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x694207a9f708355ee3119f11e55bc5c0b1845ba2",
+    "name": "Red Pepe",
+    "symbol": "RPEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67319/thumb/RPEPE.jpg?1752397109"
   }
 ]

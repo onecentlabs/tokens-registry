@@ -489,5 +489,21 @@
     "symbol": "FLIP",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/67239/thumb/FLIP_LOGO.png?1752160477"
+  },
+  {
+    "chainId": 999,
+    "address": "0x3e5fba5dd52e931276b3c84df7542c2eeea1440b",
+    "name": "Hype Sphere",
+    "symbol": "SPHERE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67312/thumb/aa.png?1752391543"
+  },
+  {
+    "chainId": 999,
+    "address": "0x27ec642013bcb3d80ca3706599d3cda04f6f4452",
+    "name": "Unit Pump",
+    "symbol": "UPUMP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67362/thumb/pump.jpg?1752548000"
   }
 ]

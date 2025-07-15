@@ -680,5 +680,13 @@
     "symbol": "OSBGT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67157/thumb/osbgt.jpg?1751938475"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6698ede14709a9dd8379744cc2d28f276e3d2eac",
+    "name": "Plutus",
+    "symbol": "PLUTUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67346/thumb/plutus.jpg?1752473074"
   }
 ]

@@ -12172,5 +12172,13 @@
     "symbol": "WM",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/55070/thumb/wm.jpg?1743589588"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8c1ea32448e09a59f36595abec6207c9ebd590a2",
+    "name": "Plutus",
+    "symbol": "PLUTUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67346/thumb/plutus.jpg?1752473074"
   }
 ]

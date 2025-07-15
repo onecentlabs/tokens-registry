@@ -19684,5 +19684,69 @@
     "symbol": "SLC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53710/thumb/logo_circle.jpg?1738877034"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa77e22bfaee006d4f9dc2c20d7d337b05125c282",
+    "name": "TREN Protocol Token",
+    "symbol": "TREN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66989/thumb/TRENlogo_200x200.png?1751383529"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xba12bc7b210e61e5d3110b997a63ea216e0e18f7",
+    "name": "Chainbase",
+    "symbol": "C",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67281/thumb/chainbase.jpg?1752294319"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4ed9c2cb1c0331afd73fef1be5dea4866d8ea5f9",
+    "name": "Hybrid",
+    "symbol": "HYB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67243/thumb/Hybrid_logo_%28200_x_200_px%29_ROUND.png?1752161822"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x895761b727873fe65ca50cf4aa78563fed8ccf6d",
+    "name": "Liquid AI",
+    "symbol": "LIQAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67308/thumb/Untitled_design.png?1752389058"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xda20bf21a48a2aa2ab6e89dece2772e2e33b6b07",
+    "name": "CastDex",
+    "symbol": "CASTDEX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67329/thumb/CastDexLogo.png?1752402609"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x09b052085e9c6291fbf0dfb0918c861bcb47eb25",
+    "name": "Ricky The Raccoon",
+    "symbol": "RICKY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67361/thumb/logo_blue.png?1752499760"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x914133450fcac0f717701f74056e8d5b0387947a",
+    "name": "OpenGPU",
+    "symbol": "OPEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67335/thumb/Twitter_profile_image_%281%29.png?1752403924"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfca95aeb5bf44ae355806a5ad14659c940dc6bf7",
+    "name": "SHIBA ON BASE",
+    "symbol": "SHIB",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67349/thumb/SHIBA_ON_BASE.png?1752479686"
   }
 ]

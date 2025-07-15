@@ -65727,5 +65727,61 @@
     "symbol": "AMP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9abfcacee1fe43f6fd8f5a8351b1c66950cfc9fe",
+    "name": "EPEP",
+    "symbol": "EPEP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67309/thumb/epep_main.jpeg?1752389327"
+  },
+  {
+    "chainId": 1,
+    "address": "0xebfa41da8978bb4554ef119c403e6cdb2e63aed3",
+    "name": "Quick Sync",
+    "symbol": "QS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54612/thumb/Icon_Black.jpg?1740707473"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1223334444a7466fbf985b14e1f4edaf3883bca6",
+    "name": "Grow",
+    "symbol": "GROW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67327/thumb/grow-logo-128px-circle.png?1752402240"
+  },
+  {
+    "chainId": 1,
+    "address": "0x08dcb9b5989fb09ef80e85567ec1f49577a70d29",
+    "name": "Arena Z",
+    "symbol": "A2Z",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67345/thumb/arena-z.png?1752469901"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4df60203af863de8511eedef49aa4610e6ef3426",
+    "name": "AIX Network",
+    "symbol": "AIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67315/thumb/Logo.png?1752392634"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe3e72ae23dd5bb0efd7dfe733a58bf6ad57c3945",
+    "name": "NobleBlocks",
+    "symbol": "NOBL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38086/thumb/Nobleblocks.png?1716477602"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2015bc0be96be4aea2aabc95522109acfec84c30",
+    "name": "Weth Hedz",
+    "symbol": "HEDZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67365/thumb/photo_2025-07-13_22.51.30-2.jpeg?1752572249"
   }
 ]

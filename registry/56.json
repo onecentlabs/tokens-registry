@@ -15312,5 +15312,45 @@
     "decimals": 18,
     "address": "0x8b194370825E37b33373e74A41009161808C1488",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8b194370825E37b33373e74A41009161808C1488.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SPA",
+    "name": "Sperax",
+    "decimals": 18,
+    "address": "0x1A9Fd6eC3144Da3Dd6Ea13Ec1C25C58423a379b1",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1A9Fd6eC3144Da3Dd6Ea13Ec1C25C58423a379b1.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PEAQ",
+    "name": "PeaqOFT",
+    "decimals": 18,
+    "address": "0x8b9Ee39195eA99d6ddD68030F44131116bc218F6",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8b9Ee39195eA99d6ddD68030F44131116bc218F6.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "TALE",
+    "name": "PrompTale AI",
+    "decimals": 18,
+    "address": "0x37EFF3FF1321Fb9AbC734761cA72FAFDc044534A",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x37EFF3FF1321Fb9AbC734761cA72FAFDc044534A.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "C",
+    "name": "Chainbase Token",
+    "decimals": 18,
+    "address": "0xc32cc70741c3A8433dCbcB5adE071c299B55FfC8",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xc32cc70741c3A8433dCbcB5adE071c299B55FfC8.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "TAC",
+    "name": "TAC Token",
+    "decimals": 18,
+    "address": "0x1219c409faBe2C27Bd0D1A565daeed9Bd9f271dE",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1219c409faBe2C27Bd0D1A565daeed9Bd9f271dE.png"
   }
 ]
