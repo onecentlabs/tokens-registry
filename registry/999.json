@@ -26,6 +26,19 @@
   },
   {
     "chainId": 999,
+    "address": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+    "name": "Kinetiq Staked HYPE",
+    "symbol": "kHYPE",
+    "decimals": 18,
+    "logoURI": "https://app.valantis.xyz/khype.svg",
+    "tags": [
+      "NATIVE",
+      "VERIFIED",
+      "WRAPPED"
+    ]
+  },
+  {
+    "chainId": 999,
     "address": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
     "name": "Staked HYPE",
     "symbol": "STHYPE",
