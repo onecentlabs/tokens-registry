@@ -149,6 +149,14 @@
   },
   {
     "chainId": 999,
+    "address": "0xcae9e2a86c146b084169e170e63d340bf34d6b83",
+    "name": "Hypurr kHYPE",
+    "symbol": "hykHYPE",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 999,
     "address": "0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5",
     "name": "Hyper USD",
     "symbol": "USDHL",
