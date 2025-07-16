@@ -65791,5 +65791,13 @@
     "symbol": "WEBS",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/67377/thumb/webs.jpg?1752595528"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9bf8fbcee83e30014b3c48df4e6eb1d3f08df4b8",
+    "name": "HOODOG",
+    "symbol": "HOODOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67382/thumb/HOODOG.jpg?1752623102"
   }
 ]

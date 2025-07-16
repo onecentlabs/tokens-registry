@@ -19748,5 +19748,21 @@
     "symbol": "SHIB",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/67349/thumb/SHIBA_ON_BASE.png?1752479686"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9a4d496a08b2df2b1b115d2cdf9c0a5629384b07",
+    "name": "What The Firkin ",
+    "symbol": "WTF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67379/thumb/IMG_2769_imresizer.png?1752598664"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x35c8afb7d3ad01b154a5e8e0f92f31181d101a3d",
+    "name": "Big Tom Coin",
+    "symbol": "BTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67381/thumb/Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled_Design_%2821%29.png?1752609345"
   }
 ]

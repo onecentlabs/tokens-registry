@@ -12180,5 +12180,13 @@
     "symbol": "PLUTUS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67346/thumb/plutus.jpg?1752473074"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+    "name": "US Nerite Dollar",
+    "symbol": "USND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67378/thumb/USND200.png?1752596582"
   }
 ]
