@@ -19764,5 +19764,37 @@
     "symbol": "BTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67381/thumb/Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled_Design_%2821%29.png?1752609345"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4444489570afd4261d616df00de1668dad5f8cee",
+    "name": "PSX",
+    "symbol": "PSX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67402/thumb/PSX.jpg?1752679014"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2a6eb279117bfdcc069c3a272cd3911d88635162",
+    "name": "GCoin",
+    "symbol": "GC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/52486/thumb/image_1_1.webp?1733429194"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x03569cc076654f82679c4ba2124d64774781b01d",
+    "name": "Liquity BOLD",
+    "symbol": "BOLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56069/thumb/BOLD_logo.png?1748265087"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0ceac003b0d2479bebec9f4b2ebad0a803759bbf",
+    "name": "Wrapped FRAX",
+    "symbol": "WFRAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
   }
 ]

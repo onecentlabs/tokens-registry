@@ -5458,5 +5458,21 @@
     "symbol": "RPEPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67319/thumb/RPEPE.jpg?1752397109"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x580d5e1399157fd0d58218b7a514b60974f2ab01",
+    "name": "Staked UTY",
+    "symbol": "YUTY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67386/thumb/yuty.jpg?1752630041"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xcd94a87696fac69edae3a70fe5725307ae1c43f6",
+    "name": "Blackhole",
+    "symbol": "BLACK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67389/thumb/black.jpg?1752638424"
   }
 ]

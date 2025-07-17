@@ -15352,5 +15352,37 @@
     "decimals": 18,
     "address": "0x1219c409faBe2C27Bd0D1A565daeed9Bd9f271dE",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1219c409faBe2C27Bd0D1A565daeed9Bd9f271dE.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "RION",
+    "name": "Hyperion",
+    "decimals": 18,
+    "address": "0xC0c240C870606a5Cb3150795E2D0dffF9f1F7456",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xC0c240C870606a5Cb3150795E2D0dffF9f1F7456.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "Alfat",
+    "name": "Alphaterra",
+    "decimals": 9,
+    "address": "0x834eE470Ddb53b9337f07D909B10461C3035bb38",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x834eE470Ddb53b9337f07D909B10461C3035bb38.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "USELESS",
+    "name": "USELESS COIN",
+    "decimals": 6,
+    "address": "0xbA38B3C706f7A515Ff7C8Db04Daa0A134eC46D2b",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xbA38B3C706f7A515Ff7C8Db04Daa0A134eC46D2b.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ERA",
+    "name": "Caldera",
+    "decimals": 18,
+    "address": "0x00312400303d02c323295f6E8b7309bc30FB6BcE",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x00312400303d02c323295f6E8b7309bc30FB6BcE.png"
   }
 ]

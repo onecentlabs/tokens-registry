@@ -945,5 +945,29 @@
     "symbol": "XVGSON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67363/thumb/xvgson-logo-200x200.png?1752564785"
+  },
+  {
+    "chainId": 146,
+    "address": "0xc7990369da608c2f4903715e3bd22f2970536c29",
+    "name": "Staked msUSD",
+    "symbol": "SMSUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67387/thumb/smsusd.jpg?1752631663"
+  },
+  {
+    "chainId": 146,
+    "address": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
+    "name": "Satoshi Stablecoin",
+    "symbol": "SATUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306"
+  },
+  {
+    "chainId": 146,
+    "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+    "name": "Wrapped FRAX",
+    "symbol": "WFRAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
   }
 ]

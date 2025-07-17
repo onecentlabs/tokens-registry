@@ -12188,5 +12188,13 @@
     "symbol": "USND",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67378/thumb/USND200.png?1752596582"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb638f8eb4f242eb1883de8553998aa89624e9e81",
+    "name": "VNX",
+    "symbol": "VNX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55605/thumb/VNX_Token_Icon.png?1746858432"
   }
 ]

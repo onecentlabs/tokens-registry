@@ -65799,5 +65799,165 @@
     "symbol": "HOODOG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67382/thumb/HOODOG.jpg?1752623102"
+  },
+  {
+    "chainId": 1,
+    "address": "0x00869e8e2e0343edd11314e6ccb0d78d51547ee5",
+    "name": "SuperGrok",
+    "symbol": "SUPERGROK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67417/thumb/2025-07-17_06.20.18.jpg?1752717387"
+  },
+  {
+    "chainId": 1,
+    "address": "0x27a70b9f8073efe5a02998d5cc64acdc9e0ba589",
+    "name": "Yala BTC",
+    "symbol": "YBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67390/thumb/ybtc.jpg?1752649543"
+  },
+  {
+    "chainId": 1,
+    "address": "0x87c22615435998d69aca34889d03155b694a94fc",
+    "name": "DiemLibre",
+    "symbol": "DLB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22818/thumb/ckjb5eTG_400x400.jpg?1696522120"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9ab778f84b2397c7015f7e83d12eee47d4c26694",
+    "name": "Bitecoin",
+    "symbol": "BITE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67427/thumb/U3xwp1nh_400x400_%281%29_%281%29.jpg?1752740439"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6dcc10db1b1a7f7a49f6cd3669114aff053295fc",
+    "name": "Valentine",
+    "symbol": "VALENTINE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67429/thumb/valentine200.jpg?1752741282"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcab84bc21f9092167fcfe0ea60f5ce053ab39a1e",
+    "name": "Block",
+    "symbol": "BLOCK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67391/thumb/download_%282%29.png?1752659333"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb40865a6ed718f57468cd3f4f60825a130b89a51",
+    "name": "DESU",
+    "symbol": "DESU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67392/thumb/desulogo.jpg?1752659496"
+  },
+  {
+    "chainId": 1,
+    "address": "0x782061597816785a5138e48f6555781b7a38906b",
+    "name": "BABY PEPE",
+    "symbol": "PEPE",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/67395/thumb/400.jpg?1752672384"
+  },
+  {
+    "chainId": 1,
+    "address": "0x699ccf919c1dfdfa4c374292f42cadc9899bf753",
+    "name": "Vision",
+    "symbol": "VSN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67399/thumb/Logo-Vision-Symbol-BG-Green.png?1752676915"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfe76e97a44184dd660503514cd44ed3b04fb1fdd",
+    "name": "Hexly",
+    "symbol": "HEX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67401/thumb/Screenshot_2025-07-14_alle_14.41.57.png?1752678797"
+  },
+  {
+    "chainId": 1,
+    "address": "0xea36af87df952fd4c9a05cd792d370909bbda8db",
+    "name": "OFFICIAL K POP",
+    "symbol": "KPOP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67403/thumb/OFFICIAL_K-POP.png?1752679806"
+  },
+  {
+    "chainId": 1,
+    "address": "0x95ae252633e9ea03bdfe67874b349b41163464ce",
+    "name": "Biggie",
+    "symbol": "BIGGIE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67405/thumb/BIGGIE-logo.png?1752680804"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf46ccb9e08fb7e32eed560c87d5e583a59a43420",
+    "name": "SPACEDOGE",
+    "symbol": "SPDG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67406/thumb/IMG_3034.jpeg?1752681208"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc84f28350e4667dfd759614d2c94c7a5c257954d",
+    "name": "Serv0 Protocol",
+    "symbol": "SERV0",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67409/thumb/Serv0_Logo.png?1752693398"
+  },
+  {
+    "chainId": 1,
+    "address": "0x25d29fa7cf5cd5a11102b793f1a0149546e026e4",
+    "name": "Zon Token",
+    "symbol": "ZON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67411/thumb/zon_logo.png?1752693996"
+  },
+  {
+    "chainId": 1,
+    "address": "0x546f0b82f332b59ef26cf93d9f2482689a692fd2",
+    "name": "AgentForge",
+    "symbol": "AGE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67412/thumb/AGE.jpg?1752694299"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe2ad0bf751834f2fbdc62a41014f84d67ca1de2a",
+    "name": "Caldera",
+    "symbol": "ERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54475/thumb/Token_Logo.png?1749676251"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94",
+    "name": "Staked Stream USD",
+    "symbol": "XUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67383/thumb/xusd.jpg?1752627749"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7743e50f534a7f9f1791dde7dcd89f7783eefc39",
+    "name": "f x  USD Saving",
+    "symbol": "FXSAVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67384/thumb/fxsave.jpg?1752628124"
+  },
+  {
+    "chainId": 1,
+    "address": "0x48f9e38f3070ad8945dfeae3fa70987722e3d89c",
+    "name": "InfiniFi USD",
+    "symbol": "IUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67385/thumb/iusd.jpg?1752628477"
   }
 ]

@@ -1125,5 +1125,13 @@
     "symbol": "ALINUSDC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/66757/thumb/usdc.png?1750409829"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x5217ab28ece654aab2c68efedb6a22739df6c3d5",
+    "name": "Wrapped FRAX",
+    "symbol": "WFRAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
   }
 ]

@@ -5174,5 +5174,21 @@
     "symbol": "M",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798"
+  },
+  {
+    "chainId": 10,
+    "address": "0x03569cc076654f82679c4ba2124d64774781b01d",
+    "name": "Liquity BOLD",
+    "symbol": "BOLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56069/thumb/BOLD_logo.png?1748265087"
+  },
+  {
+    "chainId": 10,
+    "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+    "name": "Wrapped FRAX",
+    "symbol": "WFRAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
   }
 ]
