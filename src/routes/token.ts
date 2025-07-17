@@ -10,7 +10,7 @@ interface TokenData {
 export class TokenRegistry {
   private tokens: Map<string, Token[]>
   private registryPath: string
-  private chainMap: Record<string, string>
+  public chainMap: Record<string, string>
   private tags: string[]
 
   constructor(registryPath: string) {

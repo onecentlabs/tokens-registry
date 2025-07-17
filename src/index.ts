@@ -36,16 +36,19 @@ app.get('/token', async (req: Request, res: Response) => {
     res.status(400).send('Missing chain or token parameter')
     return
   }
-
-  if((chain !== "HYPEREVM"&&chain !== "999") && (token == "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb" || token == "0xca79db4b49f608ef54a5cb813fbed3a6387bc645")) {
-    res.status(400).send('Token not found in registry')
-    return
-  }
   
 
   const tokenData = tokenRegisry.getToken(token, chain)
 
   if (tokenData === undefined) {
+    for (const [chainName, chainId] of Object.entries(tokenRegisry.chainMap)) {
+      if (chainName.toLowerCase() !== chain.toLowerCase() || chainId !== chain) {
+        const tokenFromRegistry = tokenRegisry.getToken(token, chainId)
+        if (tokenFromRegistry) {
+          return res.json(tokenFromRegistry)
+        }
+      }
+    }
     console.log(`Token ${token} not found in registry, fetching from RPC`)
     const tokenFromRpc = await rpcFetch.getToken(token, chain)
     return res.json(tokenFromRpc)
