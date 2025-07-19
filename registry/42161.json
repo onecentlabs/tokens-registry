@@ -12196,5 +12196,13 @@
     "symbol": "VNX",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/55605/thumb/VNX_Token_Icon.png?1746858432"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa891b374942cde9061e044c1d19c5b5de06a68e1",
+    "name": "KardiaChain",
+    "symbol": "KAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/7942/thumb/profile_pic_scaled.png?1752155266"
   }
 ]

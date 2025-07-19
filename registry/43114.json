@@ -5474,5 +5474,29 @@
     "symbol": "BLACK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67389/thumb/black.jpg?1752638424"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xdae17b65718bc4fc306aaa4fa64c8ad2cc4b7d97",
+    "name": "Galaxy Lab",
+    "symbol": "GAGA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67463/thumb/gaga200x200.png?1752867279"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+    "name": "AI Network",
+    "symbol": "AIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x09fa58228bb791ea355c90da1e4783452b9bd8c3",
+    "name": "SuperVerse",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14040/thumb/SV-Logo-200x200.png?1706880312"
   }
 ]

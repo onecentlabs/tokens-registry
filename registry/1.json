@@ -65959,5 +65959,53 @@
     "symbol": "IUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67385/thumb/iusd.jpg?1752628477"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdff4521ccede752314671b05bc4466f9dbcde804",
+    "name": "HypeHUB",
+    "symbol": "HPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67448/thumb/Logo_Hype_HUB_%281%29_%281%29.png?1752814492"
+  },
+  {
+    "chainId": 1,
+    "address": "0x22fb1d972e2d37f5e8ff6ff3655aa225e3485de1",
+    "name": "MONKE",
+    "symbol": "MONKE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67450/thumb/MONKE.png?1752821139"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0b2fa18342d38909e3e44d7103cf3f37b0a0403a",
+    "name": "Tanuki",
+    "symbol": "TANUKI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67455/thumb/LoogoTrans.png?1752839224"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa78cdb9a2e3ff8f24ef76e23a9fb858045d24d32",
+    "name": "Law Service Token",
+    "symbol": "LST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67458/thumb/logo.png?1752863490"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa26cbb76156090f4b40a1799a220fc4c946afb3c",
+    "name": "Young",
+    "symbol": "YNG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26390/thumb/yng.jpg?1752863895"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0d37af9d8ae74f35f3a38bd2a08fcb29890ca6d2",
+    "name": "aixbt",
+    "symbol": "AIXBT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51784/thumb/3.png?1731981138"
   }
 ]

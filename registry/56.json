@@ -15384,5 +15384,13 @@
     "decimals": 18,
     "address": "0x00312400303d02c323295f6E8b7309bc30FB6BcE",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x00312400303d02c323295f6E8b7309bc30FB6BcE.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "TAKER",
+    "name": "TAKER",
+    "decimals": 18,
+    "address": "0xc19539eB93444523Ec8F1432624924d2e6226546",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xc19539eB93444523Ec8F1432624924d2e6226546.png"
   }
 ]

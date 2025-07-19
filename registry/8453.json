@@ -19796,5 +19796,45 @@
     "symbol": "WFRAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdf0e063a72bf51768402ca7f7fe39cb4a4c6ff43",
+    "name": "REI AI by Virtuals",
+    "symbol": "REI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67435/thumb/REI5-removebg-preview_%281%29.png?1752777627"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3eea5eed99dd064c0629f18b8eea51270d5910eb",
+    "name": "Rizzy",
+    "symbol": "RIZZY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67437/thumb/ng3mjua3fhmlb4xow8q0oji73z9p.?1752789587"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3489256febdb1dc930dc3743617ad387cd6d3568",
+    "name": "GraphAI",
+    "symbol": "GAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67449/thumb/Screenshot_2025-07-16_alle_16.13.12.png?1752818029"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2c55d571b6355415cf503f3b6d759231312cd520",
+    "name": "Xpunk Labs",
+    "symbol": "XPUNK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67461/thumb/XPUNK.png?1752867014"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+    "name": "AI Network",
+    "symbol": "AIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991"
   }
 ]
