@@ -12204,5 +12204,21 @@
     "symbol": "KAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/7942/thumb/profile_pic_scaled.png?1752155266"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6ba19ee69d5dde3ab70185c801fa404f66fedb58",
+    "name": "Kinto",
+    "symbol": "K",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54964/thumb/k200.png?1742894885"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x46850ad61c2b7d64d08c9c754f45254596696984",
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/31212/thumb/PYUSD_Logo_%282%29.png?1696530039"
   }
 ]

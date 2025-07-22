@@ -1133,5 +1133,13 @@
     "symbol": "WFRAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x539ae81a166e5e80aed211731563e549c411b140",
+    "name": "Trusta AI",
+    "symbol": "TA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67453/thumb/trusta.jpg?1752832178"
   }
 ]

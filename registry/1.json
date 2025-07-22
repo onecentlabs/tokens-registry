@@ -66007,5 +66007,69 @@
     "symbol": "AIXBT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51784/thumb/3.png?1731981138"
+  },
+  {
+    "chainId": 1,
+    "address": "0x522ec96bced6dc26325120edf3931d34e417a620",
+    "name": "Market Stalker",
+    "symbol": "STLKR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67513/thumb/JPGVersion_%281%29.png?1753036319"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdbbbb379a5df5815384182fe3822d1a145b7416c",
+    "name": "Prism AI",
+    "symbol": "PRSAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67472/thumb/IMG_3779.png?1752897353"
+  },
+  {
+    "chainId": 1,
+    "address": "0xab5eb14c09d416f0ac63661e57edb7aecdb9befa",
+    "name": "Metronome Synth USD",
+    "symbol": "MSUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67504/thumb/metronome_msusd.png?1753015705"
+  },
+  {
+    "chainId": 1,
+    "address": "0x420ccfeada1f4b1508bd8781ceca5238d0e4b510",
+    "name": "Grok Companions",
+    "symbol": "JARVIS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67511/thumb/cj6u8uzhf18mdj4uxocffyipzizd.?1753016867"
+  },
+  {
+    "chainId": 1,
+    "address": "0x64351fc9810adad17a690e4e1717df5e7e085160",
+    "name": "Metronome Synth ETH",
+    "symbol": "MSETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67512/thumb/metronome_mseth.png?1753017508"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4aad14eccf012bb370bd755726f369ff53045d36",
+    "name": "Neko",
+    "symbol": "NEKO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67546/thumb/200x200icon.png?1753132398"
+  },
+  {
+    "chainId": 1,
+    "address": "0x69cc017cc1bd6c171aed88413dd7b36f6464ccd5",
+    "name": "Valentine Michael Smith",
+    "symbol": "VALENTINE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67523/thumb/Gv96588XEAAoOE0_%281%29_%281%29_%282%29.jpg?1753082053"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6992e2f8e29139cc16683228a4a4ca602e49e048",
+    "name": "Munky",
+    "symbol": "MUNKY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67532/thumb/2MwdtxYY_400x400.jpg?1753091558"
   }
 ]

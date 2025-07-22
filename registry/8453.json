@@ -19836,5 +19836,109 @@
     "symbol": "AIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xff1c3e5e98dd709eaffed63a3f8b817e80209e10",
+    "name": "Coach Bucko",
+    "symbol": "BUCKO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67540/thumb/ChatGPT_Image_Jun_30__2025__10_59_58_PM.png?1753130287"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd0924fa4c6ba194294a414d0fb826739ded98b24",
+    "name": "aibrk",
+    "symbol": "AIBRK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67481/thumb/aibrk_headshot.png?1752922585"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x024fb52e5b7b7a2baf4c6e7632317d9029d54b6c",
+    "name": "ChadFi",
+    "symbol": "CHADFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67545/thumb/CoinGecko_Logo_512.png?1753132105"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x60a5aa13d4c3046cf75e05ee1d5ce59025be000c",
+    "name": "Raiinmaker",
+    "symbol": "RAIIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67517/thumb/raiin.png?1753077955"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3313338fe4bb2a166b81483bfcb2d4a6a1ebba8d",
+    "name": "jungle bay memes",
+    "symbol": "JBM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67496/thumb/ISIMG-833774.jpg?1752990582"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x948d07d30400518f2c57ba24bafbb1d71f9c2b07",
+    "name": "chatr",
+    "symbol": "CHATR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67509/thumb/tfwtizl0z56blb5buaeelafujx2t.?1753016485"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6d96f18f00b815b2109a3766e79f6a7ad7785624",
+    "name": "Patience Token",
+    "symbol": "PATIENCE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67543/thumb/patience.png?1753131513"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc7167e360bd63696a7870c0ef66939e882249f20",
+    "name": "Retail DAO",
+    "symbol": "RETAIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67470/thumb/Retail_DAO_logo.png?1752895988"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0d3d122b7fecbe38deb42c1d0c64e2e35a891b07",
+    "name": "Yachtcoin",
+    "symbol": "YACHT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67478/thumb/IMG_2130.png?1752900189"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1e339a1785b8114eef43e471c49c6ca327479aca",
+    "name": "Bingo",
+    "symbol": "BINGO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67539/thumb/Untitled_Artwork_2.JPG?1753129707"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa992ffb0c9b753307b9704079c61db4e405deffd",
+    "name": "Alliance Games",
+    "symbol": "COA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67537/thumb/coa.jpg?1753109254"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6f8c1de07c9e59a8289705b1033af383dc3681b1",
+    "name": "BlockChainCoinX",
+    "symbol": "XCCX",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/32276/thumb/xccxx.png?1697180263"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x526728dbc96689597f85ae4cd716d4f7fccbae9d",
+    "name": "Metronome Synth USD",
+    "symbol": "MSUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67504/thumb/metronome_msusd.png?1753015705"
   }
 ]

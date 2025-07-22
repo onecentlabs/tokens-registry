@@ -13633,5 +13633,13 @@
     "symbol": "AVI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31024/thumb/avi-200x200png.png?1711119363"
+  },
+  {
+    "chainId": 137,
+    "address": "0x10961d03c3c98f981d445681a4e30847a5541227",
+    "name": "STBL Gold",
+    "symbol": "STBLG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67494/thumb/stbl-gold-200x200.png?1752990075"
   }
 ]

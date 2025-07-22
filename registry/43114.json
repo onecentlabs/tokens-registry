@@ -5498,5 +5498,85 @@
     "symbol": "SUPER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14040/thumb/SV-Logo-200x200.png?1706880312"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9209e7ebd056d72c5996220e99df6049253debcf",
+    "name": "Meow",
+    "symbol": "MEOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67516/thumb/meow.jpg?1753072849"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
+    "name": "XVGAVA",
+    "symbol": "XVGAVA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67497/thumb/xvgava-200x200.png?1752991211"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
+    "name": "Avalanche Bridged GHO  Avalanche ",
+    "symbol": "GHO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67500/thumb/gho.jpg?1753014736"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x67ea3abd5cee0b99d743155051c191b09135f93c",
+    "name": "Aesyx Dollar",
+    "symbol": "AXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67499/thumb/axd.jpg?1753012191"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6edac263561da41ade155a992759260fafb87b43",
+    "name": "Vertical AI",
+    "symbol": "VERTAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51520/thumb/favicon.png?1731449166"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
+    "name": "MXNB",
+    "symbol": "MXNB",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39136/thumb/MNXB_Logo.png?1746088156"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5c09a9ce08c4b332ef1cc5f7cadb1158c32767ce",
+    "name": "Fantom Bomb",
+    "symbol": "FBOMB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24109/thumb/fBomb_Brandmark_BlackBlue_%282%29.png?1751872081"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "name": "Hey Anon",
+    "symbol": "ANON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/AAI__ANON_SQ_Wb_250x250.png?1740500195"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6aa38edd7f32a28b7b2c2dc86fc5b0bf2ae61579",
+    "name": "Super Champs",
+    "symbol": "CHAMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51900/thumb/CHAMP_Token_256x256.png?1732131989"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x153374c6d6786b6ca2c4bc96f9c3a471428f2bc7",
+    "name": "Wilder World",
+    "symbol": "WILD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15407/thumb/wld-logo.png?1712273448"
   }
 ]

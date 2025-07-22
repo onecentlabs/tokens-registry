@@ -513,5 +513,13 @@
     "symbol": "UPUMP",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/67362/thumb/pump.jpg?1752548000"
+  },
+  {
+    "chainId": 999,
+    "address": "0x99750393c5b40093a53ccd2d8e9f61ef4f401826",
+    "name": "BULBUL2DAO",
+    "symbol": "BULBUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67526/thumb/%EB%B6%88%EB%B6%88_NFT.png?1753083437"
   }
 ]
