@@ -969,5 +969,13 @@
     "symbol": "WFRAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+  },
+  {
+    "chainId": 146,
+    "address": "0x7a0c53f7eb34c5bc8b01691723669ada9d6cb384",
+    "name": "SpookySwap",
+    "symbol": "BOO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67614/thumb/logo_200x200.png?1753265002"
   }
 ]

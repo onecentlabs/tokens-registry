@@ -12220,5 +12220,29 @@
     "symbol": "PYUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/31212/thumb/PYUSD_Logo_%282%29.png?1696530039"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x30a538effd91acefb1b12ce9bc0074ed18c9dfc9",
+    "name": "Talos",
+    "symbol": "T",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67570/thumb/talos.jpg?1753181426"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+    "name": "AI Network",
+    "symbol": "AIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
   }
 ]

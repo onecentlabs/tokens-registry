@@ -19940,5 +19940,90 @@
     "symbol": "MSUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67504/thumb/metronome_msusd.png?1753015705"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7094c27f342DBAdfbbeD005b219431595E33b305",
+    "name": "QuickSwap",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/QUICK/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "QUICK"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x20429f731096e359910921994a267d32ef576720",
+    "name": "SCAN",
+    "symbol": "SCAN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67569/thumb/02rav5hmv58ax1451trmrus3kvy9.?1753181139"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0a9bc2c63e84436538185543bc0dcca42c4d2cf6",
+    "name": "AGENT BAPO",
+    "symbol": "BAPO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67606/thumb/photo_6051050493167390009_x_%281%29.jpg?1753258650"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5081de08282c67e5f5d01073a85e8f992a41d780",
+    "name": "Alliewai by Virtuals",
+    "symbol": "AWAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67648/thumb/n8ft80efc3t16y8xwma674928q5a.?1753387269"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaaa9a3bc81fe7951fe0c3755837b40749ce0c894",
+    "name": "Legend",
+    "symbol": "LEGEND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67638/thumb/2025-06-12_14.04.11.jpg?1753348475"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf43eb8de897fbc7f2502483b2bef7bb9ea179229",
+    "name": "Horizen",
+    "symbol": "ZEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/691/thumb/Horizen2.0-logo_icon-on-yellow_%281%29.png?1751696763"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x100ce3e3391c00b6a52911313a4ea8d23c8a38d8",
+    "name": "JOOCE",
+    "symbol": "JOOCE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67617/thumb/2025-04-18_21.13.08.jpg?1753296966"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x277f301b1d7471ee948f801b1ff3575ad7f33e21",
+    "name": "YUUKI",
+    "symbol": "YUUKI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67644/thumb/Untitled_design_%2842%29.png?1753383280"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x205344efad0a46329b752fb6e33cb6f28d6db2f4",
+    "name": "Conspiracy Guy",
+    "symbol": "CGUY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67557/thumb/pp_%282%29.jpg?1753176275"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7002987e5f63716273e77b51e12a578143c222aa",
+    "name": "Hacken",
+    "symbol": "HAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11081/thumb/hacken-symbol-with-bg.png?1696511022"
   }
 ]

@@ -66071,5 +66071,205 @@
     "symbol": "MUNKY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67532/thumb/2MwdtxYY_400x400.jpg?1753091558"
+  },
+  {
+    "address": "0x9cf12ccd6020b6888e4d4c4e4c7aca33c1eb91f8",
+    "symbol": "USDaf",
+    "name": "Asymmetry USDaf Stablecoin",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x9cf12ccd6020b6888e4d4c4e4c7aca33c1eb91f8/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2235fc68939b16dec2a00631433c29e6352d1a02",
+    "name": "Flip the Frog",
+    "symbol": "FLIP",
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/67602/thumb/Flip_the_Frog.jpg?1753258021"
+  },
+  {
+    "chainId": 1,
+    "address": "0xae1e1b4d8f590371b77bee27257ef038d4b835a1",
+    "name": "ChicagoCoin",
+    "symbol": "CLT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67589/thumb/CHICAGO-200x200.png?1753212727"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf970706063b7853877f39515c96932d49d5ac9cd",
+    "name": "Yala",
+    "symbol": "YALA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67498/thumb/yala.jpg?1752994443"
+  },
+  {
+    "chainId": 1,
+    "address": "0x999903502c1c7fea3591fb17315544c6bdde7699",
+    "name": "XAU9999",
+    "symbol": "XAU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67594/thumb/download_%285%29.png?1753333309"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4207a81284dc4f114cbb391c3bcdc605cb7d2fbe",
+    "name": "Dogenerates",
+    "symbol": "DOGEN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67607/thumb/doge_haters_%281%29.jpg?1753259388"
+  },
+  {
+    "chainId": 1,
+    "address": "0x924d9492e010856a07cfbd2a6999f69dcee7d041",
+    "name": "Luntra Infrastructure",
+    "symbol": "LUNTRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67608/thumb/Dextools_Logo.png?1753259658"
+  },
+  {
+    "chainId": 1,
+    "address": "0x65278f702019078e9ab196c0da0a6ee55e7248b7",
+    "name": "Wrapped Dione",
+    "symbol": "DIONE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67610/thumb/WIQMwesR_400x400.jpg?1753260531"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf9ff95468cb9a0cd57b8542bbc4c148e290ff465",
+    "name": "THINK Protocol",
+    "symbol": "THINK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67615/thumb/Think_Token_Icon.png?1753291004"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcca28c3aba68ae6dc88f63ceb43efa11a9ca144e",
+    "name": "Kiwi",
+    "symbol": "KIWI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67623/thumb/IMG_5230_%285%29.jpeg?1753312981"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2526ae18c3beeabb248e401368ef0f4515d24f9d",
+    "name": "Yes Chad",
+    "symbol": "YES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67627/thumb/YES_CHAD_Token_Logo_CG.jpg?1753329109"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba8fa89ee8c713a6758f9c7bb3cc23cc033aab1c",
+    "name": "OnChain Battles",
+    "symbol": "OCB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67630/thumb/200x200.png?1753334648"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfea2e874c0d06031e65ea7e275070e207c2746fd",
+    "name": "Vocalad",
+    "symbol": "VOCL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67632/thumb/IMG_0777.jpeg?1753335086"
+  },
+  {
+    "chainId": 1,
+    "address": "0x19f78a898f3e3c2f40c6e0cd2ee5545f549d5e99",
+    "name": "Deputy Dawgs",
+    "symbol": "DDAWGS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67634/thumb/1000029113.jpg?1753335769"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8079751edb6bf16078b07585ee60010f430617d5",
+    "name": "hushr",
+    "symbol": "HUSHR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67636/thumb/tXvJlxsZ_400x400.jpg?1753336153"
+  },
+  {
+    "chainId": 1,
+    "address": "0x45e02bc2875a2914c4f585bbf92a6f28bc07cb70",
+    "name": "MBG By Multibank Group",
+    "symbol": "MBG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67462/thumb/X_icon.png?1752867089"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbbcdc8eb044bf661eabfa07b93909a76ebdb1100",
+    "name": "Elympics",
+    "symbol": "ELP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67551/thumb/ELP_ticker_image.png?1753326058"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe6423de1f06e3f0af27d3ca776e9446ecbdc354b",
+    "name": "CTOC",
+    "symbol": "CTOC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67556/thumb/CTOC.jpg?1753172772"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72ec8447074dc0bfbedfb516cc250b525f3a4aba",
+    "name": "aarna atv111",
+    "symbol": "ATV111",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67612/thumb/atv_111_USDC_71e76abcb6.png?1753263752"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6403af1267cacc0714c1bd916b12f80e179c0558",
+    "name": "Hacken",
+    "symbol": "HAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11081/thumb/hacken-symbol-with-bg.png?1696511022"
+  },
+  {
+    "chainId": 1,
+    "address": "0x407eca46ff515cde14410cdc868c7f82e8c4f41d",
+    "name": "MARS",
+    "symbol": "MARS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67559/thumb/IMG_0527.jpeg?1753176794"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1ce50cfa5797eb17604f1e95c4d3055c6577c3d6",
+    "name": "NodeQAI",
+    "symbol": "NQAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67562/thumb/NodeQAI.jpg?1753177997"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd8e154ede9401dabb860fe84fecd2761b895bc50",
+    "name": "IoTAI",
+    "symbol": "IOTAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67643/thumb/photo_5764898494639885147_m.jpg?1753380569"
+  },
+  {
+    "chainId": 1,
+    "address": "0x809b05ff167c7d70425951753bc0eb0fcc8e491f",
+    "name": "CallofMeme",
+    "symbol": "COMMS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67645/thumb/CallofMeme.jpg?1753384065"
+  },
+  {
+    "chainId": 1,
+    "address": "0x66a5cfb2e9c529f14fe6364ad1075df3a649c0a5",
+    "name": "ZKsync",
+    "symbol": "ZK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38043/thumb/ZKTokenBlack.png?1718614502"
   }
 ]

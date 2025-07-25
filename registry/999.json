@@ -521,5 +521,13 @@
     "symbol": "BULBUL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67526/thumb/%EB%B6%88%EB%B6%88_NFT.png?1753083437"
+  },
+  {
+    "chainId": 999,
+    "address": "0xb5ee887259f792e613edbd20dde8970c10fefda1",
+    "name": "ValiDAO",
+    "symbol": "VDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33748/thumb/200x200.png?1712694763"
   }
 ]

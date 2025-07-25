@@ -5578,5 +5578,13 @@
     "symbol": "WILD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15407/thumb/wld-logo.png?1712273448"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x803f5e3d74e17e3be3f2a2bfbd5d9f9b44e9488b",
+    "name": "Just Woot",
+    "symbol": "WOOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67588/thumb/woot_%281%29.jpg?1753211634"
   }
 ]

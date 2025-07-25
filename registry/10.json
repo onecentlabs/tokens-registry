@@ -5190,5 +5190,13 @@
     "symbol": "WFRAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+    "name": "AI Network",
+    "symbol": "AIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991"
   }
 ]

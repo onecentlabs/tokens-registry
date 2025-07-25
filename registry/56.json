@@ -15416,5 +15416,37 @@
     "decimals": 18,
     "address": "0x539AE81A166E5E80aEd211731563e549c411b140",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x539AE81A166E5E80aEd211731563e549c411b140.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ZKWASM",
+    "name": "ZKWASM Token",
+    "decimals": 18,
+    "address": "0xa8d3dee6671c4fdac4743a1eb1F276EabD4ba302",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xa8d3dee6671c4fdac4743a1eb1F276EabD4ba302.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "YALA",
+    "name": "Yala Token",
+    "decimals": 18,
+    "address": "0xF970706063b7853877F39515C96932D49d5AC9Cd",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xF970706063b7853877F39515C96932D49d5AC9Cd.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "RIZE",
+    "name": "RIZE",
+    "decimals": 18,
+    "address": "0xAEDAff046601BEb063b647845Dfb21841f32d6A4",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xAEDAff046601BEb063b647845Dfb21841f32d6A4.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ASP",
+    "name": "ASPECTA",
+    "decimals": 18,
+    "address": "0xad8c787992428cD158E451aAb109f724B6bc36de",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xad8c787992428cD158E451aAb109f724B6bc36de.png"
   }
 ]
