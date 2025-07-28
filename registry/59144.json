@@ -1141,5 +1141,13 @@
     "symbol": "TA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67453/thumb/trusta.jpg?1752832178"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xa0b18e70387ba72d1c7038bc0bd3a05e5a2287f6",
+    "name": "CAD Coin",
+    "symbol": "CADC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1696513868"
   }
 ]

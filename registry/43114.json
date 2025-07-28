@@ -5586,5 +5586,29 @@
     "symbol": "WOOT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67588/thumb/woot_%281%29.jpg?1753211634"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x2f0ec0ed7d746936f1aeac5702816d38329ee9e6",
+    "name": "Degen Hours",
+    "symbol": "SLEEP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67719/thumb/200_x_200_sleep_pfp.png?1753620465"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9ceed3a7f753608372eeab300486cc7c2f38ac68",
+    "name": "Euler",
+    "symbol": "EUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x3e5b9c8930ecab017e16c3b7a2d0cb746d8bcdcf",
+    "name": "LIMBO",
+    "symbol": "LIMBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52251/thumb/Coingecko_image.png?1736974455"
   }
 ]

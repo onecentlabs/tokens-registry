@@ -529,5 +529,13 @@
     "symbol": "VDO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33748/thumb/200x200.png?1712694763"
+  },
+  {
+    "chainId": 999,
+    "address": "0x3fa145cad2c8108a68cfc803a8e1ae246c36df3e",
+    "name": "HyperStrategy",
+    "symbol": "HSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67686/thumb/HyperStrategy_%28dragged%29_copy.png?1753519592"
   }
 ]

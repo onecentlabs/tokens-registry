@@ -20025,5 +20025,77 @@
     "symbol": "HAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11081/thumb/hacken-symbol-with-bg.png?1696511022"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3b3cd21242ba44e9865b066e5ef5d1cc1030cc58",
+    "name": "Streme",
+    "symbol": "STREME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67713/thumb/android-chrome-512x512.png?1753614883"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x601a4d14fb720a591bb1de41232eb122dd905b07",
+    "name": "Clank Clank ",
+    "symbol": "CLANKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67723/thumb/i5pvezdck4qb7cym5xm3gvg4n1nl.?1753625022"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x60000eb0ac0c6c83d88e990066ac69466c35cf1c",
+    "name": "Gooey Guys",
+    "symbol": "GOOEY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67688/thumb/IMG_4698.jpeg?1753521495"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc2fe3206b74d943ceadc187da6c5dbd1f63e2765",
+    "name": "Quant Fun",
+    "symbol": "QUANT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67687/thumb/quantfungirl.png?1753520323"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x402fb5a74865af5863e099236151f19e04b95868",
+    "name": "Cosmo",
+    "symbol": "COSMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67685/thumb/690B1376-E608-4EFD-B37D-EC3839B899CC.jpeg?1753518093"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0bc945e3ea693ad1527683d9cfe999407ebaabb0",
+    "name": "Net",
+    "symbol": "NET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67704/thumb/net-logo.png?1753538506"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7252c865c05378ffc15120f428dd65804dd0ce63",
+    "name": "Telos",
+    "symbol": "TLOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/7588/thumb/tlos_png.png?1722391289"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa153ad732f831a79b5575fa02e793ec4e99181b0",
+    "name": "Euler",
+    "symbol": "EUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6722f882cc3a1b1034893efa9764397c88897892",
+    "name": "Stabull Finance",
+    "symbol": "STABUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55300/thumb/stabull-icon_1_.png?1745280165"
   }
 ]

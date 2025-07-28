@@ -15448,5 +15448,13 @@
     "decimals": 18,
     "address": "0xad8c787992428cD158E451aAb109f724B6bc36de",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xad8c787992428cD158E451aAb109f724B6bc36de.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "USDf",
+    "name": "Falcon USD",
+    "decimals": 18,
+    "address": "0xb3b02E4A9Fb2bD28CC2ff97B0aB3F6B3Ec1eE9D2",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb3b02E4A9Fb2bD28CC2ff97B0aB3F6B3Ec1eE9D2.png"
   }
 ]

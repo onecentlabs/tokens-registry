@@ -13649,5 +13649,13 @@
     "symbol": "AIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991"
+  },
+  {
+    "chainId": 137,
+    "address": "0x380df89d883776ba04f65569f1d1a6e218bfc2df",
+    "name": "Awakeborn Token",
+    "symbol": "AWK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67693/thumb/Transparant.png?1753522415"
   }
 ]

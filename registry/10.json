@@ -5198,5 +5198,13 @@
     "symbol": "AIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
+    "name": "XVGOPT",
+    "symbol": "XVGOPT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67715/thumb/xvgopt-200x200.png?1753616135"
   }
 ]

@@ -66271,5 +66271,69 @@
     "symbol": "ZK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38043/thumb/ZKTokenBlack.png?1718614502"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9de21c9aa0f0a7e5fdc9262c3a4d925f017fbc8c",
+    "name": "Singularity",
+    "symbol": "SING",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67720/thumb/sing_logo.png?1753620719"
+  },
+  {
+    "chainId": 1,
+    "address": "0x108f9fe948e7f07a42bf8957de773f5d2c97a00d",
+    "name": "just memecoin",
+    "symbol": "MEMECOIN",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/67721/thumb/26741543_52b76932-edb6-4f00-c340-c65588c8e9da.jpeg?1753621361"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc0b8715d73941b2fd02dc7e3fb71112aafa5fe0a",
+    "name": "Browsr AI",
+    "symbol": "BRWS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67683/thumb/Browsr_Ai.jpg?1753517514"
+  },
+  {
+    "chainId": 1,
+    "address": "0x594f8a64d01abea062eee634e627b1b085f99ef3",
+    "name": "Nucleus AI",
+    "symbol": "NUAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67655/thumb/IMG_4114.jpeg?1753423762"
+  },
+  {
+    "chainId": 1,
+    "address": "0x961dd84059505d59f82ce4fb87d3c09bec65301d",
+    "name": "DeFiGeek Community Japan",
+    "symbol": "TXJP",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/67696/thumb/App_icon_256x256.png?1753523275"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d813084cd4f7d6f663631e4f568d7c879371d29",
+    "name": "Elysyn Ai",
+    "symbol": "ELYSYN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67698/thumb/elysyn_logo_%281%29.jpeg?1753523871"
+  },
+  {
+    "chainId": 1,
+    "address": "0x867585e3dd8fc996ab220ea9009c091fd948595f",
+    "name": "Kavari",
+    "symbol": "KAVR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67699/thumb/Kavari_Logo_8_%281%29.jpg?1753524266"
+  },
+  {
+    "chainId": 1,
+    "address": "0x77146784315ba81904d654466968e3a7c196d1f3",
+    "name": "Treehouse",
+    "symbol": "TREE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67664/thumb/TREE_logo.png?1753601041"
   }
 ]

@@ -977,5 +977,21 @@
     "symbol": "BOO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67614/thumb/logo_200x200.png?1753265002"
+  },
+  {
+    "chainId": 146,
+    "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
+    "name": "Rezerve Money",
+    "symbol": "RZR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67679/thumb/New_Project_%289%29.png?1753503135"
+  },
+  {
+    "chainId": 146,
+    "address": "0xd259c1ae13e4acd745556913d044f08542418875",
+    "name": "Moth",
+    "symbol": "MOTH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67667/thumb/MOTH.?1753436722"
   }
 ]

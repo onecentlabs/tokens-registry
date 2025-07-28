@@ -12244,5 +12244,21 @@
     "symbol": "AUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe22865a7820823e27d6c630b15711b070cbd0d57",
+    "name": "DESK",
+    "symbol": "DESK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67653/thumb/DESK.png?1753423028"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x462cd9e0247b2e63831c3189ae738e5e9a5a4b64",
+    "name": "Euler",
+    "symbol": "EUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
   }
 ]
