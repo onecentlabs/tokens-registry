@@ -13657,5 +13657,13 @@
     "symbol": "AWK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67693/thumb/Transparant.png?1753522415"
+  },
+  {
+    "chainId": 137,
+    "address": "0x9f1e8f87c6321b84bad7dda7dfb86d5115a47605",
+    "name": "RIZE",
+    "symbol": "RIZE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55521/thumb/RIZE_Logo_200x200.png?1746488284"
   }
 ]

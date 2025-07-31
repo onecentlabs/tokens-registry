@@ -12260,5 +12260,29 @@
     "symbol": "EUL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x894341be568eae3697408c420f1d0acfce6e55f9",
+    "name": "The Fedz FUSD",
+    "symbol": "FUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67744/thumb/photo_2025-05-01_15-48-42.jpg?1753688528"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe1a6bda42fbafae38607598386a1050613c1a64b",
+    "name": "aarna atv111  Arbitrum ",
+    "symbol": "ATV111",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67785/thumb/atv_111_USDC_71e76abcb6.png?1753844648"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb37194e8b99020ae0b8b6861d4217a9f016706a4",
+    "name": "Hybrid",
+    "symbol": "HYB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67243/thumb/Hybrid_logo_%28200_x_200_px%29_ROUND.png?1752161822"
   }
 ]

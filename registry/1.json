@@ -66335,5 +66335,138 @@
     "symbol": "TREE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67664/thumb/TREE_logo.png?1753601041"
+  },
+  {
+    "chainId": 1,
+    "address": "0x000000Fa00b200406de700041CFc6b19BbFB4d13",
+    "name": "Towns",
+    "symbol": "TOWNS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TOWNS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "TOWNS"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x5ead27fcc5bc50aa100da635f8d1e6198acee71c",
+    "name": "NodeQAI",
+    "symbol": "NQAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67562/thumb/NodeQAI.jpg?1753177997"
+  },
+  {
+    "chainId": 1,
+    "address": "0x42069e779838929495ed0152ffc27145ce5c7f98",
+    "name": "Spurdo",
+    "symbol": "SPURDO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67738/thumb/200x200_%282%29.png?1753667864"
+  },
+  {
+    "chainId": 1,
+    "address": "0x69a80a841f3385ec8ddc6c24d2ad2f615d2ad1f2",
+    "name": "Totakeke",
+    "symbol": "TOTAKEKE",
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/67803/thumb/1000061999.jpg?1753909477"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfd36fa88bb3fea8d1264fc89d70723b6a2b56958",
+    "name": "Wrapped MinoTari",
+    "symbol": "WXTM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66195/thumb/XTM-200x200.png?1748664072"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6377d23a56c10a39bf4363e33e5515f1ef62a3c2",
+    "name": "Teddy the Tile Doge",
+    "symbol": "TEDDY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67750/thumb/IMG_5877.jpeg?1753706797"
+  },
+  {
+    "chainId": 1,
+    "address": "0x086ac2374d6fc048ef45c9e3d1ac051c4a3854bc",
+    "name": "Infrasta",
+    "symbol": "INFRAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67789/thumb/Desain_tanpa_judul_%2826%29_%281%29.png?1753866738"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2ee7097bfdd98fce2ac08a1896038a7cd9aaed81",
+    "name": "Gaia",
+    "symbol": "GAIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67756/thumb/gaia.jpg?1753715363"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdfa208bb0b811cfbb5fa3ea98ec37aa86180e668",
+    "name": "Unicorn Meat",
+    "symbol": "W",
+    "decimals": 3,
+    "logoURI": "https://assets.coingecko.com/coins/images/67761/thumb/unicornmeat-logo-200x200.png?1753784314"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3e05284ff11a92d66e44b6b3ea70533729670257",
+    "name": "fric the frog",
+    "symbol": "FRIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67797/thumb/111.jpg?1753907138"
+  },
+  {
+    "chainId": 1,
+    "address": "0x55baa11e5b004f8aeeec7f78e1070d0156c13057",
+    "name": "AiTradeusMaximus",
+    "symbol": "AIM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67798/thumb/logo_200.png?1753907429"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb68e430c56ed9e548e864a68a60f9d41f993b32c",
+    "name": "aarna afi 802v2",
+    "symbol": "AFI802V2",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67779/thumb/afi802_token_icon_da8e373a6f.png?1753818355"
+  },
+  {
+    "chainId": 1,
+    "address": "0x60697825812ecc1fff07f41e2d3f5cf314674fa6",
+    "name": "aarna atv 808",
+    "symbol": "ATV808",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67780/thumb/atv808_token_icon_bb5bb60c20_%281%29.png?1753818405"
+  },
+  {
+    "chainId": 1,
+    "address": "0xecedb6f8108b9f7bbf499da843dced6c2bb6e270",
+    "name": "Unstable Coin",
+    "symbol": "USDUC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56006/thumb/usduc-logo.jpg?1748000956"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9f1e8f87c6321b84bad7dda7dfb86d5115a47605",
+    "name": "RIZE",
+    "symbol": "RIZE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55521/thumb/RIZE_Logo_200x200.png?1746488284"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0c65b7094e9cedebf9ad5b6a631e57961e0680cf",
+    "name": "FVIX",
+    "symbol": "FVIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67423/thumb/fvix.png?1752738292"
   }
 ]

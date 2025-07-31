@@ -537,5 +537,13 @@
     "symbol": "HSTR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67686/thumb/HyperStrategy_%28dragged%29_copy.png?1753519592"
+  },
+  {
+    "chainId": 999,
+    "address": "0xfde5b0626fc80e36885e2fa9cd5ad9d7768d725c",
+    "name": "haHYPE",
+    "symbol": "HAHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67796/thumb/HMN_Logo_-_Square_-_Light_%281%29.png?1753906923"
   }
 ]

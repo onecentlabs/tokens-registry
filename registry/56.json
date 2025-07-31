@@ -15456,5 +15456,77 @@
     "decimals": 18,
     "address": "0xb3b02E4A9Fb2bD28CC2ff97B0aB3F6B3Ec1eE9D2",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xb3b02E4A9Fb2bD28CC2ff97B0aB3F6B3Ec1eE9D2.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "HYB",
+    "name": "Hybrid",
+    "decimals": 18,
+    "address": "0xb37194e8b99020AE0B8b6861d4217a9f016706a4",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb37194e8b99020AE0B8b6861d4217a9f016706a4.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "GAIA",
+    "name": "Gaia Token",
+    "decimals": 18,
+    "address": "0xd715cC968c288740028be20685263F43ED1E4837",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xd715cC968c288740028be20685263F43ED1E4837.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "DELABS",
+    "name": "Delabs Games",
+    "decimals": 18,
+    "address": "0x23CcAB1de32E06a6235a7997C266F86440C2Cbe6",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x23CcAB1de32E06a6235a7997C266F86440C2Cbe6.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "bnbUSD",
+    "name": "bnb USD",
+    "decimals": 18,
+    "address": "0x5519a479Da8Ce3Af7f373c16f14870BbeaFDa265",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5519a479Da8Ce3Af7f373c16f14870BbeaFDa265.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PUNDIAI",
+    "name": "Pundi AI",
+    "decimals": 18,
+    "address": "0x7a986bA67227acfab86385FF33436a80E2BB4CC5",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7a986bA67227acfab86385FF33436a80E2BB4CC5.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "LN",
+    "name": "LnfiOFT",
+    "decimals": 6,
+    "address": "0x6d2eBdF6d551D8408e7d896E9A1eC6f84806E193",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6d2eBdF6d551D8408e7d896E9A1eC6f84806E193.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PHY",
+    "name": "DePHY",
+    "decimals": 18,
+    "address": "0xD029B392580d555F35CCa1987f27D248cF883716",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xD029B392580d555F35CCa1987f27D248cF883716.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "VRA",
+    "name": "VERA",
+    "decimals": 18,
+    "address": "0x1d58e204ca59328007469A614522903d69dc0A4C",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1d58e204ca59328007469A614522903d69dc0A4C.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SolvBTC.DLP",
+    "name": "SolvBTC DEX LP",
+    "decimals": 18,
+    "address": "0x647A50540F5a1058B206f5a3eB17f56f29127F53",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x647A50540F5a1058B206f5a3eB17f56f29127F53.png"
   }
 ]

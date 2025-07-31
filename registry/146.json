@@ -993,5 +993,13 @@
     "symbol": "MOTH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67667/thumb/MOTH.?1753436722"
+  },
+  {
+    "chainId": 146,
+    "address": "0x1cb934e1f5acdb5b805c609a2c5a09aa8489f124",
+    "name": "aarna atv111  Sonic ",
+    "symbol": "ATV111",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67786/thumb/atv_111_USDC_71e76abcb6.png?1753844688"
   }
 ]
