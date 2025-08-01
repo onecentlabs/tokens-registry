@@ -66468,5 +66468,109 @@
     "symbol": "FVIX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67423/thumb/fvix.png?1752738292"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7786f1eb2ec198a04d8f5e3fc36fab14da370076",
+    "name": "Kinesis Bridged KDA  Ethereum ",
+    "symbol": "KB-KDA",
+    "decimals": 12,
+    "logoURI": "https://assets.coingecko.com/coins/images/67825/thumb/KDA_Token_-_Light.png?1753983217"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5bc93bab1291885a76644a49f52050cf73e1dca8",
+    "name": "MULTIVERSE MONKEY",
+    "symbol": "MMON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67829/thumb/MMON_200x200.png?1753987476"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa563ae4f348e93c7f50e8fcbffafa44f5aed0b36",
+    "name": "Rollback",
+    "symbol": "ROLL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67833/thumb/Rollback.png?1753988937"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7c9f94a79b6b859dfb1d3312fc2311b39f89c677",
+    "name": "believe in somETHing",
+    "symbol": "SOMETHING",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67808/thumb/photo_2025-07-30_18-37-59.jpg?1753917295"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4c3e9772698084b00b413106723e700797921c6b",
+    "name": "Green Dildo Coin",
+    "symbol": "DILDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67811/thumb/IMG_4021.jpeg?1753932990"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7fc5f1561a987e1879a61ffcbb1cc52efd674705",
+    "name": "HoldME Token",
+    "symbol": "HOLDME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67814/thumb/HoldME_Token.png?1753940633"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3f495d3bc3dad8dcefdb51b01d2daf2374b43e49",
+    "name": "DPAI",
+    "symbol": "DPAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67817/thumb/favicon-dex.png?1753941499"
+  },
+  {
+    "chainId": 1,
+    "address": "0x255494b830bd4fe7220b3ec4842cba75600b6c80",
+    "name": "BEAST SELLER",
+    "symbol": "BEAST",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67818/thumb/Screenshot_2025-07-30_at_0.26.41.png?1753941931"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0b90ab67c353e1b4956ca3b13c3a1dbdec169655",
+    "name": "Stockops AI",
+    "symbol": "STOPS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67820/thumb/IMG_1018.jpeg?1753942692"
+  },
+  {
+    "chainId": 1,
+    "address": "0x139450c2dcef827c9a2a0bb1cb5506260940c9fd",
+    "name": "SuperReturn sSuperUSD",
+    "symbol": "SSUPERUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67821/thumb/sSuperUSD_200x200.png?1753943152"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
+    "name": "Polkadot Bridged DOT",
+    "symbol": "DOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54481/thumb/polkadot-new-dot-logo.png?1753881726"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1b379a79c91a540b2bcd612b4d713f31de1b80cc",
+    "name": "Naoris Protocol",
+    "symbol": "NAORIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67595/thumb/naoris.jpg?1753243248"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
+    "name": "Rezerve Money",
+    "symbol": "RZR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67679/thumb/New_Project_%289%29.png?1753503135"
   }
 ]

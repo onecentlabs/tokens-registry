@@ -5206,5 +5206,13 @@
     "symbol": "XVGOPT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67715/thumb/xvgopt-200x200.png?1753616135"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
   }
 ]

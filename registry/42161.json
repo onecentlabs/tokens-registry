@@ -12284,5 +12284,29 @@
     "symbol": "HYB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67243/thumb/Hybrid_logo_%28200_x_200_px%29_ROUND.png?1752161822"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
+    "name": "Polkadot Bridged DOT",
+    "symbol": "DOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54481/thumb/polkadot-new-dot-logo.png?1753881726"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
+    "name": "Rezerve Money",
+    "symbol": "RZR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67679/thumb/New_Project_%289%29.png?1753503135"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
   }
 ]

@@ -20214,5 +20214,69 @@
     "symbol": "BILLY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67774/thumb/3kXxPsKv_400x400.jpg?1753793578"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5f5668d7c748fc1a17540c3a7f9245d8cea10c29",
+    "name": "Macro Millions",
+    "symbol": "MACRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67828/thumb/mmmmmmm.png?1753987144"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8f7d0c6ae30c50c6dfc00612ec5bff2c3685261c",
+    "name": "Jack Potts by Virtuals",
+    "symbol": "JACK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67830/thumb/JackPotts.jpg?1753988335"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xabd3718656dbb5547d6b426c18b03848d18981ea",
+    "name": "Wakehacker by Virtuals",
+    "symbol": "WAKEAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67827/thumb/wh-purple-bg_%282%29.png?1753983534"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x208eaf389b055ea165dd3f547423ab24ad2adb07",
+    "name": "weldr",
+    "symbol": "WLDR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67804/thumb/rhupykszgamiv9qlt3cdp8sq5c8u.?1753915168"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xec313c9d476c6cca6839ad60266302eac6e2e9fa",
+    "name": "Baby Poo",
+    "symbol": "BABYPOO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67834/thumb/rvv6fgkmk3qwa9havkgo1fzki28q.?1753990668"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
+    "name": "Polkadot Bridged DOT",
+    "symbol": "DOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54481/thumb/polkadot-new-dot-logo.png?1753881726"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
+    "name": "Rezerve Money",
+    "symbol": "RZR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67679/thumb/New_Project_%289%29.png?1753503135"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
   }
 ]
