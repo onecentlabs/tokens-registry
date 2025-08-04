@@ -20318,5 +20318,29 @@
     "symbol": "GMAC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32334/thumb/gmac-200x200.png?1697452788"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2dc1c8be620b95cba25d78774f716f05b159c8b9",
+    "name": "Based Bonk",
+    "symbol": "BONK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67910/thumb/Untitled_%28200_x_200_px%29.png?1754282630"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb281f5145e0ab304e862950b4d9865d999ba1fc8",
+    "name": "Bull Pepe",
+    "symbol": "BULLPEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67907/thumb/4KWREdUx_400x400.jpg?1754271670"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3348b2b47e388bb4a03cb890e1f3f308b90828ef",
+    "name": "Based Troll",
+    "symbol": "TROLL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67911/thumb/based_logo_.png?1754282676"
   }
 ]
