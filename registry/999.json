@@ -213,6 +213,14 @@
   },
   {
     "chainId": 999,
+    "address": "0x4DE03cA1F02591B717495cfA19913aD56a2f5858",
+    "name": "Hyperwave HYPE",
+    "symbol": "hwHYPE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/public_assets/refs/heads/main/tokens/hyperevm/0x4DE03cA1F02591B717495cfA19913aD56a2f5858/logo.png"
+  },
+  {
+    "chainId": 999,
     "address": "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
     "name": "Hyperpie Staked HYPE",
     "symbol": "mHYPE",
