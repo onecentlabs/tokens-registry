@@ -15552,5 +15552,45 @@
     "decimals": 18,
     "address": "0x1b379A79c91a540b2bcd612b4d713f31De1b80cc",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1b379A79c91a540b2bcd612b4d713f31De1b80cc.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "Froggie ",
+    "name": "Froggie ",
+    "decimals": 18,
+    "address": "0xA45F5EB48CeCd034751651aeeda6271Bd5df8888",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA45F5EB48CeCd034751651aeeda6271Bd5df8888.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MIA",
+    "name": "MIA",
+    "decimals": 18,
+    "address": "0x7CEA5B9548a4B48cF9551813Ef9e73DE916e41E0",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7CEA5B9548a4B48cF9551813Ef9e73DE916e41E0.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "TOSHI",
+    "name": "Toshi",
+    "decimals": 18,
+    "address": "0x6a2608Dabe09bc1128EEC7275B92DFB939D5Db3f",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6a2608Dabe09bc1128EEC7275B92DFB939D5Db3f.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "AIO",
+    "name": "AIO",
+    "decimals": 18,
+    "address": "0xA22159fACA8BF5c57A48888a2D4Ddafc88e4DDEB",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA22159fACA8BF5c57A48888a2D4Ddafc88e4DDEB.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MM",
+    "name": "MOMO.FUN",
+    "decimals": 18,
+    "address": "0xa5346F91A767b89a0363A4309C8E6c5ADc0C4A59",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xa5346F91A767b89a0363A4309C8E6c5ADc0C4A59.png"
   }
 ]

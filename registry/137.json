@@ -13673,5 +13673,13 @@
     "symbol": "ZCHF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
+  },
+  {
+    "chainId": 137,
+    "address": "0xac1cd197931810b6f115d690c72a3438990d3ba3",
+    "name": "Boorio",
+    "symbol": "ORIO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67888/thumb/Orio_Logo_200_x_200.png?1754194184"
   }
 ]

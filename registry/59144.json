@@ -1149,5 +1149,13 @@
     "symbol": "CADC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1696513868"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xa500000000e482752f032ea387390b6025a2377b",
+    "name": "Astera USD",
+    "symbol": "ASUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67887/thumb/asusd_logo_mark_svg-2_big.png?1754125730"
   }
 ]

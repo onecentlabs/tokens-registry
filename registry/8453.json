@@ -20278,5 +20278,45 @@
     "symbol": "ZCHF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x93757336de76f24f7eee15e6150e4ec42fbdaa21",
+    "name": "IP Tokens of IPNFT  129",
+    "symbol": "CLAW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67886/thumb/FyX2AwAc_400x400.jpg?1754125520"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1891c9bfbbbc186c2ba1bccba7c9b03dfcccd221",
+    "name": "A L P H A",
+    "symbol": "ALPHA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67903/thumb/alpha-logo.jpg?1754199420"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0e83a7ae823a04787e175fb77fb2f77a56896a69",
+    "name": "Bonker",
+    "symbol": "BONKER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67851/thumb/2f601e1e-8aea-4fd8-803a-05dc3f2acd1c.png?1754062861"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb9926b3fbc5873db0182016d55727d5ae89e5efd",
+    "name": "Apu Apustaja",
+    "symbol": "APU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35986/thumb/200x200.png?1710308147"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1cdb2aeb2123dd3c56b4a1e28ddfe1a0c1f9f45d",
+    "name": "Gemach",
+    "symbol": "GMAC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32334/thumb/gmac-200x200.png?1697452788"
   }
 ]

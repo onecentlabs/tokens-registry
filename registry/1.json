@@ -66572,5 +66572,109 @@
     "symbol": "RZR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67679/thumb/New_Project_%289%29.png?1753503135"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2800144a491136d025b8dab17b11df2aa4e700ea",
+    "name": "Abuwtiyuw",
+    "symbol": "ABU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67874/thumb/Logo.jpg?1754112595"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa0ed3359902eff692e5b8167038133a73d641909",
+    "name": "DeFi Dollar",
+    "symbol": "USDFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67875/thumb/USDFI.png?1754112926"
+  },
+  {
+    "chainId": 1,
+    "address": "0x84d821f7fbdd595c4c4a50842913e6b1e07d7a53",
+    "name": "BNPL Pay",
+    "symbol": "BNPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18543/thumb/Untitled_%28200_%C3%97_200_px%29_%281%29.png?1696518022"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdbdc1ef57537e34680b898e1febd3d68c7389bcb",
+    "name": "InfiniFi Staked iUSD",
+    "symbol": "SIUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67891/thumb/siUSDlogo.png?1754195138"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd018a9ba579d3882748c1f1e4dad7203926dc43b",
+    "name": "aarna atv USDC  Ethereum ",
+    "symbol": "ATVUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67895/thumb/atvusdc.png?1754196349"
+  },
+  {
+    "chainId": 1,
+    "address": "0x78069e97c5a1c4a92da4c577dbcfd86cfd83da53",
+    "name": "Lucky Moon",
+    "symbol": "LUCKYMOON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67897/thumb/Lucky_Moon_Icon.png?1754197532"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6bef15d938d4e72056ac92ea4bdd0d76b1c4ad29",
+    "name": "Succinct",
+    "symbol": "PROVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67905/thumb/succinct-logo.png?1754228574"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8561d6829189db74ea1165b7d2bc633616891695",
+    "name": "Flo",
+    "symbol": "FLO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67854/thumb/flo.png?1754063564"
+  },
+  {
+    "chainId": 1,
+    "address": "0x35e445da0c9f6ecea6d95726df6f325bfa902456",
+    "name": "IncogniFi",
+    "symbol": "INFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67855/thumb/2025-05-29_18.04.50_%282%29.jpg?1754073694"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfa63503f9e61fd59cbea137c122fa55c2daff14a",
+    "name": "LITAS",
+    "symbol": "LITAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67857/thumb/litaslogo.png?1754074000"
+  },
+  {
+    "chainId": 1,
+    "address": "0x78cbec65c55f143a9178b63243119806a659d2ef",
+    "name": "Mindfak By Matt Furie",
+    "symbol": "MINDFAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67837/thumb/200x200.jpg?1754021517"
+  },
+  {
+    "chainId": 1,
+    "address": "0x858b4d5df158fdf4b6dcd4b080841b27030178d5",
+    "name": "Met AI",
+    "symbol": "MET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67843/thumb/logo_%281%29_%281%29.jpg?1754024048"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd00ea70e8e7b4cbd084284b029fa5590472d788b",
+    "name": "SOCOMFY",
+    "symbol": "COMFY",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/34322/thumb/comfy_round_logo.png?1704646404"
   }
 ]

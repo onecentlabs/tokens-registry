@@ -704,5 +704,13 @@
     "symbol": "PENDLE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1696514728"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x1b25ca174c158440621ff96e4b1262cb5cc8942f",
+    "name": "Solv Protocol SolvBTC BNB",
+    "symbol": "SOLVBTCBNB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67662/thumb/SolvBTC.BNB.png?1753426768"
   }
 ]

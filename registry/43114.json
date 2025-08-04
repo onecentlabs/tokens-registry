@@ -5618,5 +5618,29 @@
     "symbol": "ZCHF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0e16eee9240561ebb2d2fe2e7a86c87b492af768",
+    "name": "Exim",
+    "symbol": "EXIM",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/67859/thumb/exim_logo.jpg?1754074422"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xf8b22737cbfea137f9b2737d1dab2a8a21608cee",
+    "name": "Agent XYZ",
+    "symbol": "TRADER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55473/thumb/AgentXYZ_Token_logo.png?1746211467"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1263fea931b86f3e8ce8afbf29f66631b7be9347",
+    "name": "BNPL Pay",
+    "symbol": "BNPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18543/thumb/Untitled_%28200_%C3%97_200_px%29_%281%29.png?1696518022"
   }
 ]

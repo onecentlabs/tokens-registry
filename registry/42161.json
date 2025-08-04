@@ -12308,5 +12308,13 @@
     "symbol": "ZCHF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x15f7ad22caa786b1237b27d4324c7e4a93c5e66b",
+    "name": "aarna atv USDC  Arbitrum ",
+    "symbol": "ATVUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67894/thumb/atvusdc.png?1754196178"
   }
 ]
