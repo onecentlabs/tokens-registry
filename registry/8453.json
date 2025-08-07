@@ -20342,5 +20342,77 @@
     "symbol": "TROLL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67911/thumb/based_logo_.png?1754282676"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3a979107edb0ede7888977bb2c027369c1e357e1",
+    "name": "UGGO",
+    "symbol": "UGGO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67931/thumb/saloybqbntk5p5ptqqh7l6fb66om.?1754318334"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x74bf9813655d427bfea800f8af0e52a59ff24223",
+    "name": "REAL ESMATE by Virtuals",
+    "symbol": "EMATE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67988/thumb/857e08d4-1e78-415a-9353-5b6c239fdbc5.png?1754511640"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1fdcfdec6fe7a8956bd5b6c4a8c3791ae0a19065",
+    "name": "Bull Pepe",
+    "symbol": "BULLPEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67907/thumb/4KWREdUx_400x400.jpg?1754271670"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd9dfaf47f491161898ca1baeecacdc5bf9ef082c",
+    "name": "CryptoHub",
+    "symbol": "HUB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67916/thumb/HUB_Token_Migration_Logo.png?1754289049"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2a0a59d6b975828e781ecac125dba40d7ee5ddc0",
+    "name": "Ripe DAO Governance Token",
+    "symbol": "RIPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67990/thumb/ih8u2bkggcaqqed4r0snwb0400y7.?1754517877"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeecc15f24b8fe65cfd18d4095f91a7adefdd53d5",
+    "name": "Bachi on Base",
+    "symbol": "BACHI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67918/thumb/bachicoingecko.png?1754291385"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc54ffa55a3fd03381aa86cf178b60dfaf827b61c",
+    "name": "Tenna by Virtuals",
+    "symbol": "TENNA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67938/thumb/2025-08-03_17.31.19.jpg?1754334025"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x06f71fb90f84b35302d132322a3c90e4477333b0",
+    "name": "BRACKY",
+    "symbol": "BRACKY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67973/thumb/original.jpeg?1754476921"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf426daeecf204f71dcabbca92e89db47b15cd141",
+    "name": "alexanderelorenzo",
+    "symbol": "ALEXANDERELORENZO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67975/thumb/alexanderelorenzo.png?1754477530"
   }
 ]

@@ -5642,5 +5642,21 @@
     "symbol": "BNPL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18543/thumb/Untitled_%28200_%C3%97_200_px%29_%281%29.png?1696518022"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x108468885eba2932901d409af6bf97bf9c3eda50",
+    "name": "CDK",
+    "symbol": "CDK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67969/thumb/CDK_Orange-Black.png?1754475994"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x97cf07b5401b76d69bf48a4f6fdf63684e0748e0",
+    "name": "Gram Silver",
+    "symbol": "GRAMS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34370/thumb/grams.png?1704795270"
   }
 ]

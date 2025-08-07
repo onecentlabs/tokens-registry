@@ -12316,5 +12316,21 @@
     "symbol": "ATVUSDC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67894/thumb/atvusdc.png?1754196178"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x83a32f2818b6754f7d58af0e559fa9d3fa99ce13",
+    "name": "LayerK",
+    "symbol": "LYK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50444/thumb/LayerK.png?1727770132"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe649e6a1f2afc63ca268c2363691cecaf75cf47c",
+    "name": "iExec RLC",
+    "symbol": "RLC",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/646/thumb/pL1VuXm.png?1696501840"
   }
 ]

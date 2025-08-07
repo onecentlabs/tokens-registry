@@ -66684,5 +66684,93 @@
     "symbol": "ROBERT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67908/thumb/logo_robert.png?1754280582"
+  },
+  {
+    "chainId": 1,
+    "address": "0x588d467b92bd2d08a2961ba681e2c75f1ad7c5b0",
+    "name": "VCW",
+    "symbol": "VCW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67971/thumb/200.png?1754476467"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6d56172da47ad69561a5fb8035763a68598128c9",
+    "name": "Dope",
+    "symbol": "DOPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67974/thumb/Dope.png?1754477397"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf7285d17dded63a4480a0f1f0a8cc706f02dda0a",
+    "name": "Supergrok",
+    "symbol": "SUPERGROK",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67928/thumb/g9cz499efdq275hn1vyvj422gv8f.?1754317636"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5845684b49aef79a5c0f887f50401c247dca7ac6",
+    "name": "Cycle Network",
+    "symbol": "CYC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66990/thumb/20250731-155008.png?1754017249"
+  },
+  {
+    "chainId": 1,
+    "address": "0xec6a4a88471dec876aaf065e79b35bf84750f672",
+    "name": "Decentral Mining Protocol",
+    "symbol": "DMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67944/thumb/logo__1x1_%289%29_%282%29.png?1754391408"
+  },
+  {
+    "chainId": 1,
+    "address": "0x755d61b9acbc7fcc935e280291cd86cc1913af93",
+    "name": "MEDXT",
+    "symbol": "MEDXT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67984/thumb/MEDXT_Logo.jpg?1754480572"
+  },
+  {
+    "chainId": 1,
+    "address": "0x61fac5f038515572d6f42d4bcb6b581642753d50",
+    "name": "Infinit",
+    "symbol": "IN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67941/thumb/infinit.jpg?1754390008"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4b6d60361faebf0cfe06c442cd0eb151bc261a7a",
+    "name": "Messiah",
+    "symbol": "MSIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67960/thumb/SVHyDMAX_400x400.jpg?1754412464"
+  },
+  {
+    "chainId": 1,
+    "address": "0xccccc74ac972e08a0f4c62e9369576a6f6722002",
+    "name": "Longcat",
+    "symbol": "NOBIKO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67963/thumb/coingeck200x200.png?1754430922"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf8db100dbf63e47fc834f19c6b76c74c4169972d",
+    "name": "DaGama World",
+    "symbol": "DGMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67989/thumb/daGama-logo-main.png?1754511939"
+  },
+  {
+    "chainId": 1,
+    "address": "0x97cf07b5401b76d69bf48a4f6fdf63684e0748e0",
+    "name": "Gram Silver",
+    "symbol": "GRAMS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34370/thumb/grams.png?1704795270"
   }
 ]
