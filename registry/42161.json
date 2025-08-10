@@ -12332,5 +12332,45 @@
     "symbol": "RLC",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/646/thumb/pL1VuXm.png?1696501840"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9eeab030a17528efb2ac0f81d76fab8754e461bd",
+    "name": "EACCToken",
+    "symbol": "EACC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68080/thumb/eacc-200x200.png?1754718353"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xecc5f868add75f4ff9fd00bbbde12c35ba2c9c89",
+    "name": "BOB",
+    "symbol": "BOB",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/50202/thumb/bob-128.png?1726277750"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+    "name": "Reservoir rUSD",
+    "symbol": "RUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+    "name": "Wrapped Savings rUSD",
+    "symbol": "WSRUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a",
+    "name": "Theo Short Duration US Treasury Fund",
+    "symbol": "THBILL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67650/thumb/thBILL.png?1753401034"
   }
 ]

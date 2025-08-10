@@ -712,5 +712,13 @@
     "symbol": "SOLVBTCBNB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67662/thumb/SolvBTC.BNB.png?1753426768"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x118d2ceee9785eaf70c15cd74cd84c9f8c3eec9a",
+    "name": "POL Staked WBERA",
+    "symbol": "SWBERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68010/thumb/swbera.png?1754573891"
   }
 ]

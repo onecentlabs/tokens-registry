@@ -15672,5 +15672,45 @@
     "decimals": 18,
     "address": "0x79f294ae9C9257C1a8070Fd8ed66Bace24bc39D2",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x79f294ae9C9257C1a8070Fd8ed66Bace24bc39D2.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "X",
+    "name": "TaleX",
+    "decimals": 18,
+    "address": "0x0510101Ec6c49D24ED911F0011E22A0D697Ee776",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0510101Ec6c49D24ED911F0011E22A0D697Ee776.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "IN",
+    "name": "INFINIT",
+    "decimals": 18,
+    "address": "0x61fac5F038515572d6F42d4BcB6B581642753D50",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x61fac5F038515572d6F42d4BcB6B581642753D50.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "FIR",
+    "name": "Fireverse",
+    "decimals": 18,
+    "address": "0x238D72E179A581C98DC1996417a49818c7E509dC",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x238D72E179A581C98DC1996417a49818c7E509dC.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "UNIART",
+    "name": "UNIART",
+    "decimals": 18,
+    "address": "0xf324791C3A08cC8cd9A3d77ddc4681276BDF4444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xf324791C3A08cC8cd9A3d77ddc4681276BDF4444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "K",
+    "name": "Sidekick",
+    "decimals": 18,
+    "address": "0x0A73d885CdD66adF69c6D64c0609e55C527dB2BE",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0A73d885CdD66adF69c6D64c0609e55C527dB2BE.png"
   }
 ]

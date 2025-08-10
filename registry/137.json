@@ -13681,5 +13681,13 @@
     "symbol": "ORIO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67888/thumb/Orio_Logo_200_x_200.png?1754194184"
+  },
+  {
+    "chainId": 137,
+    "address": "0x11b37c9388420d79d48e8d531227f43c9bf1bbf1",
+    "name": "FITtoken",
+    "symbol": "FIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68091/thumb/Logo_FITtoken_.png?1754723761"
   }
 ]

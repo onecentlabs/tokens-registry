@@ -5214,5 +5214,13 @@
     "symbol": "ZCHF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
+  },
+  {
+    "chainId": 10,
+    "address": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
+    "name": "Polkadot Bridged DOT",
+    "symbol": "DOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54481/thumb/polkadot-new-dot-logo.png?1753881726"
   }
 ]

@@ -20414,5 +20414,117 @@
     "symbol": "ALEXANDERELORENZO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67975/thumb/alexanderelorenzo.png?1754477530"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x505ac2eb354c8b7ae1a96c27be1df4395a6dcc19",
+    "name": "Clutch",
+    "symbol": "CLX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68089/thumb/Full-logo-2_%281%29_%281%29.png?1754723246"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7af77365f112361457aaa76994bda688605f2d9c",
+    "name": "Kurt",
+    "symbol": "KURT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68083/thumb/IMG_2493.jpeg?1754720805"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdddf73c5535eec1d6aa7f41880cbe69a64066eb1",
+    "name": "Ringfence",
+    "symbol": "RING",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68012/thumb/Group_1000007299.png?1754583828"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7fe0244a02630c7cf649c07339accecc6f2976b4",
+    "name": "Mr Puggles",
+    "symbol": "PUGGLES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68049/thumb/IMG_4825.jpeg?1754632850"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x77797f5fef2944a01a786227a2d9764b388ba6b2",
+    "name": "Ribbit on Base",
+    "symbol": "RIBBIT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68004/thumb/IMG_4817.jpeg?1754551946"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
+    "name": "XVGBASE",
+    "symbol": "XVGBASE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68087/thumb/Verge_Token_Base_icon-200x200-transparent.png?1754721763"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x987603a52d8b966e10fbd29dcb1a574049e25b07",
+    "name": "USIC",
+    "symbol": "USI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68092/thumb/IMG_20250807_110939_181.jpg?1754723976"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xecc5f868add75f4ff9fd00bbbde12c35ba2c9c89",
+    "name": "BOB",
+    "symbol": "BOB",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/50202/thumb/bob-128.png?1726277750"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3147f26685ac332c88679b4b98094c1f2f2f4899",
+    "name": "Yes Chad",
+    "symbol": "YES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67627/thumb/YES_CHAD_Token_Logo_CG.jpg?1753329109"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa0ff877e3d4f3a108b1b3d5eb3e4369301d2b2d7",
+    "name": "Unicorn Meat",
+    "symbol": "W",
+    "decimals": 3,
+    "logoURI": "https://assets.coingecko.com/coins/images/67761/thumb/unicornmeat-logo-200x200.png?1753784314"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+    "name": "Reservoir rUSD",
+    "symbol": "RUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x60c230c38af6d86b0277a98a1caeaa345a7b061f",
+    "name": "Fiamma BTC",
+    "symbol": "FIABTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/68062/thumb/fiabtc_200-200.png?1754642511"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x62344be8ca1c339b46274a4017dd87af436900b1",
+    "name": "Wrapped Savings rUSD",
+    "symbol": "WSRUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a",
+    "name": "Theo Short Duration US Treasury Fund",
+    "symbol": "THBILL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67650/thumb/thBILL.png?1753401034"
   }
 ]

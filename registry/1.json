@@ -66772,5 +66772,101 @@
     "symbol": "GRAMS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34370/thumb/grams.png?1704795270"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaa407cae90e31b94fb384dbc6f79325ca0324048",
+    "name": "CROTCH",
+    "symbol": "CROTCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68017/thumb/Crotch_Token_Logo_200.png?1754598551"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f515f030e31db8fa475aead84f79a5b25a953c4",
+    "name": "Get Out Frog",
+    "symbol": "GOF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68018/thumb/gof200logo.png?1754598782"
+  },
+  {
+    "chainId": 1,
+    "address": "0x672fdba7055bddfa8fd6bd45b1455ce5eb97f499",
+    "name": "Arc",
+    "symbol": "ARC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24235/thumb/Clipboard.png?1754711965"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf3c83a2aa05f9201533737c1efa2fe5d9416f128",
+    "name": "Larp AI",
+    "symbol": "LAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68058/thumb/IMG_8399.jpeg?1754638683"
+  },
+  {
+    "chainId": 1,
+    "address": "0x22f0e0a4c97ff43546dad16d43ef854c773f0e08",
+    "name": "Fiamma BTC",
+    "symbol": "FIABTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/68062/thumb/fiabtc_200-200.png?1754642511"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
+    "name": "AllUnity EUR",
+    "symbol": "EURAU",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68076/thumb/EURAU_Full_Colour.png?1754717091"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0d7c10ffcaef0bf9f8bbfc44ea437beeb5a36976",
+    "name": "Kira AI",
+    "symbol": "KIRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68007/thumb/IMG_4701.jpeg?1754552853"
+  },
+  {
+    "chainId": 1,
+    "address": "0x50dd9ce3e599c3209582f0429d6896ecc1dae732",
+    "name": "UIUI",
+    "symbol": "UI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68102/thumb/200x200.png?1754754714"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfb072b42907da2bf7a8e8cb5dcaa790d45fd81a8",
+    "name": "Sidekick",
+    "symbol": "K",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67966/thumb/kick.jpg?1754450296"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1492f93d9df1d01c92d753ce55d09d9d3e5ccc9d",
+    "name": "Agentory",
+    "symbol": "AGNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68014/thumb/agentory.png?1754584514"
+  },
+  {
+    "chainId": 1,
+    "address": "0xecc5f868add75f4ff9fd00bbbde12c35ba2c9c89",
+    "name": "BOB",
+    "symbol": "BOB",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/50202/thumb/bob-128.png?1726277750"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5fa487bca6158c64046b2813623e20755091da0b",
+    "name": "Theo Short Duration US Treasury Fund",
+    "symbol": "THBILL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67650/thumb/thBILL.png?1753401034"
   }
 ]

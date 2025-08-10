@@ -569,5 +569,29 @@
     "symbol": "SOLVBTCBNB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67662/thumb/SolvBTC.BNB.png?1753426768"
+  },
+  {
+    "chainId": 999,
+    "address": "0x866d66f64fb81461903e1e38d998e747ecf35e78",
+    "name": "Reservoir rUSD",
+    "symbol": "RUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629"
+  },
+  {
+    "chainId": 999,
+    "address": "0x04716db62c085d9e08050fcf6f7d775a03d07720",
+    "name": "Wrapped Savings rUSD",
+    "symbol": "WSRUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
+  },
+  {
+    "chainId": 999,
+    "address": "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a",
+    "name": "Theo Short Duration US Treasury Fund",
+    "symbol": "THBILL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67650/thumb/thBILL.png?1753401034"
   }
 ]

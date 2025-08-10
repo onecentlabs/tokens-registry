@@ -1009,5 +1009,29 @@
     "symbol": "ZCHF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
+  },
+  {
+    "chainId": 146,
+    "address": "0x41a5477364bf60d8936b90310fecfda79593304e",
+    "name": "dTrinity Staked dUSD",
+    "symbol": "SDUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68063/thumb/sdUSD_Logo.png?1754642699"
+  },
+  {
+    "chainId": 146,
+    "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+    "name": "Reservoir rUSD",
+    "symbol": "RUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629"
+  },
+  {
+    "chainId": 146,
+    "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+    "name": "Wrapped Savings rUSD",
+    "symbol": "WSRUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
   }
 ]

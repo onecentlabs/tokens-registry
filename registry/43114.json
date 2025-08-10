@@ -5658,5 +5658,37 @@
     "symbol": "GRAMS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34370/thumb/grams.png?1704795270"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4cb85e39d5622af604405077a589c3078f3a59b2",
+    "name": "Crocodile Finance",
+    "symbol": "CROC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68008/thumb/croc.jpg?1754554693"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x7cc9c624efa62c2decf0a2a028f7885ecea95a17",
+    "name": "SPACEM WORLD",
+    "symbol": "SPCM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52188/thumb/photo_2025-02-16_16-38-04.jpg?1739768335"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+    "name": "Reservoir rUSD",
+    "symbol": "RUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+    "name": "Wrapped Savings rUSD",
+    "symbol": "WSRUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
   }
 ]
