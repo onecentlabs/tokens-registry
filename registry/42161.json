@@ -12372,5 +12372,61 @@
     "symbol": "THBILL",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/67650/thumb/thBILL.png?1753401034"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe98fc055c99decd8da0c111b090885d5d15c774e",
+    "name": "Wrapped Aave Arbitrum wstETH",
+    "symbol": "WAARBWSTETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68161/thumb/waArbwsteth_64.png?1754971843"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd089b4cb88dacf4e27be869a00e9f7e2e3c18193",
+    "name": "Wrapped Aave Arbitrum GHO",
+    "symbol": "WAARBGHO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68159/thumb/waarbgho.png?1754971526"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4ce13a79f45c1be00bdabd38b764ac28c082704e",
+    "name": "Wrapped Aave Arbitrum WETH",
+    "symbol": "WAARBWETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68175/thumb/waArbweth_64.png?1754999736"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4ff50c17df0d1b788d021acd85039810a1aa68a1",
+    "name": "Wrapped Aave Arbitrum ezETH",
+    "symbol": "WAARBEZETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68160/thumb/waArbezeth_64.png?1754971747"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa6d12574efb239fc1d2099732bd8b5dc6306897f",
+    "name": "Wrapped Aave Arbitrum USDT",
+    "symbol": "WAARBUSDT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68158/thumb/waArbusdt_64.png?1754971613"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7f6501d3b98ee91f9b9535e4b0ac710fb0f9e0bc",
+    "name": "Wrapped Aave Arbitrum USDCn",
+    "symbol": "WAARBUSDCN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68157/thumb/waArbusdcn_64.jpg?1754971358"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x86856814e74456893cfc8946bedcbb472b5fa856",
+    "name": "Gold Token",
+    "symbol": "GLDT",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/53968/thumb/gldt_200x200.png?1737793227"
   }
 ]

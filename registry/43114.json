@@ -5690,5 +5690,53 @@
     "symbol": "WSRUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd7da0de6ef4f51d6206bf2a35fcd2030f54c3f7b",
+    "name": "Wrapped Aave Avalanche WAVAX",
+    "symbol": "WAAVAWAVAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68179/thumb/avax.png?1755004315"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74",
+    "name": "Wrapped Aave Avalanche BTC b",
+    "symbol": "WAAVABTCB",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/68178/thumb/btc.png?1755003767"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x59933c571d200dc6a7fd1cda22495db442082e34",
+    "name": "Wrapped Aave Avalanche USDT",
+    "symbol": "WAAVAUSDT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68176/thumb/usdt.jpg?1755003359"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009",
+    "name": "Wrapped Aave Avalanche USDC",
+    "symbol": "WAAVAUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68177/thumb/usdc.jpg?1755003628"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x451532f1c9eb7e4dc2d493db52b682c0acf6f5ef",
+    "name": "Suzaku Token",
+    "symbol": "SUZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68103/thumb/suzaku-logo-black-200.png?1754802307"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8e48d9f6d73e9805df87dcf63f7b35ae04079713",
+    "name": "KIGU",
+    "symbol": "KIGU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68164/thumb/KIGU.png?1754990777"
   }
 ]

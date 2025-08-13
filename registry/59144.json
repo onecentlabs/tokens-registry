@@ -1165,5 +1165,13 @@
     "symbol": "REX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68009/thumb/etherex.jpg?1754560098"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xb1afd04774c02ae84692619448b08ba79f19b1ff",
+    "name": "Frax Ether",
+    "symbol": "FRXETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28284/thumb/frxETH_icon.png?1696527284"
   }
 ]

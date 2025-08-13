@@ -15712,5 +15712,53 @@
     "decimals": 18,
     "address": "0x0A73d885CdD66adF69c6D64c0609e55C527dB2BE",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x0A73d885CdD66adF69c6D64c0609e55C527dB2BE.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BSU",
+    "name": "Baby Shark Universe Token",
+    "decimals": 18,
+    "address": "0x1AeCab957bAD4C6e36DD29C3d3BB470c4C29768A",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1AeCab957bAD4C6e36DD29C3d3BB470c4C29768A.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "GAME",
+    "name": "GameBuild",
+    "decimals": 18,
+    "address": "0x825459139C897D769339f295E962396C4F9E4A4D",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x825459139C897D769339f295E962396C4F9E4A4D.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "XCX",
+    "name": "Xeleb AI",
+    "decimals": 18,
+    "address": "0xE32f9e8F7f7222fcd83EE0fC68bAf12118448Eaf",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xE32f9e8F7f7222fcd83EE0fC68bAf12118448Eaf.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SLAY",
+    "name": "SatLayer",
+    "decimals": 6,
+    "address": "0xfC5a743271672E91D77F0176e5CEa581Fbd5D834",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xfC5a743271672E91D77F0176e5CEa581Fbd5D834.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SCUSD1",
+    "name": "StakeStone-CIAN USD1",
+    "decimals": 18,
+    "address": "0xD896bf804c01c4C0Fa5C42bF6A4b15C465009481",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xD896bf804c01c4C0Fa5C42bF6A4b15C465009481.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "WAI",
+    "name": "WORLD3",
+    "decimals": 18,
+    "address": "0x1E3dbC0aad9671FDD31E58b2fcc6cF1Ca9947994",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1E3dbC0aad9671FDD31E58b2fcc6cF1Ca9947994.png"
   }
 ]

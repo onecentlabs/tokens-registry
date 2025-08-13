@@ -66868,5 +66868,125 @@
     "symbol": "THBILL",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/67650/thumb/thBILL.png?1753401034"
+  },
+  {
+    "chainId": 1,
+    "address": "0x51477a3002ee04b7542adfe63ccdb50c00ee5147",
+    "name": "SatLayer",
+    "symbol": "SLAY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54811/thumb/SLAY-200x200.png?1754713489"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc71ea051a5f82c67adcf634c36ffe6334793d24c",
+    "name": "Wrapped Aave Ethereum Lido GHO",
+    "symbol": "WAETHLIDOGHO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68141/thumb/waEthLidogho_64.png?1754914668"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f6f1818019d656ea5651e913adf8a26e178c09f",
+    "name": "Bald Eagle",
+    "symbol": "EAGLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68143/thumb/gsLVVmi3_400x400.jpg?1754915745"
+  },
+  {
+    "chainId": 1,
+    "address": "0x79fe521199697c9cf94d16d5d49277c933ccc38b",
+    "name": "Nova AI",
+    "symbol": "NOVA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68152/thumb/NOVA_Logo.png?1754953005"
+  },
+  {
+    "chainId": 1,
+    "address": "0x28a062b8cd62a219210211f2085281c0aca2b2b9",
+    "name": "BNPL Pay",
+    "symbol": "BNPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68154/thumb/bnpl.png?1754963924"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6958c870a6d9a7a7cca58fede8acfdf1280c12d5",
+    "name": "Killer Bean",
+    "symbol": "BEAN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68146/thumb/KILLER_BEAN_LOGO_color.png?1754917063"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4950c46d503441da68d1c76a917cfa241aaf4d38",
+    "name": "Innovia AI",
+    "symbol": "INVAAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37425/thumb/Logo_Dex_%281%29.png?1754982541"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaae45d365b76a6af2785b298b19be2d9b961fd8c",
+    "name": "ICE Raids",
+    "symbol": "ICERAIDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67059/thumb/Pfp.png?1754986015"
+  },
+  {
+    "chainId": 1,
+    "address": "0x65b3f4a4694b125ada8f9ebc2b79d6c7d4015d1b",
+    "name": "Steam22",
+    "symbol": "STM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68114/thumb/IMG_9217.jpeg?1754808535"
+  },
+  {
+    "chainId": 1,
+    "address": "0x48d41fc014865c32be82c50ee647b6a4bfab38a8",
+    "name": "Kumaneene",
+    "symbol": "KUMANEENE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68125/thumb/IMG_20250810_103906_241.jpg?1754826338"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbb820cdc399d93b614023cae612f85eaa0db944f",
+    "name": "Yapp Ai",
+    "symbol": "YAPP",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68190/thumb/IMG_8184.PNG?1755027354"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbe370ad45d44eb45174c4ec60b88839fef32c077",
+    "name": "PHT Stablecoin",
+    "symbol": "PHT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68174/thumb/PHT_200_x_200_logo.png?1754996743"
+  },
+  {
+    "chainId": 1,
+    "address": "0x86856814e74456893cfc8946bedcbb472b5fa856",
+    "name": "Gold Token",
+    "symbol": "GLDT",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/53968/thumb/gldt_200x200.png?1737793227"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4cbf89ed7bb30b8a860fa86d3c96e9c72931299b",
+    "name": "TBLL xStock",
+    "symbol": "TBLLX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68188/thumb/Ticker_TBLLx_200x200.png?1755024227"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9b61879e91a0b1322f3d61c23aaf936231882096",
+    "name": "Bedrock",
+    "symbol": "BR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54908/thumb/BR_200px.png?1742453499"
   }
 ]

@@ -20526,5 +20526,146 @@
     "symbol": "THBILL",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/67650/thumb/thBILL.png?1753401034"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6fbf03efa4363ca0afe0c9c3906f7d610890b683",
+    "name": "Gaia Token",
+    "symbol": "GAIA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GAIA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GAIA"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcde80e161dc8a3e5407dd0d25835cd68a6f39f05",
+    "name": "ICONS",
+    "symbol": "ICONS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68168/thumb/KITAI_LOGO.png?1754991957"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfb0dacd3f5cb157d2ff60d6ead877f36f58d0395",
+    "name": "memoryprotocol",
+    "symbol": "MEMORYPROTOCOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68185/thumb/pf23619hb6nc1j4k0wi077scasd7.?1755008771"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4a0aaf171446dda0ed95295c46820e2015a28b07",
+    "name": "QuantumCoin",
+    "symbol": "QE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68147/thumb/4P9OAJqq_400x400.jpg?1754917636"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbc1017f13e14b828461ae2b02821351c6edb9b07",
+    "name": "automation",
+    "symbol": "AUTO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68182/thumb/9ducnnf37nn83al6ymnoswu3fr07.?1755006738"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x38df5d99dd151282615ce007ff9662c198b4c00b",
+    "name": "Helix",
+    "symbol": "HELIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68183/thumb/GyCrld0bIAApvGG.jpeg?1755007862"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8a0e751e5d7a2861ca7cf16d9720337e40604982",
+    "name": "Eggle Energy",
+    "symbol": "ENG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68134/thumb/Eggle_Logo_200x200.png?1754902178"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcdca2eaae4a8a6b83d7a3589946c2301040dafbf",
+    "name": "Surf",
+    "symbol": "SURF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68192/thumb/Layer_11_copy.png?1755027769"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5eeb2662615782b58251b6f0c3e107571ae1ab07",
+    "name": "RETAKE TV",
+    "symbol": "RETAKE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68105/thumb/46dnYM_C_400x400_%282%29.jpg?1754803053"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfac77f01957ed1b3dd1cbea992199b8f85b6e886",
+    "name": "ArAIstotle",
+    "symbol": "FACY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68121/thumb/fnho0s0oz5m2lie56vly5oxdx2fn.?1754810530"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe99d2f7988c5f2d013a34e7484f079cab87f469f",
+    "name": "01111010011110000110001001110100",
+    "symbol": "0111101001111000011",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68126/thumb/zxbt.png?1754887695"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa63c1ce4963ea71f93e79223649a3f2f2ebb079b",
+    "name": "Line Protocol",
+    "symbol": "LINE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68130/thumb/line-logo.jpg?1754890287"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x86856814e74456893cfc8946bedcbb472b5fa856",
+    "name": "Gold Token",
+    "symbol": "GLDT",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/53968/thumb/gldt_200x200.png?1737793227"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd6122ddada244913521f3d62006eaf756c157660",
+    "name": "Bedrock",
+    "symbol": "BR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54908/thumb/BR_200px.png?1742453499"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "name": "Universal BTC",
+    "symbol": "UNIBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3376ebca0a85fc8d791b1001a571c41fdd61514a",
+    "name": "Bedrock BTC",
+    "symbol": "BRBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x940a319b75861014a220d9c6c144d108552b089b",
+    "name": "XMAQUINA",
+    "symbol": "DEUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68133/thumb/Screenshot_2025-08-07_at_8.52.11%E2%80%AFPM.png?1754901254"
   }
 ]
