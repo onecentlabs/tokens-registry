@@ -1171,8 +1171,8 @@
         "decimals": 18
       },
       "rpcUrls": [
-        "https://rpc.hyperliquid.xyz/evm",
-        "https://rpc.hypurrscan.io"
+        "https://rpc.hypurrscan.io",
+        "https://rpc.hyperliquid.xyz/evm"
       ]
     },
     "tokens": {
