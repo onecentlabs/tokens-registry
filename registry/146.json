@@ -1033,5 +1033,13 @@
     "symbol": "WSRUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
+  },
+  {
+    "chainId": 146,
+    "address": "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de",
+    "name": "YieldFi vyUSD",
+    "symbol": "VYUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68253/thumb/vyUSD_image.png?1755201198"
   }
 ]

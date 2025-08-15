@@ -13697,5 +13697,13 @@
     "symbol": "PHT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68174/thumb/PHT_200_x_200_logo.png?1754996743"
+  },
+  {
+    "chainId": 137,
+    "address": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+    "name": "Frontier Stable Token",
+    "symbol": "FRNT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496"
   }
 ]

@@ -1691,5 +1691,13 @@
     "symbol": "FWORBIT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55676/thumb/orbit-protocol-logo.png?1746978419"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "name": "Blast Bridged USDE  Blast ",
+    "symbol": "USDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68281/thumb/usde.jpg?1755239722"
   }
 ]

@@ -20667,5 +20667,165 @@
     "symbol": "DEUS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68133/thumb/Screenshot_2025-08-07_at_8.52.11%E2%80%AFPM.png?1754901254"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x88b1cd4b430d95b406e382c3cdbae54697a0286e",
+    "name": "Wrapped Aave Base GHO",
+    "symbol": "WABASGHO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68200/thumb/wabasgho.png?1755078659"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xac2c0505b953d8679230b564c1bf1836673e311a",
+    "name": "Naka",
+    "symbol": "NAKA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68230/thumb/IMG_4868.jpeg?1755152114"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x41b8e9729bef43a1311a0f22c5131915fdb16647",
+    "name": "Maneki Neko",
+    "symbol": "NEKO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68254/thumb/111.jpg?1755201497"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe298b938631f750dd409fb18227c4a23dcdaab9b",
+    "name": "Wrapped Aave Base WETH",
+    "symbol": "WABASWETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68202/thumb/wabasweth.png?1755078863"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0830820d1a9aa1554364752d6d8f55c836871b74",
+    "name": "Wrapped Aave Base wstETH",
+    "symbol": "WABASWSTETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68205/thumb/wsteth.png?1755079155"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf7178122a087ef8f5c7bea362b7dabe38f20bf05",
+    "name": "Omni Exchange Token",
+    "symbol": "OMNI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68247/thumb/omni_v2.jpg?1755162905"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0fd122a924c4528a78a8141bddd38a0e5ba35fa5",
+    "name": "CreatorDAO",
+    "symbol": "CREATOR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68263/thumb/CreatorDAOLogo.png?1755214942"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x98efe85735f253a0ed0be8e2915ff39f9e4aff0f",
+    "name": "Wrapped ExtraX Base USR",
+    "symbol": "WEXBASEUSR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68203/thumb/usr.png?1755079000"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc768c589647798a6ee01a91fde98ef2ed046dbd6",
+    "name": "Wrapped Aave Base USDC",
+    "symbol": "WABASUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68201/thumb/wabasusdc.png?1755078737"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x589a7339c6d0c8777e7429f57f2f95c069c37288",
+    "name": "Wrapped ExtraFi X Base USDC",
+    "symbol": "WEXBASEUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68204/thumb/usdc.jpg?1755079072"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf3280115245a7470e7bbdd35e2b4f4094f511443",
+    "name": "Karum",
+    "symbol": "KARUM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68258/thumb/coingecko-k.png?1755202442"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf8f10f39116716e89498c1c5e94137ada11b2bc7",
+    "name": "Wrapped Aave Base ezETH",
+    "symbol": "WABASEZETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68208/thumb/wabasezeth.png?1755080958"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdd73ea766b80417c0607a3f08e34a0c415d89d56",
+    "name": "WEUSD",
+    "symbol": "WEUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68196/thumb/WEUSD%28200X200%29.png?1755065644"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9b9fd410d5f01a6a60acf4678a5a99d8027fa5a7",
+    "name": "Mythos",
+    "symbol": "MYTH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28045/thumb/Mythos_Logos_200x200.png?1696527059"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb67675158b412d53fe6b68946483ba920b135ba1",
+    "name": "Resolv wstUSR",
+    "symbol": "WSTUSR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de",
+    "name": "YieldFi vyUSD",
+    "symbol": "VYUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68253/thumb/vyUSD_image.png?1755201198"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
+    "name": "SOON",
+    "symbol": "SOON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55124/thumb/red_2.PNG?1743843131"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+    "name": "Ethena",
+    "symbol": "ENA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xac3fe22294beaed9d1fd752323a6d06d12ff3098",
+    "name": "VNX Gold",
+    "symbol": "VNXAU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28019/thumb/VNX_Token_logo_%283%29.png?1696527035"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbf927b841994731c573bdf09ceb0c6b0aa887cdd",
+    "name": "Velvet",
+    "symbol": "VELVET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67194/thumb/velvet.jpg?1752054592"
   }
 ]

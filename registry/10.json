@@ -5222,5 +5222,37 @@
     "symbol": "DOT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54481/thumb/polkadot-new-dot-logo.png?1753881726"
+  },
+  {
+    "chainId": 10,
+    "address": "0x464b808c2c7e04b07e860fdf7a91870620246148",
+    "name": "Wrapped Aave Optimism WETH",
+    "symbol": "WAOPTWETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68212/thumb/eth.jpg?1755084184"
+  },
+  {
+    "chainId": 10,
+    "address": "0x720f86f4b5b5d5d0ea3e5718ec43071d4d05134b",
+    "name": "Hamilton Lane Senior Credit Opportuniti",
+    "symbol": "HLSCOPE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54810/thumb/HLSCOPE.png?1755203168"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+    "name": "Frontier Stable Token",
+    "symbol": "FRNT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496"
+  },
+  {
+    "chainId": 10,
+    "address": "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de",
+    "name": "YieldFi vyUSD",
+    "symbol": "VYUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68253/thumb/vyUSD_image.png?1755201198"
   }
 ]

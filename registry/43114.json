@@ -5738,5 +5738,29 @@
     "symbol": "KIGU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68164/thumb/KIGU.png?1754990777"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x7d0394f8898fba73836bf12bd606228887705895",
+    "name": "Wrapped Aave Avalanche SAVAX",
+    "symbol": "WAAVASAVAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68197/thumb/savax.png?1755074990"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+    "name": "ether fi Bridged weETH  Avalanche ",
+    "symbol": "WEETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68268/thumb/weeth.png?1755229739"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+    "name": "Frontier Stable Token",
+    "symbol": "FRNT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496"
   }
 ]

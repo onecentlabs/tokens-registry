@@ -720,5 +720,13 @@
     "symbol": "SWBERA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68010/thumb/swbera.png?1754573891"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+    "name": "Resolv RLP",
+    "symbol": "RLP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586"
   }
 ]

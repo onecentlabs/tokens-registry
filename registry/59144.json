@@ -1173,5 +1173,13 @@
     "symbol": "FRXETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28284/thumb/frxETH_icon.png?1696527284"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xe4eeb461ad1e4ef8b8ef71a33694ccd84af051c4",
+    "name": "Etherex Liquid Staking Token",
+    "symbol": "REX33",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68282/thumb/rex33.png?1755242075"
   }
 ]

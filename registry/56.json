@@ -15760,5 +15760,37 @@
     "decimals": 18,
     "address": "0x1E3dbC0aad9671FDD31E58b2fcc6cF1Ca9947994",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1E3dbC0aad9671FDD31E58b2fcc6cF1Ca9947994.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "WEUSD",
+    "name": "PicWe_USDC",
+    "decimals": 6,
+    "address": "0xdd73EA766B80417C0607A3f08E34A0C415D89D56",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xdd73EA766B80417C0607A3f08E34A0C415D89D56.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "OVL",
+    "name": "Overlay",
+    "decimals": 18,
+    "address": "0x1F34c87ded863Fe3A3Cd76FAc8adA9608137C8c3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1F34c87ded863Fe3A3Cd76FAc8adA9608137C8c3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "AIBOT",
+    "name": "CherryAI",
+    "decimals": 18,
+    "address": "0x96AdaA33e175F4A7f20c099730bc78dd0B45745B",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x96AdaA33e175F4A7f20c099730bc78dd0B45745B.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PUBLIC",
+    "name": "PublicAI",
+    "decimals": 18,
+    "address": "0x87aa6aEb62ff128aAA96E275d7B24cd12a72ABa1",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x87aa6aEb62ff128aAA96E275d7B24cd12a72ABa1.png"
   }
 ]

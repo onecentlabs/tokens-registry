@@ -12428,5 +12428,45 @@
     "symbol": "GLDT",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/53968/thumb/gldt_200x200.png?1737793227"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x99110990b602def65deb578a55f43793b4894a0a",
+    "name": "IXORAPAD",
+    "symbol": "IXORA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68243/thumb/ixora-logo.jpg?1755157880"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdd73ea766b80417c0607a3f08e34a0c415d89d56",
+    "name": "WEUSD",
+    "symbol": "WEUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68196/thumb/WEUSD%28200X200%29.png?1755065644"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6fbbbd8bfb1cd3986b1d05e7861a0f62f87db74b",
+    "name": "Vision",
+    "symbol": "VSN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67399/thumb/Logo-Vision-Symbol-BG-Green.png?1752676915"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+    "name": "Frontier Stable Token",
+    "symbol": "FRNT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de",
+    "name": "YieldFi vyUSD",
+    "symbol": "VYUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68253/thumb/vyUSD_image.png?1755201198"
   }
 ]
