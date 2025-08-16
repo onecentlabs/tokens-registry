@@ -20827,5 +20827,13 @@
     "symbol": "VELVET",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67194/thumb/velvet.jpg?1752054592"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x051024b653e8ec69e72693f776c41c2a9401fb07",
+    "name": "BETRMINT",
+    "symbol": "BETR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68299/thumb/ts5n92ffktn03xrenr2mrkn0f0r1.?1755290040"
   }
 ]

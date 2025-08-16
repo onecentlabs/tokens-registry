@@ -67644,5 +67644,21 @@
     "symbol": "OPENX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68187/thumb/Ticker_OPENx_200x200.png?1755024065"
+  },
+  {
+    "chainId": 1,
+    "address": "0x44e22c1b859a3f613276a0ff28af1a4d1a3b5c5e",
+    "name": "RegularEverydayNormalCoin",
+    "symbol": "RENC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68295/thumb/IMG_8033.jpeg?1755286115"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9b5528528656dbc094765e2abb79f293c21191b9",
+    "name": "Midas mHYPER",
+    "symbol": "MHYPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68298/thumb/mHYPER.png?1755286538"
   }
 ]

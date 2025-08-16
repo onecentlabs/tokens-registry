@@ -625,5 +625,13 @@
     "symbol": "WSTUSR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841"
+  },
+  {
+    "chainId": 999,
+    "address": "0x8fdcac157fa99c67015a44f39b2662976bb90d68",
+    "name": "HypeFun",
+    "symbol": "HYFU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68294/thumb/logo.png?1755285939"
   }
 ]
