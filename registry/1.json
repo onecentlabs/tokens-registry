@@ -67732,5 +67732,29 @@
     "symbol": "ACORE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68319/thumb/acore_ai_200x200.png?1755332378"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcf07d861eb77a0e4c0fd68d7d95ca929a4d56a2e",
+    "name": "EtherFloki",
+    "symbol": "EFLOKI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68360/thumb/etherfloki.png?1755500265"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe6e079e961ee2cba8fc67762eb138144c882367f",
+    "name": "Doctor Mutant",
+    "symbol": "DRMUTANT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68362/thumb/Doctor_Mutant.jpg?1755501029"
+  },
+  {
+    "chainId": 1,
+    "address": "0x465ac9ca56f340bc5b96b02c065ae80f3d893eec",
+    "name": "BoatKid ",
+    "symbol": "BOATKID",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/68363/thumb/26741543_4449722a-f426-41df-b002-73aeebfeaebb_%281%29.png?1755501360"
   }
 ]
