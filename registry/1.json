@@ -67660,5 +67660,13 @@
     "symbol": "MHYPER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68298/thumb/mHYPER.png?1755286538"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+    "name": "Hyperwave HLP",
+    "symbol": "hwHLP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66821/large/hwhlp.png?1750652862"
   }
 ]
