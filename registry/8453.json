@@ -20835,5 +20835,53 @@
     "symbol": "BETR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68299/thumb/ts5n92ffktn03xrenr2mrkn0f0r1.?1755290040"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbad167561495c65f6f6c401fc1d4eadc0ff5af2a",
+    "name": "Based Moron",
+    "symbol": "MORON",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68346/thumb/IMG_4896.jpeg?1755411557"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3af81bbea53ea962844afc6b1a4f8c7428879214",
+    "name": "COMFY",
+    "symbol": "DCP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68328/thumb/r130w47ioutslwvihcv8twbon0i4.?1755340537"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x885a590198e5f0947f4c92db815cf2a2147980b8",
+    "name": "BaseShake",
+    "symbol": "BASESHAKE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68341/thumb/bs-icon.jpg?1755410150"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7d03acf64a1a64bff9d24850011cca93c78a22e7",
+    "name": "Wrapped Elephant",
+    "symbol": "WELEPHANT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68357/thumb/wrapped-elephant.png?1755496142"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61e39a8338d6049db936534596f29ec26ff5ae7a",
+    "name": "Perps DAO",
+    "symbol": "PERPS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68304/thumb/uM71B2i9_400x400.jpg?1755302577"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9886447ff4c350f4600e4bf95db756bdc629b1ca",
+    "name": "Cere Network",
+    "symbol": "CERE",
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/20008/thumb/cere.png?1696519430"
   }
 ]

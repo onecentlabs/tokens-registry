@@ -67668,5 +67668,69 @@
     "symbol": "hwHLP",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/66821/large/hwhlp.png?1750652862"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8c174ac036c40941291f5eaadf2555fd6fb6a8df",
+    "name": "Depot App",
+    "symbol": "DEPOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68312/thumb/CoinGecko_Depot_logo_2.png?1755330507"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb8c35e66b4faafdccace27e8b5062f45cb381e31",
+    "name": "Moaner by Matt Furie",
+    "symbol": "MOANER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68337/thumb/Moaner_by_Matt_Furie.jpg?1755409228"
+  },
+  {
+    "chainId": 1,
+    "address": "0x74023ba6cb9e085eb563e55243c2fa858b6900b9",
+    "name": "Moaner Melter Slime",
+    "symbol": "MOANER",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68342/thumb/Moaner_logo.png?1755410306"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4ff23cf2804e777c233890119b881cab7fd60652",
+    "name": "Baby Ethereum",
+    "symbol": "BABYETH",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68347/thumb/ed0x7ncr23nchcuadz1tjapz3hca.?1755412051"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd843713a7e6b3627cca4e7f70d34318d72708152",
+    "name": "Furo",
+    "symbol": "FURO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68321/thumb/furo-logo.jpg?1755338935"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaccfd598ef801178ed6c816c234b16ec51ae9f32",
+    "name": "SatoshitCoin",
+    "symbol": "SATOSHIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68314/thumb/LXVlcCTw_400x400_%282%29.jpg?1755330831"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf392dc113ec3168923512750b57a4fabfb4789ba",
+    "name": "IRIS AI",
+    "symbol": "IRIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68316/thumb/IRIS_AI.png?1755331333"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7849241ccff81511f26c2a86ef9d96624e948975",
+    "name": "ACORE AI Token",
+    "symbol": "ACORE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68319/thumb/acore_ai_200x200.png?1755332378"
   }
 ]

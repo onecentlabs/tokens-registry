@@ -5254,5 +5254,13 @@
     "symbol": "VYUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68253/thumb/vyUSD_image.png?1755201198"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0",
+    "name": "Infinite Trading Protocol",
+    "symbol": "ITP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68308/thumb/itplogo.png?1755327311"
   }
 ]

@@ -15792,5 +15792,29 @@
     "decimals": 18,
     "address": "0x87aa6aEb62ff128aAA96E275d7B24cd12a72ABa1",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x87aa6aEb62ff128aAA96E275d7B24cd12a72ABa1.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "WILD",
+    "name": "Wilder World",
+    "decimals": 18,
+    "address": "0x6685906b75C61c57772C335402F594f855c1B0E3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6685906b75C61c57772C335402F594f855c1B0E3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MLK",
+    "name": "MiL.k",
+    "decimals": 8,
+    "address": "0x374c5FB7979d5fDBAAd2d95409e235e5CBdfD43C",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x374c5FB7979d5fDBAAd2d95409e235e5CBdfD43C.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "TCOM",
+    "name": "TCOM",
+    "decimals": 18,
+    "address": "0xc23dB46993F643f1Fa0494cd30F9F43505885D84",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xc23dB46993F643f1Fa0494cd30F9F43505885D84.png"
   }
 ]

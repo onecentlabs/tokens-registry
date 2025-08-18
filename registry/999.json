@@ -633,5 +633,29 @@
     "symbol": "HYFU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68294/thumb/logo.png?1755285939"
+  },
+  {
+    "chainId": 999,
+    "address": "0x06fd9d03b3d0f18e4919919b72d30c582f0a97e5",
+    "name": "Hyperlend Interest Bearing USDT0  Wrapp",
+    "symbol": "HUSDT0WHLP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68307/thumb/usdt0.jpg?1755312304"
+  },
+  {
+    "chainId": 999,
+    "address": "0xd3a9cb7312b9c29113290758f5adfe12304cd16a",
+    "name": "MEV Capital USR",
+    "symbol": "MCUSR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68306/thumb/mcusr.png?1755311576"
+  },
+  {
+    "chainId": 999,
+    "address": "0x2c910f67dbf81099e6f8e126e7265d7595dc20ad",
+    "name": "hyUSDT0  hwHLP    11",
+    "symbol": "HYUSDT0HWHLP-11",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68330/thumb/usdt0.jpg?1755352510"
   }
 ]
