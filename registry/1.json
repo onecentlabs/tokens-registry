@@ -67756,5 +67756,37 @@
     "symbol": "BOATKID",
     "decimals": 2,
     "logoURI": "https://assets.coingecko.com/coins/images/68363/thumb/26741543_4449722a-f426-41df-b002-73aeebfeaebb_%281%29.png?1755501360"
+  },
+  {
+    "chainId": 1,
+    "address": "0x692353f0bebb3e53301b626edb10eee6040b45fe",
+    "name": "World Computer Money",
+    "symbol": "WCM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68365/thumb/download_%282%29.png?1755511152"
+  },
+  {
+    "chainId": 1,
+    "address": "0x848d969588d6592842d071cad4f15778dd84344a",
+    "name": "Sorya",
+    "symbol": "SORYA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68368/thumb/sorya_%281%29.png?1755514223"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa13cd21c032d9360b5df9fe311a59d26c28c08a7",
+    "name": "Cappuccino Assassino",
+    "symbol": "ASSINO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68371/thumb/nhSvxhJk_400x400_%281%29.jpg?1755514653"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0fedba9178b70e8b54e2af08ebffcf28a1e5a43b",
+    "name": "Reservoir",
+    "symbol": "DAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68267/thumb/dam.png?1755228740"
   }
 ]

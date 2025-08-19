@@ -1189,5 +1189,13 @@
     "symbol": "FBOMB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24109/thumb/fBomb_Brandmark_BlackBlue_%282%29.png?1751872081"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x12bbdc004a0e9085ff94df1717336ecbc9f9e5fe",
+    "name": "RustyAI",
+    "symbol": "RUSTY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68367/thumb/photo_2025-08-16_14-15-37.jpg?1755513766"
   }
 ]

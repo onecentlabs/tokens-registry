@@ -20883,5 +20883,37 @@
     "symbol": "CERE",
     "decimals": 10,
     "logoURI": "https://assets.coingecko.com/coins/images/20008/thumb/cere.png?1696519430"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x34c4a0056fad621c723433a473140aadc8998a8b",
+    "name": "Flyte AI",
+    "symbol": "FLYTE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68376/thumb/8alfx20s8puh0z7iw5hipx0gcna0.?1755527088"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xefb4898df7353af68aae3fa365a8fc5b40dc12d9",
+    "name": "Just Juni by Virtuals",
+    "symbol": "JUNI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68381/thumb/qsy97ba33qx6499dfnn228y9pjj8.?1755529127"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x98ac5b33a4ef1151f138941c979211599c2ff953",
+    "name": "VPay",
+    "symbol": "VPAY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68380/thumb/2kdj8x6z9keudm0ok5nvfrp98858.?1755528683"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb5068ad7e4ad8f7fe2fcf5abe2c043ab8866569c",
+    "name": "Pepe Community",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31482/thumb/photo_2023-08-25_07-54-16.jpg?1696530294"
   }
 ]

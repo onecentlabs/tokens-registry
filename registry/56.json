@@ -15816,5 +15816,21 @@
     "decimals": 18,
     "address": "0xc23dB46993F643f1Fa0494cd30F9F43505885D84",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xc23dB46993F643f1Fa0494cd30F9F43505885D84.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "RICE",
+    "name": "RICE AI",
+    "decimals": 18,
+    "address": "0xb5761f36FdFE2892f1b54Bc8EE8baBb2a1b698D3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb5761f36FdFE2892f1b54Bc8EE8baBb2a1b698D3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "DAM",
+    "name": "Reservoir",
+    "decimals": 18,
+    "address": "0xF9Ca3fE094212FfA705742D3626a8Ab96aAbABf8",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xF9Ca3fE094212FfA705742D3626a8Ab96aAbABf8.png"
   }
 ]
