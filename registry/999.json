@@ -657,5 +657,21 @@
     "symbol": "HYUSDT0HWHLP-11",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/68330/thumb/usdt0.jpg?1755352510"
+  },
+  {
+    "chainId": 999,
+    "address": "0x0725a349f733cc13c84232a706d9ca99d2a1ef23",
+    "name": "Boros",
+    "symbol": "BOROS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68413/thumb/2025-08-18_20.53.37.jpg?1755690840"
+  },
+  {
+    "chainId": 999,
+    "address": "0x441794d6a8f9a3739f5d4e98a728937b33489d29",
+    "name": "Liquid HYPE Yield",
+    "symbol": "LIQUIDHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68444/thumb/liquidhype.png?1755770963"
   }
 ]

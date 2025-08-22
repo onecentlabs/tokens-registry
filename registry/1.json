@@ -67788,5 +67788,93 @@
     "symbol": "DAM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68267/thumb/dam.png?1755228740"
+  },
+  {
+    "chainId": 1,
+    "address": "0x01995a697752266d8e748738aaa3f06464b8350b",
+    "name": "CANA Holdings California Carbon Credits",
+    "symbol": "CANA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68403/thumb/CANA200x200Transparent.png?1755651936"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7beb8f36650e9327d8c52735e3b3c9d1521576e3",
+    "name": "Kek",
+    "symbol": "KEK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68447/thumb/cg.png?1755782996"
+  },
+  {
+    "chainId": 1,
+    "address": "0x371d62f8ac252db7f88786e39f0880c35146c6c5",
+    "name": "Workloop AI",
+    "symbol": "LOOP",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68449/thumb/Workloop_AI.jpg?1755784179"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbe445f5ef7edb8829203ab0a3298d9eff4560616",
+    "name": "Bush Ripper",
+    "symbol": "RIPPER",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68411/thumb/IMG_9890.jpeg?1755690499"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf9fb20b8e097904f0ab7d12e9dbee88f2dcd0f16",
+    "name": "Stable Coin",
+    "symbol": "SBC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68416/thumb/sbc-mark.png?1755691990"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7607546645655d4e93ea6839a55339263b3e4986",
+    "name": "Fusaka",
+    "symbol": "FUSAKA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68419/thumb/fusaka.jpg?1755693089"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3a7ed34c31e88a65184de33ea217226e9245cb40",
+    "name": "Japanese Pygmy Hippo",
+    "symbol": "UTA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68453/thumb/fWga7gsL_400x400.jpg?1755802262"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8ada9bf2d08b484cb9dee67caccd04b991d88145",
+    "name": "Hypr",
+    "symbol": "HYPR",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68427/thumb/Hypr_Logo.png?1755715611"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7cf9dec92ca9fd46f8d86e7798b72624bc116c05",
+    "name": "Midas mAPOLLO",
+    "symbol": "MAPOLLO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68402/thumb/mAPOLLO.png?1755629542"
+  },
+  {
+    "chainId": 1,
+    "address": "0x06903ae134cca527742fe138a7cb97fe08322000",
+    "name": "Dotcom",
+    "symbol": "Y2K",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52103/thumb/Untitled-1.png?1732591732"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7d3ce1265d5ea5848dc1c96aadbf754e2bad33b1",
+    "name": "BNV",
+    "symbol": "FASH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39399/thumb/fa_h_logo_200x200.png?1729799349"
   }
 ]

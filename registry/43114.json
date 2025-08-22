@@ -5762,5 +5762,21 @@
     "symbol": "FRNT",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8835a2f66a7aaccb297cb985831a616b75e2e16c",
+    "name": "EUR P",
+    "symbol": "EUROP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/52132/thumb/europ-symbol-rgb.jpg?1732634862"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xf9fb20b8e097904f0ab7d12e9dbee88f2dcd0f16",
+    "name": "Stable Coin",
+    "symbol": "SBC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68416/thumb/sbc-mark.png?1755691990"
   }
 ]

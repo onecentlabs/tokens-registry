@@ -15832,5 +15832,37 @@
     "decimals": 18,
     "address": "0xF9Ca3fE094212FfA705742D3626a8Ab96aAbABf8",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xF9Ca3fE094212FfA705742D3626a8Ab96aAbABf8.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BAS",
+    "name": "BNB Attestation",
+    "decimals": 18,
+    "address": "0x0F0df6cB17ee5E883eddFEf9153fC6036BDB4e37",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0F0df6cB17ee5E883eddFEf9153fC6036BDB4e37.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "XPIN",
+    "name": "XPIN Token",
+    "decimals": 18,
+    "address": "0xD955c9bA56Fb1AB30e34766e252A97ccCE3D31A6",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xD955c9bA56Fb1AB30e34766e252A97ccCE3D31A6.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ARIA",
+    "name": "ARIA.AI",
+    "decimals": 18,
+    "address": "0x5d3A12c42E5372B2CC3264AB3cdcF660a1555238",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5d3A12c42E5372B2CC3264AB3cdcF660a1555238.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "DGC",
+    "name": "DecentralGPT",
+    "decimals": 18,
+    "address": "0x9cfAE8067322394e34E6b734c4a3F72aCC4a7Fe5",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9cfAE8067322394e34E6b734c4a3F72aCC4a7Fe5.png"
   }
 ]

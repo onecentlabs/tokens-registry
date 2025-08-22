@@ -20915,5 +20915,85 @@
     "symbol": "PEPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31482/thumb/photo_2023-08-25_07-54-16.jpg?1696530294"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6dd4e9e85b96d4cb8a0c16c8a9b097e1c9205617",
+    "name": "PokPok Agent Brain by Virtuals",
+    "symbol": "CTDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68458/thumb/_CTDA_LOGO.png?1755803223"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2f0464a5da04b3091a328d89183237ffde47e62d",
+    "name": "KAME",
+    "symbol": "KAME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68432/thumb/Kame-LOGO_%281%29.png?1755725793"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x53c2b279877806b6af67137217670764597a121b",
+    "name": "SPY AI AGENT by Virtuals",
+    "symbol": "SPYAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68433/thumb/xw8q3337cbhodf1ijb6letyaevpm.?1755726275"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x29e2c85d57d0fe3b8a3ee728811bc9338eedfc6a",
+    "name": "GOBL",
+    "symbol": "GOBL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68446/thumb/GOBL.jpg?1755782863"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd5c3a723e63a0ecab81081c26c6a3c4b2634bf85",
+    "name": "Based Wojak",
+    "symbol": "WOJAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68452/thumb/111.jpg?1755795688"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf4d97f2da56e8c3098f3a8d538db630a2606a024",
+    "name": "Diem",
+    "symbol": "DIEM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68436/thumb/DIEM_SeaMid_-_200px.png?1755734213"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa023316fa5c85dadf008c611790b3235433e781e",
+    "name": "MUTE SWAP by Virtuals",
+    "symbol": "MUTE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68441/thumb/mute.png?1755749899"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc729777d0470f30612b1564fd96e8dd26f5814e3",
+    "name": "Sapien",
+    "symbol": "SAPIEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68423/thumb/logo.png?1755710030"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfdcc3dd6671eab0709a4c0f3f53de9a333d80798",
+    "name": "Stable Coin",
+    "symbol": "SBC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68416/thumb/sbc-mark.png?1755691990"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x50e139ffa6bbd52d5a5354bacb5e0c94d48d12b3",
+    "name": "GoldPesa Option",
+    "symbol": "GPO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23813/thumb/15462.png?1696523016"
   }
 ]

@@ -13713,5 +13713,13 @@
     "symbol": "ARX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68364/thumb/logo_%282%29.png?1755510835"
+  },
+  {
+    "chainId": 137,
+    "address": "0xfdcc3dd6671eab0709a4c0f3f53de9a333d80798",
+    "name": "Stable Coin",
+    "symbol": "SBC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68416/thumb/sbc-mark.png?1755691990"
   }
 ]

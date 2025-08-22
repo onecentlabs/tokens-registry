@@ -5262,5 +5262,13 @@
     "symbol": "ITP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68308/thumb/itplogo.png?1755327311"
+  },
+  {
+    "chainId": 10,
+    "address": "0x7d3ce1265d5ea5848dc1c96aadbf754e2bad33b1",
+    "name": "BNV",
+    "symbol": "FASH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39399/thumb/fa_h_logo_200x200.png?1729799349"
   }
 ]
