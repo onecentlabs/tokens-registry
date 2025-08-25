@@ -20995,5 +20995,133 @@
     "symbol": "GPO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/23813/thumb/15462.png?1696523016"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6557207175c770cb441ae9a476e67586b0737773",
+    "name": "All InX",
+    "symbol": "ANT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68476/thumb/IMG_0925.jpeg?1755846756"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x323ac72a3a6267d97427944989b896fb411fdcbb",
+    "name": "AicroStrategy",
+    "symbol": "AISTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68479/thumb/Aicrostrategy_Aistr_Logo_transparent_copy.png?1755857705"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcaf75598b8b9a6e645b60d882845d361f549f5ec",
+    "name": "balajis",
+    "symbol": "BALAJIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68523/thumb/balajis-logo.jpg?1756045358"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x06a05043eb2c1691b19c2c13219db9212269ddc5",
+    "name": "Burger Money",
+    "symbol": "BURGERS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68495/thumb/Untitled_design_%286%29.png?1756032551"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9a9de07629ef283c2d700efd3958f59b7d528453",
+    "name": "MOTO",
+    "symbol": "MOTO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68471/thumb/CpCKiFV3_400x400.jpg?1755844395"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa46447afe60bdbf271bb05ea70d56aee1c4a4094",
+    "name": "2DAI io",
+    "symbol": "2DAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68521/thumb/1000005316.jpg?1756041605"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd53deb03d6de5f355c0b8de57b8f37179ff60b81",
+    "name": "MAFIA AI by Virtuals",
+    "symbol": "MAFIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68512/thumb/IMG_3574.jpeg?1756037045"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdf006fa7fc1d09a93378e400fe920665412e9046",
+    "name": "Pubhouse Dominance Index",
+    "symbol": "PUB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68509/thumb/pubhouse.png?1756035222"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0390a285c97f04c6ac9d162352b44e6fc310d3f2",
+    "name": "Matrix",
+    "symbol": "MATRIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68501/thumb/eejtctsg085k0bu7vulvxwtmqn2c.?1755941622"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8dd524a86195a6ef95304e7f0dd9c405a2e78859",
+    "name": "Sage by Virtuals",
+    "symbol": "SAGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68484/thumb/2uzuz07kjxr29lhjkkywaav42lsk.?1755889697"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfca9fc2cb2dde04732ad07e4bb73db8cc8bfed1d",
+    "name": "Gap Tooth Lizard",
+    "symbol": "GAPPY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68505/thumb/g1gappy.jpg?1756018897"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x56f8ad6112c2db9f9848243531b277ce1c3be30c",
+    "name": "Docker",
+    "symbol": "DOCKERZXBT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68511/thumb/logo23.png?1756036695"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc2d09cf86b9ff43cb29ef8ddca57a4eb4410d5f3",
+    "name": "Gate Wrapped BTC",
+    "symbol": "GTBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/68496/thumb/17557587474808c2d3f7d34aaa2709dc3e07c62305.png?1755935255"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
+    "name": "Spiko US T Bills Money Market Fund",
+    "symbol": "USTBL",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/39666/thumb/USTB.png?1723541269"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa260d72df8ff2696f3a8d0be46b7bc4d743be764",
+    "name": "Spiko EU T Bills Money Market Fund",
+    "symbol": "EUTBL",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/39657/thumb/EUTBL.png?1723517425"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x33dce4097b75b3c35dd8149e3efb6d9486c950cd",
+    "name": "Abe",
+    "symbol": "ABE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/Abe.jpg?1756038375"
   }
 ]

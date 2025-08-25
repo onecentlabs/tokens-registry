@@ -15864,5 +15864,13 @@
     "decimals": 18,
     "address": "0x9cfAE8067322394e34E6b734c4a3F72aCC4a7Fe5",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x9cfAE8067322394e34E6b734c4a3F72aCC4a7Fe5.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "NYM",
+    "name": "NYM",
+    "decimals": 6,
+    "address": "0x31d0E332ccEf98b583E40e0cEFBb7502c9a6b3f8",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x31d0E332ccEf98b583E40e0cEFBb7502c9a6b3f8.png"
   }
 ]

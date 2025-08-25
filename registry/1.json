@@ -67876,5 +67876,133 @@
     "symbol": "FASH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39399/thumb/fa_h_logo_200x200.png?1729799349"
+  },
+  {
+    "chainId": 1,
+    "address": "0xceaebf7cc8b675f1a558dd2f6521b93a7237e6b3",
+    "name": "Crome",
+    "symbol": "CROME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68472/thumb/crome_%281%29.png?1755844538"
+  },
+  {
+    "chainId": 1,
+    "address": "0x167e6fcd728cdd00d012d8862934c2c333cb0839",
+    "name": " XBO Token",
+    "symbol": "XBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67268/thumb/Xbo_logo.jpg?1752253856"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf30f62963cce132f32306d7f18a8587958b30ea9",
+    "name": "aarna atv USDC  Ethereum ",
+    "symbol": "ATVUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67895/thumb/atvusdc.png?1754196349"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe226b7ae83a44bb98f67bea28c4ad73b0925c49e",
+    "name": "Quantlink",
+    "symbol": "QLK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68473/thumb/Quantlink.jpg?1755844626"
+  },
+  {
+    "chainId": 1,
+    "address": "0x76b6f7bd8857195c5165a49a6ff75f84a3f081ca",
+    "name": "BlockyBoy by Matt Furie",
+    "symbol": "BLOCKYBOY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68491/thumb/IMG_4916.jpeg?1755933851"
+  },
+  {
+    "chainId": 1,
+    "address": "0x044e874f23f9a7e5dad696554a116c4bb62fecb7",
+    "name": "GonnaMakeIt",
+    "symbol": "GMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68499/thumb/GMI_Round_Logo.png?1755938673"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
+    "name": "Linea",
+    "symbol": "LINEA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68507/thumb/linea-logo.jpeg?1756025484"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb4c6fedd984bc983b1a758d0875f1ea34f81a6af",
+    "name": "OpenVPP",
+    "symbol": "OVPP",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68508/thumb/IMG_9538.jpeg?1756034149"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc311fd6da9686507f33991543d8158ef5fadd5e7",
+    "name": "ZARO Coin",
+    "symbol": "ZARO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68493/thumb/ZARO_logo_2D.png?1755934268"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe1270268fa6fcef965958bf2f24e09d70deed06f",
+    "name": "ZODIA",
+    "symbol": "ZODIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68515/thumb/photo_2025-08-22_16.02.04_%281%29.jpeg?1756038638"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f2cef6f39114ade3d8af4020fa1de1d064cadaf",
+    "name": "Hokkaidu Inu",
+    "symbol": "HOKK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68518/thumb/TOIA1cy39Vlv_CN5VbnJt5IJYqg147ZtfdZePTcZmug6JWXdCBpbDuLzPsJfiYlM2c7ak1XHYXg-VwcpoQIxg3TjuCyaA9nP3oYjkG-I0Ko5Ga8IHd5akNpPn64l1XES4uBg2TLiz6Y3SgIk1pZAz3JY_kVCJzl0BAyO0q5o_7ycNQlSx5pJfDdw7NI-sOZctlDc89-U.jpg?1756039266"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb253ade07051c71be64c235f38fdd5db6753f3bd",
+    "name": "Gap Tooth Lizard",
+    "symbol": "GAPPY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68505/thumb/g1gappy.jpg?1756018897"
+  },
+  {
+    "chainId": 1,
+    "address": "0x69b1ac639c0153b8eae75e4c19a176d07071683c",
+    "name": "Xavier  Renegade Angel",
+    "symbol": "XAVIER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55906/thumb/IMG_2083.jpeg?1747647722"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc2d09cf86b9ff43cb29ef8ddca57a4eb4410d5f3",
+    "name": "Gate Wrapped BTC",
+    "symbol": "GTBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/68496/thumb/17557587474808c2d3f7d34aaa2709dc3e07c62305.png?1755935255"
+  },
+  {
+    "chainId": 1,
+    "address": "0x475b72cb2a45324329d16d4ddf14240a1f35b159",
+    "name": "Abe",
+    "symbol": "ABE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/Abe.jpg?1756038375"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf7de2b7afdb07aa5dd143180ed758165821e076e",
+    "name": "SatLayer Restaked uniBTC",
+    "symbol": "SATUNIBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/67943/thumb/satUniBTC.png?1754391309"
   }
 ]

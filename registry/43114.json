@@ -5778,5 +5778,13 @@
     "symbol": "SBC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68416/thumb/sbc-mark.png?1755691990"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xeec951bfdeb358371a19512c6c33cdd840d47db0",
+    "name": "MOANI",
+    "symbol": "MOANI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39979/thumb/MOANI_200x200.png?1724994764"
   }
 ]
