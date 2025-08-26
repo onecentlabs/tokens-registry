@@ -6,6 +6,7 @@
     "name": "Ethereum",
     "coin": "ETH",
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/ethereum.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/1.json",
@@ -84,6 +85,7 @@
     "coin": "ETH",
     "id": 42161,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/arbitrum.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/42161.json",
@@ -162,6 +164,7 @@
     "coin": "ETH",
     "id": 8453,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/base.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/8453.json",
@@ -232,6 +235,7 @@
     "coin": "DAI",
     "id": 100,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/gnosis.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/43114.json",
@@ -299,6 +303,7 @@
     "coin": "AVAX",
     "id": 43114,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/avalanche.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/43114.json",
@@ -381,6 +386,7 @@
     "coin": "POL",
     "id": 137,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/polygon.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/137.json",
@@ -459,6 +465,7 @@
     "coin": "BNB",
     "id": 56,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/bsc.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/56.json",
@@ -539,6 +546,7 @@
     "coin": "ETH",
     "id": 59144,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/linea.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/59144.json",
@@ -677,6 +685,7 @@
     "coin": "ETH",
     "id": 10,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/optimism.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/10.json",
@@ -747,6 +756,7 @@
     "coin": "ETH",
     "id": 130,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/unichain.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/130.json",
@@ -813,6 +823,7 @@
     "coin": "BERA",
     "id": 80094,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/berachain.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/80094.json",
@@ -871,6 +882,7 @@
     "coin": "ETH",
     "id": 534352,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/scroll.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/534352.json",
@@ -949,6 +961,7 @@
     "coin": "ETH",
     "id": 167000,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/taiko.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/167000.json",
@@ -1025,6 +1038,7 @@
     "coin": "ETH",
     "id": 81457,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/blast/info/logo.png",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/81457.json",
@@ -1089,6 +1103,7 @@
     "coin": "S",
     "id": 146,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/sonic.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/146.json",
@@ -1145,6 +1160,7 @@
     "coin": "HYPE",
     "id": 999,
     "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/hyperevm.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/999.json",
