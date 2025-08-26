@@ -15872,5 +15872,45 @@
     "decimals": 6,
     "address": "0x31d0E332ccEf98b583E40e0cEFBb7502c9a6b3f8",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x31d0E332ccEf98b583E40e0cEFBb7502c9a6b3f8.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "DORA",
+    "name": "DORA",
+    "decimals": 18,
+    "address": "0x23Fe903be385832fD7Bb82bf1FEE93F696278888",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x23Fe903be385832fD7Bb82bf1FEE93F696278888.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MTP",
+    "name": "Multiple Network Token",
+    "decimals": 18,
+    "address": "0xBcBa33bf0B3Cd8D626b7A3732a3ee18a0Af51Bd0",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xBcBa33bf0B3Cd8D626b7A3732a3ee18a0Af51Bd0.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "FST",
+    "name": "FreeStyle Token",
+    "decimals": 18,
+    "address": "0xfa35E2250E376c23955247383DC32C79082e7fcC",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xfa35E2250E376c23955247383DC32C79082e7fcC.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "TAKE",
+    "name": "TAKE",
+    "decimals": 18,
+    "address": "0xE747E54783Ba3F77a8E5251a3cBA19EBe9C0E197",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xE747E54783Ba3F77a8E5251a3cBA19EBe9C0E197.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "AKE",
+    "name": "AKE",
+    "decimals": 18,
+    "address": "0x2c3a8Ee94dDD97244a93Bc48298f97d2C412F7Db",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2c3a8Ee94dDD97244a93Bc48298f97d2C412F7Db.png"
   }
 ]

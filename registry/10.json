@@ -5270,5 +5270,13 @@
     "symbol": "FASH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39399/thumb/fa_h_logo_200x200.png?1729799349"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc47da4cb96ce65a96844a01bfae509f9d5454534",
+    "name": "Dephaser JPY",
+    "symbol": "JPYT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68576/thumb/JPYT_Logo_200x200_px.png?1756110424"
   }
 ]

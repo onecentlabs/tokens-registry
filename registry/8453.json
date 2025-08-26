@@ -21123,5 +21123,52 @@
     "symbol": "ABE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/Abe.jpg?1756038375"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3977fc913db86b01a257232c568317798b903b07",
+    "name": "Cody",
+    "symbol": "CODY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68635/thumb/nk0pkca6hqc7aok8ct12ms29ty01.?1756132841"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x92f344ee566459b5ba471b5a6003224c8a2d0415",
+    "name": "Base Index",
+    "symbol": "BINDEX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68536/thumb/1000167847.png?1756103376"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5b9957a7459347163881d19a87f6dc13291c2b07",
+    "name": "JUMPBOX ETH",
+    "symbol": "JUMPBOXETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68531/thumb/logo.png?1756101498"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe42264d3470e2fdd6ec3e288ad57cf254865a941",
+    "name": "ClipCoin",
+    "symbol": "CLIPCOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68539/thumb/token_logo.png?1756104055"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x33e7f871ce502ec77a0d96fdcd02c9219f95e944",
+    "name": "BOMET",
+    "symbol": "BOMET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68659/thumb/KOA_Launch.jpg?1756160136"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3aaf8a9e6c2a63af24c97cb29121d19c1cc10993",
+    "name": "Blue Apu",
+    "symbol": "BAPU",
+    "decimals": 18
   }
 ]
