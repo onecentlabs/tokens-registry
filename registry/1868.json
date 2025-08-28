@@ -95,5 +95,18 @@
       "opListId": "extended",
       "opTokenId": "SUPER"
     }
+  },
+  {
+    "chainId": 1868,
+    "address": "0xBC63230d1C4d0Cd241D66F5AaE75f3D1d6C0949a",
+    "name": "ELYSIA",
+    "symbol": "EL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/EL/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "EL"
+    }
   }
 ]

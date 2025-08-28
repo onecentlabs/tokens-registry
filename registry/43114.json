@@ -5794,5 +5794,21 @@
     "symbol": "SPX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31401/thumb/centeredcoin_%281%29.png?1737048493"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x634608ed64c61ca9e741f8095193c0bfa0fa19cc",
+    "name": "Wormhole Bridged SOL",
+    "symbol": "SOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68694/thumb/solana.jpg?1756285572"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x133879524ddb38582cf0b93d10adb789601ff397",
+    "name": "BORNE",
+    "symbol": "BORNE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68674/thumb/borne-token.png?1756231684"
   }
 ]

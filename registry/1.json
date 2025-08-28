@@ -68866,5 +68866,76 @@
     "symbol": "BABYWLFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68631/thumb/lnpduq42is8cg7ipsjgjg5koqkxr.?1756131066"
+  },
+  {
+    "chainId": 1,
+    "address": "0xace8e719899f6e91831b18ae746c9a965c2119f1",
+    "name": "Ondo U S  Dollar Token",
+    "symbol": "USDON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68688/thumb/usdon_160x160.png?1756268513"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
+    "name": "MetaMask USD  Test ",
+    "symbol": "MUSD",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x85b78aca6deae198fbf201c82daf6ca21942acc6",
+    "name": "stETH ARM LP Token",
+    "symbol": "ARM-WETH-STETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68681/thumb/arm-weth-steth-256x256.png?1756240752"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe15ed6cad89cb6d71b1f18eff938c65fbc59b371",
+    "name": "Stray Dog",
+    "symbol": "STRAYDOG",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68684/thumb/StrayDog.jpg?1756241096"
+  },
+  {
+    "chainId": 1,
+    "address": "0x84eaac1b2dc3f84d92ff84c3ec205b1fa74671fc",
+    "name": "Camp Network",
+    "symbol": "CAMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68465/thumb/camp.png?1755828258"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2c431766e48ec4a17dc052d9d3fef6b6a9ae8d62",
+    "name": "Robora",
+    "symbol": "RBR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68701/thumb/Robora.jpg?1756318756"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd570bd9f7993e94b5af964fcf6b2027966d5b728",
+    "name": "Parsona",
+    "symbol": "SONA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68708/thumb/WhatsApp_Image_2025-08-27_at_00.43.57.jpeg?1756324758"
+  },
+  {
+    "chainId": 1,
+    "address": "0x196c20da81fbc324ecdf55501e95ce9f0bd84d14",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/12171/thumb/polkadot.png?1696512008"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2a7f6a311cf835ebb16b7e954b8aacbb61ea149e",
+    "name": "BORNE",
+    "symbol": "BORNE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68674/thumb/borne-token.png?1756231684"
   }
 ]

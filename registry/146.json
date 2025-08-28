@@ -1041,5 +1041,13 @@
     "symbol": "VYUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68253/thumb/vyUSD_image.png?1755201198"
+  },
+  {
+    "chainId": 146,
+    "address": "0x2f872623d1e1af5835b08b0e49aad2d81d649d30",
+    "name": "OS ARM LP Token",
+    "symbol": "ARM-WS-OS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68682/thumb/arm-ws-os-256x256.png?1756240786"
   }
 ]

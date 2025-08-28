@@ -114,5 +114,18 @@
       "opListId": "extended",
       "opTokenId": "BTREE"
     }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0xFabadaC5963bdE1bCcCd560EA60e9928DC5dF014",
+    "name": "Wrapped WIT",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000028",
+      "opListId": "extended",
+      "opTokenId": "WIT"
+    }
   }
 ]

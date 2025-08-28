@@ -430,5 +430,18 @@
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
+  },
+  {
+    "chainId": 34443,
+    "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+    "name": "Burn Wrapped AJNA",
+    "symbol": "bwAJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "bwAJNA"
+    }
   }
 ]

@@ -15912,5 +15912,21 @@
     "decimals": 18,
     "address": "0x2c3a8Ee94dDD97244a93Bc48298f97d2C412F7Db",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x2c3a8Ee94dDD97244a93Bc48298f97d2C412F7Db.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BTR",
+    "name": "BTR token",
+    "decimals": 18,
+    "address": "0xfed13D0c40790220fbdE712987079Eda1Ed75C51",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xfed13D0c40790220fbdE712987079Eda1Ed75C51.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "TOWN",
+    "name": "Alt.town Token",
+    "decimals": 18,
+    "address": "0x973253D0C12366e0fA5AFb9F9E2e9486ECA69c01",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x973253D0C12366e0fA5AFb9F9E2e9486ECA69c01.png"
   }
 ]

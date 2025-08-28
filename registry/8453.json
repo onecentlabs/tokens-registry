@@ -21170,5 +21170,45 @@
     "name": "Blue Apu",
     "symbol": "BAPU",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1de93ac1dea94497e97513d3cf8dbe5b9e72b25d",
+    "name": "Bulls vs Bears",
+    "symbol": "BULLSVSBEARS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68709/thumb/pvnhpc4i4juigpyd6nfe5e3bu8is.?1756326422"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x015e03a6ccef48a18ddb6cfdc3066d9443875672",
+    "name": "Bl0ck",
+    "symbol": "BL0CK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68693/thumb/BLOCK.png?1756285488"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x03daca2c2e55b03ff1d0d81f099c8900ed7f1dab",
+    "name": "Flagship by Virtuals",
+    "symbol": "FYI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68675/thumb/200x200.png?1756234381"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x78a5d1de296f351a4bc1316fed9db443381a80cd",
+    "name": "AEGON by Virtuals",
+    "symbol": "AEGON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68710/thumb/hdjyl9g4qdahmdmanpqd6f0x7x5s.?1756326535"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfb60b8266243d994eaa7499fca71d4ffe76c08d7",
+    "name": "Finwizz by Virtuals",
+    "symbol": "FIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68711/thumb/kyoyk5obvemg9vyhat3ssaqpfxs9.?1756326659"
   }
 ]

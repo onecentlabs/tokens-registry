@@ -1197,5 +1197,12 @@
     "symbol": "RUSTY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68367/thumb/photo_2025-08-16_14-15-37.jpg?1755513766"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
+    "name": "MetaMask USD  Test ",
+    "symbol": "MUSD",
+    "decimals": 6
   }
 ]
