@@ -15928,5 +15928,61 @@
     "decimals": 18,
     "address": "0x973253D0C12366e0fA5AFb9F9E2e9486ECA69c01",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x973253D0C12366e0fA5AFb9F9E2e9486ECA69c01.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BLUM",
+    "name": "Blum",
+    "decimals": 9,
+    "address": "0xfDc8Cd47848c0C67dF66F7120F4e3371181cFA5e",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xfDc8Cd47848c0C67dF66F7120F4e3371181cFA5e.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MITO",
+    "name": "MITO",
+    "decimals": 18,
+    "address": "0x8e1e6BF7E13C400269987B65Ab2b5724b016CaEF",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8e1e6BF7E13C400269987B65Ab2b5724b016CaEF.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "HEMI",
+    "name": "Hemi",
+    "decimals": 18,
+    "address": "0x5fFD0EAdc186AF9512542d0d5e5eAFC65d5aFc5B",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5fFD0EAdc186AF9512542d0d5e5eAFC65d5aFc5B.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "XLAB",
+    "name": "Dexlab",
+    "decimals": 6,
+    "address": "0x5BA9bfFFB868859064C33D4f995A0828b2B1d2d3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5BA9bfFFB868859064C33D4f995A0828b2B1d2d3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MSAI",
+    "name": "Miss AI",
+    "decimals": 18,
+    "address": "0xb142417Eb86799115fe353675FCA7eB8b59ee0Df",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb142417Eb86799115fe353675FCA7eB8b59ee0Df.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "CELB",
+    "name": "Celb Token",
+    "decimals": 18,
+    "address": "0xDa67fbF4e6Fa4bb78F62533B7264E1B13295fDF3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xDa67fbF4e6Fa4bb78F62533B7264E1B13295fDF3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ZENT",
+    "name": "Zentry",
+    "decimals": 18,
+    "address": "0x8C321c2E323BC26C01DF0dC62311482A1256Fdf5",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8C321c2E323BC26C01DF0dC62311482A1256Fdf5.png"
   }
 ]

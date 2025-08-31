@@ -12476,5 +12476,21 @@
     "symbol": "MORPHO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29837/thumb/Morpho-token-icon.png?1726771230"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7629c1df323c8168cf15d4576b340ca74c811207",
+    "name": "Triumph",
+    "symbol": "TRI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68760/thumb/triumpLogo.png?1756475345"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x527e8d368298dea5a53be257e5300f4dbafb7a97",
+    "name": "Loaded Lions",
+    "symbol": "LION",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54686/thumb/_LION_Token_Artwork.png?1741015702"
   }
 ]

@@ -5810,5 +5810,21 @@
     "symbol": "BORNE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68674/thumb/borne-token.png?1756231684"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x14a84f1a61ccd7d1be596a6cc11fe33a36bc1646",
+    "name": "Treehouse AVAX",
+    "symbol": "TAVAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68726/thumb/tAvax_Logo_%28Color__No_Background%29.png?1756439954"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "name": "Ethena Staked USDe",
+    "symbol": "SUSDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
   }
 ]

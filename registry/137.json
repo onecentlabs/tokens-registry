@@ -13721,5 +13721,13 @@
     "symbol": "SBC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68416/thumb/sbc-mark.png?1755691990"
+  },
+  {
+    "chainId": 137,
+    "address": "0xea0941c6e067a4fb4399436ad3e2510eb36b419d",
+    "name": "Prospective",
+    "symbol": "PROS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68749/thumb/2_Logo.png?1756451942"
   }
 ]

@@ -1699,5 +1699,21 @@
     "symbol": "USDE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68281/thumb/usde.jpg?1755239722"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x93202ec683288a9ea75bb829c6bacfb2bfea9013",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+  },
+  {
+    "chainId": 81457,
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "name": "Ethena Staked USDe",
+    "symbol": "SUSDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
   }
 ]

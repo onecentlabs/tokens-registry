@@ -21210,5 +21210,156 @@
     "symbol": "FIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68711/thumb/kyoyk5obvemg9vyhat3ssaqpfxs9.?1756326659"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x50c749ae210d3977adc824ae11f3c7fd10c871e9",
+    "name": "Yield Optimizer EUR",
+    "symbol": "YOEUR",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68746/thumb/yoEUR_color.png?1756451014"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeed0b37580fd9ee711f0a477b2be5c306b41ef12",
+    "name": "Vortex",
+    "symbol": "VORTEX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68742/thumb/Untitled_design_-_2025-08-29T000309.999.png?1756449864"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x84a9183c9d11146d8e6a820dfc675a61b11eadeb",
+    "name": "BasedHype",
+    "symbol": "BASEDHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68733/thumb/BasedHype_Logo.png?1756408633"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x911abc29f0dbdec68c01d58d67877887b5e651d8",
+    "name": "DeVoid",
+    "symbol": "DVD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68763/thumb/sample.png?1756489234"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x26923fd7fef1d3153d15a793f98144c6b9919946",
+    "name": "KarmaVerse by Virtuals",
+    "symbol": "KARMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68731/thumb/1.png?1756407251"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5b6e37e08eb88088e70b24c51fe17a501ca55b40",
+    "name": "DADAMO",
+    "symbol": "DADAMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68753/thumb/200_200-1_%281%29.jpg?1756454376"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaad5de835931e9546359b546c20c2a4c37aeef7d",
+    "name": "MyPal4Life",
+    "symbol": "MPAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68719/thumb/Untitled_design.png?1756551568"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x563779c9aae23b866fce4cc6ef240f6bb432cd10",
+    "name": "Open Source",
+    "symbol": "OS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68738/thumb/photo_2025-08-24_22.47.23.png?1756420817"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00f5787d6d21c92c4ed3ef950add920004143b07",
+    "name": "KAREN ONCHAIN",
+    "symbol": "KAREN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68782/thumb/IMG_9221_compressed_resized.PNG?1756564314"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe56b9f83a7cbe491f248490264066552d8a47e58",
+    "name": "ask the Sandwich by Virtuals",
+    "symbol": "SANWCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68767/thumb/kewxf8pcnbpvivre6lcg1piig6oj.?1756501957"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb4f4776219a20720d03eae922de341a9586de6c9",
+    "name": "DePIN Baby",
+    "symbol": "DEPIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68791/thumb/gay1x6iwl2or1vt4qu4vpho5co89.?1756566647"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb8d59c7b33054beda610b2b2d38ea38694cdfabd",
+    "name": "Midas The Minotaur",
+    "symbol": "MIDAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68723/thumb/MIdas-tokenicon.jpg?1756370144"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xea2e0887dc584a16433d49c49295809ac5c0da8e",
+    "name": "Yunai by Virtuals",
+    "symbol": "YUNAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68766/thumb/8hmft83ey6jqbz2debkjntn9esq0.?1756501840"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3862ae86889a39d6dd5850e5f467086141834d7b",
+    "name": "HERMES",
+    "symbol": "HERMES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68757/thumb/HERMES_LOGO___CG.png?1756456939"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9d56c29e820dd13b0580b185d0e0dc301d27581d",
+    "name": "Aubrai by Bio",
+    "symbol": "AUBRAI",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x391359ab0ccef572dcac78f74e47d7c06db0b982",
+    "name": "SuperVerse",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14040/thumb/SV-Logo-200x200.png?1706880312"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe5020a6d073a794b6e7f05678707de47986fb0b6",
+    "name": "Frax USD",
+    "symbol": "FRXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe4b20925d9e9a62f1e492e15a81dc0de62804dd4",
+    "name": "Bitcoin USD  BTCFi ",
+    "symbol": "BTCUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37181/thumb/BtcUSD_Logo.png?1713514017"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00f3c42833c3170159af4e92dbb451fb3f708917",
+    "name": "Internet Computer",
+    "symbol": "ICP",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/14495/thumb/Internet_Computer_logo.png?1696514180"
   }
 ]

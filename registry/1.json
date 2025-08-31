@@ -68937,5 +68937,133 @@
     "symbol": "BORNE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68674/thumb/borne-token.png?1756231684"
+  },
+  {
+    "chainId": 1,
+    "address": "0x64589f24c6986fb84f07adbad16abbfda1ff804c",
+    "name": "Texor cloud",
+    "symbol": "TXR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68722/thumb/Texor.cloud.jpg?1756369999"
+  },
+  {
+    "chainId": 1,
+    "address": "0x468eabcb5c914ac59e72691f8fc970880a94f4b3",
+    "name": "Modulr",
+    "symbol": "EMDR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68724/thumb/Modulr.jpg?1756370604"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf7af0a8079f12f19533b0df69ce7ee6718b0c46f",
+    "name": "Staked Tharwa USD",
+    "symbol": "STHUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68729/thumb/2.png?1756397740"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd1bb58e1f2ee11ff62aea1225a6f210467863031",
+    "name": "WLF TOKEN",
+    "symbol": "WLF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68765/thumb/Mark_WLF_1.png?1756494381"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb160fb3265be197287e647c82fef7913d5491e11",
+    "name": "Scalr",
+    "symbol": "SCALR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68745/thumb/download_%282%29.png?1756450837"
+  },
+  {
+    "chainId": 1,
+    "address": "0x76cd7d834e9d8382663a1660eb6e3c59addeec27",
+    "name": "HADES",
+    "symbol": "HADES",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68751/thumb/IMG_3689.jpeg?1756453034"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9f49034409ae6813d2c70ae5117fd23cdff2d190",
+    "name": "Praxis",
+    "symbol": "PRXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68755/thumb/logo.png?1756455593"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb015701c17830aa4a4c96f7bc1a57c3a5edd7c86",
+    "name": "Martin",
+    "symbol": "MARTIN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68770/thumb/1000000149.jpg?1756504178"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6d44ddba07a9373d665ce636f639e1c46565a349",
+    "name": "FOMO",
+    "symbol": "FOMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68771/thumb/FOMO-Logo-200.png?1756511935"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d33f0ae6d111212d9d64b0821c7cf09e6270c27",
+    "name": "Forest Protocol",
+    "symbol": "FOREST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68772/thumb/forest.png?1756546245"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeb964a1a6fab73b8c72a0d15c7337fa4804f484d",
+    "name": "Hemi",
+    "symbol": "HEMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68469/thumb/hemi.png?1755838145"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb10cb07ca2cdac77fbb5707f6690301f9d036f45",
+    "name": "Win",
+    "symbol": "WIN",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/68785/thumb/WIN_Token_200_x_200.png?1756565056"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc295a421d6cb1752c6c218e98794e4ade68ca8a9",
+    "name": "Zencore AI",
+    "symbol": "ZCORE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68787/thumb/IMG_5736.jpeg?1756565672"
+  },
+  {
+    "chainId": 1,
+    "address": "0x00f3c42833c3170159af4e92dbb451fb3f708917",
+    "name": "Internet Computer",
+    "symbol": "ICP",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/14495/thumb/Internet_Computer_logo.png?1696514180"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4ed257678fc4e76df9642a416b223729fdedbefd",
+    "name": "StrikeX",
+    "symbol": "STRX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15839/thumb/StrikeX-Icon-200px.png?1696515456"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a",
+    "name": "Prospective",
+    "symbol": "PROS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68749/thumb/2_Logo.png?1756451942"
   }
 ]
