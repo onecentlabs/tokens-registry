@@ -5826,5 +5826,13 @@
     "symbol": "SUSDE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xeb2729257280580694a06c499cb8c622e74215c8",
+    "name": "Mog Coin",
+    "symbol": "MOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31059/thumb/MOG_LOGO_200x200.png?1696529893"
   }
 ]

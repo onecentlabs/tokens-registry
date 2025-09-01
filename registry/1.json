@@ -69065,5 +69065,29 @@
     "symbol": "PROS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68749/thumb/2_Logo.png?1756451942"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc07e1300dc138601fa6b0b59f8d0fa477e690589",
+    "name": "Quack AI",
+    "symbol": "Q",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68793/thumb/quack_ai.png?1756615808"
+  },
+  {
+    "chainId": 1,
+    "address": "0x35889b9e7bb4d2890eb346ac243297a1b05f87ce",
+    "name": "Mononoke Inu",
+    "symbol": "MONONOKE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68801/thumb/IMG_5001.jpeg?1756625589"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbd821d84770b65f679a47452367258cf86579d02",
+    "name": "KOHAKU",
+    "symbol": "KOHAKU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68813/thumb/ChatGPT_Image_29_ago_2025__17_53_03_%281%29_%282%29.png?1756646019"
   }
 ]

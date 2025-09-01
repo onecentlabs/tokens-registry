@@ -21361,5 +21361,45 @@
     "symbol": "ICP",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/14495/thumb/Internet_Computer_logo.png?1696514180"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x23121a142b23cf7f3e5a2bb17b190bbf6cdbbe1e",
+    "name": "Transfidelity",
+    "symbol": "FIDEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68797/thumb/fidel_logo.png?1756624316"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x638a57267633b8bd9756de2e3a1e2de658b52b07",
+    "name": "Reply",
+    "symbol": "REPLY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68819/thumb/reply-200-white.png?1756647866"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0dee1df0f634df4792e76816b42002fb2a97c432",
+    "name": "Agent Vilady TV",
+    "symbol": "VILADY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68812/thumb/Vilady-X-Profile-Pic.png?1756645600"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x452867ec20dc5061056c1613db2801f512dda1c1",
+    "name": "Agent Gecko TV",
+    "symbol": "GECKO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68802/thumb/Gecko-Logo.png?1756625797"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xca416d6d3c2b3a8a2c48419b53dd611420ffa776",
+    "name": "kazonomics",
+    "symbol": "KAZONOMICS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68810/thumb/kazonomics-logo.jpeg?1756632983"
   }
 ]
