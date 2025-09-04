@@ -21401,5 +21401,128 @@
     "symbol": "KAZONOMICS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68810/thumb/kazonomics-logo.jpeg?1756632983"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x431151F26c48B4D4BEFc34048a0966Bf960A0c50",
+    "name": "ARC",
+    "symbol": "ARC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ARCV2/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "ARCV2"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x819233aA703A19E434e6dD965493B6081a3fc3aa",
+    "name": "IoTeX Network (Crosschain IOTX)",
+    "symbol": "CIOTX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CIOTX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CIOTX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7588310a7abf34dc608ac98a1c4432f85e194df5",
+    "name": "Forta",
+    "symbol": "FORT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FORT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FORT"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1fbaf8bDc2A43b0c9BA90b6caF44EE14d2EE6773",
+    "name": "Fission Bio",
+    "symbol": "MITY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MITY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MITY"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb455c23dec25fcf98e46e6a87bf3de67134c6e7f",
+    "name": "XOE",
+    "symbol": "XOE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68835/thumb/3nv5f8335p8mxfpx2abvpd3r87t4.?1756724413"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1bcb7eadea5ac43733bd8fa1f65798333cc51313",
+    "name": "All InX SMART CHAIN",
+    "symbol": "ASC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68822/thumb/IMG_1032.jpeg?1756705502"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x290d4a2e227cced586895c3f78a03e4e9d4c3fb6",
+    "name": "Krypto Cock",
+    "symbol": "COCK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68886/thumb/icon_%281%29.png?1756895144"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3ef307ba6f1ddb5f3e4a51b5a2238b0c1a82db07",
+    "name": "BlockMind",
+    "symbol": "BMIND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68836/thumb/kugk3v8ruhoe194adk8b0uwpa7xr.?1756724805"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf2a81609cb1da12139488d19512371c8930b8161",
+    "name": "LABS",
+    "symbol": "LABS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68869/thumb/LABS_200x200.png?1756841926"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9d5c1c400dc828a3409f9c209b83ff51a65d2a0e",
+    "name": "Tairon",
+    "symbol": "TAIRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68894/thumb/tairon-logo.png?1756896663"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0016f2238ec72acaca1696a8d1634825f8213b07",
+    "name": "Drawcast",
+    "symbol": "DRAW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68901/thumb/Drawcast_logo_1000x1000.png?1756919232"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x52d0ac6a76da6e4a5168a60c423f7ff0285534b1",
+    "name": "Goldn",
+    "symbol": "GOLDN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68897/thumb/Logo_Full_%2823%29.png?1756914177"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x47636b3188774a3e7273d85a537b9ba4ee7b2535",
+    "name": "Somnia",
+    "symbol": "SOMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68061/thumb/somniacg.png?1754641117"
   }
 ]

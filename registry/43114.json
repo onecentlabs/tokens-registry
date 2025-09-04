@@ -5834,5 +5834,13 @@
     "symbol": "MOG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31059/thumb/MOG_LOGO_200x200.png?1696529893"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x846e52d0dd71c2fdc891538b2d37ff84345c7b9f",
+    "name": "Binance Peg Dogecoin",
+    "symbol": "DOGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15768/thumb/dogecoin.png?1696515392"
   }
 ]

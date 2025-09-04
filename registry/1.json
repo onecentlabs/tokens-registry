@@ -69089,5 +69089,146 @@
     "symbol": "KOHAKU",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/68813/thumb/ChatGPT_Image_29_ago_2025__17_53_03_%281%29_%282%29.png?1756646019"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd07eA8776e52c1b67dcA6ffBC3F659Fc9fbe4113",
+    "name": "IP Tokens of IPNFT",
+    "symbol": "MITY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MITY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MITY"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x33277c3ff3642c80a9d63daacecff87f1ce8d3e9",
+    "name": "FOGnet",
+    "symbol": "FOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31743/thumb/%ED%8F%AC%EA%B7%B8%EB%84%B7_%EB%A1%9C%EA%B3%A0_%ED%88%AC%EB%AA%85_200x200.png?1718149393"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32b9c89248bea35c42fcca76856d31d6d00d3a61",
+    "name": "SafuLauncher",
+    "symbol": "SAFU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68824/thumb/transparent_without_text_%282%29.png?1756706230"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0478f82a19269e7593a6f99e2865e6f026997b74",
+    "name": "OmniMinds",
+    "symbol": "OMNIS",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/55954/thumb/photo_2025-05-20_15-43-37.jpg?1747856985"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1b0f6590d21dc02b92ad3a7d00f8884dc4f1aed9",
+    "name": "Somnia",
+    "symbol": "SOMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68061/thumb/somniacg.png?1754641117"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3425b06b5b93b23603b2c166922dfa91f2f4909e",
+    "name": "deOTC",
+    "symbol": "DOTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68829/thumb/IMG_1353.jpeg?1756722497"
+  },
+  {
+    "chainId": 1,
+    "address": "0x671b710a006040cd82a8070abd497a7215ce6f67",
+    "name": "NTHCHAIN",
+    "symbol": "NTH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27419/thumb/BmN8hNjJ_400x400.jpeg?1696526460"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6b8952d61e2cd41a284ffd250deb021a709bdc1c",
+    "name": "Syncoin",
+    "symbol": "SNC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68841/thumb/200x200.png?1756755984"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1570b8d622ebde9209e1b394a3c08e8eb6e99705",
+    "name": "Bodhi The Inu",
+    "symbol": "BODHI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68861/thumb/Lmg9XF1w_400x400.jpg?1756808185"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba5ed44733953d79717f6269357c77718c8ba5ed",
+    "name": "Union",
+    "symbol": "U",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68859/thumb/union.png?1756807051"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3e1cb590505a44741663ed343b6b6635aaf88160",
+    "name": "zkDex",
+    "symbol": "ZKDEX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68876/thumb/logo.jpg?1756886617"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa37bb2aaac324eb974ea46729217040a23eae996",
+    "name": "Little Pepe",
+    "symbol": "LILPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68872/thumb/logo.png?1756849618"
+  },
+  {
+    "chainId": 1,
+    "address": "0x44a8701fb5c8c22b90d839363e6c2b2c1a58a525",
+    "name": "ANOA",
+    "symbol": "ANOA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68882/thumb/20250902_111514.jpg?1756894125"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3554820f9a46c571f47a6b775a9a35e236dabad5",
+    "name": "GreenRadar AI",
+    "symbol": "GRADARAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68892/thumb/logo.png?1756896240"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa2188f44f0d265558c615aae242400923f9aa1d4",
+    "name": "Kylo The Doge",
+    "symbol": "KYLO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68893/thumb/2T_JRytz_400x400.jpg?1756896464"
+  },
+  {
+    "chainId": 1,
+    "address": "0x30a25cc9c9eade4d4d9e9349be6e68c3411367d3",
+    "name": "Portal to Bitcoin",
+    "symbol": "PTB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68774/thumb/portal.png?1756547114"
+  },
+  {
+    "chainId": 1,
+    "address": "0x42ae1f83694f453ba2f31dfc2206c9b044eaacb2",
+    "name": "Bro",
+    "symbol": "BRO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68895/thumb/logo.png?1756906763"
   }
 ]

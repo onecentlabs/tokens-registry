@@ -574,5 +574,18 @@
       "opListId": "extended",
       "opTokenId": "WIT"
     }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x95d9a757ad9C25999ffE93f3067221F04ce1Cc79",
+    "name": "Forta",
+    "symbol": "FORT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FORT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0xFBb0621E0B23b5478B630BD55a5f21f67730B0F1",
+      "opListId": "extended",
+      "opTokenId": "FORT"
+    }
   }
 ]

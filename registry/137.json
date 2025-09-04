@@ -13729,5 +13729,13 @@
     "symbol": "PROS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68749/thumb/2_Logo.png?1756451942"
+  },
+  {
+    "chainId": 137,
+    "address": "0x7cbccfa8aeaf87f2269175d05ff2da654cd2851e",
+    "name": "Haven Coin",
+    "symbol": "HAVENX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68848/thumb/IMG_7278.jpeg?1756801994"
   }
 ]

@@ -15984,5 +15984,69 @@
     "decimals": 18,
     "address": "0x8C321c2E323BC26C01DF0dC62311482A1256Fdf5",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8C321c2E323BC26C01DF0dC62311482A1256Fdf5.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "FOREST",
+    "name": "Forest",
+    "decimals": 18,
+    "address": "0x11cf6bF6D87CB0EB9c294fd6CBFEC91EE3a1A7D0",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x11cf6bF6D87CB0EB9c294fd6CBFEC91EE3a1A7D0.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "decimals": 18,
+    "address": "0x47474747477b199288bF72a1D702f7Fe0Fb1DEeA",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x47474747477b199288bF72a1D702f7Fe0Fb1DEeA.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "Q",
+    "name": "Quack AI Token",
+    "decimals": 18,
+    "address": "0xc07e1300dc138601FA6B0b59f8D0FA477e690589",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xc07e1300dc138601FA6B0b59f8D0FA477e690589.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SOMI",
+    "name": "SomniaOFT",
+    "decimals": 18,
+    "address": "0xa9616e5e23EC1582c2828B025bEcf3Ef610e266F",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xa9616e5e23EC1582c2828B025bEcf3Ef610e266F.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MCH",
+    "name": "Moonchain",
+    "decimals": 18,
+    "address": "0xF8F331DFa811132c43C308757CD802ca982b7211",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xF8F331DFa811132c43C308757CD802ca982b7211.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PTB",
+    "name": "Portal To Bitcoin",
+    "decimals": 18,
+    "address": "0x95C9B514566fbD224Dc2037F5914eB8ab91c9201",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x95C9B514566fbD224Dc2037F5914eB8ab91c9201.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BOT",
+    "name": "HyperBot",
+    "decimals": 18,
+    "address": "0x59537849f2a119ec698c7Aa6C6DaAdc40C398A25",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x59537849f2a119ec698c7Aa6C6DaAdc40C398A25.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SolvBTC.BNB",
+    "name": "SolvBTC.BNB",
+    "decimals": 18,
+    "address": "0x6c948A4C31D013515d871930Fe3807276102F25d",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6c948A4C31D013515d871930Fe3807276102F25d.png"
   }
 ]

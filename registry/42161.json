@@ -12492,5 +12492,13 @@
     "symbol": "LION",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54686/thumb/_LION_Token_Artwork.png?1741015702"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1f53b7aa6f4b36b7dfdedb4bc4a14747a19cf7b1",
+    "name": "Apu Apustaja",
+    "symbol": "APU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35986/thumb/200x200.png?1710308147"
   }
 ]
