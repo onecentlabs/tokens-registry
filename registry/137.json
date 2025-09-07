@@ -13737,5 +13737,21 @@
     "symbol": "HAVENX",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/68848/thumb/IMG_7278.jpeg?1756801994"
+  },
+  {
+    "chainId": 137,
+    "address": "0x17c7c74e0cd779f33cb5a6e8ab39de46168e9ef7",
+    "name": "Crypto Factor",
+    "symbol": "CFR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68989/thumb/token_logo_official_blue_200x200.png?1757151424"
+  },
+  {
+    "chainId": 137,
+    "address": "0xe4f064808d11fc46397c36ef5d6be8776515ef2a",
+    "name": "TEM MARKET",
+    "symbol": "TEM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68983/thumb/temlogo_off.jpg?1757141431"
   }
 ]

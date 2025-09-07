@@ -16048,5 +16048,21 @@
     "decimals": 18,
     "address": "0x6c948A4C31D013515d871930Fe3807276102F25d",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x6c948A4C31D013515d871930Fe3807276102F25d.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SHARDS",
+    "name": "WorldShards",
+    "decimals": 18,
+    "address": "0x38fD4EE2aDE8B4Be157DFEe3D6B8979c78A56145",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x38fD4EE2aDE8B4Be157DFEe3D6B8979c78A56145.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "STAR",
+    "name": "Starpower Network",
+    "decimals": 18,
+    "address": "0x8fce7206E3043DD360F115AFa956EE31b90B787C",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8fce7206E3043DD360F115AFa956EE31b90B787C.png"
   }
 ]

@@ -1049,5 +1049,13 @@
     "symbol": "ARM-WS-OS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68682/thumb/arm-ws-os-256x256.png?1756240786"
+  },
+  {
+    "chainId": 146,
+    "address": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
   }
 ]

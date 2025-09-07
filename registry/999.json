@@ -697,5 +697,13 @@
     "symbol": "ANON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/AAI__ANON_SQ_Wb_250x250.png?1740500195"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9efdfc72c1bc90b36f8aae35247e62310c58eacf",
+    "name": "SatLayer",
+    "symbol": "SLAY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54811/thumb/SLAY-200x200.png?1754713489"
   }
 ]

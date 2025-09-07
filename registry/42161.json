@@ -12500,5 +12500,51 @@
     "symbol": "APU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35986/thumb/200x200.png?1710308147"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xE390C0B46bd723995BE02640E6F1e1c802F620AC",
+    "name": "Morpho Token",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4D1d7134B87490AE5eEbdB22A5820d7d0E1980bf",
+    "name": "World Liberty Financial",
+    "symbol": "WLFI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50767/large/wlfi.png?1756438915",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x41ca7586cc1311807b4605fbb748a3b8862b42b5",
+    "name": "SyrupUSDC",
+    "symbol": "SYRUPUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/SyrupUSDCO.png?1748850129"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
+    "name": "Satoshi Stablecoin",
+    "symbol": "SATUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306"
   }
 ]

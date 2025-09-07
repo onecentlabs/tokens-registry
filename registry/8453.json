@@ -21524,5 +21524,101 @@
     "symbol": "SOMI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68061/thumb/somniacg.png?1754641117"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbcc7ff0361f659b1437001f9593e6d638b7dfc37",
+    "name": "BaseRise",
+    "symbol": "BRISE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68948/thumb/download_%283%29.png?1757052209"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb205edcae51eda7731cc08291ed862eba0bbb15",
+    "name": "FLIPN",
+    "symbol": "FPN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68981/thumb/IMG_3220.jpeg?1757141192"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x55337650856299363c496065c836b9c6e9de0367",
+    "name": "ACES fun",
+    "symbol": "ACES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68980/thumb/ACES-logo-01.png?1757140517"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3394a562a38cebd02afc56380a108bb98c5ac3b7",
+    "name": "TAIX",
+    "symbol": "TAIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68909/thumb/profile_png.png?1756970386"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb2db41e62abf596b7f8ca7bd4733a7b357f5ab9",
+    "name": "MetacadeMax",
+    "symbol": "METACADEMAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68910/thumb/MAXZORAPFP.jpg?1756970942"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x696f9436b67233384889472cd7cd58a6fb5df4f1",
+    "name": "Avantis",
+    "symbol": "AVNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68972/thumb/avnt-token.png?1757134448"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3513e4a7d27d18c2c894d98bc5a55406360b9ba3",
+    "name": "Pharmachain AI",
+    "symbol": "PHAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68915/thumb/token_logo_200x200.png?1757091594"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xec4abc31e35ba30350eeaa4c06e841ccdc9d8e00",
+    "name": "Unstable Tit",
+    "symbol": "UST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68946/thumb/logo_%285%29.png?1757051736"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7750741868cc4a865d9c0f619e6e642fd61f642f",
+    "name": "Memory",
+    "symbol": "MEM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68949/thumb/logo.png?1757052647"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x22c0a2e55aed8b317a285ccbd4f3d8ee24c9e5e3",
+    "name": "Fyni AI by Virtuals",
+    "symbol": "FYNI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68965/thumb/rq6n6wtg7lwi7ukxuxcccdmvju0j.?1757103085"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3e248ab4554cfdec8fc4f18f569fe6f46de61db1",
+    "name": "SatLayer",
+    "symbol": "SLAY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54811/thumb/SLAY-200x200.png?1754713489"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+    "name": "Frontier Stable Token",
+    "symbol": "FRNT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496"
   }
 ]
