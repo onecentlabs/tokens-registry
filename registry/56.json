@@ -16064,5 +16064,69 @@
     "decimals": 18,
     "address": "0x8fce7206E3043DD360F115AFa956EE31b90B787C",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8fce7206E3043DD360F115AFa956EE31b90B787C.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "U",
+    "name": "Union",
+    "decimals": 18,
+    "address": "0xba5eD44733953d79717F6269357C77718C8Ba5ed",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xba5eD44733953d79717F6269357C77718C8Ba5ed.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "GATA",
+    "name": "Gata",
+    "decimals": 18,
+    "address": "0x46Ee3BFC281d59009cCD06F1dD6aBDbfCd82FFC3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x46Ee3BFC281d59009cCD06F1dD6aBDbfCd82FFC3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "TRADOOR",
+    "name": "TRADOOR",
+    "decimals": 18,
+    "address": "0x9123400446a56176Eb1B6BE9ee5CF703e409F492",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9123400446a56176Eb1B6BE9ee5CF703e409F492.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BOOST",
+    "name": "Boost",
+    "decimals": 18,
+    "address": "0xbE7E12B2E128bC955A0130fFB168F031d7dD8d58",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xbE7E12B2E128bC955A0130fFB168F031d7dD8d58.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "AIO",
+    "name": "OLAXBT",
+    "decimals": 18,
+    "address": "0x81a7DA4074b8e0eD51beA40f9dCbDF4d9d4832b4",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x81a7DA4074b8e0eD51beA40f9dCbDF4d9d4832b4.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "OPEN",
+    "name": "OPEN",
+    "decimals": 18,
+    "address": "0xA227Cc36938f0c9E09CE0e64dfab226cad739447",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA227Cc36938f0c9E09CE0e64dfab226cad739447.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "JobIess",
+    "name": "JobIess",
+    "decimals": 18,
+    "address": "0xA524B11473b7Ce7EB1dc883A585e64471A734444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA524B11473b7Ce7EB1dc883A585e64471A734444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "Bdog",
+    "name": "BNBdog",
+    "decimals": 18,
+    "address": "0x5E9A7b0a5eA6CD086417355B81b8015E95844444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5E9A7b0a5eA6CD086417355B81b8015E95844444.png"
   }
 ]

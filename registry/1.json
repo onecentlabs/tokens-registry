@@ -69470,5 +69470,117 @@
     "symbol": "SATUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0e6ce4dccd760b7c29a678d6fa779d83067d5cbc",
+    "name": "MemeClip",
+    "symbol": "MCLIP",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69023/thumb/logo-dext.png?1757297607"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6d9c8ebd21c028e1a67ed1ac9d05baeadf0ae99a",
+    "name": "Crunch AI Network",
+    "symbol": "CRAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68991/thumb/logo.png?1757215138"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbb69abb2b45bca9ae48de2e041d3e15e73c2ebc7",
+    "name": "Dogenarii",
+    "symbol": "DOGENARII",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69026/thumb/logo.png?1757315601"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7413c3c28c8e483035c121be16641c3a37872e83",
+    "name": "Kome Chan",
+    "symbol": "KOME",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68993/thumb/_logo_%281%29.png?1757217648"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1a7f9d4d94b9b121db9f3657faadad0b0ee0bb4c",
+    "name": "United Nations of Memes",
+    "symbol": "UNOM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69011/thumb/photo_2025-09-07_06-21-48.jpg?1757254717"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc305d102d03a2567e7a457ff89f273cf227c6a9c",
+    "name": "Iggy The Iguana",
+    "symbol": "IGGY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69009/thumb/IMG_0115.png?1757254174"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb909bfec653a0b1883769ca9ac255eb57d4fed09",
+    "name": "Kawakami",
+    "symbol": "KAMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69000/thumb/Kawakami.png?1757229271"
+  },
+  {
+    "chainId": 1,
+    "address": "0x332aa1163c4bcccc158d58ace9b2f621ad47d5fd",
+    "name": "LiquiHub",
+    "symbol": "LIQUI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68999/thumb/logo_%283%29.png?1757229024"
+  },
+  {
+    "chainId": 1,
+    "address": "0xceb2a9a2ee5af3987c5dfd3de9446827e6a7cd28",
+    "name": "Neo Pepe Protocol",
+    "symbol": "NEOP",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68996/thumb/JWUq10J7_400x400.png?1757218150"
+  },
+  {
+    "chainId": 1,
+    "address": "0x53162ec0adae49f21515bb8ca91534dd3872c8db",
+    "name": "cSigma Finance",
+    "symbol": "SIGMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69029/thumb/cSigma_Logo_%28Dark_No_BG%29.png?1757319338"
+  },
+  {
+    "chainId": 1,
+    "address": "0x673d1713a325e619b9f3fb1ba06c1253df697601",
+    "name": "Bitcoin Hyper",
+    "symbol": "HYPER",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69003/thumb/AnQnjhDd_400x400.png?1757236944"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6786eeb636a491d9a84a834d45879daf08548f6f",
+    "name": "Kobe",
+    "symbol": "KOBE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69022/thumb/logo.png?1757261298"
+  },
+  {
+    "chainId": 1,
+    "address": "0x285bc4ec96a0482c77b20a6df79fcf2b128b0131",
+    "name": "Smokin Frog",
+    "symbol": "SFROG",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69043/thumb/sx_L7f8X_400x400_%281%29_%281%29.jpg?1757333511"
+  },
+  {
+    "chainId": 1,
+    "address": "0x45510db2481353178db5abb87c96805fadad0724",
+    "name": "FTMTOKEN",
+    "symbol": "FTMX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69050/thumb/FTMX_LOGO.png?1757337410"
   }
 ]

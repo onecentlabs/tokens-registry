@@ -752,5 +752,13 @@
     "symbol": "LINK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x2206182a4264bce0663681448b24fc6781fc8e40",
+    "name": "Bulla",
+    "symbol": "BULLA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69028/thumb/bull-logo-1.jpg?1757319059"
   }
 ]
