@@ -705,5 +705,13 @@
     "symbol": "SLAY",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/54811/thumb/SLAY-200x200.png?1754713489"
+  },
+  {
+    "chainId": 999,
+    "address": "0x29dbf86a8c48ea4331e28b3c1eae824a2a45996a",
+    "name": "HyBridge",
+    "symbol": "BRIDGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69080/thumb/hybridge.png?1757430179"
   }
 ]

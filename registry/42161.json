@@ -12546,5 +12546,29 @@
     "symbol": "SATUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x66cfbd79257dc5217903a36293120282548e2254",
+    "name": "Resolv wstUSR",
+    "symbol": "WSTUSR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+    "name": "Resolv RLP",
+    "symbol": "RLP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
+    "name": "Resolv USR",
+    "symbol": "USR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40008/thumb/USR_LOGO.png?1725222638"
   }
 ]

@@ -21676,5 +21676,21 @@
     "symbol": "MIRROR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68922/thumb/black_mirror.png?1756974711"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb8d2a0f11c2e4885e26a46ea56a1bc6e84ce674",
+    "name": "Huey",
+    "symbol": "HUEY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69071/thumb/Huey_logo_transparent_200x2001234.png?1757424372"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x259592abc5fde96635c334a71ba2d5d244a12fc1",
+    "name": "WestTech Security Token",
+    "symbol": "WST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69055/thumb/westtech_logo_vector_32x32.png?1757371951"
   }
 ]

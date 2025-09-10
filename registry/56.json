@@ -16128,5 +16128,13 @@
     "decimals": 18,
     "address": "0x5E9A7b0a5eA6CD086417355B81b8015E95844444",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x5E9A7b0a5eA6CD086417355B81b8015E95844444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "initiative",
+    "name": "initiative",
+    "decimals": 18,
+    "address": "0x46Ca0782f22fd436b67059a75364A5D66c3c4444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x46Ca0782f22fd436b67059a75364A5D66c3c4444.png"
   }
 ]

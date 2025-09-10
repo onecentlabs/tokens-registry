@@ -13753,5 +13753,13 @@
     "symbol": "TEM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68983/thumb/temlogo_off.jpg?1757141431"
+  },
+  {
+    "chainId": 137,
+    "address": "0xe6800cf598015a3ec5dd534f328f349da239bc78",
+    "name": "DRESSdio",
+    "symbol": "DRESS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69069/thumb/K_70uiy__400x400.jpg?1757424033"
   }
 ]
