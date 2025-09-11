@@ -713,5 +713,21 @@
     "symbol": "BRIDGE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69080/thumb/hybridge.png?1757430179"
+  },
+  {
+    "chainId": 999,
+    "address": "0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9",
+    "name": "Hyperbeat x Ether fi HYPE",
+    "symbol": "BEHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69089/thumb/behype.png?1757472249"
+  },
+  {
+    "chainId": 999,
+    "address": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+    "name": "Wrapped eETH",
+    "symbol": "WEETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
   }
 ]

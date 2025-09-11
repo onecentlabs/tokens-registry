@@ -760,5 +760,21 @@
     "symbol": "BULLA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69028/thumb/bull-logo-1.jpg?1757319059"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+    "name": "Stargate Finance",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1696523595"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
+    "name": "Wrapped eETH",
+    "symbol": "WEETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
   }
 ]

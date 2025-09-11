@@ -69702,5 +69702,149 @@
     "symbol": "MAXI",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/69085/thumb/logo.png?1757448062"
+  },
+  {
+    "chainId": 1,
+    "address": "0xca4d0892f1d7a0f5e2dcdf490d879a15c866bf27",
+    "name": "Ethereal",
+    "symbol": "ETHEREAL",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69092/thumb/GyLjq6UWsAA5xbZ.jpeg?1757481597"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb1c491f833b6ddb7a67b1dbad37d58715439de07",
+    "name": "San Chan",
+    "symbol": "SANCHAN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69093/thumb/_logo_%282%29.png?1757482154"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3f79e800db889dabdd998c071ced6a0d11e307e0",
+    "name": "L2 Token",
+    "symbol": "L2T",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69095/thumb/6YOW1YWV_400x400.jpg?1757488683"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8db036f007841c21b97eff7dfc2c187241d59baf",
+    "name": "CyberKongz",
+    "symbol": "KONG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68406/thumb/Gqd70wZWoAAREi8.png?1755672699"
+  },
+  {
+    "chainId": 1,
+    "address": "0x00f5b16c8d28e20dac8674fc96b232b72c6c6cfa",
+    "name": "Marvin The Robot",
+    "symbol": "MARVIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69101/thumb/marv.jpg?1757497520"
+  },
+  {
+    "chainId": 1,
+    "address": "0x48ab4e39ac59f4e88974804b04a991b3a402717f",
+    "name": "Fidelity Digital Interest Token",
+    "symbol": "FDIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69097/thumb/Se9OAY6C_400x400.jpg?1757491787"
+  },
+  {
+    "chainId": 1,
+    "address": "0x541e65469ffcc26cbdcc2f5665d481adb5a95fb1",
+    "name": "GPU AI",
+    "symbol": "GPUAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69098/thumb/Bf6uv5Aj_400x400.jpg?1757492187"
+  },
+  {
+    "chainId": 1,
+    "address": "0xff054e7550dbb28b9b0777d6d64c425e16865159",
+    "name": "XDOGE",
+    "symbol": "XDOGE",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/69105/thumb/26741543_9dd81094-4082-48d0-81c2-aed2e219552c.png?1757499333"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd7264c9a5bd13aba25ec7724e72629edb9e92e46",
+    "name": "Traceva",
+    "symbol": "TRCV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69104/thumb/WhatsApp_Image_2025-09-09_at_00.44.47.jpeg?1757499075"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f6558ee1d6a1f8d0771b1109823443be22a33d0",
+    "name": "BOB",
+    "symbol": "BITCOINBOB",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69106/thumb/Final_BOB_Logo.png?1757500699"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9af595c8fc201e82db65faef71d51365d7f11b5f",
+    "name": "Captain Ethereum",
+    "symbol": "CAPTAIN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69112/thumb/TokenIcon.png?1757526568"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa19f6e0df08a7917f2f8a33db66d0af31ff5eca6",
+    "name": "Midas mFARM",
+    "symbol": "MFARM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69113/thumb/mFARM_icon.png?1757526661"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb64c014307622eb15046c66ff71d04258f5963dc",
+    "name": "Midas mevBTC",
+    "symbol": "MEVBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69114/thumb/mevBTC_icon.png?1757526825"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8464f6ecae1ea58ec816c13f964030eab8ec123a",
+    "name": "YieldFi yETH",
+    "symbol": "YETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69115/thumb/yETH_logo.png?1757527772"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa01200b2e74de6489cf56864e3d76bbc06fc6c43",
+    "name": "YieldFi yBTC",
+    "symbol": "YBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69116/thumb/yBTC_logo.png?1757527811"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3073112c2c4800b89764973d5790ccc7fba5c9f9",
+    "name": "YieldFi vyETH",
+    "symbol": "VYETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69117/thumb/vyETH_logo.png?1757527828"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1e2a5622178f93efd4349e2eb3dbdf2761749e1b",
+    "name": "YieldFi vyBTC",
+    "symbol": "VYBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69118/thumb/vyBTC.png?1757528108"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1e3f20bee9884aececee4bc2e83926cf612d48ff",
+    "name": " Debtcoin",
+    "symbol": "DBT",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/69064/thumb/20250826_191736.png?1757412203"
   }
 ]

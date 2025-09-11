@@ -1220,5 +1220,21 @@
     "symbol": "FRXUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
+    "name": "Linea",
+    "symbol": "LINEA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68507/thumb/linea-logo.jpeg?1756025484"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "name": "Ethena Staked USDe",
+    "symbol": "SUSDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
   }
 ]

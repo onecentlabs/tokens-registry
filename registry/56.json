@@ -16136,5 +16136,37 @@
     "decimals": 18,
     "address": "0x46Ca0782f22fd436b67059a75364A5D66c3c4444",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x46Ca0782f22fd436b67059a75364A5D66c3c4444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "POP",
+    "name": "Zypher Token",
+    "decimals": 18,
+    "address": "0xA3cfB853339b77F385B994799B015cB04b208Fe6",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA3cfB853339b77F385B994799B015cB04b208Fe6.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "XNY",
+    "name": "Codatta XNY",
+    "decimals": 18,
+    "address": "0xE3225e11Cab122F1a126A28997788E5230838ab9",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xE3225e11Cab122F1a126A28997788E5230838ab9.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "67",
+    "name": "67",
+    "decimals": 18,
+    "address": "0xf41C0B4F4cf972979877586635BB234FF4894444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xf41C0B4F4cf972979877586635BB234FF4894444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "AFX",
+    "name": "Aifeex",
+    "decimals": 18,
+    "address": "0x97aA6203D304D3FB4b297FE6AA02cd1e0737d78A",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x97aA6203D304D3FB4b297FE6AA02cd1e0737d78A.png"
   }
 ]

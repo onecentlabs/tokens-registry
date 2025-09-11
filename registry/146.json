@@ -1057,5 +1057,13 @@
     "symbol": "LINK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+  },
+  {
+    "chainId": 146,
+    "address": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+    "name": "Wrapped eETH",
+    "symbol": "WEETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
   }
 ]
