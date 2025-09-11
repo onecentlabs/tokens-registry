@@ -776,5 +776,13 @@
     "symbol": "WEETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x2cec7f1ac87f5345ced3d6c74bbb61bfae231ffb",
+    "name": "stBGT",
+    "symbol": "STBGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69129/thumb/stBGT.PNG?1757582178"
   }
 ]

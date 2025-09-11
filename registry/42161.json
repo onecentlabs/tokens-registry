@@ -12570,5 +12570,13 @@
     "symbol": "USR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/40008/thumb/USR_LOGO.png?1725222638"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+    "name": "ORA Coin",
+    "symbol": "ORA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51812/thumb/ORA_Token.png?1732029092"
   }
 ]

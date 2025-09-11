@@ -729,5 +729,21 @@
     "symbol": "WEETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
+  },
+  {
+    "chainId": 999,
+    "address": "0x125d8c0fa5707e928cda279195313f0ad6e9fefe",
+    "name": "Hypertrics",
+    "symbol": "HYTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69128/thumb/logo_green_new_200-200.png?1757581848"
+  },
+  {
+    "chainId": 999,
+    "address": "0xab11329560fa9c9c860bb21a9342215a1265bbb0",
+    "name": "Wrapped ApeCoin",
+    "symbol": "WAPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50913/thumb/apecoin.jpg?1729568016"
   }
 ]
