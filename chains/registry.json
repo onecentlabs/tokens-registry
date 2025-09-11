@@ -88,7 +88,7 @@
     "multicall": "",
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/plasma.svg",
-      "tokenlist": "",
+      "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/9745.json",
       "explorers": ["https://plasmascan.to/"],
       "rpcs": ["https://rpc.plasma.to"],
       "faucets": []
