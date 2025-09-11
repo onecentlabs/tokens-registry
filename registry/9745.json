@@ -1,0 +1,25 @@
+
+[
+  {
+    "chainId": 9745,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "symbol": "XPL",
+    "name": "XPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66489/standard/Plasma-symbol-green-1.png?1755142558",
+    "tags": [
+      "NATIVE"
+    ]
+  },
+  {
+    "chainId": 9745,
+    "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+    "symbol": "WXPL",
+    "name": "Wrapped XPL",
+    "decimals": 18,
+    "logoURI": "",
+    "tags": [
+      "NATIVE"
+    ]
+  }
+]
