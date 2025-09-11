@@ -79,6 +79,46 @@
     }
   },
   {
+    "id": 9745,
+    "identifier": "plasma",
+    "type": "EVM",
+    "name": "Plasma",
+    "coin": "XPL",
+    "mode": "mainnet",
+    "multicall": "",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/plasma.svg",
+      "tokenlist": "",
+      "explorers": ["https://plasmascan.to/"],
+      "rpcs": ["https://rpc.plasma.to"],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x2611",
+      "blockExplorerUrls": ["https://plasmascan.to/"],
+      "chainName": "Plasma",
+      "nativeCurrency": {
+        "name": "XPL",
+        "symbol": "XPL",
+        "decimals": 18
+      },
+      "rpcUrls": ["https://rpc.plasma.to"]
+    },
+    "tokens": {
+      "native": {
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 9745,
+        "symbol": "XPL",
+        "decimals": 18,
+        "name": "XPL",
+        "coinKey": "XPL",
+        "logoURI": ""
+      },
+      "stablecoins": []
+    }
+  },
+  {
     "identifier": "arbitrum",
     "type": "EVM",
     "name": "Arbitrum",
