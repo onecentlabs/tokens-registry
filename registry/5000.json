@@ -665,5 +665,13 @@
     "symbol": "LINK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x3d142cdb27b537af57a55ee8f54ada953b4b9ecd",
+    "name": "DeBox",
+    "symbol": "BOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50224/thumb/v6TSd2dN_400x400.jpg?1726521525"
   }
 ]

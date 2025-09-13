@@ -21716,5 +21716,44 @@
     "symbol": "ASF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51638/thumb/ASF-200x200.png?1731687627"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7d6bea5c1f9d4751affeb917c6a23cd5d266a070",
+    "name": "Virtuals Ventures by Virtuals",
+    "symbol": "VVC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69170/thumb/gnhkg6x59dencoqidzvzehs4l9ds.?1757709107"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x164239fa94aec9c4e437bf6890ea8602b759fd74",
+    "name": "VERONICA by Virtuals",
+    "symbol": "VERONICA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69152/thumb/7pym3irt4dw0zly5w5oh7uwi4x63.?1757620422"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbede17c8b0535791d131f0d6b6094b99cf27eb07",
+    "name": "likes",
+    "symbol": "LIKES",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x37d2adc008118d04f259fc0c16ff66bf5a637d20",
+    "name": "DeBox",
+    "symbol": "BOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50224/thumb/v6TSd2dN_400x400.jpg?1726521525"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xafde2490236bc64950def5472296aa0d9758db0d",
+    "name": "Wilder World",
+    "symbol": "WILD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15407/thumb/wld-logo.png?1712273448"
   }
 ]

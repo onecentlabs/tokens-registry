@@ -745,5 +745,13 @@
     "symbol": "WAPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50913/thumb/apecoin.jpg?1729568016"
+  },
+  {
+    "chainId": 999,
+    "address": "0xfa44c2634ff17cbe26dc3007d36bd61c79068c14",
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52622/thumb/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
   }
 ]

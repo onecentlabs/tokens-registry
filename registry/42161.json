@@ -12578,5 +12578,21 @@
     "symbol": "ORA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51812/thumb/ORA_Token.png?1732029092"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x25118290e6a5f4139381d072181157035864099d",
+    "name": "Rain",
+    "symbol": "RAIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69134/thumb/Rain_Logo_200_200.png?1757586453"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+    "name": "Ethena",
+    "symbol": "ENA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
   }
 ]

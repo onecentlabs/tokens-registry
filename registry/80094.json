@@ -784,5 +784,13 @@
     "symbol": "STBGT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69129/thumb/stBGT.PNG?1757582178"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
+    "name": "Resolv USR",
+    "symbol": "USR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40008/thumb/USR_LOGO.png?1725222638"
   }
 ]

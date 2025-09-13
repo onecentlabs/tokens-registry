@@ -69846,5 +69846,109 @@
     "symbol": "DBT",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/69064/thumb/20250826_191736.png?1757412203"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5f8223c9904b3aa8ad20efa518e58eeb9dba3b3e",
+    "name": "TrendBot",
+    "symbol": "TRENDBOT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69139/thumb/mxkTfnyH_400x400.png?1757610986"
+  },
+  {
+    "chainId": 1,
+    "address": "0x77781231850881cf48e6701ba9197fb954af1567",
+    "name": "Pek",
+    "symbol": "PEK",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69142/thumb/photo_2025-09-09_17.38.13_%281%29.jpeg?1757611638"
+  },
+  {
+    "chainId": 1,
+    "address": "0x74c00c26e0ace673313aebf749a1a9644eeefdea",
+    "name": "SPURDO",
+    "symbol": "SPURDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69162/thumb/8531.jpg?1757668999"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32e6d2e1eab694d55911aa378a48c5f5a53d85ae",
+    "name": "Pepe Heimer",
+    "symbol": "PEHEM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69165/thumb/oxqqC2nt_400x400.png?1757680551"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeeaa9a247c16d29d5ab4bcd9ab2640920562790f",
+    "name": "GuaridOS",
+    "symbol": "GUDOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69145/thumb/WhatsApp_Image_2025-08-30_at_20.18.28.jpeg?1757613073"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7af8e99e7adafd299bdab66081dc1662a3f5d552",
+    "name": "Yeti the Abominable",
+    "symbol": "YETI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69154/thumb/logo.jpg?1757632889"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa20f1b74822f0c88f1bbff3bfd7ccd535a8ae6b8",
+    "name": "Screx",
+    "symbol": "SCRX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69132/thumb/SX_logo_CMC.png?1757583022"
+  },
+  {
+    "chainId": 1,
+    "address": "0x17c5ac827ec8c4ec55b6e572f6d22c151c302c2f",
+    "name": "Dogenarii coin",
+    "symbol": "DOGENARII",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69135/thumb/photo_2025-09-08_08.52.07.png?1757587736"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8745a1eac4e22454fd5b9386995fae949221042e",
+    "name": "Pepe Dollar",
+    "symbol": "PEPD",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69136/thumb/1000032269.jpg?1757592247"
+  },
+  {
+    "chainId": 1,
+    "address": "0x70b5fa2c02a63b1a90d23bd8166fa81614b6d463",
+    "name": "Pepe Dollar",
+    "symbol": "PEPD",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69137/thumb/mark.png?1757592353"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6944e1df6bf5972305f9ab25df47ef10de01bcc8",
+    "name": "Unibase",
+    "symbol": "UB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69108/thumb/unibase.png?1757501820"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1eef208926667594e5136e89d0e9dd6907959197",
+    "name": "Wrapped Peaq",
+    "symbol": "WPEAQ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68716/thumb/peaq.png?1756369268"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6418c0dd099a9fda397c766304cdd918233e8847",
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52622/thumb/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
   }
 ]

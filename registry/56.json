@@ -16168,5 +16168,13 @@
     "decimals": 18,
     "address": "0x97aA6203D304D3FB4b297FE6AA02cd1e0737d78A",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x97aA6203D304D3FB4b297FE6AA02cd1e0737d78A.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "HOLO",
+    "name": "Holoworld AI",
+    "decimals": 18,
+    "address": "0x1a5D7E4c3A7F940B240b7357a4bFED30D17f9497",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1a5D7E4c3A7F940B240b7357a4bFED30D17f9497.png"
   }
 ]

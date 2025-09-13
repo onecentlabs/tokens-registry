@@ -13761,5 +13761,13 @@
     "symbol": "DRESS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69069/thumb/K_70uiy__400x400.jpg?1757424033"
+  },
+  {
+    "chainId": 137,
+    "address": "0xafde2490236bc64950def5472296aa0d9758db0d",
+    "name": "Wilder World",
+    "symbol": "WILD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15407/thumb/wld-logo.png?1712273448"
   }
 ]
