@@ -6,7 +6,7 @@
     "symbol": "XPL",
     "name": "XPL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/66489/standard/Plasma-symbol-green-1.png?1755142558",
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/plasma.svg",
     "tags": [
       "NATIVE"
     ]
@@ -17,7 +17,7 @@
     "symbol": "WXPL",
     "name": "Wrapped XPL",
     "decimals": 18,
-    "logoURI": "",
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/plasma.svg",
     "tags": [
       "NATIVE"
     ]
