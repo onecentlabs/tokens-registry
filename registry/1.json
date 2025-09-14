@@ -69950,5 +69950,61 @@
     "symbol": "PENGU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52622/thumb/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1bab804803159ad84b8854581aa53ac72455614e",
+    "name": "Syndicate",
+    "symbol": "SYND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69122/thumb/synd.png?1757576144"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc3d2c4baa028c9758f4262feaf9d5a539a643570",
+    "name": "Deploy",
+    "symbol": "DEPLOY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69186/thumb/Deploy.jpg?1757750288"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3664487e8a9b90662441aef57060486a5217704d",
+    "name": "Identified Flying Objects",
+    "symbol": "IFO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69187/thumb/IMG_0439.jpeg?1757750623"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb2016f85a96a3ea5139b0a6e6ef762167bf99c8c",
+    "name": "Noodleface",
+    "symbol": "NOODLE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69188/thumb/Noodleface.png?1757750798"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf68b95b7e851170c0e5123a3249dd1ca46215085",
+    "name": "infiniFi Locked iUSD  8week ",
+    "symbol": "LIUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69189/thumb/liUSDlogo.png?1757751042"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8ee5cfb455b3ba5cb0bb5ad91cd6fc40ac73b25c",
+    "name": "BTC Bull Token",
+    "symbol": "BTCBULL",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69172/thumb/logo.jpg?1757739735"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8a853b3d639202c64ae700a0c89e4cfd4b31f7f4",
+    "name": "Valyr",
+    "symbol": "VALYR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69190/thumb/photo_2025-09-12_01.25.20.png?1757751300"
   }
 ]

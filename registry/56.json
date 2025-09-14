@@ -16176,5 +16176,13 @@
     "decimals": 18,
     "address": "0x1a5D7E4c3A7F940B240b7357a4bFED30D17f9497",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1a5D7E4c3A7F940B240b7357a4bFED30D17f9497.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ZEUS",
+    "name": "ZEUS",
+    "decimals": 6,
+    "address": "0xA2bE3E48170a60119b5F0400C65F65F3158fbeEe",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA2bE3E48170a60119b5F0400C65F65F3158fbeEe.png"
   }
 ]
