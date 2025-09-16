@@ -70130,5 +70130,21 @@
     "symbol": "MLDSTR",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/69257/thumb/milady.png?1757985061"
+  },
+  {
+    "chainId": 1,
+    "address": "0x284c0a369613a83080cebdbf253e596a7fc7594c",
+    "name": "Noob cult",
+    "symbol": "NOOB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69261/thumb/IMG_1527.jpeg?1757988578"
+  },
+  {
+    "chainId": 1,
+    "address": "0x68c6f3d735e83593b23b0063a50cc87952afddb2",
+    "name": "Blocklens AI",
+    "symbol": "BLS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69262/thumb/Transparent.png?1757989530"
   }
 ]
