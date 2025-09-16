@@ -62,6 +62,51 @@
     ]
   },
   {
+    "key": "plasma",
+    "chainType": "EVM",
+    "name": "Plasma",
+    "coin": "XPL",
+    "id": 9745,
+    "mainnet": true,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/plasma.svg",
+    "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/9745.json",
+    "metamask": {
+      "chainId": "0x2611",
+      "blockExplorerUrls": [
+        "https://plasmascan.to/"
+      ],
+      "chainName": "Plasma",
+      "nativeCurrency": {
+        "name": "XPL",
+        "symbol": "XPL",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.plasma.to"
+      ]
+    },
+    "nativeToken": {
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 9745,
+      "symbol": "XPL",
+      "decimals": 18,
+      "name": "XPL",
+      "coinKey": "XPL",
+      "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/plasma.svg"
+    },
+    "stablecoins": [
+      {
+        "name": "USDT0",
+        "symbol": "USDT0",
+        "type": "PLASMA",
+        "decimals": 6,
+        "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+        "logo": "https://app.hypurr.fi/tokens/usdt0.svg"
+      }
+    ]
+  },
+  {
     "key": "arbitrum",
     "chainType": "EVM",
     "name": "Arbitrum",
