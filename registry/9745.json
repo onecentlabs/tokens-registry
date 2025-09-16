@@ -28,7 +28,7 @@
     "symbol": "USDT0",
     "name": "USDT0",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/plasma.svg",
+    "logoURI": "https://app.hypurr.fi/tokens/usdt0.svg",
     "tags": [
       "STABLE"
     ]
