@@ -70122,5 +70122,13 @@
     "symbol": "CNGN",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/69200/thumb/cNGN_Logo_Icon_Purple.png?1757836603"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa67ff247d595301cbd04fcf06a497a12cfc3b263",
+    "name": "MiladyStrategy",
+    "symbol": "MLDSTR",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69257/thumb/milady.png?1757985061"
   }
 ]

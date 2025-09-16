@@ -21919,5 +21919,29 @@
     "symbol": "SYND",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69122/thumb/synd.png?1757576144"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0358795322c04de04ead2338a803a9d3518a9877",
+    "name": "Thank You So Much",
+    "symbol": "TYSM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69260/thumb/TYSM_Symbol_PFP.png?1757988380"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x84fb6f9788c14534161e24cde3d5ae559054104a",
+    "name": "MicroBuy Bot",
+    "symbol": "MICROBUY",
+    "decimals": 14,
+    "logoURI": "https://assets.coingecko.com/coins/images/69259/thumb/MicroBuy_Bot.jpg?1757988236"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf516562b703f46084eeb79afe58cc046572e56a7",
+    "name": "AI PIN",
+    "symbol": "AI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34235/thumb/AiPin-200px.png?1704306335"
   }
 ]
