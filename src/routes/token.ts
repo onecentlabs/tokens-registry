@@ -35,6 +35,7 @@ export class TokenRegistry {
       BLAST: '81457',
       UNICHAIN: '130',
       HYPEREVM: '999',
+      PLASMA: '9745',
     }
     this.tags = [
       'FEATURED',
