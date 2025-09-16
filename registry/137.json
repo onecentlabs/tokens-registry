@@ -13769,5 +13769,13 @@
     "symbol": "WILD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15407/thumb/wld-logo.png?1712273448"
+  },
+  {
+    "chainId": 137,
+    "address": "0x52828daa48c1a9a06f37500882b42daf0be04c3b",
+    "name": "Compliant Naira",
+    "symbol": "CNGN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69200/thumb/cNGN_Logo_Icon_Purple.png?1757836603"
   }
 ]

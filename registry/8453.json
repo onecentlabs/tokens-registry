@@ -21771,5 +21771,153 @@
     "symbol": "HYDX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69177/thumb/HYDX_logo_%282%29.png?1757748253"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x88a3548e2a662936268bFD4366e48D38183E3958",
+    "name": "CANA Holdings California Carbon Credits",
+    "symbol": "CANA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CANA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CANA"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc8F8A8140df44Af075d66BC50717653CFEBb860C",
+    "name": "Flixx",
+    "symbol": "FLIXX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FLIXX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FLIXX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaBc5915cAD6b54f48B2a8CD516055f378861c237",
+    "name": "MasterDEX Token",
+    "symbol": "MDEX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MDEX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MDEX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xAA61bB7777bD01B684347961918f1E07fBbCe7CF",
+    "name": "ZK Coin",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZKC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ZKC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe716330329c3c50c032c20c162fb0a3bd0418646",
+    "name": "PumpBase",
+    "symbol": "PUMPBASE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69236/thumb/IMG_1387.jpeg?1757948572"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61527cd3667243b0a80d41cb690237444e42a8d0",
+    "name": "Prima Donna",
+    "symbol": "DONNA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69226/thumb/Donna.png?1757925641"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3131b29a1158792b29821166dff0bfa38efee335",
+    "name": "AIQuant fun",
+    "symbol": "AIQ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69245/thumb/aiq-octo-sym-circle.png?1757950652"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x07321eae7b7018a241c97c3e31f072098c3d5bc6",
+    "name": "Agent Daredevil",
+    "symbol": "DARE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69197/thumb/DD1.jpg?1757831646"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2387b01ef6221a0c0f2d18d51943aa632e2d0201",
+    "name": "Gunda",
+    "symbol": "GUNDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69233/thumb/coingecko.webp?1757947596"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe0ce610c37c2691f064f1fe5c213e9ba9c16ad0c",
+    "name": "SPIRA",
+    "symbol": "SPIRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69203/thumb/36471_a9dc5f45_ddc1_40ec_af93_233073ec7841_6e95068d36.jpg?1757837844"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x317621481476554e1cf3f9add06abd70ffb007f4",
+    "name": "Chadrizard",
+    "symbol": "ZARD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69243/thumb/_ZARD.png?1757949620"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc930784d6e14e2fc2a1f49be1068dc40f24762d3",
+    "name": "Compliant Naira",
+    "symbol": "CNGN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69200/thumb/cNGN_Logo_Icon_Purple.png?1757836603"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x57414656ac535680367f519eec9f0d7ffe99e2d0",
+    "name": "AB4AD  Antibodies for Alzheimer s Disea",
+    "symbol": "AB4AD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69218/thumb/ab4ad.jpg?1757922456"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe868084cf08f3c3db11f4b73a95473762d9463f7",
+    "name": "Yala Stablecoin",
+    "symbol": "YU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56070/thumb/YU.png?1748275951"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe2f9db0186b13668aec9fe0e15dbd13004ed8d6f",
+    "name": "yesnoerror",
+    "symbol": "YNE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/52985/thumb/JDNsIn4O_400x400_%281%29.jpg?1757832128"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+    "name": "Syndicate",
+    "symbol": "SYND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69122/thumb/synd.png?1757576144"
   }
 ]

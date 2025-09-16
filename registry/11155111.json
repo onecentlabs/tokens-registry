@@ -587,5 +587,18 @@
       "opListId": "extended",
       "opTokenId": "FORT"
     }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xb4FC69A452D09D2662BD8C3B5BB756902260aE28",
+    "name": "ZK Coin",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZKC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "ZKC"
+    }
   }
 ]

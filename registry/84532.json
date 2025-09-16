@@ -464,5 +464,18 @@
       "opListId": "extended",
       "opTokenId": "WIT"
     }
+  },
+  {
+    "chainId": 84532,
+    "address": "0x8d4dA4b7938471A919B08F941461b2ed1679d7bb",
+    "name": "ZK Coin",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZKC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ZKC"
+    }
   }
 ]

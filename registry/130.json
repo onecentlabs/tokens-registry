@@ -4603,5 +4603,18 @@
     "symbol": "WIF",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/33566/standard/dogwifhat.jpg?1702499428"
+  },
+  {
+    "chainId": 130,
+    "address": "0x614b641b6b59d290B1E8412426fe37E342aADe3E",
+    "name": "CANA Holdings California Carbon Credits",
+    "symbol": "CANA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CANA/logo.svg",
+    "extensions": {
+      "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CANA"
+    }
   }
 ]

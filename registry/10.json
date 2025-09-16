@@ -5302,5 +5302,18 @@
     "symbol": "ENA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
+  },
+  {
+    "chainId": 10,
+    "address": "0xca0eac34408e4b5906d3e161c73bb4611ff22ca1",
+    "name": "CANA Holdings California Carbon Credits",
+    "symbol": "CANA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CANA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CANA"
+    }
   }
 ]

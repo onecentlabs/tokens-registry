@@ -16184,5 +16184,37 @@
     "decimals": 6,
     "address": "0xA2bE3E48170a60119b5F0400C65F65F3158fbeEe",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xA2bE3E48170a60119b5F0400C65F65F3158fbeEe.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ALEO",
+    "name": "Aleo",
+    "decimals": 6,
+    "address": "0x6CFfFa5bFD4277a04D83307fEedFe2D18D944DD2",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6CFfFa5bFD4277a04D83307fEedFe2D18D944DD2.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "UB",
+    "name": "Unibase",
+    "decimals": 18,
+    "address": "0x40b8129B786D766267A7a118cF8C07E31CDB6Fde",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x40b8129B786D766267A7a118cF8C07E31CDB6Fde.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "AA",
+    "name": "ARAI Token",
+    "decimals": 18,
+    "address": "0x01bf3D77cd08b19Bf3F2309972123a2cCa0F6936",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x01bf3D77cd08b19Bf3F2309972123a2cCa0F6936.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "yUSD",
+    "name": "YieldFi yUSD",
+    "decimals": 18,
+    "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4772D2e014F9fC3a820C444e3313968e9a5C8121.png"
   }
 ]

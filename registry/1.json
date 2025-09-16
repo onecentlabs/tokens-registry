@@ -70006,5 +70006,121 @@
     "symbol": "VALYR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69190/thumb/photo_2025-09-12_01.25.20.png?1757751300"
+  },
+  {
+    "chainId": 1,
+    "address": "0x000006c2A22ff4A44ff1f5d0F2ed65F781F55555",
+    "name": "ZK Coin",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZKC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ZKC"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x990fa49225c58015ca0eb51e720309e8d7600348",
+    "name": "BitDoge",
+    "symbol": "BITDOGE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69195/thumb/logo.jpg?1757823667"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf60899b5d7239d0868520d9b6fec14976a37795b",
+    "name": "T3 AI",
+    "symbol": "T3",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69212/thumb/logo.jpg?1757840006"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf0db65d17e30a966c2ae6a21f6bba71cea6e9754",
+    "name": "Lombard Protocol",
+    "symbol": "BARD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68404/thumb/bard.png?1755657543"
+  },
+  {
+    "chainId": 1,
+    "address": "0x87c1d38f82edb10123ed73e39d3053097bee8bf6",
+    "name": "azGNIT LPF B",
+    "symbol": "AZGNIT",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/69229/thumb/GNIT200.png?1757926611"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb47addb11dca5dc4c9bb6bc816b201c42401d655",
+    "name": "Flare system",
+    "symbol": "FLS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69232/thumb/64ea57a3-9c25-4a93-ad15-748e7443d18f.png?1757945622"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2fd23a21c52fff0535328a7177da1fb31b8a819e",
+    "name": "Strategic ETH Reserve",
+    "symbol": "SR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69234/thumb/BGVXRs6O_400x400.jpg?1757948120"
+  },
+  {
+    "chainId": 1,
+    "address": "0x12b004719fb632f1e7c010c6f5d6009fb4258442",
+    "name": "infiniFi Locked iUSD  1week ",
+    "symbol": "LIUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69238/thumb/liUSDlogo.png?1757948887"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf1839becaf586814d022f16cdb3504ff8d8ff361",
+    "name": "infiniFi Locked iUSD  2week ",
+    "symbol": "LIUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69239/thumb/liUSDlogo.png?1757948970"
+  },
+  {
+    "chainId": 1,
+    "address": "0x66bcf6151d5558afb47c38b20663589843156078",
+    "name": "infiniFi Locked iUSD  4week ",
+    "symbol": "LIUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69240/thumb/liUSDlogo.png?1757949019"
+  },
+  {
+    "chainId": 1,
+    "address": "0xab9e60754e27099b93f8e59b50d2238047f1a38c",
+    "name": "Ravenra",
+    "symbol": "RAVEN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69241/thumb/Ae2yJDUX_400x400.jpg?1757949123"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc50673edb3a7b94e8cad8a7d4e0cd68864e33edf",
+    "name": "PunkStrategy",
+    "symbol": "PNKSTR",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xf72ae3e0da743033abd7a407557d684c1ae66aed",
+    "name": "XL1",
+    "symbol": "XL1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68691/thumb/XL1_Logo_Icon_Mainnet_200px.png?1756279973"
+  },
+  {
+    "chainId": 1,
+    "address": "0x17cdb2a01e7a34cbb3dd4b83260b05d0274c8dab",
+    "name": "Compliant Naira",
+    "symbol": "CNGN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69200/thumb/cNGN_Logo_Icon_Purple.png?1757836603"
   }
 ]
