@@ -16216,5 +16216,29 @@
     "decimals": 18,
     "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x4772D2e014F9fC3a820C444e3313968e9a5C8121.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "SOCIO",
+    "name": "Socio Agent",
+    "decimals": 18,
+    "address": "0x67B8B5f36d9A2eD5c0A2f60Fb77927c04658D3Ab",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x67B8B5f36d9A2eD5c0A2f60Fb77927c04658D3Ab.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "VLR",
+    "name": "Velora",
+    "decimals": 18,
+    "address": "0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "STBL",
+    "name": "STBL_Token - STBL Governance Token",
+    "decimals": 18,
+    "address": "0x8dEdf84656fa932157e27C060D8613824e7979e3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8dEdf84656fa932157e27C060D8613824e7979e3.png"
   }
 ]

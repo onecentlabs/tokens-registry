@@ -21943,5 +21943,45 @@
     "symbol": "AI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34235/thumb/AiPin-200px.png?1704306335"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9495729f1ec6d9c919eb6ad10ae8a26a4f7e15d7",
+    "name": "Boomer",
+    "symbol": "BOOMER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69279/thumb/in6Qgpug_400x400_%281%29.jpg?1758046178"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfe20c1b85aba875ea8cecac8200bf86971968f3a",
+    "name": "BALD",
+    "symbol": "BALD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69276/thumb/khpo164inwdeeezihs5x7gtzdqd3.?1758020787"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc61f9663e05fccd84d4d6c56a373093437ecb899",
+    "name": "RARI",
+    "symbol": "RARI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11845/thumb/rf_logo_%281%29.jpeg?1711076091"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
+    "name": "Velora",
+    "symbol": "VLR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55593/thumb/PNG_Round.png?1746809175"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
+    "name": "Spiko EU T Bills Money Market Fund",
+    "symbol": "EUTBL",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/39657/thumb/EUTBL.png?1723517425"
   }
 ]

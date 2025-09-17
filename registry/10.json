@@ -5315,5 +5315,13 @@
       "opListId": "extended",
       "opTokenId": "CANA"
     }
+  },
+  {
+    "chainId": 10,
+    "address": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
+    "name": "Velora",
+    "symbol": "VLR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55593/thumb/PNG_Round.png?1746809175"
   }
 ]

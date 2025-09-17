@@ -12594,5 +12594,21 @@
     "symbol": "ENA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd0e4fc5b430b0cac0f59b7b8b66d40d0b3f64a6b",
+    "name": "Tracer",
+    "symbol": "TRCR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69265/thumb/download_%284%29.png?1758013261"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0b3547cd0e14e7d42f8921b0c370fdfd708bff6c",
+    "name": "Project Merlin",
+    "symbol": "MRLN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69196/thumb/mrln.png?1757830417"
   }
 ]
