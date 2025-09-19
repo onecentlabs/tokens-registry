@@ -16240,5 +16240,29 @@
     "decimals": 18,
     "address": "0x8dEdf84656fa932157e27C060D8613824e7979e3",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8dEdf84656fa932157e27C060D8613824e7979e3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MAIGA",
+    "name": "MAIGA Token",
+    "decimals": 18,
+    "address": "0xcd1679f117E81DEfc4f0009311DDc23fC1AE4a5E",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xcd1679f117E81DEfc4f0009311DDc23fC1AE4a5E.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "ASTER",
+    "name": "Aster",
+    "decimals": 18,
+    "address": "0x000Ae314E2A2172a039B26378814C252734f556A",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x000Ae314E2A2172a039B26378814C252734f556A.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BARD",
+    "name": "Lombard",
+    "decimals": 18,
+    "address": "0xd23A186A78c0B3B805505E5f8ea4083295ef9f3a",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xd23A186A78c0B3B805505E5f8ea4083295ef9f3a.png"
   }
 ]

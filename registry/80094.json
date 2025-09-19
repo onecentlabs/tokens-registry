@@ -792,5 +792,13 @@
     "symbol": "USR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/40008/thumb/USR_LOGO.png?1725222638"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x982940ebfc5caa2f5b5a82aac2dfa99f18bb7da4",
+    "name": "Bearn BERA",
+    "symbol": "YBERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69282/thumb/ybera.png?1758095597"
   }
 ]

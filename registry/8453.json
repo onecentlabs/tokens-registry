@@ -21983,5 +21983,117 @@
     "symbol": "EUTBL",
     "decimals": 5,
     "logoURI": "https://assets.coingecko.com/coins/images/39657/thumb/EUTBL.png?1723517425"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4da9a0f397db1397902070f93a4d6ddbc0e0e6e8",
+    "name": "CF Large Cap Index",
+    "symbol": "LCAP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69331/thumb/LCAP_1024.png?1758220127"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5d3772ce50dedca695197373f858bfb324e32e5a",
+    "name": "Runwago",
+    "symbol": "RUNWAGO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69302/thumb/Sni%CC%81mek_obrazovky_2025-09-11_v%C2%A08.24.37.png?1758205414"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0b0e6e32e4d69cb418630163574959108edcb80e",
+    "name": "Defactor",
+    "symbol": "REAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/19201/thumb/Defactor_Emblem.png?1758135275"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8129609e5303910464fce3022a809fa44455fe9a",
+    "name": "WILDWEST",
+    "symbol": "WILDW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69294/thumb/wild.jpg?1758116583"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe58b3ab1fb80304de37a507a2449fea64bf0b507",
+    "name": "Jetvoy",
+    "symbol": "VOY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69303/thumb/IMG_0768.png?1758130377"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x98623dc972d52b8e1aca2262fa62aced989d7948",
+    "name": "Umi",
+    "symbol": "UMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69334/thumb/fzWxs_ki_400x400.jpg?1758224983"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x04cafd53ecfa6f6a9168de3d6d2b837d04a51b07",
+    "name": "PoolFans",
+    "symbol": "FANS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69305/thumb/bexfu847nzsvm16tlnevk1w8eifo.?1758135724"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe57e601c06689d3e2bf7db7bebb14b4ff28400c6",
+    "name": "Meridian",
+    "symbol": "MRDN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69336/thumb/logo-128.png?1758225720"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3dc6c3231f3ab298430b02357a6f0a1e370a54c6",
+    "name": "Nuwa World by Virtuals",
+    "symbol": "NUWA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69332/thumb/Nuwa_logo.png?1758224542"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaadd98ad4660008c917c6fe7286bc54b2eef894d",
+    "name": "CLONES",
+    "symbol": "CLONES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69328/thumb/purple_on_black_C_clones_logo.png?1758195002"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc7562d0536d3bf5a92865ac22062a2893e45cb07",
+    "name": "Siyana",
+    "symbol": "SYYN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69301/thumb/logo_coin.jpg?1758129897"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x176383016bb310c9f1c180dc6729d5e28104e602",
+    "name": "Daydreams",
+    "symbol": "DREAMS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53838/thumb/ddpfp.png?1758168085"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xecedb6f8108b9f7bbf499da843dced6c2bb6e270",
+    "name": "Unstable Coin",
+    "symbol": "USDUC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56006/thumb/usduc-logo.jpg?1748000956"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x519d3443cacc61bd844546edaea48e5502021802",
+    "name": "LightLink",
+    "symbol": "LL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35357/thumb/lightlink-ticker-200.png?1708362303"
   }
 ]

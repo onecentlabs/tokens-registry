@@ -13777,5 +13777,13 @@
     "symbol": "CNGN",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/69200/thumb/cNGN_Logo_Icon_Purple.png?1757836603"
+  },
+  {
+    "chainId": 137,
+    "address": "0x9e7e2c71463e4ba32f79826d7edf6393dca28915",
+    "name": "Nakama Coin",
+    "symbol": "NAKAMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69300/thumb/NAKAMA-Token-Logo-512x512.jpg?1758125064"
   }
 ]

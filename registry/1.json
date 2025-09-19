@@ -70146,5 +70146,85 @@
     "symbol": "BLS",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/69262/thumb/Transparent.png?1757989530"
+  },
+  {
+    "chainId": 1,
+    "address": "0x696025fab2f3e2ade78e57a3f553e993d2996615",
+    "name": "Qace Dynamics",
+    "symbol": "QACE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69295/thumb/200x200.png?1758121221"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2fe058ccf29f123f9dd2aec0418aa66a877d8e50",
+    "name": "Midas msyrupUSDp",
+    "symbol": "MSYRUPUSDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69323/thumb/msyrupusdp_icon.png?1758192264"
+  },
+  {
+    "chainId": 1,
+    "address": "0x90ba94f4e64e327c444d7ac7f1056ead4ea6fd98",
+    "name": "DiversiFi",
+    "symbol": "DEFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69327/thumb/1000186548.jpg?1758194251"
+  },
+  {
+    "chainId": 1,
+    "address": "0x27bbb7e6d8b8b9a4c36e67c5d7ce7fa8d51628e1",
+    "name": "Uspepe",
+    "symbol": "USPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69286/thumb/logo.png?1758112772"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa3c48ef518cab21e5772392d5405de5d73b35190",
+    "name": "Etheria Token",
+    "symbol": "ERTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69288/thumb/Logo.png?1758113637"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32d4c7ecee527a84d11250597a0725858a607369",
+    "name": "Robotexon",
+    "symbol": "ROX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69293/thumb/L6Zqx7Rs_400x400_%281%29.jpg?1758116484"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a82b057425fb4396793bd163e6a7b87963efe83",
+    "name": "PepeApuKekiusSimonPepuHoppyMysteryGroyp",
+    "symbol": "PEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69335/thumb/logo.png?1758225090"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6ecf5fe60e27cd03abdba3a19af8dc6845a0da58",
+    "name": "Boba Cat",
+    "symbol": "BOBA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31777/thumb/bobalogo200x200.png?1758228522"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0fb1f1ef7eafc3d05b5fe4a0f1cd6a6852a8b6ed",
+    "name": "PEPETO",
+    "symbol": "PEPETO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69337/thumb/logo.png?1758225793"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e0e7dd22ad56705237a59759918e20267b111f2",
+    "name": "SprotoStrategy",
+    "symbol": "SPRSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69291/thumb/photo_2025-09-15_13-05-20_%281%29.jpg?1758115463"
   }
 ]
