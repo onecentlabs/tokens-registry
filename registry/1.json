@@ -70290,5 +70290,13 @@
     "symbol": "USDD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25380/thumb/UUSD.jpg?1696524513"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4b948d64de1f71fcd12fb586f4c776421a35b3ee",
+    "name": "0G",
+    "symbol": "0G",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69096/thumb/0G_1024x1024_Outlined.png?1758256211"
   }
 ]

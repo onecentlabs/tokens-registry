@@ -16304,5 +16304,21 @@
     "decimals": 18,
     "address": "0xC61eb549Acf4A05Ed6e3Fe0966f5e213b23541cE",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xC61eb549Acf4A05Ed6e3Fe0966f5e213b23541cE.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "JOJO",
+    "name": "JOJOWORLD",
+    "decimals": 18,
+    "address": "0x953783617a71A888F8b04f397F2c9e1a7c37Af7e",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x953783617a71A888F8b04f397F2c9e1a7c37Af7e.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "GIGGLE",
+    "name": "Giggle Fund",
+    "decimals": 18,
+    "address": "0x20d6015660b3fe52e6690a889b5C51F69902cE0e",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x20d6015660b3fe52e6690a889b5C51F69902cE0e.png"
   }
 ]
