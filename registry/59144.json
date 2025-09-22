@@ -1236,5 +1236,13 @@
     "symbol": "SUSDE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x67454b41baf8d29751cc64f60e3c62b5634567a4",
+    "name": "TBAG",
+    "symbol": "TBAG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69384/thumb/TokenIcon.png?1758357855"
   }
 ]

@@ -22095,5 +22095,69 @@
     "symbol": "LL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35357/thumb/lightlink-ticker-200.png?1708362303"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9999999999999d8b360c6985db1a74a0f3b75e1b",
+    "name": "Kitty Kult",
+    "symbol": "KULT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69362/thumb/kitty-kult-logo-200px.png?1758309860"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x69da011296a3a68d33bcfbca078e0be3b7d77b07",
+    "name": "Emerge",
+    "symbol": "EMERGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69390/thumb/e7ikdfy27y0b21nqg6p5axm8ov3z.?1758360636"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4c7efedec321fb437b7c61e2acd8697769e98a76",
+    "name": "Fox Bets AI",
+    "symbol": "FOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69346/thumb/2025-09-16_21.31.58.jpg?1758259054"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa64a1b5b0a5ce578a8c6bca10cbe36d83713d170",
+    "name": "PePenguin",
+    "symbol": "PENGUIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69360/thumb/Gz6dK3NXsAA9f2J.jpg?1758309543"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x24f883b8157956101bb6a52eff94d3ae8188e890",
+    "name": "GRIPPY",
+    "symbol": "GRIPPY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69351/thumb/GRIPPY.jpg?1758261316"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x64712fbdf19ae8b5b3b6d0478750e3d5e1a17718",
+    "name": "Waveform by Virtuals",
+    "symbol": "WAVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69367/thumb/bojz35sh42a23fr8ptwsi234vvvc.?1758313102"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf3527ef8de265eaa3716fb312c12847bfba66cef",
+    "name": "Stables Labs USDX",
+    "symbol": "USDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50360/thumb/USDX200px.png?1731906044"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x99ed8c89d6ed3a05e73bfa0ce0213bb942061a65",
+    "name": "Amped Finance",
+    "symbol": "AMPED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
   }
 ]

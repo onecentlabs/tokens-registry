@@ -13785,5 +13785,13 @@
     "symbol": "NAKAMA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69300/thumb/NAKAMA-Token-Logo-512x512.jpg?1758125064"
+  },
+  {
+    "chainId": 137,
+    "address": "0x4e24c684a90f2c1f9030a5608a6c3a6fa4e854f5",
+    "name": "OrbitEdge",
+    "symbol": "ORBD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69354/thumb/OrbitEdgeLogo_%281%29.png?1758265500"
   }
 ]

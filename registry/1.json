@@ -70226,5 +70226,69 @@
     "symbol": "SPRSTR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69291/thumb/photo_2025-09-15_13-05-20_%281%29.jpg?1758115463"
+  },
+  {
+    "chainId": 1,
+    "address": "0x64ab897b7ad47dcb0d231fa9055b92b83ef75fe8",
+    "name": "RobCo Network",
+    "symbol": "ROBCO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69349/thumb/IMG_6507.jpeg?1758260409"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4ea40dcee961675683e0a2e1721bd49cb9bca913",
+    "name": "Ring USD",
+    "symbol": "USDR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69350/thumb/logo_USDR_color_512x512.png?1758260860"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfdc9d2a3cae56e484a85de3c2e812784a8184d0d",
+    "name": "ErectusDAO",
+    "symbol": "YUGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69375/thumb/IMG_1602.jpeg?1758355155"
+  },
+  {
+    "chainId": 1,
+    "address": "0x787b197f793f7d04366536f6a7a56a799868a64b",
+    "name": "Disco By Matt Furie",
+    "symbol": "DISCO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69379/thumb/Disco_By_Matt_Furie.jpg?1758356470"
+  },
+  {
+    "chainId": 1,
+    "address": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+    "name": "River",
+    "symbol": "RIVER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69318/thumb/river.png?1758189762"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb1205f513c0f157363f79ffb5455907685ab34ce",
+    "name": "Privix",
+    "symbol": "PRIVIX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69385/thumb/Privix.png?1758358693"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa6a8f8d8d8e7987c473b1e56a80ff3591a324f5a",
+    "name": "MechaOs",
+    "symbol": "MECHA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69357/thumb/mechaOs.jpg?1758309018"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f8e5de400de08b164e7421b3ee387f461becd1a",
+    "name": "USDD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25380/thumb/UUSD.jpg?1696524513"
   }
 ]

@@ -769,5 +769,29 @@
     "symbol": "HAKHYPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69299/thumb/_hakHYPE.png?1758122756"
+  },
+  {
+    "chainId": 999,
+    "address": "0xbef0142a0955a7d5dcce5c2a13fb84e332669d2d",
+    "name": "Kintsu Staked Hype",
+    "symbol": "SHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69398/thumb/sHYPE_Token_Large.png?1758444105"
+  },
+  {
+    "chainId": 999,
+    "address": "0x226702c0ca528c29eb9252b773c4f06492510f4c",
+    "name": "Neiro",
+    "symbol": "NEIRO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/39488/thumb/neiro.jpg?1731449567"
+  },
+  {
+    "chainId": 999,
+    "address": "0x99ed8c89d6ed3a05e73bfa0ce0213bb942061a65",
+    "name": "Amped Finance",
+    "symbol": "AMPED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
   }
 ]
