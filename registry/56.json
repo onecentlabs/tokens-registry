@@ -16352,5 +16352,21 @@
     "decimals": 18,
     "address": "0x9cB3Ab4fB21CF910DA2ce6800753dBD866784444",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x9cB3Ab4fB21CF910DA2ce6800753dBD866784444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "GAIN",
+    "name": "GriffinAI",
+    "decimals": 18,
+    "address": "0xAcf5A368eC5bb9e804C8AC0b508dAA5A21C92e13",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xAcf5A368eC5bb9e804C8AC0b508dAA5A21C92e13.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "XPL",
+    "name": "Plasma",
+    "decimals": 18,
+    "address": "0x405FBc9004D857903bFD6b3357792D71a50726b0",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x405FBc9004D857903bFD6b3357792D71a50726b0.png"
   }
 ]

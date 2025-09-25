@@ -12610,5 +12610,13 @@
     "symbol": "MRLN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69196/thumb/mrln.png?1757830417"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb1fe27b32ffb5ce54e272c096547f1e86c19e72f",
+    "name": "Restaked Swell ETH",
+    "symbol": "RSWETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34489/thumb/rswETH_Icon.png?1706865484"
   }
 ]

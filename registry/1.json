@@ -70418,5 +70418,29 @@
     "symbol": "SQL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68820/thumb/1000168153.png?1756702887"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd70030cb861be7a7788f699e4f5ca8d51b31102d",
+    "name": "STAX Token",
+    "symbol": "STAX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69498/thumb/1000040780.jpg?1758777225"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdecd530d9403c5b4716be6b9494d229c12ccf409",
+    "name": "Kobe the Shiba Inu",
+    "symbol": "KOBE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69504/thumb/logo.png?1758780206"
+  },
+  {
+    "chainId": 1,
+    "address": "0x55db4801e4d9781e99b9cc2ceea1b4bcfe2f85dc",
+    "name": "Resister",
+    "symbol": "RSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69505/thumb/It-Remains-RESISTER-TOKEN-symbol.png?1758782310"
   }
 ]
