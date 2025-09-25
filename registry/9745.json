@@ -40,5 +40,29 @@
     "name": "USDe",
     "decimals": 18,
     "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193",
+    "symbol": "XAUt0",
+    "name": "XAUt0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66560/standard/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+    "symbol": "weETH",
+    "name": "Wrapped eETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33033/small/weETH.png"
   }
 ]
