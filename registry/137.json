@@ -13793,5 +13793,21 @@
     "symbol": "ORBD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69354/thumb/OrbitEdgeLogo_%281%29.png?1758265500"
+  },
+  {
+    "chainId": 137,
+    "address": "0x231878d973c09fbcc0ca2239fffb717795402cb4",
+    "name": "Rusk Token",
+    "symbol": "RUSK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69476/thumb/logo_200x200.png?1758710444"
+  },
+  {
+    "chainId": 137,
+    "address": "0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0",
+    "name": "Vana",
+    "symbol": "VANA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51404/thumb/logo.png?1731086679"
   }
 ]

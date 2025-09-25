@@ -793,5 +793,29 @@
     "symbol": "AMPED",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9ba2edc44e0a4632eb4723e81d4142353e1bb160",
+    "name": "Kinetiq Earn Vault",
+    "symbol": "VKHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69439/thumb/vkhype.png?1758596795"
+  },
+  {
+    "chainId": 999,
+    "address": "0x111111a1a0667d36bd57c0a9f569b98057111111",
+    "name": "USDH",
+    "symbol": "USDH",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69484/thumb/usdh.png?1758728903"
+  },
+  {
+    "chainId": 999,
+    "address": "0xdfc7d2d003a053b2e0490531e9317a59962b511e",
+    "name": "Bedrock BTC",
+    "symbol": "BRBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374"
   }
 ]

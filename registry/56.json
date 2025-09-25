@@ -16320,5 +16320,37 @@
     "decimals": 18,
     "address": "0x20d6015660b3fe52e6690a889b5C51F69902cE0e",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x20d6015660b3fe52e6690a889b5C51F69902cE0e.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "0G",
+    "name": "0G",
+    "decimals": 18,
+    "address": "0x4B948d64dE1F71fCd12fB586f4c776421a35b3eE",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4B948d64dE1F71fCd12fB586f4c776421a35b3eE.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "RIVER",
+    "name": "River",
+    "decimals": 18,
+    "address": "0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BLESS",
+    "name": "Bless Token",
+    "decimals": 9,
+    "address": "0x7C8217517ed4711fe2DECCdFefFE8d906b9Ae11F",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7C8217517ed4711fe2DECCdFefFE8d906b9Ae11F.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "Clifford",
+    "name": "Clifford",
+    "decimals": 18,
+    "address": "0x9cB3Ab4fB21CF910DA2ce6800753dBD866784444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9cB3Ab4fB21CF910DA2ce6800753dBD866784444.png"
   }
 ]

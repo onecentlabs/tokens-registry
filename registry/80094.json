@@ -800,5 +800,13 @@
     "symbol": "YBERA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69282/thumb/ybera.png?1758095597"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xcc601605dc5011616934b6fdac8a14d51b791a94",
+    "name": "Resolv wstUSR",
+    "symbol": "WSTUSR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841"
   }
 ]

@@ -70298,5 +70298,125 @@
     "symbol": "0G",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69096/thumb/0G_1024x1024_Outlined.png?1758256211"
+  },
+  {
+    "chainId": 1,
+    "address": "0x690f1eef8acead09ac695d9111af081045c6d5b7",
+    "name": "Galactica com",
+    "symbol": "GNET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69437/thumb/200%D1%85200_Gala_Logo.png?1758595518"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc92fe380bf07fedc239a4b53639a6479fde8d30b",
+    "name": "ZKcandy",
+    "symbol": "CANDY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69469/thumb/4_Trans_white.png?1758706565"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4bdfa27ce379d7601da1d15bd637a1cf895ff8fb",
+    "name": "DaGama World",
+    "symbol": "DGMA",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/67989/thumb/daGama-logo-main.png?1754511939"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9ebf91b8d6ff68aa05545301a3d0984eaee54a03",
+    "name": "ApeStrategy",
+    "symbol": "APESTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69404/thumb/aprstr.png?1758523423"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6bcba7cd81a5f12c10ca1bf9b36761cc382658e8",
+    "name": "BirbStrategy",
+    "symbol": "BIRBSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69405/thumb/aprstr.png?1758524010"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc9b2c00f31b210fcea1242d91307a5b1e3b2be68",
+    "name": "MeebitStrategy",
+    "symbol": "MEEBSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69406/thumb/aprstr.png?1758524274"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb3d6e9e142a785ea8a4f0050fee73bcc3438c5c5",
+    "name": "PudgyStrategy",
+    "symbol": "PUDGYSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69407/thumb/aprstr.png?1758524536"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8680acfacb3fed5408764343fc7e8358e8c85a4c",
+    "name": "DickStrategy",
+    "symbol": "DICKSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69408/thumb/aprstr.png?1758524710"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcedbea37c8872c4171259cdfd5255cb8923cf8e7",
+    "name": "Anoma",
+    "symbol": "XAN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69380/thumb/Anoma_Logo_Roundel_RGB_Colour-01.png?1758356672"
+  },
+  {
+    "chainId": 1,
+    "address": "0x86e1714dca461a66b24193cbc902515ddcb2d12c",
+    "name": "Navigator by MetaWin",
+    "symbol": "NAVI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69440/thumb/ufo2.png?1758612035"
+  },
+  {
+    "chainId": 1,
+    "address": "0x359fb8b204ae2eb94c1e887fbbbda616986d4b66",
+    "name": "LIFI",
+    "symbol": "LIFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69427/thumb/LIFI.jpg?1758561953"
+  },
+  {
+    "chainId": 1,
+    "address": "0xad0b2fcd6314e9cf8c0873d5129dde3ead1dcc65",
+    "name": "United States of Memerica",
+    "symbol": "MEMERICA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69444/thumb/20250920_033749_0000.png?1758616281"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7eaa67f8d365bbe27d6278fdc2ba24a1aa71c8e5",
+    "name": "Tea Protocol",
+    "symbol": "TEA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69436/thumb/tea_protocol.png?1758595330"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5da17ca137f1128d4be7ce574bc61f3ac4839df8",
+    "name": "Staked PIKU",
+    "symbol": "SPIKU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69453/thumb/sPIKU.png?1758642665"
+  },
+  {
+    "chainId": 1,
+    "address": "0xff0d55e4ace7cfbd07c7d15515d84e15b25325ab",
+    "name": "StakeQuest Legends",
+    "symbol": "SQL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68820/thumb/1000168153.png?1756702887"
   }
 ]

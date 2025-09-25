@@ -22167,5 +22167,117 @@
     "symbol": "IDLE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69402/thumb/200x200.png?1758508141"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7ee8964160126081cebc443a42482e95e393e6a8",
+    "name": "iAero Protocol LIQ",
+    "symbol": "LIQ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69485/thumb/iAero_Dragon.jpg?1758731493"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1d143e81e543370db4f6de74ccfc087ceee9ec65",
+    "name": "STONED",
+    "symbol": "STONED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69474/thumb/iconstoned.jpg?1758708935"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5bdacba45e53039f8c57dbaedd4ffdd26a975b07",
+    "name": "VANTA",
+    "symbol": "VANTA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69421/thumb/f8nz1h3pqzgmal3cqbngxr1alaod.?1758548420"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6965084966592a76f80adadc5138eb23f18f1ed6",
+    "name": "THUG",
+    "symbol": "THUG",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69456/thumb/useyf68jd4ks1vl4mceh6zy9zmtq.?1758643283"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbf26cbe8f1d754f97ebe9a544a38dee692e75ef3",
+    "name": "Norm",
+    "symbol": "NORM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69472/thumb/IMG_3043.jpeg?1758708490"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1ee5dd1794c28f559f94d2cc642bae62dc3be5cf",
+    "name": "LikeCoin",
+    "symbol": "LIKE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69458/thumb/likecoin.png?1758647439"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd565e9eb9b7e2de4902486b7057d642393afdaa4",
+    "name": "Doge Base",
+    "symbol": "DOGEBASE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69468/thumb/image0_%2860%29.jpg?1758706157"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0ba5ed329d073a847ec3d54ac767f7e099c29bb2",
+    "name": "Based Mog Coin",
+    "symbol": "MOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69416/thumb/BA5EDMOGicon.jpg?1758545032"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb96cfc6f81f85c58a1eccdd9ec2ad940e2cb8453",
+    "name": "All Your Base",
+    "symbol": "AYB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35777/thumb/AYB-Coingecko.png?1718634946"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xecc2a75027063a0c2769ecd6b133a8683128c8b3",
+    "name": "Agent Zero by Virtuals",
+    "symbol": "ZERO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69487/thumb/zero-token-icon.png?1758733158"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1371b2a6998c42ccd3480207282c3fa2888148ce",
+    "name": "Kylie",
+    "symbol": "KYLIE",
+    "decimals": 14,
+    "logoURI": "https://assets.coingecko.com/coins/images/69441/thumb/Kylie.jpg?1758615164"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8c201856621089e13cc8d8a3163e7aa85e5ebe16",
+    "name": "OPTA Global",
+    "symbol": "OPTA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69489/thumb/Untitled_design_%282%29.png?1758738001"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xba8cd87120aca631f59231f9fd6c5469bbee3440",
+    "name": "Infinite Trading Protocol",
+    "symbol": "ITP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68308/thumb/itplogo.png?1755327311"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf970706063b7853877f39515c96932d49d5ac9cd",
+    "name": "Yala",
+    "symbol": "YALA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67498/thumb/yala.jpg?1752994443"
   }
 ]
