@@ -5874,5 +5874,13 @@
     "symbol": "YUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55085/thumb/LOGO_YUSD_BLACK.png?1756548564"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+    "name": "Orderly",
+    "symbol": "ORDER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359"
   }
 ]

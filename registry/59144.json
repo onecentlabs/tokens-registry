@@ -1244,5 +1244,13 @@
     "symbol": "TBAG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69384/thumb/TokenIcon.png?1758357855"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xa1d241276b76638ee74fc04c7152208596954a44",
+    "name": "CROTCH",
+    "symbol": "CROTCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68017/thumb/Crotch_Token_Logo_200.png?1754598551"
   }
 ]

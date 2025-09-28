@@ -140,5 +140,31 @@
       "opListId": "extended",
       "opTokenId": "FORT"
     }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x841Fb6a6893f48164a52CFbFc69462385688B0c1",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0xFABADA3D500B84B1AeD07b9B6d5651BA91a10beD",
+    "name": "Wrapped WIT",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000028",
+      "opListId": "extended",
+      "opTokenId": "WIT"
+    }
   }
 ]

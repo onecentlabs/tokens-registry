@@ -13809,5 +13809,37 @@
     "symbol": "VANA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51404/thumb/logo.png?1731086679"
+  },
+  {
+    "chainId": 137,
+    "address": "0xb36b62929762acf8a9cc27ecebf6d353ebb48244",
+    "name": "Sharp Token",
+    "symbol": "SHARP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69558/thumb/sharp-token-logo-200x200.png?1758985724"
+  },
+  {
+    "chainId": 137,
+    "address": "0xaa694b85c6aa5c983d211b50e27d2d4b8109589a",
+    "name": "Nakama Coin",
+    "symbol": "NAKAMA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69300/thumb/NAKAMA-Token-Logo-512x512.jpg?1758125064"
+  },
+  {
+    "chainId": 137,
+    "address": "0x94195b2b2b5e772aec57d98c55a57dbbfe05b0fc",
+    "name": "CROTCH",
+    "symbol": "CROTCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68017/thumb/Crotch_Token_Logo_200.png?1754598551"
+  },
+  {
+    "chainId": 137,
+    "address": "0xdfffe0c33b4011c4218acd61e68a62a32eaf9a8b",
+    "name": "Regen",
+    "symbol": "REGEN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/16733/thumb/REGEN.png?1696516306"
   }
 ]

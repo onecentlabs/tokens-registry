@@ -5323,5 +5323,18 @@
     "symbol": "VLR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55593/thumb/PNG_Round.png?1746809175"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0633E91f64C22d4FEa53dbE6e77B7BA4093177B8",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
+    }
   }
 ]

@@ -16368,5 +16368,37 @@
     "decimals": 18,
     "address": "0x405FBc9004D857903bFD6b3357792D71a50726b0",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x405FBc9004D857903bFD6b3357792D71a50726b0.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "RETSA",
+    "name": "Retsa Coin",
+    "decimals": 18,
+    "address": "0xCFF0986Dd3FAf244Cae9d876936C33065DE64444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xCFF0986Dd3FAf244Cae9d876936C33065DE64444.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "COAI",
+    "name": "ChainOpera AI",
+    "decimals": 18,
+    "address": "0x0A8D6C86e1bcE73fE4D0bD531e1a567306836EA5",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0A8D6C86e1bcE73fE4D0bD531e1a567306836EA5.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "HANA",
+    "name": "Hana Token",
+    "decimals": 18,
+    "address": "0x6261963EbE9Ff014aAd10eCc3b0238D4D04E8353",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6261963EbE9Ff014aAd10eCc3b0238D4D04E8353.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "MIRA",
+    "name": "Mira",
+    "decimals": 18,
+    "address": "0x7839Fbfd09DaE4d0F15BfB36b8f16f7898FBE684",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7839Fbfd09DaE4d0F15BfB36b8f16f7898FBE684.png"
   }
 ]

@@ -1065,5 +1065,13 @@
     "symbol": "WEETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
+  },
+  {
+    "chainId": 146,
+    "address": "0xf520d737dc03e0dfb81350c6fd27479dd75db88d",
+    "name": "Liquid Sonic Drop",
+    "symbol": "LSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69534/thumb/lsd-logo-small.png?1758954992"
   }
 ]

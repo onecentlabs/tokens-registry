@@ -12618,5 +12618,13 @@
     "symbol": "RSWETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34489/thumb/rswETH_Icon.png?1706865484"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa88a1ed0bac18727a615299ce5f557b8220a33d7",
+    "name": "CROTCH",
+    "symbol": "CROTCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68017/thumb/Crotch_Token_Logo_200.png?1754598551"
   }
 ]

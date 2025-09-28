@@ -70442,5 +70442,72 @@
     "symbol": "RSTR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69505/thumb/It-Remains-RESISTER-TOKEN-symbol.png?1758782310"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc7BD8466606539F06F2ec606D3c08efc181E15E5",
+    "name": "IncomRWA",
+    "symbol": "iRWA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/iRWA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "iRWA"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x4D4eb0E8B160f6EbF63cC6d36060ffec09301B42",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xf442ff10b8def89514560a66c0ad28777094636a",
+    "name": "Wrapped A7A5",
+    "symbol": "WA7A5",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69529/thumb/wA7A5_200.png?1758901113"
+  },
+  {
+    "chainId": 1,
+    "address": "0x742fd09cbbeb1ec4e3d6404dfc959a324deb50e6",
+    "name": "SquiggleStrategy",
+    "symbol": "SQUIGSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69532/thumb/PC9ZS2Ti_400x400.jpg?1758910545"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1fb35614aa19c80eb997adad5f71520e915003c0",
+    "name": "Talisman",
+    "symbol": "SEEK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69549/thumb/talisman-logo-red-black.png?1758959615"
+  },
+  {
+    "chainId": 1,
+    "address": "0x92cedfdbce6e87b595e4a529afa2905480368af4",
+    "name": "ToadzStrategy",
+    "symbol": "TOADSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69557/thumb/toadzstrategy-logo.jpg?1758982583"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeb32e776b75707487d044c5b75462a11f72b905c",
+    "name": "IXFI",
+    "symbol": "IXFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69508/thumb/ixfi-token-logo.png?1758805246"
   }
 ]

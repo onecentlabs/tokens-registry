@@ -477,5 +477,31 @@
       "opListId": "extended",
       "opTokenId": "ZKC"
     }
+  },
+  {
+    "chainId": 84532,
+    "address": "0x0b9241109c725E782Ab841086B4e7F210c80B694",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
+    }
+  },
+  {
+    "chainId": 84532,
+    "address": "0xAbb15Ec7c50BA50661389cEb92FC9D72621E6950",
+    "name": "Wrapped WIT",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WIT"
+    }
   }
 ]
