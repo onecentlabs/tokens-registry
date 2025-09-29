@@ -70509,5 +70509,29 @@
     "symbol": "IXFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69508/thumb/ixfi-token-logo.png?1758805246"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfa1c09fc8b491b6a4d3ff53a10cad29381b3f949",
+    "name": "Falcon Finance",
+    "symbol": "FF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69121/thumb/ff.png?1757573403"
+  },
+  {
+    "chainId": 1,
+    "address": "0x936facdf10c8c36294e7b9d28345255539d81bc7",
+    "name": "RockSolid rETH",
+    "symbol": "ROCK.RETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69567/thumb/ROCK_token_icon.png?1759056009"
+  },
+  {
+    "chainId": 1,
+    "address": "0x83915de0d525bb57a38cd97d9f508cabead6a0d5",
+    "name": "Wrapped XOC",
+    "symbol": "WXOC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69310/thumb/xone.png?1758162745"
   }
 ]

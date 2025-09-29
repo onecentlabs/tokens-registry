@@ -22377,5 +22377,21 @@
     "symbol": "REGEN",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/16733/thumb/REGEN.png?1696516306"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x845f4fbf04d03958be38ff91e43dfb5d40dd8241",
+    "name": "GoChain",
+    "symbol": "GO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/3286/thumb/GoChain.png?1696503996"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x78de5c914b91ee1a1defd2c617f759e74a896b07",
+    "name": "Base Strategy",
+    "symbol": "BASTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69574/thumb/9ybuv783xckyexh76n4lpf135qa4.?1759059338"
   }
 ]

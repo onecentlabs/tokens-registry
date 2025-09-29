@@ -634,5 +634,13 @@
     "symbol": "RSWETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34489/thumb/rswETH_Icon.png?1706865484"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x056a5fa5da84ceb7f93d36e545c5905607d8bd81",
+    "name": "Ether.fi",
+    "symbol": "ETHFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35958/thumb/etherfi.jpeg?1710254562"
   }
 ]

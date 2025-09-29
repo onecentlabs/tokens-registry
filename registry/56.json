@@ -16400,5 +16400,37 @@
     "decimals": 18,
     "address": "0x7839Fbfd09DaE4d0F15BfB36b8f16f7898FBE684",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x7839Fbfd09DaE4d0F15BfB36b8f16f7898FBE684.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "GOATED",
+    "name": "Goat Network",
+    "decimals": 18,
+    "address": "0x5D7909f951436D4e6974D841316057dF3a622962",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5D7909f951436D4e6974D841316057dF3a622962.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "LIGHT",
+    "name": "LIGHT",
+    "decimals": 6,
+    "address": "0x477C2c0459004E3354Ba427FA285D7C053203c0E",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x477C2c0459004E3354Ba427FA285D7C053203c0E.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "XAN",
+    "name": "Anoma",
+    "decimals": 18,
+    "address": "0x7427bd9542e64d1Ac207a540CfCE194B7390a07f",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7427bd9542e64d1Ac207a540CfCE194B7390a07f.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "FF",
+    "name": "Falcon Finance",
+    "decimals": 18,
+    "address": "0xAC23B90A79504865D52B49B327328411a23d4dB2",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xAC23B90A79504865D52B49B327328411a23d4dB2.png"
   }
 ]
