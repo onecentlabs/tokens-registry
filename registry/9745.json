@@ -152,5 +152,61 @@
     "symbol": "WSTUSR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841"
-  }
+  },
+  {
+    "chainId": 9745,
+    "address": "0x92A01Ab7317Ac318b39b00EB6704ba56F0245D7a",
+    "name": "trillions",
+    "symbol": "trillions",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69560/standard/trillions.png?1759039612"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xE13E223116b9F53238A228d7DC9159786FfF502A",
+    "name": "Sparkle",
+    "symbol": "SPARK",
+    "decimals": 18,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/d0f11a422d97abbb3e4a38226cd3a631aeddc4db89ebd7b987bd2c93d1c741be"
+  }, 
+  {
+    "chainId": 9745,
+    "address": "0xfC8A5aeEfAd8cC23f629489Cdc6b0Ec883D04702",
+    "name": "BANKLESS",
+    "symbol": "BANKLESS",
+    "decimals": 18,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/a237b293803fff90df6a92d02a405a5e3cc409795aa4a84261a939fd7a622897"
+  }, 
+  {
+    "chainId": 9745,
+    "address": "0xDab1D6f39A375e643752BD2c5A374a933cbeec72",
+    "name": "Xploy",
+    "symbol": "Xploy",
+    "decimals": 18,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/fb454a04a2964f2a001c40322aeaf75543edf4657fc0cd315e1c9c74bd0a069c"
+  }, 
+  {
+    "chainId": 9745,
+    "address": "0x54Ef95b1eb3024e578b429B2883aB888A12a96A9",
+    "name": "LUNA",
+    "symbol": "LUNA",
+    "decimals": 18,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/0e51138cf2d4d29570103ba19f2c8ceaf381c8095064d8d87b2bf5a8a6724280"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xc328eBA438550736E8Fa053A1B990783FCa8a047",
+    "name": "TREVEE",
+    "symbol": "TREVEE",
+    "decimals": 18,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/02db979b28da03b9e1fd816e3d4d7d685ff498c552809e717c50ec861f3901bd"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x6d4573f3fC333fD196b6fdB90a13e81dC52F6097",
+    "name": "Plasmatic Instant Payment System",
+    "symbol": "PIPS",
+    "decimals": 18,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/56c9b8e6604b49d56e29cbda9e03edc651cd184b075d1447c1a67ce1091164a4"
+  } 
 ]
