@@ -87,7 +87,7 @@
     "mode": "mainnet",
     "multicall": "0xcA11bde05977b3631167028862bE2a173976CA11",
     "properties": {
-      "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/plasma-light.svg",
+      "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/plasma-dark.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/9745.json",
       "explorers": [
         "https://plasmascan.to/"
@@ -1219,7 +1219,7 @@
     "mode": "mainnet",
     "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
-      "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/hyperevm-light.svg",
+      "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/hyperevm-dark.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/999.json",
       "explorers": [
         "https://purrsec.com/",
