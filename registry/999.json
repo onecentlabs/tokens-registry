@@ -833,5 +833,13 @@
     "symbol": "UPHL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69562/thumb/uphl_.png?1759040242"
+  },
+  {
+    "chainId": 999,
+    "address": "0xf9775085d726e782e83585033b58606f7731ab18",
+    "name": "Universal BTC",
+    "symbol": "UNIBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
   }
 ]

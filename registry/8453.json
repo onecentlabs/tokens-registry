@@ -22393,5 +22393,53 @@
     "symbol": "BASTR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69574/thumb/9ybuv783xckyexh76n4lpf135qa4.?1759059338"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x492ae2107f952b02f2554ce153841933c09d6d43",
+    "name": "BiomeAI",
+    "symbol": "BIOMEAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69598/thumb/logo.png?1759206285"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x76a9a0062ec6712b99b4f63bd2b4270185759dd5",
+    "name": "Parallel USDp",
+    "symbol": "USDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x729f75aff28c726e32403e80cef2afb518cfbfa7",
+    "name": "Wrapped Aave Base EURC",
+    "symbol": "WABASEURC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69614/thumb/wabaseurc.png?1759222065"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa749de6c28262b7ffbc5de27dc845dd7ecd2b358",
+    "name": "zkVerify",
+    "symbol": "VFY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69223/thumb/download.png?1758953448"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9c4315eb7ba91b7bdc1727ad5f76ea4ac8875506",
+    "name": "Gooner",
+    "symbol": "GONNER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69611/thumb/image-2025-09-27-104749.png?1759220364"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
+    "name": "Stables Labs Staked USDX",
+    "symbol": "SUSDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50836/thumb/sUSDX200px.png?1731906119"
   }
 ]

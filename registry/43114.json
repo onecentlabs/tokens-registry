@@ -5882,5 +5882,21 @@
     "symbol": "ORDER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc5718c4c91e9d051b082e02b1138ab5b6a01dcd1",
+    "name": "LayerZero Bridged TRX (Avalanche)",
+    "symbol": "TRX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69612/thumb/trx.png?1759221091"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x94f9bb5c972285728dcee7eaece48bec2ff341ce",
+    "name": "Staked Stream USD",
+    "symbol": "XUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67383/thumb/xusd.jpg?1752627749"
   }
 ]

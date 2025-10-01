@@ -16432,5 +16432,21 @@
     "decimals": 18,
     "address": "0xAC23B90A79504865D52B49B327328411a23d4dB2",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xAC23B90A79504865D52B49B327328411a23d4dB2.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BTG",
+    "name": "Bitgold",
+    "decimals": 18,
+    "address": "0x4C9027E10c5271Efca82379D3123917AE3F2374e",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4C9027E10c5271Efca82379D3123917AE3F2374e.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "EDEN",
+    "name": "Eden Token",
+    "decimals": 18,
+    "address": "0x235B6fe22B4642aDa16D311855c49Ce7DE260841",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x235B6fe22B4642aDa16D311855c49Ce7DE260841.png"
   }
 ]

@@ -1073,5 +1073,13 @@
     "symbol": "LSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69534/thumb/lsd-logo-small.png?1758954992"
+  },
+  {
+    "chainId": 146,
+    "address": "0x08417cdb7f52a5021bb4eb6e0deaf3f295c3f182",
+    "name": "Parallel USDp",
+    "symbol": "USDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769"
   }
 ]
