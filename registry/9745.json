@@ -208,5 +208,37 @@
     "symbol": "PIPS",
     "decimals": 18,
     "logoURI": "https://cdn.dexscreener.com/cms/images/56c9b8e6604b49d56e29cbda9e03edc651cd184b075d1447c1a67ce1091164a4"
-  } 
+  },
+  {
+    "chainId": 9745,
+    "address": "0xd516188daf64efa04a8d60872f891f2cc811a561",
+    "name": "PT USDai 19MAR2026",
+    "symbol": "PT-USDai-19MAR2026",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/9745/usdai.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x8e05bf8df95134a95d3513d5e0a0030abc39f2a3",
+    "name": "YT USDai 19MAR2026",
+    "symbol": "YT-USDai-19MAR2026",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/9745/usdai.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xedac81b27790e0728f54dea3b7718e5437e85353",
+    "name": "PT Staked USDai 19MAR2026",
+    "symbol": "PT-sUSDai-19MAR2026",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/9745/susdai.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xf043ab55e8abac03fa4eeaa5102d8ca89e31fbe3",
+    "name": "YT Staked USDai 19MAR2026",
+    "symbol": "YT-sUSDai-19MAR2026",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/9745/susdai.svg"
+  }
 ]
