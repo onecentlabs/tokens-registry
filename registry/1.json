@@ -70989,5 +70989,149 @@
     "symbol": "EDEN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68283/thumb/eden.png?1755242478"
+  },
+  {
+    "chainId": 1,
+    "address": "0x40caa7912437002ee2c8415d43e7f575c733674c",
+    "name": "Currency One USD",
+    "symbol": "C1USD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69700/thumb/C1USD.webp?1759327591"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6c0aeceedc55c9d55d8b99216a670d85330941c3",
+    "name": "Parallel Governance",
+    "symbol": "PRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0e60ce572a5456b6974d5e7507cc07110dd062a4",
+    "name": "I love puppies ",
+    "symbol": "PUPPIES",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/69710/thumb/25496154_99983acf-5fb1-4e91-a043-8868d0a2ce34.jpeg?1759393653"
+  },
+  {
+    "chainId": 1,
+    "address": "0x311c27827ea53894aa40ad7fab72b43e26fb34b0",
+    "name": "SUI xStock",
+    "symbol": "SUIGX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69713/thumb/Ticker_SUIGx__Company_Name_SUI__size_200x200.png?1759396266"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8499b26bbfc8c3830a37b92e47df2d7cbc0154e9",
+    "name": "Monster xStock",
+    "symbol": "MNSTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69714/thumb/Ticker_MNSTx__Company_Name_Monster__size_200x200.png?1759396354"
+  },
+  {
+    "chainId": 1,
+    "address": "0x26dca88fd7ba245695ed15064c80166ccd15a74c",
+    "name": "Little Pepe",
+    "symbol": "LILPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69680/thumb/logo-trans.png?1759285021"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa89f4ca08f729364f0e1ce657c4b6d5ea60e1f91",
+    "name": "Pepe Strategy",
+    "symbol": "PEPESTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69717/thumb/Twitter02.jpg?1759398546"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3c41c80b966b92d345dc8fc91e5508bc7248da6e",
+    "name": "Crypto Sustainable Token",
+    "symbol": "CST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69725/thumb/IMG_20251001_144530_310.jpg?1759401061"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5422374b27757da72d5265cc745ea906e0446634",
+    "name": "USD CoinVertible",
+    "symbol": "USDCV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69726/thumb/usd-coinvertible.png?1759401966"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf9962329a1e9fa84836d2f37640d7012fb588e9d",
+    "name": "We Love Dogs",
+    "symbol": "DOGS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69727/thumb/We_Love_Dogs.jpg?1759402287"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7575c2e267a1a2ff98ac65bc26d40c948989031b",
+    "name": "WorldAssets",
+    "symbol": "INC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69686/thumb/worldassets_400x400.jpg?1759307208"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e6f6d696e61decd6605bd4a57836c5db6923340",
+    "name": "Nomina",
+    "symbol": "NOM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69687/thumb/nomina_400x400.jpg?1759312531"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfe0ccc9942e98c963fe6b4e5194eb6e3baa4cb64",
+    "name": "Staked YUSD",
+    "symbol": "SYUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69737/thumb/sYUSD.png?1759476764"
+  },
+  {
+    "chainId": 1,
+    "address": "0x199e2cfaf8b4f2cc5423971ef3749d1c89cf815c",
+    "name": "Opal",
+    "symbol": "OPAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69738/thumb/Opal.jpg?1759477517"
+  },
+  {
+    "chainId": 1,
+    "address": "0x632f25855c7f98af1c036724fd3dc93d6571932f",
+    "name": "BabyManyu",
+    "symbol": "BABYMANYU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69759/thumb/BabyManyu.jpg?1759489569"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcdfb58c8c859cb3f62ebe9cf2767f9e036c7fb15",
+    "name": "BitFi Bitcoin",
+    "symbol": "BFBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/69326/thumb/bfBTC-logo-symbol-color.png?1758193458"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+    "name": "ZEROBASE",
+    "symbol": "ZBT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69446/thumb/zbt.png?1758621515"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe7c253ead50976caf7b0c2cbca569146a7741b50",
+    "name": "Solv Protocol SolvBTC.BERA",
+    "symbol": "SOLVBTC.BERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69747/thumb/SolvBTC.BERA.png?1759482666"
   }
 ]

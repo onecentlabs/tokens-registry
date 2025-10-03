@@ -5898,5 +5898,13 @@
     "symbol": "XUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/67383/thumb/xusd.jpg?1752627749"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x2775d5105276781b4b85ba6ea6a6653beed1dd32",
+    "name": "Tether Gold Tokens",
+    "symbol": "XAUT0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
   }
 ]

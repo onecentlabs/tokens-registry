@@ -16448,5 +16448,45 @@
     "decimals": 18,
     "address": "0x235B6fe22B4642aDa16D311855c49Ce7DE260841",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x235B6fe22B4642aDa16D311855c49Ce7DE260841.png"
+  },
+  {
+    "name": "RWAL-lendr.fi",
+    "chainId": 56,
+    "symbol": "RWAL",
+    "address": "0x4A61E3217d48b6361b87f598256a8ef71ac913F7",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4A61E3217d48b6361b87f598256a8ef71ac913F7.png"
+  },
+  {
+    "name": "StrikeBit",
+    "chainId": 56,
+    "symbol": "STRIKE",
+    "address": "0x2AA89A0113BcbBcdC5812C6Df794E2D9650fC1AF",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2AA89A0113BcbBcdC5812C6Df794E2D9650fC1AF.png"
+  },
+  {
+    "name": "4",
+    "chainId": 56,
+    "symbol": "4",
+    "address": "0x0A43fC31a73013089DF59194872Ecae4cAe14444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0A43fC31a73013089DF59194872Ecae4cAe14444.png"
+  },
+  {
+    "name": "PoP Planet",
+    "chainId": 56,
+    "symbol": "P",
+    "address": "0x810DF4c7Daf4eE06AE7c621D0680E73a505C9A06",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x810DF4c7Daf4eE06AE7c621D0680E73a505C9A06.png"
+  },
+  {
+    "name": "EVAA",
+    "chainId": 56,
+    "symbol": "EVAA",
+    "address": "0xaa036928c9c0Df07d525B55ea8EE690Bb5a628C1",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xaa036928c9c0Df07d525B55ea8EE690Bb5a628C1.png"
   }
 ]

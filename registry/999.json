@@ -841,5 +841,13 @@
     "symbol": "UNIBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+  },
+  {
+    "chainId": 999,
+    "address": "0x92eb91ac8bc3abe1812c0064e05e667335440d8e",
+    "name": "HypurrStrategy",
+    "symbol": "HYPSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69683/thumb/hypstr.png?1759296797"
   }
 ]

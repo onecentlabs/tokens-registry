@@ -1081,5 +1081,21 @@
     "symbol": "USDP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769"
+  },
+  {
+    "chainId": 146,
+    "address": "0x6646248971427b80ce531bdd793e2eb859347e55",
+    "name": "Wrapped Aave Sonic USDC",
+    "symbol": "WASONUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69684/thumb/wasonusdc.png?1759296986"
+  },
+  {
+    "chainId": 146,
+    "address": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
+    "name": "Parallel Governance",
+    "symbol": "PRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
   }
 ]

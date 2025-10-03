@@ -816,5 +816,21 @@
     "symbol": "RSWETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34489/thumb/rswETH_Icon.png?1706865484"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x51a7688ca5b142456f4c8d44513433485bf599e9",
+    "name": "POLAR AI",
+    "symbol": "POLAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69715/thumb/1.png?1759396535"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x0f6f337b09cb5131cf0ce9df3beb295b8e728f3b",
+    "name": "Solv Protocol SolvBTC.BERA",
+    "symbol": "SOLVBTC.BERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69747/thumb/SolvBTC.BERA.png?1759482666"
   }
 ]

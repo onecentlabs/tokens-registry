@@ -13841,5 +13841,21 @@
     "symbol": "REGEN",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/16733/thumb/REGEN.png?1696516306"
+  },
+  {
+    "chainId": 137,
+    "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+    "name": "Tether Gold Tokens",
+    "symbol": "XAUT0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 137,
+    "address": "0x7790dd69aa10ed3f1271e41cd7222d2a7d2d5948",
+    "name": "Parallel Governance",
+    "symbol": "PRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
   }
 ]

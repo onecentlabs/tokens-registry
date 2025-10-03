@@ -5336,5 +5336,13 @@
       "opListId": "extended",
       "opTokenId": "LITKEY"
     }
+  },
+  {
+    "chainId": 10,
+    "address": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
+    "name": "Parallel Governance",
+    "symbol": "PRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
   }
 ]

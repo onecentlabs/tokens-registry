@@ -12626,5 +12626,29 @@
     "symbol": "CROTCH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68017/thumb/Crotch_Token_Logo_200.png?1754598551"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x40461291347e1ecbb09499f3371d3f17f10d7159",
+    "name": "Tether Gold Tokens",
+    "symbol": "XAUT0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x139450c2dcef827c9a2a0bb1cb5506260940c9fd",
+    "name": "SuperReturn sSuperUSD",
+    "symbol": "SSUPERUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/67821/thumb/sSuperUSD_200x200.png?1753943152"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
+    "name": "Parallel Governance",
+    "symbol": "PRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
   }
 ]

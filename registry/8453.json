@@ -22441,5 +22441,53 @@
     "symbol": "SUSDX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50836/thumb/sUSDX200px.png?1731906119"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xad49e213437313d88517ca13cf164be4f04e2341",
+    "name": "BankrStrategy",
+    "symbol": "BNKSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69702/thumb/2urvwg64e2s0w9fn46gz4hiyrqr2.?1759342147"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xda4c86b5444294a5ba3b806ae7718f1f95cc3120",
+    "name": "Tycoon by Shareland",
+    "symbol": "$TYCOON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69691/thumb/tycoon_pfp.jpg?1759315696"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9f3bb51d5c14aaf53794fe5780c085967dacaf2d",
+    "name": "Blueprint",
+    "symbol": "BP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69730/thumb/blueprint-logo.jpg?1759404265"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x42081cf59a145ca4ca51edcee577fc4be3b35dbd",
+    "name": "Based Zlurpee",
+    "symbol": "ZLURPEE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69742/thumb/1000004624.jpg?1759479133"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa3109f24185ce81b89b9ceead7f81e3b07a61b07",
+    "name": "Sequel",
+    "symbol": "MOVIE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69729/thumb/sequel-logo.jpg?1759404045"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
+    "name": "Parallel Governance",
+    "symbol": "PRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
   }
 ]
