@@ -22489,5 +22489,13 @@
     "symbol": "PRL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd262a4c7108c8139b2b189758e8d17c3dfc91a38",
+    "name": "Cypher",
+    "symbol": "CYPR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69760/thumb/gecko.png?1759490784"
   }
 ]
