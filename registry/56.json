@@ -16488,5 +16488,37 @@
     "address": "0xaa036928c9c0Df07d525B55ea8EE690Bb5a628C1",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xaa036928c9c0Df07d525B55ea8EE690Bb5a628C1.png"
+  },
+  {
+    "name": "WABA Token",
+    "chainId": 56,
+    "symbol": "WABA",
+    "address": "0x7997FC068FC3803DC35f0Ae99ab61ba0b272165e",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7997FC068FC3803DC35f0Ae99ab61ba0b272165e.png"
+  },
+  {
+    "name": "Everlyn Token",
+    "chainId": 56,
+    "symbol": "LYN",
+    "address": "0x302DFaF2CDbE51a18d97186A7384e87CF599877D",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x302DFaF2CDbE51a18d97186A7384e87CF599877D.png"
+  },
+  {
+    "name": "KGEN",
+    "chainId": 56,
+    "symbol": "KGEN",
+    "address": "0xF3d5b4c34Ed623478cc5141861776E6cf7AE3A1E",
+    "decimals": 8,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xF3d5b4c34Ed623478cc5141861776E6cf7AE3A1E.png"
+  },
+  {
+    "name": "币安人生",
+    "chainId": 56,
+    "symbol": "币安人生",
+    "address": "0x924fa68a0FC644485b8df8AbfA0A41C2e7744444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x924fa68a0FC644485b8df8AbfA0A41C2e7744444.png"
   }
 ]

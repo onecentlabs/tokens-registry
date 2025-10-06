@@ -22497,5 +22497,45 @@
     "symbol": "CYPR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69760/thumb/gecko.png?1759490784"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x07d15798a67253d76cea61f0ea6f57aedc59dffb",
+    "name": "Based Coin",
+    "symbol": "BASED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69790/thumb/based_coin.png?1759654799"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x809f5cc7e5af36fd1d6c4d4293b300df5f0c1e2d",
+    "name": "ComputerStrategy",
+    "symbol": "CMPSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69783/thumb/compst.png?1759652446"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x28743c20b1dec3a31bb2a21f8ccd045dd074912e",
+    "name": "Golden Donkey",
+    "symbol": "GDK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69769/thumb/1000004893.jpg?1759560382"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x93402f62aeda632b9d768092b61887c4e9a13079",
+    "name": "Vertical AI",
+    "symbol": "VERTAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51520/thumb/favicon.png?1731449166"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4c7e7371e40b3f8c74dda97e967a47eee6b0b38f",
+    "name": "Liquid Sonic Drop",
+    "symbol": "LSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69534/thumb/lsd-logo-small.png?1758954992"
   }
 ]

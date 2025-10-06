@@ -5906,5 +5906,13 @@
     "symbol": "XAUT0",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xfc87d55bc8bf441abfc24d04b2068a8f77bcfcc0",
+    "name": "MON",
+    "symbol": "MON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37395/thumb/WhatsApp_Image_2024-02-27_at_18.34.45_01762153.jpg?1716261730"
   }
 ]

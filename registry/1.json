@@ -71133,5 +71133,37 @@
     "symbol": "SOLVBTC.BERA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69747/thumb/SolvBTC.BERA.png?1759482666"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3c89cd1884e7bef73ca3ef08d2ef6ec338fd8e49",
+    "name": "Usual EUR",
+    "symbol": "EUR0",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69788/thumb/Type_EUR0.png?1759653391"
+  },
+  {
+    "chainId": 1,
+    "address": "0xca5e50710f656f2e537ce2fc8504db6e24ed3515",
+    "name": "Xcellar",
+    "symbol": "XCL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69791/thumb/photo_2025-10-03_18-20-16.jpg?1759654949"
+  },
+  {
+    "chainId": 1,
+    "address": "0x66fd8de541c0594b4dccdfc13bf3a390e50d3afd",
+    "name": "Turtle",
+    "symbol": "TURTLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69595/thumb/OUDzqTkE_400x400.png?1759166194"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa37db5456b5938aa50b33575ae2eb8048ca5959b",
+    "name": "Data Ownership Protocol 2",
+    "symbol": "DOP2",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69778/thumb/DOP_Logo_Icon_Dark.png?1759580851"
   }
 ]

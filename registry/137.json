@@ -13857,5 +13857,13 @@
     "symbol": "PRL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
+  },
+  {
+    "chainId": 137,
+    "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+    "name": "Wrapped FRAX",
+    "symbol": "WFRAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
   }
 ]

@@ -12650,5 +12650,13 @@
     "symbol": "PRL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3e4ffeb394b371aaaa0998488046ca19d870d9ba",
+    "name": "Mineral Token",
+    "symbol": "MXTK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37683/thumb/MT_32x32_logo_revised_cropped.png?1715216346"
   }
 ]

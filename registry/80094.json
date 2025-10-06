@@ -832,5 +832,13 @@
     "symbol": "SOLVBTC.BERA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69747/thumb/SolvBTC.BERA.png?1759482666"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xeb9b5f4eb023ae754ff59a04c9c038d58606dac6",
+    "name": "Euler",
+    "symbol": "EUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
   }
 ]
