@@ -195,14 +195,6 @@
   },
   {
     "chainId": 9745,
-    "address": "0xc328eBA438550736E8Fa053A1B990783FCa8a047",
-    "name": "TREVEE",
-    "symbol": "TREVEE",
-    "decimals": 18,
-    "logoURI": "https://cdn.dexscreener.com/cms/images/02db979b28da03b9e1fd816e3d4d7d685ff498c552809e717c50ec861f3901bd"
-  },
-  {
-    "chainId": 9745,
     "address": "0x6d4573f3fC333fD196b6fdB90a13e81dC52F6097",
     "name": "Plasmatic Instant Payment System",
     "symbol": "PIPS",
@@ -240,5 +232,21 @@
     "symbol": "YT-sUSDai-19MAR2026",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/9745/susdai.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x8dfb9a39dfab16bffe77f15544b5bf03e377e419",
+    "name": "PT Syrup USDT 29JAN2026",
+    "symbol": "PT-Syrup-USDT-29JAN2026",
+    "decimals": 6,
+    "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/55f1c813-9f03-45ad-aa1d-f0aeea30eb20.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x44920a786043f663693d2ea1c7de8551d90b3213",
+    "name": "YT Syrup USDT 29JAN2026 ",
+    "symbol": "YT-Syrup-USDT-29JAN2026",
+    "decimals": 6,
+    "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5abc9323-0b35-4853-96ce-798e493ddbbb.svg"
   }
 ]
