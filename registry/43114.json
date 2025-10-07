@@ -5914,5 +5914,13 @@
     "symbol": "MON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37395/thumb/WhatsApp_Image_2024-02-27_at_18.34.45_01762153.jpg?1716261730"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+    "name": "Wrapped FRAX",
+    "symbol": "WFRAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
   }
 ]

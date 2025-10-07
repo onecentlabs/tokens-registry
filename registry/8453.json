@@ -22537,5 +22537,29 @@
     "symbol": "LSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69534/thumb/lsd-logo-small.png?1758954992"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf4d7fd100b5b03e51261a2e6a673632ef2c68896",
+    "name": "coinage",
+    "symbol": "COINAGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69827/thumb/w90w10olgv3rm8ziqazxbpevu4vx.?1759767685"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe183b1a4dd59ca732211678eca1836ee35bce582",
+    "name": "D1ckGPT",
+    "symbol": "DICK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69831/thumb/logo_d1ck_%281%29.png?1759769104"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5d4d258144bc954aefc00ee6cbda0433b1b2dcd3",
+    "name": "VitaStem",
+    "symbol": "VITASTEM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69832/thumb/vitastemavatar_ae21d9fc75.png?1759769329"
   }
 ]

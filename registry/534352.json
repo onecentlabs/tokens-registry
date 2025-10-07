@@ -642,5 +642,21 @@
     "symbol": "ETHFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35958/thumb/etherfi.jpeg?1710254562"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x879ba0efe1ab0119fefa745a21585fa205b07907",
+    "name": "Wrapped FRAX",
+    "symbol": "WFRAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x397f939c3b91a74c321ea7129396492ba9cdce82",
+    "name": "Frax USD",
+    "symbol": "FRXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
   }
 ]

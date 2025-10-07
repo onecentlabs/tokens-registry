@@ -1097,5 +1097,13 @@
     "symbol": "PRL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
+  },
+  {
+    "chainId": 146,
+    "address": "0x2117e8b79e8e176a670c9fcf945d4348556bffad",
+    "name": "Euler",
+    "symbol": "EUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
   }
 ]
