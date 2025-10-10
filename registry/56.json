@@ -16520,5 +16520,101 @@
     "address": "0x924fa68a0FC644485b8df8AbfA0A41C2e7744444",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x924fa68a0FC644485b8df8AbfA0A41C2e7744444.png"
+  },
+  {
+    "name": "Palu",
+    "chainId": 56,
+    "symbol": "PALU",
+    "address": "0x02e75d28A8AA2a0033b8cf866fCf0bB0E1eE4444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x02e75d28A8AA2a0033b8cf866fCf0bB0E1eE4444.png"
+  },
+  {
+    "name": "SLIMEX",
+    "chainId": 56,
+    "symbol": "SLX",
+    "address": "0x8A063A9ff4dE28dcB87117cc759BE6cE70e09F81",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8A063A9ff4dE28dcB87117cc759BE6cE70e09F81.png"
+  },
+  {
+    "name": "Klink Finance",
+    "chainId": 56,
+    "symbol": "KLINK",
+    "address": "0x76E9b54B49739837bE8aD10c3687Fc6b543de852",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x76E9b54B49739837bE8aD10c3687Fc6b543de852.png"
+  },
+  {
+    "name": "币安Holder",
+    "chainId": 56,
+    "symbol": "BNBHolder",
+    "address": "0x44440f83419DE123d7d411187aDb9962db017d03",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x44440f83419DE123d7d411187aDb9962db017d03.png"
+  },
+  {
+    "name": "哈基米",
+    "chainId": 56,
+    "symbol": "哈基米",
+    "address": "0x82Ec31D69b3c289E541b50E30681FD1ACAd24444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x82Ec31D69b3c289E541b50E30681FD1ACAd24444.png"
+  },
+  {
+    "name": "客服小何",
+    "chainId": 56,
+    "symbol": "客服小何",
+    "address": "0x3aC8e2c113D5D7824aC6ebe82a3c60b1B9D64444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x3aC8e2c113D5D7824aC6ebe82a3c60b1B9D64444.png"
+  },
+  {
+    "name": "財務自由",
+    "chainId": 56,
+    "symbol": "財務自由",
+    "address": "0xb77a1BD00D9C7FF5e15D70C7f78e4b80E18E4444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb77a1BD00D9C7FF5e15D70C7f78e4b80E18E4444.png"
+  },
+  {
+    "name": "PUP",
+    "chainId": 56,
+    "symbol": "PUP",
+    "address": "0x73b84F7E3901F39FC29F3704a03126D317Ab4444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x73b84F7E3901F39FC29F3704a03126D317Ab4444.png"
+  },
+  {
+    "name": "0x4444",
+    "chainId": 56,
+    "symbol": "0x4444",
+    "address": "0x4444Bd221671F322671Bfdb3F33A653D2B7605c8",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4444Bd221671F322671Bfdb3F33A653D2B7605c8.png"
+  },
+  {
+    "name": "meme rush",
+    "chainId": 56,
+    "symbol": "meme rush",
+    "address": "0x4444B1e4De34Df52cF91E30cc7c0336Ee03D7c1B",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4444B1e4De34Df52cF91E30cc7c0336Ee03D7c1B.png"
+  },
+  {
+    "name": "Phoenix Raise",
+    "chainId": 56,
+    "symbol": "SFUND",
+    "address": "0x1143e83b71faEDAbd5DdB006669972dfa65D1b85",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1143e83b71faEDAbd5DdB006669972dfa65D1b85.png"
+  },
+  {
+    "name": "Treehouse Token",
+    "chainId": 56,
+    "symbol": "TREE",
+    "address": "0x77146784315Ba81904d654466968e3a7c196d1f3",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x77146784315Ba81904d654466968e3a7c196d1f3.png"
   }
 ]

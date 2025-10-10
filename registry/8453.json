@@ -22561,5 +22561,69 @@
     "symbol": "VITASTEM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69832/thumb/vitastemavatar_ae21d9fc75.png?1759769329"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8b12bf09b7c6d73735c6a824f1d74a8b5c1aa5ca",
+    "name": "WAV3 Agentic Music Discovery by Virtuals",
+    "symbol": "WAV3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69900/thumb/WAV.3_Logo_Light.png?1759986335"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x38bd574d791a438921de91b88793254e83c97290",
+    "name": "CDPANDA",
+    "symbol": "$CDPANDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69878/thumb/CDP1.jpg?1759926477"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x032a7252b4932c44bde89aee6275744376a96bff",
+    "name": "Attention Token",
+    "symbol": "ATTN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69885/thumb/token_logo.png?1759940701"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x73582df1cad3187cd0746b7a473d65c06386837e",
+    "name": "DEUS",
+    "symbol": "DEUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69860/thumb/IMG_20251006_091725_260.jpg?1759852293"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe88419a3fc78364cfe3de88080ee4853fab754c6",
+    "name": "ROBA",
+    "symbol": "ROBA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69925/thumb/roba_token_logo.png?1760046050"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84",
+    "name": "US Permissionless Dollar",
+    "symbol": "USPD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69917/thumb/logo_uspd_200_200.png?1760025748"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5fe872bf640e06380b848976c7927827a0f2a3ce",
+    "name": "Pepe Inverted",
+    "symbol": "ƎԀƎԀ",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/31948/thumb/epep-logo-coingecko_.png?1722576800"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x370923d39f139c64813f173a1bf0b4f9ba36a24f",
+    "name": "KRWT",
+    "symbol": "KRWT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69864/thumb/KRWT_Coin_%28200x200px%29.png?1759981566"
   }
 ]

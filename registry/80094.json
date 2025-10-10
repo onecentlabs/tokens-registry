@@ -848,5 +848,13 @@
     "symbol": "FRXUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x71356761fd23e77e5d78c37c70fe78229ca75a72",
+    "name": "Reservoir",
+    "symbol": "DAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68267/thumb/dam.png?1755228740"
   }
 ]

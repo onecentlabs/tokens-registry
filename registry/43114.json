@@ -5922,5 +5922,21 @@
     "symbol": "WFRAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x45cf39eeb437fa95bb9b52c0105254a6bd25d01e",
+    "name": "Wrapped Aave Avalanche AUSD",
+    "symbol": "WAAVAAUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69845/thumb/waausd.png?1759815372"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x53c44c368a11f54b8dc496915dd71bd42bd64a91",
+    "name": "Pepe Inverted",
+    "symbol": "ƎԀƎԀ",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/31948/thumb/epep-logo-coingecko_.png?1722576800"
   }
 ]

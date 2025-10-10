@@ -12666,5 +12666,21 @@
     "symbol": "WFRAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84",
+    "name": "US Permissionless Dollar",
+    "symbol": "USPD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69917/thumb/logo_uspd_200_200.png?1760025748"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+    "name": "RWA Inc.",
+    "symbol": "RWA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50975/thumb/logo_%281%29.png?1732594737"
   }
 ]

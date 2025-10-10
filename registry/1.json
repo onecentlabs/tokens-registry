@@ -71213,5 +71213,162 @@
     "symbol": "IDLE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69402/thumb/200x200.png?1758508141"
+  },
+  {
+    "chainId": 1,
+    "address": "0x88888888a98Cb1525A98c354F17EFc8d73EF07A6",
+    "name": "MVP Token V2",
+    "symbol": "MVP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MVP/logo.png",
+    "extensions": {
+      "worldchainBridgeAddress": "0x470458C91978D2d929704489Ad730DC3E3001113",
+      "opListId": "extended",
+      "opTokenId": "MVP"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x4fdadf176c4d9c9686d7b965bde95758fed63184",
+    "name": "Operon Network",
+    "symbol": "OPERON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69918/thumb/logo__png_%281%29.png?1760028307"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6fb4f9d98f6628bccb8d8576b24460cc89ba1d88",
+    "name": "BunPoodle",
+    "symbol": "BUN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69921/thumb/iXo0KmTG_400x400.jpg?1760029534"
+  },
+  {
+    "chainId": 1,
+    "address": "0x949c255362e21042b26cf6a6b54cbb218b50090c",
+    "name": "Inu Hariko",
+    "symbol": "HARIKO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69922/thumb/Inu_Hariko.png?1760031089"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1eba268081ce1b673b39b39ca423cb8e7cb8e6d1",
+    "name": "UNIDATA",
+    "symbol": "UNIDATA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54116/thumb/unidata_200x200.png?1760031463"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0418fa3488d7e13f0c06ac5f8485d306b5748f4f",
+    "name": "SmartGolf Token",
+    "symbol": "SGI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69851/thumb/SGi_Token.png?1759843864"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdc569024fe7dee9adc4d1a88712a704e0c52a920",
+    "name": "MAGENTA",
+    "symbol": "$MGNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69859/thumb/2_%282%29_%281%29.png?1759852067"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdfc3af477979912ec90b138d3e5552d5304c5663",
+    "name": "PainStrategy",
+    "symbol": "PAINSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69863/thumb/tokenworks.png?1759920387"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc00db6b41473d065027f5ed6fada20fde75f142e",
+    "name": "KRWT",
+    "symbol": "KRWT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69864/thumb/KRWT_Coin_%28200x200px%29.png?1759981566"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd0cc2b0efb168bfe1f94a948d8df70fa10257196",
+    "name": "VibeStrategy",
+    "symbol": "VIBESTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69924/thumb/tokenworks.png?1760032757"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e4039e8e31475d65dc00293c366fdbfbbc02dc3",
+    "name": "Piku Utility Token",
+    "symbol": "PIKU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69876/thumb/PIKU.png?1759918217"
+  },
+  {
+    "chainId": 1,
+    "address": "0x249130f5e2dd4cf278180c0df8273f3592ad1247",
+    "name": "DMT-NAT",
+    "symbol": "NAT",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/69881/thumb/NAT.png?1759931358"
+  },
+  {
+    "chainId": 1,
+    "address": "0x548857309befb6fb6f20a9c5a56c9023d892785b",
+    "name": "Midas Everstake USD",
+    "symbol": "MEVUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69882/thumb/mEVUSD.png?1759936764"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2090dc81f42f6ddd8deace0d3c3339017417b0dc",
+    "name": "CheckStrategy",
+    "symbol": "CHKSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69884/thumb/tokenworks.png?1759939929"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8a80b082df7bd96677ab7a0498836cbfb0e1465b",
+    "name": "Pumpkinhead by 𝓜𝓪𝓽𝓽 𝓕𝓾𝓻𝓲𝓮",
+    "symbol": "PUMPKIN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69904/thumb/IMG_0184.jpeg?1759987055"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa795dadcadbe937c0c67430a2ce56d256cd6f62f",
+    "name": "KNUXX",
+    "symbol": "KNUXX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69916/thumb/IMG_4106.JPG?1759991233"
+  },
+  {
+    "chainId": 1,
+    "address": "0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84",
+    "name": "US Permissionless Dollar",
+    "symbol": "USPD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69917/thumb/logo_uspd_200_200.png?1760025748"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf42fcffc27a5b8d0afec45659407b82f9f32fa98",
+    "name": "Wrapped SAGA",
+    "symbol": "SAGA",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54884/thumb/saga.jpg?1742379892"
+  },
+  {
+    "chainId": 1,
+    "address": "0x084382d1cc4f4dfd1769b1cc1ac2a9b1f8365e90",
+    "name": "Mode",
+    "symbol": "MODE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
   }
 ]

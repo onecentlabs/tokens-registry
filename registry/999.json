@@ -849,5 +849,13 @@
     "symbol": "HYPSTR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69683/thumb/hypstr.png?1759296797"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9a12cb8869498d8826567437abea27be1c2ba9ab",
+    "name": "Hybridge Bridged LINK (HyperEVM)",
+    "symbol": "LINK0",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69846/thumb/link.png?1759820828"
   }
 ]

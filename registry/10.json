@@ -5344,5 +5344,13 @@
     "symbol": "PRL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
+  },
+  {
+    "chainId": 10,
+    "address": "0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84",
+    "name": "US Permissionless Dollar",
+    "symbol": "USPD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69917/thumb/logo_uspd_200_200.png?1760025748"
   }
 ]
