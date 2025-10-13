@@ -22625,5 +22625,37 @@
     "symbol": "KRWT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69864/thumb/KRWT_Coin_%28200x200px%29.png?1759981566"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfb3ad5550ca5730a6f91350032c4da1efdfde3e8",
+    "name": "Phi",
+    "symbol": "PHI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68025/thumb/phi-logo.jpeg?1760167655"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x331ae2af41c4d3a644ceb5dc79a4b900f7a5b60d",
+    "name": "AIxBET",
+    "symbol": "$AXB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69953/thumb/logo-AIXBET-glow1.png?1760169524"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xab51a37ce3a3339fe5611c1a762eef952dd3d808",
+    "name": "Caesar",
+    "symbol": "CAESAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68352/thumb/Caesar_CG.png?1755423967"
   }
 ]

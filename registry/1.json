@@ -71370,5 +71370,45 @@
     "symbol": "MODE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
+  },
+  {
+    "chainId": 1,
+    "address": "0x24b5664083b89ae7c2b7a4a6efea472a6d47314c",
+    "name": "Strategy Punks",
+    "symbol": "$STRPNK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69938/thumb/pfp-1_%281%29.png?1760094294"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeb1d87ffec280e7832bcb47b8756aa0d29589fa6",
+    "name": "Agentify AI",
+    "symbol": "AGF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69941/thumb/Agentify_AI.jpg?1760119514"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe507c2043ef812e95648d1454276387e3b39950b",
+    "name": "IYO-CHAN",
+    "symbol": "IYO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69949/thumb/IYO.png?1760166160"
+  },
+  {
+    "chainId": 1,
+    "address": "0x586675a3a46b008d8408933cf42d8ff6c9cc61a1",
+    "name": "Yield Optimizer Gold",
+    "symbol": "YOGOLD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69957/thumb/yoGOLD.png?1760170324"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0e16bd2cd962fadb4a23ec961bb170ffa25208a8",
+    "name": "HONO Protocol",
+    "symbol": "HONO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69968/thumb/hono-protocol.jpg?1760174817"
   }
 ]

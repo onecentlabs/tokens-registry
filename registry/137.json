@@ -13881,5 +13881,13 @@
     "symbol": "USPD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69917/thumb/logo_uspd_200_200.png?1760025748"
+  },
+  {
+    "chainId": 137,
+    "address": "0x2d34a748427801e5d3da862bf474e2b28e501624",
+    "name": "MPOOL",
+    "symbol": "MULTPOOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69971/thumb/logo_moedampool02.png?1760257128"
   }
 ]

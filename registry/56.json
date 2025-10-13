@@ -16616,5 +16616,61 @@
     "address": "0x77146784315Ba81904d654466968e3a7c196d1f3",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x77146784315Ba81904d654466968e3a7c196d1f3.png"
+  },
+  {
+    "name": "修仙",
+    "chainId": 56,
+    "symbol": "修仙",
+    "address": "0x44443dd87EC4d1bEa3425AcC118Adb023f07F91b",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x44443dd87EC4d1bEa3425AcC118Adb023f07F91b.png"
+  },
+  {
+    "name": "MarsCoin",
+    "chainId": 56,
+    "symbol": "MarsCoin",
+    "address": "0x444416A582466fDAE0f2Fcdf0A859675f8fF6e9f",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x444416A582466fDAE0f2Fcdf0A859675f8fF6e9f.png"
+  },
+  {
+    "name": "奶龙",
+    "chainId": 56,
+    "symbol": "奶龙",
+    "address": "0x44448aCa77cc60e77c90B6A60851b1BB843CC2ee",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x44448aCa77cc60e77c90B6A60851b1BB843CC2ee.png"
+  },
+  {
+    "name": "Plume",
+    "chainId": 56,
+    "symbol": "PLUME",
+    "address": "0x5aFadCd1E8E3CA78Ee2D37100102f2aec8Bc0Aa8",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5aFadCd1E8E3CA78Ee2D37100102f2aec8Bc0Aa8.png"
+  },
+  {
+    "name": "Beeple AI",
+    "chainId": 56,
+    "symbol": "BPAI",
+    "address": "0x7bcd1bC43afFDF85b18C5a7F8A9EF547A19B96b8",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7bcd1bC43afFDF85b18C5a7F8A9EF547A19B96b8.png"
+  },
+  {
+    "name": "Creditlink",
+    "chainId": 56,
+    "symbol": "CDL",
+    "address": "0x84575b87395c970F1F48E87d87a8dB36Ed653716",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x84575b87395c970F1F48E87d87a8dB36Ed653716.png"
+  },
+  {
+    "name": "Seedify",
+    "chainId": 56,
+    "symbol": "SFUND",
+    "address": "0xffDA10b7fd9Cf172e0502A6Bc0e5E355516c5232",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xffDA10b7fd9Cf172e0502A6Bc0e5E355516c5232.png"
   }
 ]
