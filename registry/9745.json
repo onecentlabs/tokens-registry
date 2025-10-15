@@ -248,5 +248,13 @@
     "symbol": "YT-Syrup-USDT-29JAN2026",
     "decimals": 6,
     "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5abc9323-0b35-4853-96ce-798e493ddbbb.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xAbB48792A3161E81B47cA084c0b7A22a50324A44",
+    "name": "Lithos",
+    "symbol": "LITH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/9745/lith.svg"
   }
 ]
