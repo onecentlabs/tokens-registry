@@ -71410,5 +71410,85 @@
     "symbol": "HONO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69968/thumb/hono-protocol.jpg?1760174817"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe556aba6fe6036275ec1f87eda296be72c811bce",
+    "name": "NUSD",
+    "symbol": "NUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70027/thumb/NUSD-200x200.png?1760452629"
+  },
+  {
+    "chainId": 1,
+    "address": "0x08efcc2f3e61185d0ea7f8830b3fec9bfa2ee313",
+    "name": "sNUSD",
+    "symbol": "SNUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70028/thumb/sNUSD-200x200.png?1760452644"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaeeaa594e7dc112d67b8547fe9767a02c15b5597",
+    "name": "Anvil",
+    "symbol": "ANVL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50825/thumb/anvil.png?1744709012"
+  },
+  {
+    "chainId": 1,
+    "address": "0x62ebb84599d491d0e63a2c591b2f89aa0029390e",
+    "name": "Little Pepe",
+    "symbol": "LILPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69990/thumb/logo.png?1760323469"
+  },
+  {
+    "chainId": 1,
+    "address": "0x699f088b5dddcafb7c4824db5b10b57b37cb0c66",
+    "name": "Enso",
+    "symbol": "ENSO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66537/thumb/enso.jpg?1749697301"
+  },
+  {
+    "chainId": 1,
+    "address": "0x74697d4fd0536c6885334b11d5c6dbf58729369f",
+    "name": "NEKO",
+    "symbol": "NEKO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70024/thumb/9f57b00b-88df-4174-9711-8825907f766d.jpeg?1760437249"
+  },
+  {
+    "chainId": 1,
+    "address": "0x192675d1e131b9e339f16603e21b01a845d8c21e",
+    "name": "ShareToken",
+    "symbol": "SHR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/3609/thumb/SHR_Icon_Blue.png?1760503223"
+  },
+  {
+    "chainId": 1,
+    "address": "0x01791f726b4103694969820be083196cc7c045ff",
+    "name": "Yield Basis",
+    "symbol": "YB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54871/thumb/yieldbasis_400x400.png?1760514173"
+  },
+  {
+    "chainId": 1,
+    "address": "0x14d0d41c101a99ca55c622b0c6eb69c79b6689d4",
+    "name": "Y8U AI",
+    "symbol": "Y8U",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70080/thumb/logo.png?1760515608"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa882606494d86804b5514e07e6bd2d6a6ee6d68a",
+    "name": "Wrapped Pulse",
+    "symbol": "WPLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30432/thumb/pulse.jpeg?1696529320"
   }
 ]

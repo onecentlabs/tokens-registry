@@ -16672,5 +16672,61 @@
     "address": "0xffDA10b7fd9Cf172e0502A6Bc0e5E355516c5232",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xffDA10b7fd9Cf172e0502A6Bc0e5E355516c5232.png"
+  },
+  {
+    "name": "Yei Finance",
+    "chainId": 56,
+    "symbol": "CLO",
+    "address": "0x81D3A238b02827F62B9f390f947D36d4A5bf89D2",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x81D3A238b02827F62B9f390f947D36d4A5bf89D2.png"
+  },
+  {
+    "name": "GriffinAI",
+    "chainId": 56,
+    "symbol": "GAIN",
+    "address": "0xa890F8BA60051ec8a5B528F056DA362Ba208a96F",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xa890F8BA60051ec8a5B528F056DA362Ba208a96F.png"
+  },
+  {
+    "name": "Enso",
+    "chainId": 56,
+    "symbol": "ENSO",
+    "address": "0xfeB339236d25D3E415F280189bC7C2FBAb6ae9ef",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xfeB339236d25D3E415F280189bC7C2FBAb6ae9ef.png"
+  },
+  {
+    "name": "WhiteBridge",
+    "chainId": 56,
+    "symbol": "WBAI",
+    "address": "0x635d44F246156ed1080CB470877256c847673f19",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x635d44F246156ed1080CB470877256c847673f19.png"
+  },
+  {
+    "name": "Yield Basis (Bridged)",
+    "chainId": 56,
+    "symbol": "YB",
+    "address": "0xFB93EE8152dd0a0e6F4b49C66c06d800Cf1Db72d",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xFB93EE8152dd0a0e6F4b49C66c06d800Cf1Db72d.png"
+  },
+  {
+    "name": "ApeCoin",
+    "chainId": 56,
+    "symbol": "APE",
+    "address": "0x8f86a15EC17cb3369d8b3E666dAdBC11daA82b79",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8f86a15EC17cb3369d8b3E666dAdBC11daA82b79.png"
+  },
+  {
+    "name": "SUBHUB",
+    "chainId": 56,
+    "symbol": "SUBHUB",
+    "address": "0x9EFdAE4D959365349Fcd7c7EaE1f38DdCb25068c",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9EFdAE4D959365349Fcd7c7EaE1f38DdCb25068c.png"
   }
 ]

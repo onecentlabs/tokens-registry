@@ -857,5 +857,21 @@
     "symbol": "LINK0",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69846/thumb/link.png?1759820828"
+  },
+  {
+    "chainId": 999,
+    "address": "0xc12e26ab94d1e62f18373cf25e43afa7b2af1cdc",
+    "name": "Rekt",
+    "symbol": "REKT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51727/thumb/rektcion_trans_200px.png?1731910587"
+  },
+  {
+    "chainId": 999,
+    "address": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa",
+    "name": "Mantle Restaked ETH",
+    "symbol": "CMETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51114/thumb/symbol.png?1730117724"
   }
 ]

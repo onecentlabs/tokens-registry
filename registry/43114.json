@@ -5938,5 +5938,21 @@
     "symbol": "ƎԀƎԀ",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/31948/thumb/epep-logo-coingecko_.png?1722576800"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x297731eb3cab3834525fc9ea061fd71d8f4645c9",
+    "name": "Blaze",
+    "symbol": "BLAZE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69996/thumb/blazetoken200.jpg?1760338523"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0f875ae3eb1fc8a3289657676fc2a288585982a5",
+    "name": "Rekt",
+    "symbol": "REKT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51727/thumb/rektcion_trans_200px.png?1731910587"
   }
 ]

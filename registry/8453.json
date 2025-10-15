@@ -22657,5 +22657,69 @@
     "symbol": "CAESAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68352/thumb/Caesar_CG.png?1755423967"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1fc11c079a3432b42f27527a272d1cde7af1a745",
+    "name": "Metalos",
+    "symbol": "METALOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70019/thumb/xa7e2x2ynfo6v14x5xriv420e1yb.?1760358259"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x225530e4afcdb5eccb96af7a45d94452a10a3879",
+    "name": "Toyow Token",
+    "symbol": "TTN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70026/thumb/undefined.png?1760449321"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa123c72c3995968213c27b3edd8128f4cae62f4e",
+    "name": "Based Neko",
+    "symbol": "NEKO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70006/thumb/UIYPpFog_400x400_%281%29.jpg?1760346125"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe0969ec84456b7e4d3dd2181fb5265edbb63f7bd",
+    "name": "Fleek",
+    "symbol": "FLK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55348/thumb/flk-Logo-256_%281%29.png?1760435354"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1f16e03c1a5908818f47f6ee7bb16690b40d0671",
+    "name": "Recall",
+    "symbol": "RECALL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69994/thumb/recall-logo.jpeg?1760337415"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+    "name": "ZEROBASE",
+    "symbol": "ZBT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69446/thumb/zbt.png?1758621515"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0a4c9cb2778ab3302996a34befcf9a8bc288c33b",
+    "name": "XSGD",
+    "symbol": "XSGD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/12832/thumb/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1696512623"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe67f39fbe8c24ef8b3542efed1ee9963cefc1f2a",
+    "name": "ANyONe Protocol",
+    "symbol": "ANYONE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29690/thumb/AirTor.png?1696528623"
   }
 ]

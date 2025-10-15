@@ -1105,5 +1105,13 @@
     "symbol": "EUL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
+  },
+  {
+    "chainId": 146,
+    "address": "0xf9f143705b2bbde9b4abfd0320f328ae59364f5e",
+    "name": "GammaSwap",
+    "symbol": "GS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29222/thumb/gstokenlogo500x500.png?1747484190"
   }
 ]

@@ -13889,5 +13889,13 @@
     "symbol": "MULTPOOL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69971/thumb/logo_moedampool02.png?1760257128"
+  },
+  {
+    "chainId": 137,
+    "address": "0xae840deab9916d80fadf42e218119a6051468169",
+    "name": "ElevateFi",
+    "symbol": "EFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70007/thumb/EFI_Transperent_1755852921083-Dc7YZe11.png?1760347038"
   }
 ]

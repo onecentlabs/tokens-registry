@@ -856,5 +856,13 @@
     "symbol": "DAM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68267/thumb/dam.png?1755228740"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x5bad2b7a0a2eee88a4ef05d5470cdedb0ff948ea",
+    "name": "Origami hOHM",
+    "symbol": "HOHM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66457/thumb/hOHM_200px.png?1749435178"
   }
 ]
