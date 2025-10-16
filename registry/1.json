@@ -71490,5 +71490,21 @@
     "symbol": "WPLS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/30432/thumb/pulse.jpeg?1696529320"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9df9b5a26a5b62a2090cd0ebc6df626e0d4ead09",
+    "name": "Manyufest",
+    "symbol": "MFEST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70085/thumb/IMG_9151.jpeg?1760539917"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaf35c5c0a140baadc82f88f278893835d9c608c0",
+    "name": "Maxi Doge",
+    "symbol": "MAXI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70101/thumb/logo.png?1760556974"
   }
 ]

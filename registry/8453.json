@@ -22721,5 +22721,13 @@
     "symbol": "ANYONE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29690/thumb/AirTor.png?1696528623"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8a910ea80fc09d5b5a2120521a39b67980df0bc4",
+    "name": "Blue Pepe",
+    "symbol": "BLUPEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70087/thumb/eIgsk44T_400x400_%281%29.jpg?1760540132"
   }
 ]

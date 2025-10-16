@@ -5954,5 +5954,13 @@
     "symbol": "REKT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51727/thumb/rektcion_trans_200px.png?1731910587"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x13a466998ce03db73abc2d4df3bbd845ed1f28e7",
+    "name": "Pharaoh",
+    "symbol": "PHAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70102/thumb/PHAROAH.jpg?1760558123"
   }
 ]
