@@ -16728,5 +16728,29 @@
     "address": "0x9EFdAE4D959365349Fcd7c7EaE1f38DdCb25068c",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x9EFdAE4D959365349Fcd7c7EaE1f38DdCb25068c.png"
+  },
+  {
+    "name": "hold.meme",
+    "chainId": 56,
+    "symbol": "HOLD",
+    "address": "0xe5f406b2F03ae715CBcF287c0Dfa579eFb2F401D",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xe5f406b2F03ae715CBcF287c0Dfa579eFb2F401D.png"
+  },
+  {
+    "name": "Big Cousin",
+    "chainId": 56,
+    "symbol": "大表哥",
+    "address": "0x10e6Be28f2520E499288Ba4A9A07486E3F574444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x10e6Be28f2520E499288Ba4A9A07486E3F574444.png"
+  },
+  {
+    "name": "Anome",
+    "chainId": 56,
+    "symbol": "Anome",
+    "address": "0x6BC3855827fa6EE1229C937A26BB9fCA1a0FfBf0",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6BC3855827fa6EE1229C937A26BB9fCA1a0FfBf0.png"
   }
 ]

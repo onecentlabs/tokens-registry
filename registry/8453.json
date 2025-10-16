@@ -22729,5 +22729,53 @@
     "symbol": "BLUPEPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70087/thumb/eIgsk44T_400x400_%281%29.jpg?1760540132"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc17dda248e2d50fc006d8febb5a406dd31972712",
+    "name": "Anyspend",
+    "symbol": "ANY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70109/thumb/anyspend_200x200.png?1760601442"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x56d4938431f7fae7c6741e061aa2683df12256f8",
+    "name": "Bull God",
+    "symbol": "BULLGOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70107/thumb/bullgodpfp200.jpg?1760600128"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3e04dee527a90ddfa1fe6f9e12a4d62677d00071",
+    "name": "ZorbyAI",
+    "symbol": "$ZORBYAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70105/thumb/bCDGWFvQ_400x400.jpg?1760599815"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9efdae4d959365349fcd7c7eae1f38ddcb25068c",
+    "name": "SubHub",
+    "symbol": "SUBHUB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70113/thumb/subhub.png?1760607519"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
+    "name": "AllUnity EUR",
+    "symbol": "EURAU",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68076/thumb/EURAU_Full_Colour.png?1754717091"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2a66d51407b84b82b5aff3dec4d49f72cbcd322a",
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32417/thumb/cgicon.png?1747892021"
   }
 ]

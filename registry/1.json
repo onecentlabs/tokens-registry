@@ -71506,5 +71506,45 @@
     "symbol": "MAXI",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/70101/thumb/logo.png?1760556974"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd355765892f334cce93cd3aa37bbb436f147ed37",
+    "name": "Bitcoin Hyper",
+    "symbol": "HYPER",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70103/thumb/logo.jpg?1760598931"
+  },
+  {
+    "chainId": 1,
+    "address": "0xae53d5bdc95e83e956a2f29771b18175abb8273f",
+    "name": "Pofu",
+    "symbol": "POFU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70104/thumb/200x200.png?1760599272"
+  },
+  {
+    "chainId": 1,
+    "address": "0xef7e187431763c33208e378a341cc87212d06de2",
+    "name": "Genesis",
+    "symbol": "GXN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70111/thumb/Genesis.jpg?1760602844"
+  },
+  {
+    "chainId": 1,
+    "address": "0x67d4fe3a284a1c86226494bbec3409f55a663c94",
+    "name": "Mama Coin",
+    "symbol": "MAMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70114/thumb/mobileLogo.png?1760609191"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbb8954f008016055fda6aa1c27fa769578cae213",
+    "name": "NeurochainAI",
+    "symbol": "NCN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38116/thumb/logo_blue.png?1719960893"
   }
 ]

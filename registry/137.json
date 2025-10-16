@@ -13897,5 +13897,13 @@
     "symbol": "EFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70007/thumb/EFI_Transperent_1755852921083-Dc7YZe11.png?1760347038"
+  },
+  {
+    "chainId": 137,
+    "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
+    "name": "AllUnity EUR",
+    "symbol": "EURAU",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68076/thumb/EURAU_Full_Colour.png?1754717091"
   }
 ]
