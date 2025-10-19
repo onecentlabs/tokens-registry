@@ -71546,5 +71546,82 @@
     "symbol": "NCN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38116/thumb/logo_blue.png?1719960893"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfF339098db35808Dca9F3b072031DD9dec68bbb6",
+    "name": "Attention Token",
+    "symbol": "ATTN",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/ATTN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ATTN"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xa37f4d2dc3d3c136b68fcf52be3afa09d4dfc38d",
+    "name": "Matt Strategy",
+    "symbol": "MATTSTR",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70124/thumb/logo.jpg?1760659172"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3ca20831ebea5c99aa6e574d83f0a7c733f7e4d0",
+    "name": "ChimpStrategy",
+    "symbol": "CHMPSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70153/thumb/chmpstr.jpeg?1760778945"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe266fa5a0daf2d4b5a5da1bab57aff26e4406efa",
+    "name": "Chis AI",
+    "symbol": "CHISAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70139/thumb/logo.jpg?1760744422"
+  },
+  {
+    "chainId": 1,
+    "address": "0x79801ac51d18543579d26c5b392581d17b273b89",
+    "name": "Bro",
+    "symbol": "BRO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70125/thumb/logo.png?1760688823"
+  },
+  {
+    "chainId": 1,
+    "address": "0x03c285e96b929983854cb75875f772627c0f6159",
+    "name": "Vision",
+    "symbol": "VSN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70126/thumb/VSN_logo.png?1760692894"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3991b07b2951a4300da8c76e7d2c7edde861fef3",
+    "name": "UXLINK",
+    "symbol": "UXLINK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39229/thumb/uxlink.jpg?1721201390"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcafe5de18756817d98f4603f6828397406d4cafe",
+    "name": "Witnet",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/11109/thumb/wit.png?1696511049"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9b3a8f7cec208e247d97dee13313690977e24459",
+    "name": "Parallel USDp",
+    "symbol": "USDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769"
   }
 ]

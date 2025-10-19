@@ -503,5 +503,18 @@
       "opListId": "extended",
       "opTokenId": "WIT"
     }
+  },
+  {
+    "chainId": 84532,
+    "address": "0xcebada5B9a5F3663a346c51b3588A2Fcb81eB23D",
+    "name": "Witnet",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WIT"
+    }
   }
 ]

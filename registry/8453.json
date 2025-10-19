@@ -22777,5 +22777,70 @@
     "symbol": "BEAM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32417/thumb/cgicon.png?1747892021"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xecA139be1214322752B4e427b1800Fd3e8037bF8",
+    "name": "Districts Token",
+    "symbol": "DSTRX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DSTRX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DSTRX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5e64c9049455b3bB6E9fbDC33565fa313BAe9B53",
+    "name": "Realio Network",
+    "symbol": "RIO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RIO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "RIO"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5b8a5b8e97292feff3a4a45aaf4a64c14fda27f6",
+    "name": "grif_gg",
+    "symbol": "GRIF_GG",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfb1b73a861104b36049d1b6c0a0eb76a608ce5f7",
+    "name": "PrimeLayer",
+    "symbol": "PRML",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70143/thumb/2025-10-15_18.14.08.jpg?1760775887"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x83f31af747189c2fa9e5deb253200c505eff6ed2",
+    "name": "Wrapped ZEC (Universal)",
+    "symbol": "UZEC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70118/thumb/UA-ZEC-1_1_%281%29.png?1760649664"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4fe0dec6790f5f380b671142ad229219c16afe0e",
+    "name": "Zaia by Virtuals",
+    "symbol": "ZAIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70121/thumb/ha822qai7yjtmumwmyjmdfavdz8m.?1760652413"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcafe5de18756817d98f4603f6828397406d4cafe",
+    "name": "Witnet",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/11109/thumb/wit.png?1696511049"
   }
 ]

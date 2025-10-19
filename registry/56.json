@@ -16752,5 +16752,29 @@
     "address": "0x6BC3855827fa6EE1229C937A26BB9fCA1a0FfBf0",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x6BC3855827fa6EE1229C937A26BB9fCA1a0FfBf0.png"
+  },
+  {
+    "name": "SavannaSurvival",
+    "chainId": 56,
+    "symbol": "SVSA",
+    "address": "0x395603B95D721084c1917aFfDD06D78E559Fa94d",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x395603B95D721084c1917aFfDD06D78E559Fa94d.png"
+  },
+  {
+    "name": "REVIVE",
+    "chainId": 56,
+    "symbol": "RVV",
+    "address": "0x80563Fc2dd549bf36f82d3bF3b970Bb5b08dBDdb",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x80563Fc2dd549bf36f82d3bF3b970Bb5b08dBDdb.png"
+  },
+  {
+    "name": "Heroes of Mavia",
+    "chainId": 56,
+    "symbol": "MAVIA",
+    "address": "0x24fcFC492C1393274B6bcd568ac9e225BEc93584",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x24fcFC492C1393274B6bcd568ac9e225BEc93584.png"
   }
 ]

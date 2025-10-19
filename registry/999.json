@@ -881,5 +881,13 @@
     "symbol": "HWAVE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/999/hwave.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0xbe65f0f410a72bec163dc65d46c83699e957d588",
+    "name": "Parallel USDp",
+    "symbol": "USDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769"
   }
 ]

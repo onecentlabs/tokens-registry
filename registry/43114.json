@@ -5962,5 +5962,21 @@
     "symbol": "PHAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70102/thumb/PHAROAH.jpg?1760558123"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x26e9dbe75aed331e41272bece932ff1b48926ca9",
+    "name": "Pharaoh Liquid Staking Token",
+    "symbol": "P33",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70131/thumb/p33.png?1760694957"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9ee1963f05553ef838604dd39403be21cef26aa4",
+    "name": "Parallel USDp",
+    "symbol": "USDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769"
   }
 ]
