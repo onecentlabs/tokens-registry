@@ -22842,5 +22842,82 @@
     "symbol": "WIT",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/11109/thumb/wit.png?1696511049"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xac485391EB2d7D88253a7F1eF18C37f4242D1A24",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LSK"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2bdd3602fc526aa5cc677cd708375dd2f7c4256f",
+    "name": "SYNAP LOGIC",
+    "symbol": "SYP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70186/thumb/2025-10-11_14.36.02.jpg?1760946846"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x42c99e0afd53299d92289e46e34e6f7ec117ae3d",
+    "name": "Dregen",
+    "symbol": "DREGEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70206/thumb/drogern.jpg?1761052849"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x93d6afa0e6f11f4f7e9521ec6243f839526af7a6",
+    "name": "Blue Moon",
+    "symbol": "MOON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70182/thumb/wOU7GraS_400x400_%284%29_%281%29.jpg?1760945565"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4d54e4375b82fd22daa0d8f56e674f49727cdcde",
+    "name": "ChainLeak",
+    "symbol": "CHAINLEAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70210/thumb/2952.png?1761055256"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe2b76f98fb5dc10a9aed0f4a4a854de325740019",
+    "name": "Dolphin",
+    "symbol": "DPHN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70187/thumb/1_to_1_Dolphin_imresizer.jpg?1760947185"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdf2b673ec06d210c8a8be89441f8de60b5c679c9",
+    "name": "Signet",
+    "symbol": "SIGNET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70207/thumb/signet-200.png?1761053048"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xea710d1766760f5dd3e7b6c8e8842af7e33cf9e1",
+    "name": "CryptoEmpressX",
+    "symbol": "CRYPTOEMPRESSXX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70168/thumb/ce_icon.png?1760864468"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb69bbb15095c0949489fbb43951d2b750fa7fa89",
+    "name": "Memento",
+    "symbol": "DEXTF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12634/thumb/Logo_DEXTF_avatar_gradientFG_transparentBG.png?1741774960"
   }
 ]

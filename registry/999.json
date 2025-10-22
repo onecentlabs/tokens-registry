@@ -889,5 +889,21 @@
     "symbol": "USDP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769"
+  },
+  {
+    "chainId": 999,
+    "address": "0x8888888fdaac0e7cf8c6523c8955bf7954c216fa",
+    "name": "Ventuals vHYPE",
+    "symbol": "VHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70200/thumb/vhype.png?1761010927"
+  },
+  {
+    "chainId": 999,
+    "address": "0x03832767bdf9a8ef007449942125ad605acfadb8",
+    "name": "HyperSwap",
+    "symbol": "SWAP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70204/thumb/hyperswap.png?1761045307"
   }
 ]
