@@ -16800,5 +16800,13 @@
     "address": "0x979C9d96825716a9A32F4Bb64AB7daA12D34100b",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x979C9d96825716a9A32F4Bb64AB7daA12D34100b.png"
+  },
+  {
+    "name": "Bluwhale AI",
+    "chainId": 56,
+    "symbol": "BLUAI",
+    "address": "0xed9Ae3DEF8d6F052971Bb8b6d1975FF267Cf9aaD",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xed9Ae3DEF8d6F052971Bb8b6d1975FF267Cf9aaD.png"
   }
 ]
