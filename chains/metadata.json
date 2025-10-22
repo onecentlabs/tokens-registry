@@ -1002,6 +1002,15 @@
     },
     "stablecoins": [
       {
+        "name": "USDT0",
+        "symbol": "USDT0",
+        "type": "ERC20",
+        "chainId": 999,
+        "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+        "decimals": 6,
+        "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg"
+      },
+      {
         "name": "Ethena USDe",
         "symbol": "USDe",
         "type": "ERC20",
