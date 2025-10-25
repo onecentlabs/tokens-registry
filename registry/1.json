@@ -71687,5 +71687,101 @@
     "symbol": "SHX",
     "decimals": 7,
     "logoURI": "https://assets.coingecko.com/coins/images/7427/thumb/Blue_Mark_-_White_BG.png?1696507700"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd26a9c3437f7d121098c8c05c7413f5cc70bb070",
+    "name": "Azuma Coin",
+    "symbol": "AZUM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/10483/thumb/WDncHJ5.png?1696510473"
+  },
+  {
+    "chainId": 1,
+    "address": "0x44f5fd30d04fc3f6b0bd14100e506a9843f19e12",
+    "name": "Doge Strategy",
+    "symbol": "DOGESTR",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70234/thumb/logo.png?1761159044"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf0bb20865277abd641a307ece5ee04e79073416c",
+    "name": "Ether.Fi Liquid ETH",
+    "symbol": "LIQUIDETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70219/thumb/liquideth.png?1761117977"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5a9610919f5e81183823a2be4bd1beb2b4da2a20",
+    "name": "aPriori",
+    "symbol": "APR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70220/thumb/logo-icon-Gradient.png?1761118006"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5a8908c8b7f0a35f3a08a7a1b93b0c4ac928e5f6",
+    "name": "Tapzi",
+    "symbol": "TAPZI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70221/thumb/logo.jpg?1761119327"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf245964bd0a73128e10c4f7c96d0664ea2e436d8",
+    "name": "Maxi Doge",
+    "symbol": "MAXI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70246/thumb/mark.png?1761221859"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbf2a696bb51505d513591eb1b7495760adcfdf5e",
+    "name": "Babygirl",
+    "symbol": "BABYGIRL",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70264/thumb/logo.png?1761304287"
+  },
+  {
+    "chainId": 1,
+    "address": "0x009ba50496d2b0936c5bdf299db2f7e0d6e10469",
+    "name": "VMS Classic",
+    "symbol": "VMC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70243/thumb/VMC_Logo.png?1761200703"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0581ccdf2d9bca21baeff8b32b2551fd49cf70aa",
+    "name": "Apro",
+    "symbol": "AT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70222/thumb/apro.png?1761119633"
+  },
+  {
+    "chainId": 1,
+    "address": "0x33f6be84becff45ea6aa2952d7ef890b44bfb59d",
+    "name": "Orochi Network",
+    "symbol": "ON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70231/thumb/orochi_network.png?1761129486"
+  },
+  {
+    "chainId": 1,
+    "address": "0x356b8d89c1e1239cbbb9de4815c39a1474d5ba7d",
+    "name": "syrupUSDT",
+    "symbol": "SYRUPUSDT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/SyrupUSDT.png?1758823529"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f3a4e37701402c61146071309e45a15843025e1",
+    "name": "3DPass",
+    "symbol": "P3D",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32178/thumb/Logo200x200.png?1696742918"
   }
 ]

@@ -905,5 +905,13 @@
     "symbol": "SWAP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70204/thumb/hyperswap.png?1761045307"
+  },
+  {
+    "chainId": 999,
+    "address": "0x81e064d0eb539de7c3170edf38c1a42cbd752a76",
+    "name": "Hyperbeat LST Vault",
+    "symbol": "LSTHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70218/thumb/lsthype.png?1761116365"
   }
 ]

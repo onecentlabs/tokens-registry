@@ -13913,5 +13913,13 @@
     "symbol": "PLAY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70170/thumb/token-logo-200.png?1760865359"
+  },
+  {
+    "chainId": 137,
+    "address": "0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380",
+    "name": "Flower",
+    "symbol": "FLOWER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55689/thumb/flower_200.png?1747034605"
   }
 ]

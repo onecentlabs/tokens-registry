@@ -16808,5 +16808,13 @@
     "address": "0xed9Ae3DEF8d6F052971Bb8b6d1975FF267Cf9aaD",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xed9Ae3DEF8d6F052971Bb8b6d1975FF267Cf9aaD.png"
+  },
+  {
+    "name": "Orochi Network Token",
+    "chainId": 56,
+    "symbol": "ON",
+    "address": "0x0e4F6209eD984b21EDEA43acE6e09559eD051D48",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0e4F6209eD984b21EDEA43acE6e09559eD051D48.png"
   }
 ]

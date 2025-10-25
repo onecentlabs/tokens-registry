@@ -22919,5 +22919,89 @@
     "symbol": "DEXTF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12634/thumb/Logo_DEXTF_avatar_gradientFG_transparentBG.png?1741774960"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xAfb7D098e38A526091A1D555160913F454CdA8cC",
+    "name": "DRIP",
+    "symbol": "DRIP",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/DRIP/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DRIP"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x380337d0180db7d0df76ac4faae2fcea908ee1fc",
+    "name": "Otto AI",
+    "symbol": "OTTO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70266/thumb/LOGO.png?1761333287"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2e6c4bd1c947e195645d2b920b827498cfaa6766",
+    "name": "Cygnus",
+    "symbol": "CGN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70232/thumb/cgn.png?1761130107"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe095b8127823708dc07e739ef4149050acc836e7",
+    "name": "A.T.M. by BaseVol",
+    "symbol": "ATM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70244/thumb/atm-logo-200x200.png?1761201083"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x29f3c0b678ffbe6c61bdca1054014f02be6c7450",
+    "name": "aneri",
+    "symbol": "ANERI",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd85c31854c2b0fb40aaa9e2fc4da23c21f829d46",
+    "name": "Ping",
+    "symbol": "PING",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70265/thumb/ping-logo.jpg?1761320085"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9eadbe35f3ee3bf3e28180070c429298a1b02f93",
+    "name": "Limitless",
+    "symbol": "LMTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69506/thumb/limitless.png?1758786338"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x151ccc74972a6f85690afe997d0fdd69efdc71fe",
+    "name": "Cyberlife",
+    "symbol": "LIFE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70235/thumb/Cyberlife.png?1761160215"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x623f2774d9f27b59bc6b954544487532ce79d9df",
+    "name": "BitFi Bitcoin",
+    "symbol": "BFBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/69326/thumb/bfBTC-logo-symbol-color.png?1758193458"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+    "name": "FOLKS",
+    "symbol": "FOLKS",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70268/thumb/1000331462.png?1761335326"
   }
 ]
