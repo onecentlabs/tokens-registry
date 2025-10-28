@@ -16816,5 +16816,45 @@
     "address": "0x0e4F6209eD984b21EDEA43acE6e09559eD051D48",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x0e4F6209eD984b21EDEA43acE6e09559eD051D48.png"
+  },
+  {
+    "name": "River Point Reward Token",
+    "chainId": 56,
+    "symbol": "River Pts",
+    "address": "0xfc6be825925B7A83d131E33b46EFeF9084f0E014",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xfc6be825925B7A83d131E33b46EFeF9084f0E014.png"
+  },
+  {
+    "name": "wechat doge",
+    "chainId": 56,
+    "symbol": "旺柴",
+    "address": "0x70507B18c77473709c4349E54B68DB985be22BC7",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x70507B18c77473709c4349E54B68DB985be22BC7.png"
+  },
+  {
+    "name": "Semantic Layer",
+    "chainId": 56,
+    "symbol": "42",
+    "address": "0x834BAf4f7832Cc3C00734DDb2e0c61C68d975822",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x834BAf4f7832Cc3C00734DDb2e0c61C68d975822.png"
+  },
+  {
+    "name": "SNAPX",
+    "chainId": 56,
+    "symbol": "XNAP",
+    "address": "0xd4058218632112de109846a2952BE102D0330AB3",
+    "decimals": 8,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xd4058218632112de109846a2952BE102D0330AB3.png"
+  },
+  {
+    "name": "Piggycell",
+    "chainId": 56,
+    "symbol": "PIGGY",
+    "address": "0x8410fea2Dd13c1798977Ff4D55A9e1835f54f216",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8410fea2Dd13c1798977Ff4D55A9e1835f54f216.png"
   }
 ]

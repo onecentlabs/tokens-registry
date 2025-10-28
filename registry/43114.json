@@ -5994,5 +5994,13 @@
     "symbol": "SIERRA",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/70247/thumb/Sierra_Icon-Light_%281%29.png?1761242537"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe7c3d8c9a439fede00d2600032d5db0be71c3c29",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70314/thumb/JPYC_400x400.jpg?1761556080"
   }
 ]

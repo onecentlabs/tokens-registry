@@ -71783,5 +71783,61 @@
     "symbol": "P3D",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32178/thumb/Logo200x200.png?1696742918"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe8cbeccf2140238c5358e60c69203303f3a91732",
+    "name": "OtherdeedStrategy",
+    "symbol": "DEEDSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70292/thumb/tokenworks.png?1761459146"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6462e7842b95cdf81041d8fb4f5084210fffac41",
+    "name": "Little Pepe",
+    "symbol": "LILPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70298/thumb/logo-trans.png?1761480557"
+  },
+  {
+    "chainId": 1,
+    "address": "0x66730c91e5c3132811b1dcad8becabbdec644394",
+    "name": "AxyCoin",
+    "symbol": "AXYC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70302/thumb/200_.png?1761481290"
+  },
+  {
+    "chainId": 1,
+    "address": "0xae52e336f1cc779c2e647b82994e4d29ed4e0286",
+    "name": "GLHFStrategy",
+    "symbol": "GLHFSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70288/thumb/glhfstrategy-logo.jpg?1761401077"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb788144df611029c60b859df47e79b7726c4deba",
+    "name": "Vultisig",
+    "symbol": "VULT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55073/thumb/200x200.png?1743599006"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe7c3d8c9a439fede00d2600032d5db0be71c3c29",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70314/thumb/JPYC_400x400.jpg?1761556080"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe90fe2de4a415ad48b6dcec08ba6ae98231948ac",
+    "name": "Trevee",
+    "symbol": "TREVEE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70151/thumb/TREVEE.png?1760778357"
   }
 ]

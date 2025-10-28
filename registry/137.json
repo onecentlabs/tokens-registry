@@ -13921,5 +13921,13 @@
     "symbol": "FLOWER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55689/thumb/flower_200.png?1747034605"
+  },
+  {
+    "chainId": 137,
+    "address": "0xe7c3d8c9a439fede00d2600032d5db0be71c3c29",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70314/thumb/JPYC_400x400.jpg?1761556080"
   }
 ]

@@ -156,5 +156,17 @@
       "opListId": "extended",
       "opTokenId": "BridgedEURC"
     }
+  },
+  {
+    "chainId": 1135,
+    "address": "0xF50FFf154E63E510e494929E9eab1E9C5047429E",
+    "name": "ENSC",
+    "symbol": "ENSC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ENSC/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "ENSC"
+    }
   }
 ]
