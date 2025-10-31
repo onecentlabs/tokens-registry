@@ -16888,5 +16888,13 @@
     "address": "0x9be61A38725b265BC3eb7Bfdf17AfDFc9d26C130",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x9be61A38725b265BC3eb7Bfdf17AfDFc9d26C130.png"
+  },
+  {
+    "name": "Beat Token",
+    "chainId": 56,
+    "symbol": "Beat",
+    "address": "0xcf3232B85b43BCa90E51D38cc06Cc8bB8C8A3E36",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xcf3232B85b43BCa90E51D38cc06Cc8bB8C8A3E36.png"
   }
 ]

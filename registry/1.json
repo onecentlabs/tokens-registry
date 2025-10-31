@@ -71927,5 +71927,29 @@
     "symbol": "NIZA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69149/thumb/2x2.png?1758439357"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7addde640b2a003e30250e3829f82c9479f6ed5d",
+    "name": "JOMON",
+    "symbol": "JOMON",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70408/thumb/Untitled_design_3.png?1761895498"
+  },
+  {
+    "chainId": 1,
+    "address": "0x551e5d59e4c061984fdcc292b03a20c4741bbbdf",
+    "name": "ORDER",
+    "symbol": "ORDER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70409/thumb/order_200x200.png?1761900527"
+  },
+  {
+    "chainId": 1,
+    "address": "0x87ad29bc7a161d7ca644eb1db221d962e2d383d2",
+    "name": "BlockchainFX",
+    "symbol": "BFX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70410/thumb/BFX_400x400.jpg?1761902037"
   }
 ]
