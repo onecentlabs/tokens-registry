@@ -89,20 +89,28 @@
     "properties": {
       "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/plasma.svg",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/9745.json",
-      "explorers": ["https://plasmascan.to/"],
-      "rpcs": ["https://rpc.plasma.to"],
+      "explorers": [
+        "https://plasmascan.to/"
+      ],
+      "rpcs": [
+        "https://rpc.plasma.to"
+      ],
       "faucets": []
     },
     "wallet": {
       "chainId": "0x2611",
-      "blockExplorerUrls": ["https://plasmascan.to/"],
+      "blockExplorerUrls": [
+        "https://plasmascan.to/"
+      ],
       "chainName": "Plasma",
       "nativeCurrency": {
         "name": "XPL",
         "symbol": "XPL",
         "decimals": 18
       },
-      "rpcUrls": ["https://rpc.plasma.to"]
+      "rpcUrls": [
+        "https://rpc.plasma.to"
+      ]
     },
     "tokens": {
       "native": {
@@ -1260,6 +1268,65 @@
           "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
           "decimals": 18,
           "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "hemi",
+    "type": "EVM",
+    "name": "Hemi",
+    "coin": "ETH",
+    "id": 43111,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/hemi.svg",
+      "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/43111.json",
+      "explorers": [
+        "https://explorer.hemi.xyz/"
+      ],
+      "rpcs": [
+        "https://rpc.hemi.network/rpc",
+        "https://hemi.drpc.org"
+      ]
+    },
+    "wallet": {
+      "chainId": "0xa867",
+      "blockExplorerUrls": [
+        "https://explorer.hemi.xyz/"
+      ],
+      "chainName": "Hemi",
+      "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.hemi.network/rpc",
+        "https://hemi.drpc.org"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 43111,
+        "symbol": "ETH",
+        "decimals": 18,
+        "name": "ETH",
+        "coinKey": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "USDT",
+          "symbol": "USDT",
+          "type": "ERC20",
+          "chainId": 43111,
+          "decimals": 6,
+          "address": "0xbB0D083fb1be0A9f6157ec484b6C79E0A4e31C2e",
+          "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
         }
       ]
     }
