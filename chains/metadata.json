@@ -1020,5 +1020,50 @@
         "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png"
       }
     ]
+  },
+  {
+    "key": "hemi",
+    "chainType": "EVM",
+    "name": "Hemi",
+    "coin": "ETH",
+    "id": 43111,
+    "mainnet": true,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/hemi.svg",
+    "tokenlistUrl": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/43111.json",
+    "metamask": {
+      "chainId": "0xa867",
+      "blockExplorerUrls": [
+        "https://explorer.hemi.xyz/"
+      ],
+      "chainName": "Hemi",
+      "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.hemi.network/rpc"
+      ]
+    },
+    "nativeToken": {
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 43111,
+      "symbol": "ETH",
+      "decimals": 18,
+      "name": "ETH",
+      "coinKey": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    "stablecoins": [
+      {
+        "name": "USDT",
+        "symbol": "USDT",
+        "type": "ERC20",
+        "decimals": 6,
+        "address": "0xbB0D083fb1be0A9f6157ec484b6C79E0A4e31C2e",
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      }
+    ]
   }
 ]
