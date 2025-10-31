@@ -12728,5 +12728,21 @@
     "symbol": "GIZA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54922/thumb/giza_token_dark.png?1742538409"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3e76bb02286bfeaa89dd35f11253f2cbce634f91",
+    "name": "Pleasing Gold",
+    "symbol": "PGOLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70395/thumb/%E9%BB%84%E9%87%91.png?1761795141"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc7603786470f04d33e35f9e9b56bd0ca8803fb95",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70287/thumb/litkey.png?1761400668"
   }
 ]

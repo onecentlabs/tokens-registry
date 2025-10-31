@@ -23091,5 +23091,149 @@
     "symbol": "TETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/40155/thumb/tETH_Logo_%28Color__No_Background%29.png?1748368386"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xccb00cb269a62dc0c2021c3d699a564e8a868f48",
+    "name": "ratthew",
+    "symbol": "RATTHEW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70352/thumb/7wyeqiisc2feyfa9j3966d6pjel0.?1761642989"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x26ecb65d997cbff18fca447cb85f6af1175a22b0",
+    "name": "Frenly",
+    "symbol": "FRENLY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70386/thumb/Frenly.jpg?1761791716"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9b5037b68c6ed686a1f433e5eef9513bb1801b07",
+    "name": "Skycastle",
+    "symbol": "SKY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70361/thumb/MZoRNkwb_400x400.jpg?1761664190"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd1ab275e0b9798ae324c79c7133def6631426a2c",
+    "name": "Zoof Wallet",
+    "symbol": "ZOOF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70400/thumb/s6ouy18fclu0bxom514elx9d1t3y.?1761814672"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb21afece06056a5d8db8cd85c8c5d7cef6edc5f2",
+    "name": "aibeats",
+    "symbol": "AIBEATS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70342/thumb/beats.png?1761639378"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6ee7a6ed125619b9e83e4cff1778404a0947ff01",
+    "name": "LITTLE 袋子",
+    "symbol": "BAO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70377/thumb/4kKIj0Fn_400x400.jpg?1761750296"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3d81fbe679e8aa27a290b15aab5af5fa23cdcca3",
+    "name": "Warplet",
+    "symbol": "WARPLET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70351/thumb/warplet.png?1761642792"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5cd9166494673c15cbdfe8750def8bbab80a5b07",
+    "name": "TRANSLATE",
+    "symbol": "TRANSLATE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70392/thumb/y9pQMaR.png?1761793864"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1868c380e1d7883126dfe6c5ab2908fb2f944974",
+    "name": "Arvos AI",
+    "symbol": "ARVOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70383/thumb/qsdsgvk8halxaepm4ag0ra2i7m4n.?1761759109"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x58338205787796a9f50ab9cdf5b50b56591038c2",
+    "name": "Baby Base",
+    "symbol": "BASE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70362/thumb/440FF57F-2D86-43A4-A894-9972E181AC4C.jpg?1761667467"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9f5d8ee0d47296e4e78f2ea2a544917a31c501e2",
+    "name": "8004 Dog",
+    "symbol": "DOG8004",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70368/thumb/WhatsApp_Image_2025-10-27_at_01.49.10_e90351fa.jpg?1761727944"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa31de7db919b1499bf8d96daa8612270c38109dc",
+    "name": "Stand With Crypto Fund",
+    "symbol": "SWC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70379/thumb/Stand_With_Crypto_Fund.jpg?1761751389"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x26e0331355df5ef082f69df161218093708a73ac",
+    "name": "harmonybot",
+    "symbol": "CHAOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70348/thumb/nm9p4ogksv82e8jjecd2gj2luj68.?1761641838"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf0cb96a4011a0a6f73d100c7080bf8020d10f87a",
+    "name": "Mr. Lightspeed Creator Coin",
+    "symbol": "MR_LIGHTSPEED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70333/thumb/MLS_200.png?1761626161"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8c32bcfc720fec35443748a96030ce866d0665ff",
+    "name": "latenightonbase",
+    "symbol": "LATENIGHTONBASE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70375/thumb/LNOBlogo200x200.png?1761748789"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x93918567cdd1bc845be955325a43419a7c56d66f",
+    "name": "MWX Token",
+    "symbol": "MWXT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70340/thumb/38788.png?1761638938"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x75356ed6af264c8725bc738b8d1ece871a52cbd0",
+    "name": "Neptune Cash",
+    "symbol": "NPT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69667/thumb/Neptune.jpg?1759242707"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9126236476efba9ad8ab77855c60eb5bf37586eb",
+    "name": "Checkmate",
+    "symbol": "CHECK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69231/thumb/VgVwfk9E_400x400.png?1761800742"
   }
 ]

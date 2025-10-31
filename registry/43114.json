@@ -6002,5 +6002,13 @@
     "symbol": "JPYC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70314/thumb/JPYC_400x400.jpg?1761556080"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x34a1d2105dd1b658a48ead516a9ce3032082799c",
+    "name": "GLADIUS",
+    "symbol": "GLADIUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70346/thumb/7cO1JA4S_400x400.jpg?1761640318"
   }
 ]

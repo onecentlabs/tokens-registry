@@ -16856,5 +16856,37 @@
     "address": "0x8410fea2Dd13c1798977Ff4D55A9e1835f54f216",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8410fea2Dd13c1798977Ff4D55A9e1835f54f216.png"
+  },
+  {
+    "name": "BitcoinOS Token",
+    "chainId": 56,
+    "symbol": "BOS",
+    "address": "0xAe1E85c3665b70B682dEfd778E3dAFDF09ed3B0f",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xAe1E85c3665b70B682dEfd778E3dAFDF09ed3B0f.png"
+  },
+  {
+    "name": "GOATxAI",
+    "chainId": 56,
+    "symbol": "GOAI",
+    "address": "0xC0F6A75A6102eD31f85E3b3186a64174de943792",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xC0F6A75A6102eD31f85E3b3186a64174de943792.png"
+  },
+  {
+    "name": "COMMON",
+    "chainId": 56,
+    "symbol": "COMMON",
+    "address": "0xA43cA4e5abdf9917eaDE63C2837eeeE321897dAd",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA43cA4e5abdf9917eaDE63C2837eeeE321897dAd.png"
+  },
+  {
+    "name": "APRO oracle Token",
+    "chainId": 56,
+    "symbol": "AT",
+    "address": "0x9be61A38725b265BC3eb7Bfdf17AfDFc9d26C130",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9be61A38725b265BC3eb7Bfdf17AfDFc9d26C130.png"
   }
 ]

@@ -71839,5 +71839,93 @@
     "symbol": "TREVEE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70151/thumb/TREVEE.png?1760778357"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbce98a44161a9f593fdc231b422943cd3cc7c22b",
+    "name": "Nova Chain",
+    "symbol": "NOVA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70334/thumb/IMAGE_2025-06-19_09_19_11.jpg?1761626422"
+  },
+  {
+    "chainId": 1,
+    "address": "0x70442b494a8138f1880b5235a9a6afd2d781b88e",
+    "name": "Remittix",
+    "symbol": "RTX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70336/thumb/logo.png?1761627034"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa1f50f0a627549abf4caa8a77832203f2d31325b",
+    "name": "PepeNode",
+    "symbol": "PEPENODE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70364/thumb/PepeNode.png?1761710439"
+  },
+  {
+    "chainId": 1,
+    "address": "0x20226607b4fa64228abf3072ce561d6257683464",
+    "name": "Midas msyrupUSD",
+    "symbol": "MSYRUPUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70337/thumb/msyrupusd-DGynitwX.png?1761638653"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeb32ad88b09fb94129a8b972876ad02eaac91e53",
+    "name": "Wrapped CTC",
+    "symbol": "WCTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54774/thumb/WCTC_32px.png?1741515061"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6f99ad269c84e0e80318f6cfb01323c7bda4b087",
+    "name": "Vu",
+    "symbol": "VU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70394/thumb/Vu_Logo_Cropped_%281%29.png?1761794980"
+  },
+  {
+    "chainId": 1,
+    "address": "0x007d0267449e1f8fe8ce9d8b604abb2ce789f0ea",
+    "name": "BlockchainFX",
+    "symbol": "BFX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70370/thumb/5yaMZH-m_400x400.jpg?1761735392"
+  },
+  {
+    "chainId": 1,
+    "address": "0x981293a7928638939d126207f7aca94e2f164806",
+    "name": "Zaddy Coin",
+    "symbol": "ZADDY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70332/thumb/_logo.png?1761608650"
+  },
+  {
+    "chainId": 1,
+    "address": "0x21f5b2bacb67c94aa0982ce7428f7d1b3c9ceb53",
+    "name": "Snorter",
+    "symbol": "SNORT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70353/thumb/snort_400x400.jpg?1761643390"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9126236476efba9ad8ab77855c60eb5bf37586eb",
+    "name": "Checkmate",
+    "symbol": "CHECK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69231/thumb/VgVwfk9E_400x400.png?1761800742"
+  },
+  {
+    "chainId": 1,
+    "address": "0x373f323d21b38004d17386c18680c57657f78040",
+    "name": "Niza Global",
+    "symbol": "NIZA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69149/thumb/2x2.png?1758439357"
   }
 ]
