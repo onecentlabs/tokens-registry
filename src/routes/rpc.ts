@@ -28,6 +28,7 @@ export class RPCFetch {
       UNICHAIN: '130',
       HYPEREVM: '999',
       PLASMA: '9745',
+      HEMI: '43111'
     }
 
     this.rpcMap = {}
