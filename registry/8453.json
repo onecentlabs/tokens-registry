@@ -23235,5 +23235,29 @@
     "symbol": "CHECK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69231/thumb/VgVwfk9E_400x400.png?1761800742"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf43d7ae57fecda841fd6335eb96b3351c04916cf",
+    "name": "Lurky",
+    "symbol": "LURKY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70419/thumb/CG_logo_final.png?1761922712"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb235cf255b48500df4459475e054e7beb25cb772",
+    "name": "Nemesis",
+    "symbol": "NEMESIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70417/thumb/nemesis_400x400.jpg?1761922163"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xac5bdcf2eecebec8da3af0ef76912e197c6e547e",
+    "name": "FRAME",
+    "symbol": "FRAME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70421/thumb/u6t8mloh1y4v6ovhn67rgzkfg9xg.?1761923187"
   }
 ]

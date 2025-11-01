@@ -12744,5 +12744,21 @@
     "symbol": "LITKEY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70287/thumb/litkey.png?1761400668"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x87ca1ac7697c1240518b464b02e92a856d81aee1",
+    "name": "a-Hathor",
+    "symbol": "AHTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70422/thumb/Hathor_Icon.png?1761931778"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+    "name": "FOLKS",
+    "symbol": "FOLKS",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70268/thumb/1000331462.png?1761335326"
   }
 ]
