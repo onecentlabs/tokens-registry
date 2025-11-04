@@ -16896,5 +16896,21 @@
     "address": "0xcf3232B85b43BCa90E51D38cc06Cc8bB8C8A3E36",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xcf3232B85b43BCa90E51D38cc06Cc8bB8C8A3E36.png"
+  },
+  {
+    "name": "Kite",
+    "chainId": 56,
+    "symbol": "KITE",
+    "address": "0x904567252D8F48555b7447c67dCA23F0372E16be",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x904567252D8F48555b7447c67dCA23F0372E16be.png"
+  },
+  {
+    "name": "PRDT Token",
+    "chainId": 56,
+    "symbol": "PRDT",
+    "address": "0x854b5f2bFcC5B7cd05d6259cf5D035aF57CFa301",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x854b5f2bFcC5B7cd05d6259cf5D035aF57CFa301.png"
   }
 ]

@@ -6010,5 +6010,29 @@
     "symbol": "GLADIUS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70346/thumb/7cO1JA4S_400x400.jpg?1761640318"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x904567252d8f48555b7447c67dca23f0372e16be",
+    "name": "Kite",
+    "symbol": "KITE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70426/thumb/kite.png?1761963308"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xa5d465251fbcc907f5dd6bb2145488dfc6a2627b",
+    "name": "Janus Henderson Anemoy Treasury Fund",
+    "symbol": "JTRSY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70445/thumb/JTRSY.png?1762078582"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5a0f93d040de44e78f251b03c43be9cf317dcf64",
+    "name": "Janus Henderson Anemoy AAA CLO Fund",
+    "symbol": "JAAA",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70446/thumb/jaaa.png?1762078666"
   }
 ]

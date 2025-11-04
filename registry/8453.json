@@ -23259,5 +23259,157 @@
     "symbol": "FRAME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70421/thumb/u6t8mloh1y4v6ovhn67rgzkfg9xg.?1761923187"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2b34bd71f05445e40a23c1032e1730f4d693b07",
+    "name": "BRANDER",
+    "symbol": "BRANDER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70478/thumb/Screenshot_65.png?1762180279"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe62bfbe57763ec24c0f130426f34dbce11fc5b06",
+    "name": "THORWallet",
+    "symbol": "TITN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70474/thumb/thorwallet_400x400.jpg?1762166081"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x36a0e9d5bb7322b26185d76fb3fce46a40007e90",
+    "name": "Tonomy",
+    "symbol": "TONO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69766/thumb/Logo_Black_Padded_x600.png?1759559099"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8cbc577247938a6a4e0891861e81f7c81f6b9490",
+    "name": "HEXAR AI",
+    "symbol": "HEXAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70440/thumb/3yru4fr6br8d812b0t3at721onfx.?1762075587"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf578c9e57b40a00aef168774f3e47b04c03bf59a",
+    "name": "Backstage",
+    "symbol": "BKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70461/thumb/backstage_%281%29.png?1762085126"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xac0e8f7e3df7239f5d0f0ae55cf85962d007cc5f",
+    "name": "SPREDD",
+    "symbol": "SPRDD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70434/thumb/1000078554.png?1762068451"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x168fc40dba90a07e821abbdbbc1c6d2303e51eda",
+    "name": "PERPY",
+    "symbol": "PERPY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70481/thumb/IMG_1090.PNG?1762181593"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00fbac94fec8d4089d3fe979f39454f48c71a65d",
+    "name": "Klima Protocol kVCM",
+    "symbol": "KVCM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70432/thumb/kvm-master-200x200.png?1761988844"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd89eec8a91fb5b64ba944abe19f131d6e045db07",
+    "name": "nothing",
+    "symbol": "NOTHING",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70469/thumb/nothing.jpeg?1762139224"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd9159ad2d5fe625cd1f54f4d328fb19cb5262b07",
+    "name": "Warplet",
+    "symbol": "WARP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70477/thumb/farcaster.png?1762180018"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7f6f8bb1aa8206921e80ab6abf1ac5737e39ab07",
+    "name": "Machines-cash",
+    "symbol": "MACHINES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70436/thumb/0h4acj07xr6vovu12g3izaa6o8bz.?1762074038"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x59081d974a0c635fae3e8195f34f879b591b6519",
+    "name": "Klima Protocol K2",
+    "symbol": "K2",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70431/thumb/K2-master-200px-200px.png?1761988285"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd4306991f8a5cef2d2bcb3262224ded11bd18bad",
+    "name": "MOONBASE",
+    "symbol": "MOONBASE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70453/thumb/G4rXX70XMAACL4u.png?1762191145"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x36c7d74a2df5e65b7c2fe2d1a70e52da3df1bb07",
+    "name": "blarp",
+    "symbol": "BLARP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70439/thumb/ec1a7ktf0ehuhinwtj87336e9k42.?1762075090"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8c213ee79581ff4984583c6a801e5263418c4b86",
+    "name": "Janus Henderson Anemoy Treasury Fund",
+    "symbol": "JTRSY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70445/thumb/JTRSY.png?1762078582"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5a0f93d040de44e78f251b03c43be9cf317dcf64",
+    "name": "Janus Henderson Anemoy AAA CLO Fund",
+    "symbol": "JAAA",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70446/thumb/jaaa.png?1762078666"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4eb92702ba4cfbf80561bad64d89c706ac824960",
+    "name": "RedStone",
+    "symbol": "RED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53640/thumb/RedStone_Logo_New_White.png?1740640919"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5305ba038217c391af7e79f6f653c8cbc433deba",
+    "name": "Analog",
+    "symbol": "ANLOG",
+    "decimals": 12,
+    "logoURI": "https://assets.coingecko.com/coins/images/53852/thumb/anlog.jpg?1737596122"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa1c0decafe3e9bf06a5f29b7015cd373a9854608",
+    "name": "AI Power Grid",
+    "symbol": "AIPG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33878/thumb/AIPG_small_logo.png?1716327006"
   }
 ]

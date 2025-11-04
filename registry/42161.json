@@ -12760,5 +12760,21 @@
     "symbol": "FOLKS",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/70268/thumb/1000331462.png?1761335326"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x475e1cc57af3e40c80570220b1ce079b219605c4",
+    "name": "Ostrich",
+    "symbol": "RICH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70457/thumb/photo_2025-10-31_20-26-03.jpg?1762082551"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc8fb643d18f1e53698cfda5c8fdf0cdc03c1dbec",
+    "name": "Pleasing USD",
+    "symbol": "PUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70448/thumb/%E7%BE%8E%E5%85%83_%281%29.png?1762079129"
   }
 ]

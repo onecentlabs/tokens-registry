@@ -71959,5 +71959,85 @@
     "symbol": "FOLKS",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/70268/thumb/1000331462.png?1761335326"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8c213ee79581ff4984583c6a801e5263418c4b86",
+    "name": "Janus Henderson Anemoy Treasury Fund",
+    "symbol": "JTRSY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70445/thumb/JTRSY.png?1762078582"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5a0f93d040de44e78f251b03c43be9cf317dcf64",
+    "name": "Janus Henderson Anemoy AAA CLO Fund",
+    "symbol": "JAAA",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70446/thumb/jaaa.png?1762078666"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb40ede070d9d9f37e32a106b04b29e20ef6ee26e",
+    "name": "RektStrategy",
+    "symbol": "REKTSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70456/thumb/tokenworks.png?1762082443"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd861be82dee3223cfbed160791f6550b0704d406",
+    "name": "Savings USD0",
+    "symbol": "SUSD0",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70458/thumb/sUSD0.png?1762084191"
+  },
+  {
+    "chainId": 1,
+    "address": "0x35f43c6604b0de814abaa2d94c878bd1f5165478",
+    "name": "Savings EUR0",
+    "symbol": "SEUR0",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70459/thumb/sEUR0.png?1762084380"
+  },
+  {
+    "chainId": 1,
+    "address": "0x96ea5b86219ec88ec18ca732c81c0f942d1dbefb",
+    "name": "Cyclxv1",
+    "symbol": "CYCLXV1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70466/thumb/logo_tr.png?1762088361"
+  },
+  {
+    "chainId": 1,
+    "address": "0x904567252d8f48555b7447c67dca23f0372e16be",
+    "name": "Kite",
+    "symbol": "KITE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70426/thumb/kite.png?1761963308"
+  },
+  {
+    "chainId": 1,
+    "address": "0x618e80a3f00a3907cc021187e9beb73ae4d658a6",
+    "name": "EDENA",
+    "symbol": "EDENA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70475/thumb/20251029_223833.jpg?1762166648"
+  },
+  {
+    "chainId": 1,
+    "address": "0x03b4bd7d900defe84098665e3d96dca73a1f608b",
+    "name": "Wrapped OAS",
+    "symbol": "WOAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28493/thumb/Oasys_OAS_Token_Black_%281%29.png?1699333247"
+  },
+  {
+    "chainId": 1,
+    "address": "0x686c5961370db7f14f57f5a430e05deae64df504",
+    "name": "AIntivirus",
+    "symbol": "AINTI",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/53879/thumb/aintivirus-logo.jpg?1737623713"
   }
 ]

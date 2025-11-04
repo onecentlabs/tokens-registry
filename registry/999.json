@@ -913,5 +913,13 @@
     "symbol": "LSTHYPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70218/thumb/lsthype.png?1761116365"
+  },
+  {
+    "chainId": 999,
+    "address": "0x4f96b683714377c38123631f2d17cdf18b3f46a7",
+    "name": "SEDA",
+    "symbol": "SEDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36689/thumb/SEDA_Logo.png?1712087674"
   }
 ]
