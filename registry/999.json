@@ -921,5 +921,13 @@
     "symbol": "SEDA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36689/thumb/SEDA_Logo.png?1712087674"
+  },
+  {
+    "chainId": 999,
+    "address": "0xa2f8da4a55898b6c947fa392ef8d6bfd87a4ff77",
+    "name": "hwUSD",
+    "symbol": "HWUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70507/thumb/hwstable.png?1762267461"
   }
 ]

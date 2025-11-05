@@ -642,5 +642,18 @@
       "opListId": "extended",
       "opTokenId": "WIT"
     }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x55f6e82a8BF5736d46837246DcBEAf7e61b3c27C",
+    "name": "Testnet Syndicate ",
+    "symbol": "TestnetSYND",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SYND/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "SYND"
+    }
   }
 ]

@@ -16912,5 +16912,69 @@
     "address": "0x854b5f2bFcC5B7cd05d6259cf5D035aF57CFa301",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x854b5f2bFcC5B7cd05d6259cf5D035aF57CFa301.png"
+  },
+  {
+    "name": "LITKEY",
+    "chainId": 56,
+    "symbol": "LITKEY",
+    "address": "0x0bBeA6812fb3fcBcA126eDb558e551B3f1702026",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0bBeA6812fb3fcBcA126eDb558e551B3f1702026.png"
+  },
+  {
+    "name": "Tycoon Token",
+    "chainId": 56,
+    "symbol": "TYCOON",
+    "address": "0x915c882e4f67D5FED79889353BFdB0ad213E9b97",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x915c882e4f67D5FED79889353BFdB0ad213E9b97.png"
+  },
+  {
+    "name": "Sentism AI Token",
+    "chainId": 56,
+    "symbol": "SENTIS",
+    "address": "0x8Fd0d741e09a98e82256C63F25f90301eA71A83e",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8Fd0d741e09a98e82256C63F25f90301eA71A83e.png"
+  },
+  {
+    "name": "UnifAI",
+    "chainId": 56,
+    "symbol": "UAI",
+    "address": "0x3E5d4f8aee0D9B3082d5f6DA5D6e225D17ba9ea0",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x3E5d4f8aee0D9B3082d5f6DA5D6e225D17ba9ea0.png"
+  },
+  {
+    "name": "Folks Finance",
+    "chainId": 56,
+    "symbol": "FOLKS",
+    "address": "0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B",
+    "decimals": 6,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B.png"
+  },
+  {
+    "name": "Decentralized USD",
+    "chainId": 56,
+    "symbol": "USDD",
+    "address": "0x392004BEe213F1FF580C867359C246924f21E6Ad",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x392004BEe213F1FF580C867359C246924f21E6Ad.png"
+  },
+  {
+    "name": "Savings Usdd",
+    "chainId": 56,
+    "symbol": "sUSDD",
+    "address": "0x8bA9dA757d1D66c58b1ae7e2ED6c04087348A82d",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8bA9dA757d1D66c58b1ae7e2ED6c04087348A82d.png"
+  },
+  {
+    "name": "Decentralized USD",
+    "chainId": 56,
+    "symbol": "USDD",
+    "address": "0x45E51bc23D592EB2DBA86da3985299f7895d66Ba",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x45E51bc23D592EB2DBA86da3985299f7895d66Ba.png"
   }
 ]

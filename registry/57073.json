@@ -11,5 +11,18 @@
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
+  },
+  {
+    "chainId": 57073,
+    "address": "0x94Cac393f3444cEf63a651FfC18497E7e8bd036a",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
+    "extensions": {
+      "inkBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "rETH"
+    }
   }
 ]

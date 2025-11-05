@@ -23411,5 +23411,55 @@
     "symbol": "AIPG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33878/thumb/AIPG_small_logo.png?1716327006"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0df61361882a2bbD3B521C791AceD080D72A66E9",
+    "name": "Polkastarter",
+    "symbol": "POLS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/POLS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "POLS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeFc2689D3E79252fBA37E889a1b5aD92cEDC6e4F",
+    "name": "BLOCKv Token",
+    "symbol": "VEE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VEE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VEE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x214419f6fdd2b23bf6a32f33cf95186d188b784b",
+    "name": "Small Thing",
+    "symbol": "ST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70520/thumb/logo_black128.png?1762278575"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xedb6970b7be5a522cff14c8b679a2d813ff97b4d",
+    "name": "Surge",
+    "symbol": "SURGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70506/thumb/Surge.png?1762263132"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa2f8da4a55898b6c947fa392ef8d6bfd87a4ff77",
+    "name": "hwUSD",
+    "symbol": "HWUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70507/thumb/hwstable.png?1762267461"
   }
 ]

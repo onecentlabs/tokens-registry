@@ -72039,5 +72039,74 @@
     "symbol": "AINTI",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/53879/thumb/aintivirus-logo.jpg?1737623713"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6fF765EdBD71319E29A1ac74d2ab3C34B5B8EDA9",
+    "name": "Polkastarter",
+    "symbol": "POLS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/POLS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "POLS"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xa2f8da4a55898b6c947fa392ef8d6bfd87a4ff77",
+    "name": "hwUSD",
+    "symbol": "HWUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70507/thumb/hwstable.png?1762267461"
+  },
+  {
+    "chainId": 1,
+    "address": "0x56a3ba04e95d34268a19b2a4474dc979babdaf76",
+    "name": "Sentient",
+    "symbol": "SENT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70508/thumb/SENTIENT-Icon-BlushForce-L.png?1762267532"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfb0a3cf9b019bfd8827443d131b235b3e0fc58d2",
+    "name": "eETH ARM LP Token",
+    "symbol": "ARM-WETH-EETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70496/thumb/ARM_eETH_LP.png?1762224707"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9a170a4854cd3dcc86aa916c47e38a9498d82569",
+    "name": "Macro",
+    "symbol": "$MACRO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70519/thumb/macro_logo_purple.jpg?1762278489"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdef1245f98fedd2e0108acc185eb3eca2c106ef6",
+    "name": "Kiwi",
+    "symbol": "KIWI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67623/thumb/IMG_5230_%285%29.jpeg?1753312981"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2a3e301dbd45c143dfbb7b1ce1c55bf0bbf161cb",
+    "name": "Nest Apollo ACRDX Vault",
+    "symbol": "NACRDX",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70512/thumb/Nest_ACRDX_Vault.png?1762268426"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9d08946ca5856f882a56c29042fbedc5142663b9",
+    "name": "Nest Mineral Vault",
+    "symbol": "NMNRL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70513/thumb/Nest_MNRL_Vault.png?1762268451"
   }
 ]
