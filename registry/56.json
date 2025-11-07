@@ -16976,5 +16976,29 @@
     "address": "0x45E51bc23D592EB2DBA86da3985299f7895d66Ba",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x45E51bc23D592EB2DBA86da3985299f7895d66Ba.png"
+  },
+  {
+    "name": "LONG",
+    "chainId": 56,
+    "symbol": "LONG",
+    "address": "0x9Eca8dedb4882BD694aea786C0Cbe770e70D52e3",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9Eca8dedb4882BD694aea786C0Cbe770e70D52e3.png"
+  },
+  {
+    "name": "Capx",
+    "chainId": 56,
+    "symbol": "CAPX",
+    "address": "0x71FB1795b084ff2B65EAbf51CAd22Bbefd42ED5F",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x71FB1795b084ff2B65EAbf51CAd22Bbefd42ED5F.png"
+  },
+  {
+    "name": "Utopia",
+    "chainId": 56,
+    "symbol": "UTOPIA",
+    "address": "0xd83C128e7498bE555845A6dc331A99E1524C1777",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xd83C128e7498bE555845A6dc331A99E1524C1777.png"
   }
 ]

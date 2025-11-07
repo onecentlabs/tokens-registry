@@ -12776,5 +12776,13 @@
     "symbol": "PUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70448/thumb/%E7%BE%8E%E5%85%83_%281%29.png?1762079129"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x97e66d3c4d5bcd7c64e3e55af28544c9addf9281",
+    "name": "Capx AI",
+    "symbol": "CAPX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70528/thumb/capx_logo_icon_-_circle.png?1762334471"
   }
 ]

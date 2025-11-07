@@ -23461,5 +23461,29 @@
     "symbol": "HWUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/70507/thumb/hwstable.png?1762267461"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6cd905df2ed214b22e0d48ff17cd4200c1c6d8a3",
+    "name": "Intuition",
+    "symbol": "TRUST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55976/thumb/intuition_trust.jpg?1747904133"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9215e6362f76fc781df00d51293cc7179c6c99a4",
+    "name": "Play AI",
+    "symbol": "PLAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69432/thumb/plai.png?1758592628"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc0df50143ea93aec63e38a6ed4e92b378079ea15",
+    "name": "Rage Protocol",
+    "symbol": "RAGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70542/thumb/logoCoingecko.png?1762452592"
   }
 ]

@@ -5352,5 +5352,13 @@
     "symbol": "USPD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69917/thumb/logo_uspd_200_200.png?1760025748"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
+    "name": "AllUnity EUR",
+    "symbol": "EURAU",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68076/thumb/EURAU_Full_Colour.png?1754717091"
   }
 ]

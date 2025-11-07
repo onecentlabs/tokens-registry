@@ -72108,5 +72108,53 @@
     "symbol": "NMNRL",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/70513/thumb/Nest_MNRL_Vault.png?1762268451"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8a2fe0bbd6dfea4bc19123babd5630fd8d7f070f",
+    "name": "Bitball Treasure",
+    "symbol": "BTRS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/7273/thumb/Asset_4-8.png?1738344231"
+  },
+  {
+    "chainId": 1,
+    "address": "0xedd5c6f4526ea6fdea31e56d206e94e966257b70",
+    "name": "Renzo Restaked WBTC",
+    "symbol": "EZBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70534/thumb/ezBTC.png?1762376631"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd417c6000a0e56e35bcf00e4d7e4e077311df0a9",
+    "name": "Bitball",
+    "symbol": "BTB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/7039/thumb/IMG_2064.png?1739696609"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9fab63812476fa4f4e8806d5297452dbc2c1c67c",
+    "name": "Green Reaper by Matt Furie",
+    "symbol": "GREAPER",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70549/thumb/logo.jpg?1762454362"
+  },
+  {
+    "chainId": 1,
+    "address": "0x78f5823bbea7bbce98091e60beeef8df31cc9f54",
+    "name": "$AIBOT IYI",
+    "symbol": "AIB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69287/thumb/20250913_004608.png?1758113378"
+  },
+  {
+    "chainId": 1,
+    "address": "0x833e53f1e2d320e0768671dee5cec88b2d93330f",
+    "name": "Capx AI",
+    "symbol": "CAPX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70528/thumb/capx_logo_icon_-_circle.png?1762334471"
   }
 ]

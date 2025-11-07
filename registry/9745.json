@@ -1,4 +1,3 @@
-
 [
   {
     "chainId": 9745,
@@ -168,7 +167,7 @@
     "symbol": "SPARK",
     "decimals": 18,
     "logoURI": "https://cdn.dexscreener.com/cms/images/d0f11a422d97abbb3e4a38226cd3a631aeddc4db89ebd7b987bd2c93d1c741be"
-  }, 
+  },
   {
     "chainId": 9745,
     "address": "0xfC8A5aeEfAd8cC23f629489Cdc6b0Ec883D04702",
@@ -176,7 +175,7 @@
     "symbol": "BANKLESS",
     "decimals": 18,
     "logoURI": "https://cdn.dexscreener.com/cms/images/a237b293803fff90df6a92d02a405a5e3cc409795aa4a84261a939fd7a622897"
-  }, 
+  },
   {
     "chainId": 9745,
     "address": "0xDab1D6f39A375e643752BD2c5A374a933cbeec72",
@@ -184,7 +183,7 @@
     "symbol": "Xploy",
     "decimals": 18,
     "logoURI": "https://cdn.dexscreener.com/cms/images/fb454a04a2964f2a001c40322aeaf75543edf4657fc0cd315e1c9c74bd0a069c"
-  }, 
+  },
   {
     "chainId": 9745,
     "address": "0x54Ef95b1eb3024e578b429B2883aB888A12a96A9",
