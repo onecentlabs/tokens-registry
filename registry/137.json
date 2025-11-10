@@ -13937,5 +13937,13 @@
     "symbol": "BITZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70363/thumb/Bitz_token.png?1761710195"
+  },
+  {
+    "chainId": 137,
+    "address": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+    "name": "FOLKS",
+    "symbol": "FOLKS",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70268/thumb/1000331462.png?1761335326"
   }
 ]

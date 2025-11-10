@@ -23485,5 +23485,101 @@
     "symbol": "RAGE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70542/thumb/logoCoingecko.png?1762452592"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa631b9b58615bd6a2d62086e692b19539ac9296d",
+    "name": "Blue Coin",
+    "symbol": "BLUE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70574/thumb/K3e4XEtf_400x400_%281%29.jpg?1762620166"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe19e7429ab6c1f9dd391faa88fbb940c7d22f18f",
+    "name": "MIO",
+    "symbol": "MIO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70586/thumb/mio.png?1762691200"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x299ffb0929fe889e29e7197fdbb6d8f5d7affef6",
+    "name": "aerialaether",
+    "symbol": "AERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70598/thumb/e1h42i0uohbwsi88p5c0q2vlndic.?1762700490"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xafd3a55ae8c86fb550495223f92f1af192e163fd",
+    "name": "11am",
+    "symbol": "11AM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70562/thumb/11am-pfp.png?1762537256"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa763b711b55935f6d7ba2f93e1adf741e2446b07",
+    "name": "x402MKT",
+    "symbol": "LOOP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70596/thumb/2w0r8i4f2phxjxlvhmv4upfr1u57.?1762699900"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6f89bca4ea5931edfcb09786267b251dee752b07",
+    "name": "Regent",
+    "symbol": "REGENT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70567/thumb/regent.jpg?1762540798"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0000000000f6a4a20f4d340a1c3f3040ac5a255c",
+    "name": "Hyperware",
+    "symbol": "HYPR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70563/thumb/hyperware-200.jpg?1762537365"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x55a602e0594867b28912afcadbbade35d2fa2b39",
+    "name": "WERM",
+    "symbol": "WERM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70559/thumb/icon.png?1762534748"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xea17df5cf6d172224892b5477a16acb111182478",
+    "name": "ElizaOS",
+    "symbol": "ELIZAOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70556/thumb/ai16z.png?1762480214"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf1572d1da5c3cce14ee5a1c9327d17e9ff0e3f43",
+    "name": "Treasure",
+    "symbol": "MAGIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18623/thumb/magic.png?1696518095"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa4ff56ef7ef4a2cad03cfa130208c9bc1b45d293",
+    "name": "SaucerSwap",
+    "symbol": "SAUCE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/27401/thumb/SAUCE_ICON_FINAL_200x200.png?1748588084"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1aa8fd5bcce2231c6100d55bf8b377cff33acfc3",
+    "name": "RaveDAO",
+    "symbol": "RAVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70544/thumb/coin.jpeg?1762452940"
   }
 ]

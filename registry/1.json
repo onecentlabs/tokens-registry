@@ -72156,5 +72156,45 @@
     "symbol": "CAPX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70528/thumb/capx_logo_icon_-_circle.png?1762334471"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd3d3f901b2d9c587988333f00b154d57fce9dd07",
+    "name": "NakamotoStrategy",
+    "symbol": "NAKASTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70595/thumb/tokenworks.png?1762699911"
+  },
+  {
+    "chainId": 1,
+    "address": "0x46ffa8de0e7161a70bb3ccf32af6dbe7b8ceeacd",
+    "name": "BallSwap",
+    "symbol": "BSP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14050/thumb/bsp.png?1696513775"
+  },
+  {
+    "chainId": 1,
+    "address": "0x909094c87771a6818a6448505c24eeb49f6ec2ff",
+    "name": "Little Pepe",
+    "symbol": "LILPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70571/thumb/logo.jpg?1762603737"
+  },
+  {
+    "chainId": 1,
+    "address": "0xea17df5cf6d172224892b5477a16acb111182478",
+    "name": "ElizaOS",
+    "symbol": "ELIZAOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70556/thumb/ai16z.png?1762480214"
+  },
+  {
+    "chainId": 1,
+    "address": "0x17205fab260a7a6383a81452ce6315a39370db97",
+    "name": "RaveDAO",
+    "symbol": "RAVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70544/thumb/coin.jpeg?1762452940"
   }
 ]

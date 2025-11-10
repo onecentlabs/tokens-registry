@@ -17000,5 +17000,21 @@
     "address": "0xd83C128e7498bE555845A6dc331A99E1524C1777",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xd83C128e7498bE555845A6dc331A99E1524C1777.png"
+  },
+  {
+    "name": "Aria",
+    "chainId": 56,
+    "symbol": "ARIAIP",
+    "address": "0x2A7e3392458307493C86388d5E544AAd93286836",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2A7e3392458307493C86388d5E544AAd93286836.png"
+  },
+  {
+    "name": "CashPlus",
+    "chainId": 56,
+    "symbol": "CASH+",
+    "address": "0x1775504c5873e179Ea2f8ABFcE3861EC74D159bc",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1775504c5873e179Ea2f8ABFcE3861EC74D159bc.png"
   }
 ]
