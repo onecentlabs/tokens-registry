@@ -945,5 +945,13 @@
     "symbol": "RAM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/999/RAM.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0xae60eafb73eb0516951ab20089cff32ac9dc63b7",
+    "name": "UltraSolid",
+    "symbol": "US",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70502/thumb/ultrasolid_400x400.jpg?1762251067"
   }
 ]

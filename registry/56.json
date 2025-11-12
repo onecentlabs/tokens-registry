@@ -17016,5 +17016,53 @@
     "address": "0x1775504c5873e179Ea2f8ABFcE3861EC74D159bc",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1775504c5873e179Ea2f8ABFcE3861EC74D159bc.png"
+  },
+  {
+    "name": "TIMI",
+    "chainId": 56,
+    "symbol": "TIMI",
+    "address": "0xAaFe1f781bC5e4D240c4B73f6748d76079678Fa8",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xAaFe1f781bC5e4D240c4B73f6748d76079678Fa8.png"
+  },
+  {
+    "name": "JANCTION",
+    "chainId": 56,
+    "symbol": "JCT",
+    "address": "0xeA37A8DE1de2d9D10772EEB569e28Bfa5Cb17707",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xeA37A8DE1de2d9D10772EEB569e28Bfa5Cb17707.png"
+  },
+  {
+    "name": "elizaOS",
+    "chainId": 56,
+    "symbol": "elizaOS",
+    "address": "0xea17Df5Cf6D172224892B5477A16ACb111182478",
+    "decimals": 9,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xea17Df5Cf6D172224892B5477A16ACb111182478.png"
+  },
+  {
+    "name": "Pudgy Penguins",
+    "chainId": 56,
+    "symbol": "PENGU",
+    "address": "0x6418c0dd099a9FDA397C766304CDd918233E8847",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6418c0dd099a9FDA397C766304CDd918233E8847.png"
+  },
+  {
+    "name": "Showdown",
+    "chainId": 56,
+    "symbol": "SHOW",
+    "address": "0xe07aF2A3bC75d888EAD2E67176fFe54DC9b1C7b5",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xe07aF2A3bC75d888EAD2E67176fFe54DC9b1C7b5.png"
+  },
+  {
+    "name": "Midas XRP",
+    "chainId": 56,
+    "symbol": "mXRP",
+    "address": "0xc8739fbBd54C587a2ad43b50CbcC30ae34FE9e34",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xc8739fbBd54C587a2ad43b50CbcC30ae34FE9e34.png"
   }
 ]

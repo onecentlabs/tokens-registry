@@ -23581,5 +23581,61 @@
     "symbol": "RAVE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70544/thumb/coin.jpeg?1762452940"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x67c5f00491c09cbcf6359f95690574e6106bb3cf",
+    "name": "CC0 COMPANY",
+    "symbol": "CC0COMPANY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70643/thumb/cc0logo.png?1762947457"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa4bbac7ed5bda8ec71a1af5ee84d4c5a737bd875",
+    "name": "SMOL",
+    "symbol": "SMOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54182/thumb/smolcoin_%281%29.png?1738667346"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc2ff2e5aa9023b1bb688178a4a547212f4614bc0",
+    "name": "PRXVT by Virtuals",
+    "symbol": "PRXVT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70627/thumb/mxdJ79hy_400x400.jpg?1762849223"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdb4f5678aa11bbe0f980bf36c511d923bd3d5471",
+    "name": "AMAI",
+    "symbol": "AMAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70611/thumb/LOGO_AMAI_CG1.png?1762755030"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x27f6c8289550fce67f6b50bedf1519966afe5287",
+    "name": "Tokenised GBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x032d86656db142138ac97d2c5c4e3766e8c0482d",
+    "name": "Allora",
+    "symbol": "ALLO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70609/thumb/allora.png?1762738776"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x863b7364a29daa23c9fcbd02e27d129a8b185891",
+    "name": "Singularity Finance",
+    "symbol": "SFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54242/thumb/uvrV4k4z_400x400.jpg?1738886449"
   }
 ]

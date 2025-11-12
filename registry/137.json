@@ -13945,5 +13945,37 @@
     "symbol": "FOLKS",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/70268/thumb/1000331462.png?1761335326"
+  },
+  {
+    "chainId": 137,
+    "address": "0x27f6c8289550fce67f6b50bedf1519966afe5287",
+    "name": "Tokenised GBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800"
+  },
+  {
+    "chainId": 137,
+    "address": "0x4837b18a6d7af6159c8665505b90a2ed393255e0",
+    "name": "Lympid",
+    "symbol": "LYP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53786/thumb/LYP_200X200.png?1737358652"
+  },
+  {
+    "chainId": 137,
+    "address": "0xd571edb2ef29df10fcd6200fd6d0ed2389983db3",
+    "name": "Quantoz EURQ",
+    "symbol": "EURQ",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/51853/thumb/exchange-logo_EURQ.png?1749836767"
+  },
+  {
+    "chainId": 137,
+    "address": "0xb291996477504506bf5f583102b5b5ea5d1e40e0",
+    "name": "Quantoz USDQ",
+    "symbol": "USDQ",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/51852/thumb/exchange-logo_USDQ.png?1749836750"
   }
 ]
