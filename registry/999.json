@@ -929,5 +929,21 @@
     "symbol": "HWUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/70507/thumb/hwstable.png?1762267461"
+  },
+  {
+    "chainId": 999,
+    "address": "0xAE6D5FcE541216BDA471D311425B5412D9f1DEb9",
+    "name": "Ramses xRAM",
+    "symbol": "xRAM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/999/xRAM.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0x555570a286F15EbDFE42B66eDE2f724Aa1AB5555",
+    "name": "Ramses RAM",
+    "symbol": "RAM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/999/RAM.svg"
   }
 ]
