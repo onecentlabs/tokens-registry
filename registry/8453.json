@@ -23637,5 +23637,13 @@
     "symbol": "SFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54242/thumb/uvrV4k4z_400x400.jpg?1738886449"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0d186f8c94293dd8ea65d3ae3eba3a8cad91b769",
+    "name": "oracle",
+    "symbol": "ORACLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70658/thumb/oracle.jpg?1762982576"
   }
 ]
