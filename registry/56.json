@@ -17064,5 +17064,21 @@
     "address": "0xc8739fbBd54C587a2ad43b50CbcC30ae34FE9e34",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xc8739fbBd54C587a2ad43b50CbcC30ae34FE9e34.png"
+  },
+  {
+    "name": "Pieverse Token",
+    "chainId": 56,
+    "symbol": "PIEVERSE",
+    "address": "0x0E63B9C287E32A05E6b9AB8ee8dF88A2760225A9",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0E63B9C287E32A05E6b9AB8ee8dF88A2760225A9.png"
+  },
+  {
+    "name": "Planck",
+    "chainId": 56,
+    "symbol": "PLANCK",
+    "address": "0x004D50B3fC784b580531D8e8615AA96Cf7fbb919",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x004D50B3fC784b580531D8e8615AA96Cf7fbb919.png"
   }
 ]

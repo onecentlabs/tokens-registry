@@ -23645,5 +23645,98 @@
     "symbol": "ORACLE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70658/thumb/oracle.jpg?1762982576"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x444600d9fa140e9506d0cbc436bffad3d5c3febc",
+    "name": "Director Lucien",
+    "symbol": "LUCIEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70713/thumb/_mf3_isj_400x400.jpg?1763215043"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf25620f89d0e23a8ba7b11ab3235b66268794196",
+    "name": "Infinity Rising",
+    "symbol": "RISE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70697/thumb/rise.jpg?1763152146"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa66f68ef2d8091e13585a502464bd11a159cf710",
+    "name": "Jeff CEO",
+    "symbol": "CEO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70668/thumb/ceo-token-logo-01.png?1763016168"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7e0aedc93d9f898be835a44bfca3842e52416b82",
+    "name": "J.P. Morgan Deposit Token",
+    "symbol": "JPMD",
+    "decimals": 2
+  },
+  {
+    "chainId": 8453,
+    "address": "0x69e77dd1f50e2ea1c324a9ae96dd2ba7be08849d",
+    "name": "snackmoney",
+    "symbol": "SNACKMONEY",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x534b7aad1cdb6f02ec48cabe428f0d9131e40b07",
+    "name": "minidev",
+    "symbol": "MINI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70699/thumb/nsfeo2c1g87vtwel7h8gsio6qvcm.?1763156245"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x05b1266ddcee093ce060dbf697e230ea9b453633",
+    "name": "ReplyCorp",
+    "symbol": "REPLY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70710/thumb/ReplyCorp_PFP2.png?1763213992"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x15dd9165b3a80f83a5471f2e6eba57158ca3cf86",
+    "name": "ButlerLiquid",
+    "symbol": "BL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70698/thumb/ywum0l62ivkqxpq2vuvo4k0zgh4q.?1763156110"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95",
+    "name": "Edel",
+    "symbol": "EDEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70661/thumb/Edel_Logo_Dark_-_200px.png?1762997249"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb6830e61aeba58e07884983451d26880b4078b07",
+    "name": "Spotlight",
+    "symbol": "SPOTLIGHT",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0eda054e27a274323e07023972f47c36693ce5df",
+    "name": "Cucumber Trade",
+    "symbol": "CUC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70678/thumb/2w1myeoaq9uen7sjraxifbmsv9vy.?1763060466"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x160c58c70a1c73f769969c63158bcc48547a548b",
+    "name": "Acurast",
+    "symbol": "ACU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34367/thumb/Acurast-symbol-dark-bg.png?1728418440"
   }
 ]

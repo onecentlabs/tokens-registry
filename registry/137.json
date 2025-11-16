@@ -13977,5 +13977,21 @@
     "symbol": "USDQ",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/51852/thumb/exchange-logo_USDQ.png?1749836750"
+  },
+  {
+    "chainId": 137,
+    "address": "0x14f74e11f0d9d469a4c9d686cfb18a771b31d94f",
+    "name": "ON",
+    "symbol": "ONLIVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70686/thumb/LOGO_MEDIA.png?1763102945"
+  },
+  {
+    "chainId": 137,
+    "address": "0xb4e876f6c9d5ba104112d222083527b1dad17103",
+    "name": "VOLLAR",
+    "symbol": "VOLLAR",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/70718/thumb/VC-VollarLOGO-200_200.png?1763222980"
   }
 ]

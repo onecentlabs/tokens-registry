@@ -953,5 +953,13 @@
     "symbol": "US",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70502/thumb/ultrasolid_400x400.jpg?1762251067"
+  },
+  {
+    "chainId": 999,
+    "address": "0x343c40d90298e132f4ad68b4aafeada3dabab300",
+    "name": "Locked UltraSolid",
+    "symbol": "VEUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70691/thumb/veus.png?1763114911"
   }
 ]

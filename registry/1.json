@@ -72252,5 +72252,53 @@
     "symbol": "Z",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70652/thumb/200b.png?1762974567"
+  },
+  {
+    "chainId": 1,
+    "address": "0x51b3356086bee85a098e8177358571c5b78f211a",
+    "name": "DogMeme",
+    "symbol": "MEDOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32609/thumb/MEMELON.jpg?1698733326"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e61ba3212c4dccb4f688fc38c35c2764ee310c9",
+    "name": "ValidNet",
+    "symbol": "VAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70704/thumb/UWpMyolu_200x200.jpg?1763212108"
+  },
+  {
+    "chainId": 1,
+    "address": "0x33a4bcb4e941dd13439a8f4f723580927c6d9800",
+    "name": "MOTHER VEGETABLE Token",
+    "symbol": "MVT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70709/thumb/mvtcoin_logo_200_200.png?1763213717"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc63ef5c53135c0eb7430055c1c1e2351715f697c",
+    "name": "Saylor Moon",
+    "symbol": "SAYLOR",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70715/thumb/200logo.png?1763217679"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9796b9e60587495d27eb251a832c1d397fc2e028",
+    "name": "Maxi Doge",
+    "symbol": "MAXI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70682/thumb/logo.png?1763101524"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8bbfe65e31b348cd823c62e02ad8c19a84dd0dab",
+    "name": "Mossland",
+    "symbol": "MOC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2374/thumb/moc.png?1696503240"
   }
 ]

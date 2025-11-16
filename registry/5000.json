@@ -673,5 +673,13 @@
     "symbol": "BOX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50224/thumb/v6TSd2dN_400x400.jpg?1726521525"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
   }
 ]
