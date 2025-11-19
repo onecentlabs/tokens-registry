@@ -30,7 +30,7 @@
     "name": "Kinetiq Staked HYPE",
     "symbol": "kHYPE",
     "decimals": 18,
-    "logoURI": "https://app.valantis.xyz/khype.svg",
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/public_assets/refs/heads/main/tokens/hyperevm/0xfd739d4e423301ce9385c1fb8850539d657c296d/logo.png",
     "tags": [
       "NATIVE",
       "VERIFIED",
