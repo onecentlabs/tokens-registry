@@ -56,7 +56,7 @@
     "name": "Looped Hype",
     "symbol": "LHYPE",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/54816/large/loopedhype_logo_transparent.png?1741850425",
+    "logoURI": "https://storage.googleapis.com/stakingrewards-static/images/assets/production/looped-hype_logo.svg",
     "tags": [
       "VERIFIED"
     ]
@@ -209,7 +209,7 @@
     "name": "Hyperwave HLP",
     "symbol": "hwHLP",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/66821/large/hwhlp.png?1750652862"
+    "logoURI": "https://app.hypurr.fi/tokens/hwhlp.svg?url"
   },
   {
     "chainId": 999,
@@ -448,7 +448,7 @@
     "name": "Hyperbeat Ultra HYPE",
     "symbol": "HBHYPE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67160/thumb/hyperbeat_hype.jpg?1751940550"
+    "logoURI": "https://app.hyperbeat.org/assets/images/vaults/hbhype.svg"
   },
   {
     "chainId": 999,
@@ -456,7 +456,7 @@
     "name": "Hyperbeat USDT",
     "symbol": "HBUSDT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67161/thumb/hyperbeat_usdt.jpg?1751940634"
+    "logoURI": "https://app.hyperbeat.org/assets/images/vaults/hbUSDT.svg"
   },
   {
     "chainId": 999,
@@ -656,7 +656,7 @@
     "name": "hyUSDT0  hwHLP    11",
     "symbol": "HYUSDT0HWHLP-11",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/68330/thumb/usdt0.jpg?1755352510"
+    "logoURI": "https://app.hypurr.fi/tokens/usdt0.svg?url"
   },
   {
     "chainId": 999,
@@ -912,7 +912,7 @@
     "name": "Hyperbeat LST Vault",
     "symbol": "LSTHYPE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/70218/thumb/lsthype.png?1761116365"
+    "logoURI": "https://app.hyperbeat.org/assets/images/vaults/lstTokenhb.svg"
   },
   {
     "chainId": 999,
