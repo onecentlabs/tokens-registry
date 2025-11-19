@@ -644,14 +644,6 @@
   },
   {
     "chainId": 999,
-    "address": "0xd3a9cb7312b9c29113290758f5adfe12304cd16a",
-    "name": "MEV Capital USR",
-    "symbol": "MCUSR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/68306/thumb/mcusr.png?1755311576"
-  },
-  {
-    "chainId": 999,
     "address": "0x2c910f67dbf81099e6f8e126e7265d7595dc20ad",
     "name": "hyUSDT0  hwHLP    11",
     "symbol": "HYUSDT0HWHLP-11",
