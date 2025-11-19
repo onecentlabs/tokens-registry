@@ -961,5 +961,53 @@
     "symbol": "VEUS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70691/thumb/veus.png?1763114911"
+  },
+  {
+    "chainId": 999,
+    "address": "0xe25514992597786e07872e6c5517fe1906c0cadd",
+    "name": "Onecent Labs USDC",
+    "symbol": "gxmUSDC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/public_assets/refs/heads/main/tokens/onecentlabs-vaults/logo.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0xcdc3975df9d1cf054f44ed238edfb708880292ea",
+    "name": "Onecent Labs USDT0",
+    "symbol": "gxmUSDT0",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/public_assets/refs/heads/main/tokens/onecentlabs-vaults/logo.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9f75eac57d1c6f7248bd2aede58c95689f3827f7",
+    "name": "Onecent Labs USDH",
+    "symbol": "gxmUSDH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/public_assets/refs/heads/main/tokens/onecentlabs-vaults/logo.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9f75eac57d1c6f7248bd2aede58c95689f3827f7",
+    "name": "Onecent Labs USDH",
+    "symbol": "gxmUSDH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/public_assets/refs/heads/main/tokens/onecentlabs-vaults/logo.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0x63cf7ee583d9954febf649ad1c40c97a6493b1be",
+    "name": "Onecent Labs USDE",
+    "symbol": "gxmUSDE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/public_assets/refs/heads/main/tokens/onecentlabs-vaults/logo.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0x8f9291606862eef771a97e5b71e4b98fd1fa216a",
+    "name": "Onecent Labs HYPE",
+    "symbol": "gxmHYPE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/public_assets/refs/heads/main/tokens/onecentlabs-vaults/logo.svg"
   }
 ]
