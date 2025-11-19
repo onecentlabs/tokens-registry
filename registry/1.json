@@ -72364,5 +72364,13 @@
     "symbol": "NWISDOM",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/70669/thumb/Nest_Wisdom_Vault.png?1763016395"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb35832e4556598ac92c6b2c7a8292f2dd92d7914",
+    "name": "Ethereum Day",
+    "symbol": "ETHDAY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70755/thumb/Untitled-1.png?1763516962"
   }
 ]
