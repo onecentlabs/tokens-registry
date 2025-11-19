@@ -17080,5 +17080,21 @@
     "address": "0x004D50B3fC784b580531D8e8615AA96Cf7fbb919",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x004D50B3fC784b580531D8e8615AA96Cf7fbb919.png"
+  },
+  {
+    "name": "CoinMarketCap 20 Index DTF",
+    "chainId": 56,
+    "symbol": "CMC20",
+    "address": "0x2f8A339B5889FfaC4c5A956787cdA593b3c36867",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2f8A339B5889FfaC4c5A956787cdA593b3c36867.png"
+  },
+  {
+    "name": "Datagram",
+    "chainId": 56,
+    "symbol": "DGRAM",
+    "address": "0x49c6C91EC839A581DE2B882e868494215250ee59",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x49c6C91EC839A581DE2B882e868494215250ee59.png"
   }
 ]

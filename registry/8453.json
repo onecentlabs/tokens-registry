@@ -23738,5 +23738,53 @@
     "symbol": "ACU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34367/thumb/Acurast-symbol-dark-bg.png?1728418440"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa9f6d9eca1f803854a13cecad0f21d43e007db07",
+    "name": "Bario Entertainment System",
+    "symbol": "$BAES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70743/thumb/baes500.png?1763383005"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3abd07d37610f9414d88aea9fa94adcacadf4082",
+    "name": "BMA",
+    "symbol": "BMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70740/thumb/dae5da86-a05f-432a-845c-97a4f2697246.jpg?1763382492"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd88e4a97b9defbf2c8491ea0e48fcc7e043c775a",
+    "name": "Blink Galaxy",
+    "symbol": "BG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70723/thumb/Blink_Icon_Purple_400x400.png?1763268045"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd91857eeb279922cc72b6b3f543aea6ca465f5a5",
+    "name": "Meow on Zora",
+    "symbol": "MEOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70725/thumb/MEOW_200.png?1763269229"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xac531eb26ca1d21b85126de8fb87e80e09002dcf",
+    "name": "The Sandbox",
+    "symbol": "SAND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12129/thumb/sandbox_logo.jpg?1696511971"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0a776c1c22b8b8e7eab346744daa33722b80fda4",
+    "name": "Panther Protocol",
+    "symbol": "ZKP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18611/thumb/panther.jpg?1696518084"
   }
 ]

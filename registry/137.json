@@ -13993,5 +13993,13 @@
     "symbol": "VOLLAR",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/70718/thumb/VC-VollarLOGO-200_200.png?1763222980"
+  },
+  {
+    "chainId": 137,
+    "address": "0x87bdfbe98ba55104701b2f2e999982a317905637",
+    "name": "Coinnekt+",
+    "symbol": "CNKT+",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70753/thumb/cnkt.png?1763490567"
   }
 ]

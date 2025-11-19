@@ -72300,5 +72300,69 @@
     "symbol": "MOC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/2374/thumb/moc.png?1696503240"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdb9ff4a47a271788c650486c456d8b37c198d9e9",
+    "name": "PEPE6900",
+    "symbol": "PEPE6900",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70751/thumb/logo.png?1763470941"
+  },
+  {
+    "chainId": 1,
+    "address": "0xef7ca62416055b4ee9fb7e4daffb3c0802da9aad",
+    "name": "Bitcoin Pepe",
+    "symbol": "BITPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70754/thumb/S_mXf9nE_400x400.jpg?1763490744"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd24c0f14142aaf45ff995bc84ebf6a06add01b8d",
+    "name": "Xera",
+    "symbol": "XERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70734/thumb/PkxCS_AX_400x400_%281%29.jpg?1763354286"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa2209a2b7cdb0a15457322199fe45bdbad72c48f",
+    "name": "Little Pepe",
+    "symbol": "LILPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70738/thumb/mark.png?1763363200"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc19d38925f9f645337b1d1f37baf3c0647a48e50",
+    "name": "GAIB",
+    "symbol": "GAIB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70737/thumb/gaib.png?1763362542"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7cf9a80db3b29ee8efe3710aadb7b95270572d47",
+    "name": "Nillion",
+    "symbol": "NIL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39082/thumb/nillion.jpg?1723033507"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf0b9889cdb70a716bf72e37ef626f08d9f14c180",
+    "name": "Bifrost Voucher MANTA",
+    "symbol": "VMANTA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34707/thumb/vMANTA.png?1705893023"
+  },
+  {
+    "chainId": 1,
+    "address": "0x29bf22381a5811dec89dc7b46a5ce57ad02c0240",
+    "name": "Nest WisdomTree Vault",
+    "symbol": "NWISDOM",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70669/thumb/Nest_Wisdom_Vault.png?1763016395"
   }
 ]
