@@ -988,14 +988,6 @@
   },
   {
     "chainId": 999,
-    "address": "0x9f75eac57d1c6f7248bd2aede58c95689f3827f7",
-    "name": "Onecent Labs USDH",
-    "symbol": "gxmUSDH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/onecentlabs/public_assets/refs/heads/main/tokens/onecentlabs-vaults/logo.svg"
-  },
-  {
-    "chainId": 999,
     "address": "0x63cf7ee583d9954febf649ad1c40c97a6493b1be",
     "name": "Onecent Labs USDE",
     "symbol": "gxmUSDE",
