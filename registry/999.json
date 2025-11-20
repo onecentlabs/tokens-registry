@@ -1001,5 +1001,29 @@
     "symbol": "MCUSR",
     "decimals": 18,
     "logoURI": "https://framerusercontent.com/images/eXd89WA5oWMIf8RP7aueuIZinw.png?width=256&height=256"
+  },
+  {
+    "chainId": 999,
+    "address": "0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29",
+    "name": "Delta Neutral HYPE",
+    "symbol": "dnHYPE",
+    "decimals": 18,
+    "logoURI": "https://app.hyperbeat.org/assets/images/vaults/dnHYPE.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0x8858a307a85982c2b3cb2ace1720237f2f09c39b",
+    "name": "Delta Neutral PUMP",
+    "symbol": "dnPUMP",
+    "decimals": 18,
+    "logoURI": "https://app.hyperbeat.org/assets/images/vaults/dnPUMP.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0xc061d38903b99ac12713b550c2cb44b221674f94",
+    "name": "Hyperbeat Ultra uBTC",
+    "symbol": "hbBTC",
+    "decimals": 8,
+    "logoURI": "https://app.hyperbeat.org/assets/images/vaults/hbBTC.svg"
   }
 ]
