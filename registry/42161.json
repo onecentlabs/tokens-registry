@@ -12784,5 +12784,21 @@
     "symbol": "CAPX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70528/thumb/capx_logo_icon_-_circle.png?1762334471"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
+    "name": "AllUnity EUR",
+    "symbol": "EURAU",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68076/thumb/EURAU_Full_Colour.png?1754717091"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6",
+    "name": "Corn",
+    "symbol": "CORN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54471/thumb/corn.jpg?1739933588"
   }
 ]

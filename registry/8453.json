@@ -23802,5 +23802,13 @@
     "symbol": "SYRUPUSDC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/syrupUSDC.png?1761824955"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbf71faf1e649f359de0092adffae4756710f4127",
+    "name": "Xiao Lan",
+    "symbol": "LILBULE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70771/thumb/0jki6q6E_400x400.jpg?1763620662"
   }
 ]

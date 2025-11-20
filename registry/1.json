@@ -72396,5 +72396,21 @@
     "symbol": "LYX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31010/thumb/LYX.png?1696529847"
+  },
+  {
+    "chainId": 1,
+    "address": "0x13239c268beddd88ad0cb02050d3ff6a9d00de6d",
+    "name": "BitcoinOS",
+    "symbol": "BOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70233/thumb/BOS-Logomark-Lightmode.png?1761141084"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc9746f73cc33a36c2cd55b8aefd732586946cedd",
+    "name": "BOB (Build on Bitcoin)",
+    "symbol": "BOB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54720/thumb/BOB_symbol_colour.png?1741195397"
   }
 ]
