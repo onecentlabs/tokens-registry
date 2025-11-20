@@ -993,5 +993,13 @@
     "symbol": "gxmHYPE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/onecentlabs/public_assets/refs/heads/main/tokens/onecentlabs-vaults/logo.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0xd3a9cb7312b9c29113290758f5adfe12304cd16a",
+    "name": "MEV Capital USR",
+    "symbol": "MCUSR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68306/thumb/mcusr.png?1755311576"
   }
 ]

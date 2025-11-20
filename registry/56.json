@@ -17104,5 +17104,13 @@
     "address": "0xC19D38925F9F645337B1D1f37bAf3C0647A48E50",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xC19D38925F9F645337B1D1f37bAf3C0647A48E50.png"
+  },
+  {
+    "name": "BOB",
+    "chainId": 56,
+    "symbol": "BOB",
+    "address": "0x52B5fB4B0F6572B8C44d0251Cc224513ac5eB7E7",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x52B5fB4B0F6572B8C44d0251Cc224513ac5eB7E7.png"
   }
 ]

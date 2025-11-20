@@ -23786,5 +23786,21 @@
     "symbol": "ZKP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18611/thumb/panther.jpg?1696518084"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x806b6f3d576744c6b05088e4e49e3aadbca110cc",
+    "name": "Charlie",
+    "symbol": "CHARLIE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70761/thumb/200x200-Charlie.png?1763565288"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x660975730059246a68521a3e2fbd4740173100f5",
+    "name": "syrupUSDC",
+    "symbol": "SYRUPUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/syrupUSDC.png?1761824955"
   }
 ]

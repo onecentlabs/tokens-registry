@@ -72372,5 +72372,29 @@
     "symbol": "ETHDAY",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/70755/thumb/Untitled-1.png?1763516962"
+  },
+  {
+    "chainId": 1,
+    "address": "0x246249a33cf9dd3d1ba3c6758adb80f2b36af98f",
+    "name": "Alpha Technologies Token",
+    "symbol": "ATT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70757/thumb/att_logo.jpg?1763545695"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3081f70000e8cf8be2afcae3db6b9d9c796caec5",
+    "name": "ETH6900",
+    "symbol": "ETH6900",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70758/thumb/logo1.png?1763557551"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc210b2cb65ed3484892167f5e05f7ab496ab0598",
+    "name": "LUKSO",
+    "symbol": "LYX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31010/thumb/LYX.png?1696529847"
   }
 ]
