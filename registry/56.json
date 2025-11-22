@@ -17112,5 +17112,29 @@
     "address": "0x52B5fB4B0F6572B8C44d0251Cc224513ac5eB7E7",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x52B5fB4B0F6572B8C44d0251Cc224513ac5eB7E7.png"
+  },
+  {
+    "name": "YieldNest RWA MAX",
+    "chainId": 56,
+    "symbol": "ynRWAx",
+    "address": "0x185716BEB4ccBFa547B00eAd24Ac6705BD47b8f0",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x185716BEB4ccBFa547B00eAd24Ac6705BD47b8f0.png"
+  },
+  {
+    "name": "Ultiland",
+    "chainId": 56,
+    "symbol": "ARTX",
+    "address": "0x8105743e8A19c915a604D7D9e7aa3A060A4C2c32",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8105743e8A19c915a604D7D9e7aa3A060A4C2c32.png"
+  },
+  {
+    "name": "MineD",
+    "chainId": 56,
+    "symbol": "DIGI",
+    "address": "0x5b6e1cCf4CBBE27F588F8DcEa8e9e39AcB595e3d",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5b6e1cCf4CBBE27F588F8DcEa8e9e39AcB595e3d.png"
   }
 ]

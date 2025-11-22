@@ -1121,5 +1121,13 @@
     "symbol": "TREVEE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70151/thumb/TREVEE.png?1760778357"
+  },
+  {
+    "chainId": 146,
+    "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
+    "name": "Function FBTC",
+    "symbol": "FBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39182/thumb/Function_Token_%282%29.png?1760254065"
   }
 ]

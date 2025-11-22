@@ -23810,5 +23810,61 @@
     "symbol": "LILBULE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70771/thumb/0jki6q6E_400x400.jpg?1763620662"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x915c135d2cbcad68e5c30f1cea0ee7129f57fd03",
+    "name": "UFX Project",
+    "symbol": "UFX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70776/thumb/UFX_logo_200x200.png?1763662668"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb17a7581c9a006e8b5fda85506cfd3448ed75746",
+    "name": "The Audit Oracle",
+    "symbol": "AUDIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70775/thumb/Auditoracle_logo_1.png?1763662057"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdb6c73a561b4bc90c3163f2d21877d5da13de6f9",
+    "name": "MecoFun",
+    "symbol": "MECO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70783/thumb/200x200.png?1763709494"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3b92844c5abd9f0562c71ebf219628f1676a856d",
+    "name": "Starly the $STAR™ Guide",
+    "symbol": "$STAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70779/thumb/AS23.jpg?1763708408"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc47da4cb96ce65a96844a01bfae509f9d5454534",
+    "name": "Dephaser JPY",
+    "symbol": "JPYT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68576/thumb/JPYT_Logo_200x200_px.png?1756110424"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa69f80524381275a7ffdb3ae01c54150644c8792",
+    "name": "Superfluid",
+    "symbol": "SUP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68697/thumb/sup.png?1756287343"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf4bdd7042f4ea505838c2d432c787beb9f603274",
+    "name": "WeatherXM",
+    "symbol": "WXM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38154/thumb/weatherxm-network-logo.png?1716668976"
   }
 ]

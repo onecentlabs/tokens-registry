@@ -1,0 +1,77 @@
+[
+  {
+    "chainId": 143,
+    "address": "0xea17E5a9efEBf1477dB45082d67010E2245217f1",
+    "name": "SOL Wormhole ",
+    "symbol": "SOL",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1644224316",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c"
+        }
+      }
+    }
+  },
+  {
+    "name": "USDCoin",
+    "address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 143,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        }
+      }
+    }
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 143,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        }
+      }
+    }
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 143,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+        }
+      }
+    }
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0xEE8c0E9f1BFFb4Eb878d8f15f368A02a35481242",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 143,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        }
+      }
+    }
+  }
+]
