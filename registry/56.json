@@ -17136,5 +17136,21 @@
     "address": "0x5b6e1cCf4CBBE27F588F8DcEa8e9e39AcB595e3d",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x5b6e1cCf4CBBE27F588F8DcEa8e9e39AcB595e3d.png"
+  },
+  {
+    "name": "Kyuzo’s Friends",
+    "chainId": 56,
+    "symbol": "KO",
+    "address": "0x2D739Dd563609C39A1aE1546a03E8b469361175f",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2D739Dd563609C39A1aE1546a03E8b469361175f.png"
+  },
+  {
+    "name": "Irys",
+    "chainId": 56,
+    "symbol": "IRYS",
+    "address": "0x91152B4Ef635403efBAe860edD0F8c321d7c035d",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x91152B4Ef635403efBAe860edD0F8c321d7c035d.png"
   }
 ]

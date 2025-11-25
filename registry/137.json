@@ -14001,5 +14001,21 @@
     "symbol": "CNKT+",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70753/thumb/cnkt.png?1763490567"
+  },
+  {
+    "chainId": 137,
+    "address": "0x25ed22a5b6804cd1fbf750f005d5c4c80763c0fb",
+    "name": "Fanpla",
+    "symbol": "FPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70792/thumb/fanpla_200%C3%97200.png?1763799185"
+  },
+  {
+    "chainId": 137,
+    "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
+    "name": "MXNB",
+    "symbol": "MXNB",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39136/thumb/MNXB_Logo.png?1746088156"
   }
 ]
