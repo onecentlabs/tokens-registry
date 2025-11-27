@@ -1025,5 +1025,13 @@
     "symbol": "hbBTC",
     "decimals": 8,
     "logoURI": "https://app.hyperbeat.org/assets/images/vaults/hbBTC.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0x000000000000780555bd0bca3791f89f9542c2d6",
+    "name": "Kinetiq Governance Token",
+    "symbol": "KNTQ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/999/kntq.svg"
   }
 ]
