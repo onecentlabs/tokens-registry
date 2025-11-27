@@ -23906,5 +23906,37 @@
     "symbol": "ACU",
     "decimals": 12,
     "logoURI": "https://assets.coingecko.com/coins/images/34367/thumb/Acurast-symbol-dark-bg.png?1728418440"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd63f21e7f4205d59c5b486273c42e261d5cd4d1d",
+    "name": "BLACK HOLE",
+    "symbol": "BLKH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70836/thumb/dexscreener-icon.png?1764102990"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x81034fb34009115f215f5d5f564aac9ffa46a1dc",
+    "name": "iAero",
+    "symbol": "IAERO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70831/thumb/upscaled_iaero_pfp.png?1764086387"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
+    "name": "Argentine Peso",
+    "symbol": "WARS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70846/thumb/world_logos_wars_logo_3.png?1764176749"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa15d5c95b7c0eecac06f673ad390ad6066705af7",
+    "name": "NAV",
+    "symbol": "NAV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54663/thumb/NAV_Token.png?1740898251"
   }
 ]

@@ -14017,5 +14017,13 @@
     "symbol": "MXNB",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/39136/thumb/MNXB_Logo.png?1746088156"
+  },
+  {
+    "chainId": 137,
+    "address": "0xc750c8a5115cc76a1682c3c0d83e7eb281da0d5a",
+    "name": "C-Cash",
+    "symbol": "CCASH",
+    "decimals": 16,
+    "logoURI": "https://assets.coingecko.com/coins/images/31644/thumb/200x.png?1696530460"
   }
 ]

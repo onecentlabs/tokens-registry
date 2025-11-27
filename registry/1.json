@@ -72452,5 +72452,45 @@
     "symbol": "CLONE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66241/thumb/CL_Token_Logo.png?1748908187"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72943fb986c7cc044740ff7bbf4ec722cd7d5436",
+    "name": "Sanke Wallet",
+    "symbol": "SANKE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70841/thumb/Logo_%285%29.jpg?1764114223"
+  },
+  {
+    "chainId": 1,
+    "address": "0x58d7fa7356d68c494c2de09f95d55c2ff2d38bd3",
+    "name": "Auryn",
+    "symbol": "AU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70823/thumb/auryn-logo.png?1764039004"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
+    "name": "Argentine Peso",
+    "symbol": "WARS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70846/thumb/world_logos_wars_logo_3.png?1764176749"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e7fc02be94bc7f0cd69dcab572f64bcc173cd81",
+    "name": "Alpha USD0",
+    "symbol": "USD0A",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70832/thumb/USD0a.png?1764087841"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6bf7788eaa948d9ffba7e9bb386e2d3c9810e0fc",
+    "name": "Sierra",
+    "symbol": "SIERRA",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70247/thumb/Sierra_Icon-Light_%281%29.png?1761242537"
   }
 ]

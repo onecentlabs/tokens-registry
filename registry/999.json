@@ -1033,5 +1033,21 @@
     "symbol": "KNTQ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/999/kntq.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0xac962fa04bf91b7fd0dc0c5c32414e0ce3c51e03",
+    "name": "xHYPE",
+    "symbol": "XHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70829/thumb/xhype.png?1764063101"
+  },
+  {
+    "chainId": 999,
+    "address": "0x5555c2542836e7a6c8d3e133d5aa9773b65d5555",
+    "name": "xRAM Liquid Staking Token",
+    "symbol": "HYPERRAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70830/thumb/hyperRAM.png?1764069902"
   }
 ]

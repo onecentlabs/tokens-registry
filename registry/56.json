@@ -17152,5 +17152,45 @@
     "address": "0x91152B4Ef635403efBAe860edD0F8c321d7c035d",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x91152B4Ef635403efBAe860edD0F8c321d7c035d.png"
+  },
+  {
+    "name": "GUA",
+    "chainId": 56,
+    "symbol": "GUA",
+    "address": "0xA5C8e1513B6A08334b479fe4D71F1253259469BE",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA5C8e1513B6A08334b479fe4D71F1253259469BE.png"
+  },
+  {
+    "name": "三维威廉泰尔企鹅",
+    "chainId": 56,
+    "symbol": "恶俗企鹅",
+    "address": "0xE1E93E92C0c2Aff2dC4D7d4A8b250d973cAd4444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xE1E93E92C0c2Aff2dC4D7d4A8b250d973cAd4444.png"
+  },
+  {
+    "name": "Sparkle Token",
+    "chainId": 56,
+    "symbol": "SSS",
+    "address": "0xcc442A4c0b9C35578aA285f0d39f2BcC0E152ACD",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xcc442A4c0b9C35578aA285f0d39f2BcC0E152ACD.png"
+  },
+  {
+    "name": "Port3 Network",
+    "chainId": 56,
+    "symbol": "PORT3",
+    "address": "0xf6402bEc11BD945BBd46BE77e1fA5D477883F6C2",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xf6402bEc11BD945BBd46BE77e1fA5D477883F6C2.png"
+  },
+  {
+    "name": "ltCIC",
+    "chainId": 56,
+    "symbol": "ltCIC",
+    "address": "0x058240afd2DF517fAD59baA3a39C6AE28cf37F32",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x058240afd2DF517fAD59baA3a39C6AE28cf37F32.png"
   }
 ]
