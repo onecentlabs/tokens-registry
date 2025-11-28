@@ -72492,5 +72492,13 @@
     "symbol": "SIERRA",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/70247/thumb/Sierra_Icon-Light_%281%29.png?1761242537"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
+    "name": "Brazilian real",
+    "symbol": "WBRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70862/thumb/wbrl.png?1764272108"
   }
 ]

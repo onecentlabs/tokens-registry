@@ -23938,5 +23938,13 @@
     "symbol": "NAV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54663/thumb/NAV_Token.png?1740898251"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
+    "name": "Brazilian real",
+    "symbol": "WBRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70862/thumb/wbrl.png?1764272108"
   }
 ]
