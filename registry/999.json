@@ -1052,7 +1052,7 @@
   },
   {
     "chainId": 999,
-    "address": "0x07c57E32a3C29D5659bda1d3EFC2E7BF004E3035",
+    "address": "0x07c57e32a3c29d5659bda1d3efc2e7bf004e3035",
     "name": "NEST",
     "symbol": "NEST",
     "decimals": 18,
