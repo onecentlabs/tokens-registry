@@ -17200,5 +17200,29 @@
     "address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xc12eFb9e4A1A753e7f6523482C569793C2271dbB.png"
+  },
+  {
+    "name": "MINervAI",
+    "chainId": 56,
+    "symbol": "MINAI",
+    "address": "0xda05E094fC8710A1eB7cA8EcB8f62680C0AE9B0c",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xda05E094fC8710A1eB7cA8EcB8f62680C0AE9B0c.png"
+  },
+  {
+    "name": "Rayls",
+    "chainId": 56,
+    "symbol": "RLS",
+    "address": "0x17EA10b6aE4FDE59FDBF471Bd28Ab9710F508816",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x17EA10b6aE4FDE59FDBF471Bd28Ab9710F508816.png"
+  },
+  {
+    "name": "BNB+",
+    "chainId": 56,
+    "symbol": "BNB+",
+    "address": "0x5D5721Bf35BDfFBa64E7b8fCeeb4712904a0DD11",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5D5721Bf35BDfFBa64E7b8fCeeb4712904a0DD11.png"
   }
 ]
