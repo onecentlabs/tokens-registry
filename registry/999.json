@@ -1049,5 +1049,13 @@
     "symbol": "HYPERRAM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70830/thumb/hyperRAM.png?1764069902"
+  },
+  {
+    "chainId": 999,
+    "address": "0x07c57E32a3C29D5659bda1d3EFC2E7BF004E3035",
+    "name": "NEST",
+    "symbol": "NEST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/999/nest.svg"
   }
 ]
