@@ -1129,5 +1129,13 @@
     "symbol": "FBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/39182/thumb/Function_Token_%282%29.png?1760254065"
+  },
+  {
+    "chainId": 146,
+    "address": "0x7c7d53eecda37a87ce0d5bf8e0b24512a48dc963",
+    "name": "SODAX",
+    "symbol": "SODA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55710/thumb/sodax.jpg?1747127833"
   }
 ]

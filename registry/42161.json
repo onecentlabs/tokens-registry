@@ -12800,5 +12800,21 @@
     "symbol": "CORN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54471/thumb/corn.jpg?1739933588"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x88b8d272b9f1bab7d7896f5f88f8825ce14b05bd",
+    "name": "Rogue",
+    "symbol": "ROGUE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70898/thumb/rogue-white-in-indigo-logo.png?1764483818"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf0197f10ea542a67914ecc0ec5304dc9df1faf6f",
+    "name": "DEAD",
+    "symbol": "DEAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70904/thumb/_NotDEADTrans.png?1764486688"
   }
 ]

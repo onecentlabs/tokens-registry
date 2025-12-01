@@ -14025,5 +14025,21 @@
     "symbol": "CCASH",
     "decimals": 16,
     "logoURI": "https://assets.coingecko.com/coins/images/31644/thumb/200x.png?1696530460"
+  },
+  {
+    "chainId": 137,
+    "address": "0x3d09f7f5039567564c3655b4814ea4bf63ce9fd3",
+    "name": "KARMA",
+    "symbol": "KARMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70872/thumb/Karma_Cryptocurrency_Logo_-_Calming_Aesthetic.png?1764323290"
+  },
+  {
+    "chainId": 137,
+    "address": "0x27f6c8289550fce67f6b50bed1f519966afe5287",
+    "name": "Tokenised GBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800"
   }
 ]

@@ -72500,5 +72500,69 @@
     "symbol": "WBRL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70862/thumb/wbrl.png?1764272108"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba83b5ed3f12bfa44f066f03ee0433419b74f469",
+    "name": "BEST",
+    "symbol": "BEST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70874/thumb/Logo_%283%29.png?1764329798"
+  },
+  {
+    "chainId": 1,
+    "address": "0x098697ba3fee4ea76294c5d6a466a4e3b3e95fe6",
+    "name": "USP Yield Optimized Stablecoin",
+    "symbol": "USP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70895/thumb/usp_200.png?1764404741"
+  },
+  {
+    "chainId": 1,
+    "address": "0x96043804d00dcec238718eedad9ac10719778380",
+    "name": "Staked Sherpa USD",
+    "symbol": "SHUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70906/thumb/Group_1321314974_%281%29.png?1764487804"
+  },
+  {
+    "chainId": 1,
+    "address": "0xea9bb54fc76bfd5dd2ff2f6da641e78c230bb683",
+    "name": "TEN",
+    "symbol": "TEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31208/thumb/Ten_Logo.png?1708424112"
+  },
+  {
+    "chainId": 1,
+    "address": "0x27f6c8289550fce67f6b50bed1f519966afe5287",
+    "name": "Tokenised GBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf0197f10ea542a67914ecc0ec5304dc9df1faf6f",
+    "name": "DEAD",
+    "symbol": "DEAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70904/thumb/_NotDEADTrans.png?1764486688"
+  },
+  {
+    "chainId": 1,
+    "address": "0x337e7456b420bd3481e7fa61fa9850343d610d34",
+    "name": "Mexican Peso",
+    "symbol": "WMXN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70880/thumb/wmxn_logo_1.png?1764392404"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8a1d45e102e886510e891d2ec656a708991e2d76",
+    "name": "Colombian Peso",
+    "symbol": "WCOP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70887/thumb/wcop_logo_1.png?1764394538"
   }
 ]

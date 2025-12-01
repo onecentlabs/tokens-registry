@@ -6042,5 +6042,13 @@
     "symbol": "TGBP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x27f6c8289550fce67f6b50bed1f519966afe5287",
+    "name": "Tokenised GBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800"
   }
 ]

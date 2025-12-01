@@ -17192,5 +17192,13 @@
     "address": "0x058240afd2DF517fAD59baA3a39C6AE28cf37F32",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x058240afd2DF517fAD59baA3a39C6AE28cf37F32.png"
+  },
+  {
+    "name": "GaiAI Token",
+    "chainId": 56,
+    "symbol": "GAIX",
+    "address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xc12eFb9e4A1A753e7f6523482C569793C2271dbB.png"
   }
 ]

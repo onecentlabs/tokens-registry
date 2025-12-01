@@ -23946,5 +23946,93 @@
     "symbol": "WBRL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70862/thumb/wbrl.png?1764272108"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5b8a884496792f754db6f92f6eacceb376ed8e40",
+    "name": "One Path",
+    "symbol": "OP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70891/thumb/rscyir5hkt8lepch273cie8e3bwm.?1764395673"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x454f8c3f1fc79a98363db6104a20ac59a02a3133",
+    "name": "GoldPesa",
+    "symbol": "GPX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70896/thumb/GPX.png?1764483245"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x701c8c09fe9f081f9be69ab9af8291c84c09389b",
+    "name": "Blink Galaxy",
+    "symbol": "BG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70892/thumb/Blink_Icon_Purple_400x400.png?1764396773"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf0197f10ea542a67914ecc0ec5304dc9df1faf6f",
+    "name": "DEAD",
+    "symbol": "DEAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70904/thumb/_NotDEADTrans.png?1764486688"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe8f802b0cb13adf1a4333b541d4d3f703b8a69fa",
+    "name": "VitaFOXO",
+    "symbol": "VITAFOXO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70886/thumb/Profile_Pic_%281%29.png?1764394417"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x89c202e98f41cdeb7b397e35a0882315d2ffc8de",
+    "name": "Bitcoin On Virtuals",
+    "symbol": "BTCV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70889/thumb/yvg5z5hd8eppwt34xhfr0rdssmg8.?1764395286"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4dec3139f4a6c638e26452d32181fe87a7530805",
+    "name": "LiveArt",
+    "symbol": "ART",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53412/thumb/liveart.jpg?1736317801"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x96043804d00dcec238718eedad9ac10719778380",
+    "name": "Staked Sherpa USD",
+    "symbol": "SHUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70906/thumb/Group_1321314974_%281%29.png?1764487804"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x27f6c8289550fce67f6b50bed1f519966afe5287",
+    "name": "Tokenised GBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x337e7456b420bd3481e7fa61fa9850343d610d34",
+    "name": "Mexican Peso",
+    "symbol": "WMXN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70880/thumb/wmxn_logo_1.png?1764392404"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8a1d45e102e886510e891d2ec656a708991e2d76",
+    "name": "Colombian Peso",
+    "symbol": "WCOP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70887/thumb/wcop_logo_1.png?1764394538"
   }
 ]

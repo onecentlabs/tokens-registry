@@ -5360,5 +5360,13 @@
     "symbol": "EURAU",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/68076/thumb/EURAU_Full_Colour.png?1754717091"
+  },
+  {
+    "chainId": 10,
+    "address": "0xf0197f10ea542a67914ecc0ec5304dc9df1faf6f",
+    "name": "DEAD",
+    "symbol": "DEAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70904/thumb/_NotDEADTrans.png?1764486688"
   }
 ]
