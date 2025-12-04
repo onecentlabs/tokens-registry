@@ -864,5 +864,13 @@
     "symbol": "HOHM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66457/thumb/hOHM_200px.png?1749435178"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xb2a12db2691fc05dca47b2be9a087077afaa0800",
+    "name": "Smilee",
+    "symbol": "SMILEE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70922/thumb/SMILEE_Token_Icon_CoinGecko.png?1764594106"
   }
 ]

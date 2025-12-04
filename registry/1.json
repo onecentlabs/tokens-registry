@@ -72564,5 +72564,53 @@
     "symbol": "WCOP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70887/thumb/wcop_logo_1.png?1764394538"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb5f7b021a78f470d31d762c1dda05ea549904fbd",
+    "name": "Rayls",
+    "symbol": "RLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70091/thumb/cgrLS.png?1760541265"
+  },
+  {
+    "chainId": 1,
+    "address": "0x081599e4936d12c46bd48913b2329115cd26cbdd",
+    "name": "Macropod",
+    "symbol": "AUDM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70943/thumb/AUDM-Logo.png?1764718671"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9dc44ae5be187eca9e2a67e33f27a4c91cea1223",
+    "name": "Power Protocol",
+    "symbol": "POWER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70944/thumb/power.png?1764744522"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6b419b281491473da2948b23fcb42f80e4ef2529",
+    "name": "V1 Punk Strategic Reserve",
+    "symbol": "PUNKSR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70946/thumb/V1opt.png?1764757491"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe9db0a36877de86efd134f87caf3db29f90b275c",
+    "name": "Tectum Cash Token",
+    "symbol": "TCT",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/70947/thumb/photo_2025-12-01_20-37-15.jpg?1764769846"
+  },
+  {
+    "chainId": 1,
+    "address": "0x07c3e739c65f81ea79d19a88d27de4c9f15f8df0",
+    "name": "Talisman",
+    "symbol": "SEEK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69549/thumb/seek.png?1759554814"
   }
 ]

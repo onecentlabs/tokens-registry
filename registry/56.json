@@ -17224,5 +17224,13 @@
     "address": "0x5D5721Bf35BDfFBa64E7b8fCeeb4712904a0DD11",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x5D5721Bf35BDfFBa64E7b8fCeeb4712904a0DD11.png"
+  },
+  {
+    "name": "BIO",
+    "chainId": 56,
+    "symbol": "BIO",
+    "address": "0x226A2FA2556C48245E57cd1cbA4C6c9e67077DD2",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x226A2FA2556C48245E57cd1cbA4C6c9e67077DD2.png"
   }
 ]
