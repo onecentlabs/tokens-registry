@@ -72612,5 +72612,29 @@
     "symbol": "SEEK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69549/thumb/seek.png?1759554814"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5dd1a7a369e8273371d2dbf9d83356057088082c",
+    "name": "Flying Tulip",
+    "symbol": "FT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68285/thumb/FlyingTulip_FT_200px.png?1759802398"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb9c1344105faa4681bc7ffd68c5c526da61f2ae8",
+    "name": "aarna atvPTmax",
+    "symbol": "ATVPTMAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70963/thumb/atv_PT_max_logo_v1_83d9b681f7.png?1764860803"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1f7fd18926a9646f4ff62952706dfcaed7b544bb",
+    "name": "Bitcoin.ℏ",
+    "symbol": "BTC.ℏ",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/55129/thumb/bitcoinHT_%281%29.png?1753601555"
   }
 ]

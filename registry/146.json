@@ -1137,5 +1137,13 @@
     "symbol": "SODA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55710/thumb/sodax.jpg?1747127833"
+  },
+  {
+    "chainId": 146,
+    "address": "0x5dd1a7a369e8273371d2dbf9d83356057088082c",
+    "name": "Flying Tulip",
+    "symbol": "FT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68285/thumb/FlyingTulip_FT_200px.png?1759802398"
   }
 ]

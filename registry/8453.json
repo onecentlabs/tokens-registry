@@ -24090,5 +24090,29 @@
     "symbol": "HYBUX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70940/thumb/hybux_logo_200x200_%281%29.png?1764696130"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc1addae61bc74a14971bfa48a0b7141aded4fb07",
+    "name": "RIPS",
+    "symbol": "RIPS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70968/thumb/4bpd1dn2229efza78dmhe8xle1ky.?1764869041"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xef5997c2cf2f6c138196f8a6203afc335206b3c1",
+    "name": "OWB",
+    "symbol": "OWB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70956/thumb/owb.png?1764799678"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5dd1a7a369e8273371d2dbf9d83356057088082c",
+    "name": "Flying Tulip",
+    "symbol": "FT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68285/thumb/FlyingTulip_FT_200px.png?1759802398"
   }
 ]

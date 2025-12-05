@@ -17232,5 +17232,13 @@
     "address": "0x226A2FA2556C48245E57cd1cbA4C6c9e67077DD2",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x226A2FA2556C48245E57cd1cbA4C6c9e67077DD2.png"
+  },
+  {
+    "name": "Power",
+    "chainId": 56,
+    "symbol": "POWER",
+    "address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223.png"
   }
 ]
