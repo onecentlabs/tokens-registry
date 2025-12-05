@@ -43,7 +43,7 @@
     "name": "Staked HYPE",
     "symbol": "STHYPE",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/54509/large/hyperliquid.jpg?1740065301",
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/999/sthype.svg",
     "tags": [
       "NATIVE",
       "VERIFIED",
@@ -169,7 +169,7 @@
     "name": "Staked HYPE Shares",
     "symbol": "WSTHYPE",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/54722/large/hyperliquid.png?1741232793"
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/999/sthype.svg"
   },
   {
     "chainId": 999,
