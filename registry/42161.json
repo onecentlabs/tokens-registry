@@ -12816,5 +12816,13 @@
     "symbol": "DEAD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70904/thumb/_NotDEADTrans.png?1764486688"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x00312400303d02c323295f6e8b7309bc30fb6bce",
+    "name": "Caldera",
+    "symbol": "ERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54475/thumb/Token_Logo.png?1749676251"
   }
 ]

@@ -24114,5 +24114,69 @@
     "symbol": "FT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68285/thumb/FlyingTulip_FT_200px.png?1759802398"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf25cc9c024036dec8fc983e88253549667ee5b07",
+    "name": "HOUSE",
+    "symbol": "HOUSE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70979/thumb/gtp2i4ve4hunq45gslw1x0tm9wl9.?1764959718"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe10c9e9d5d8005cde4fcc5e635614665de736148",
+    "name": "Fuku",
+    "symbol": "FUKU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70980/thumb/5z2hhnlmcr6xgdxxk7k6m039n5vi.?1764959780"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xae4a37d554c6d6f3e398546d8566b25052e0169c",
+    "name": "Donut",
+    "symbol": "DONUT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70995/thumb/donut-logo.jpg?1765020130"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x16cfb276ae69ed975ebfdf3cf90e817a28d5cb07",
+    "name": "NexA",
+    "symbol": "NEXA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70992/thumb/n4cihazvz7f71h71glq4yc7oobsz.?1765019322"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x15eda1086c54c148037597e9dc60e5a87b618aa1",
+    "name": "BluePay",
+    "symbol": "BLUE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70987/thumb/hWstt0cy_400x400.jpg?1765016467"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0382e3fee4a420bd446367d468a6f00225853420",
+    "name": "ConsumerFi Protocol",
+    "symbol": "CFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70993/thumb/o6dyoqfbdes0qabkk4p6ed9ighgz.?1765019681"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4f34c8b3b5fb6d98da888f0fea543d4d9c9f2ebe",
+    "name": "Peruvian Sol",
+    "symbol": "WPEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70975/thumb/wpen_logo_1.png?1764954695"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
+    "name": "Chilean Peso",
+    "symbol": "WCLP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70976/thumb/wclp_logo_1.png?1764954870"
   }
 ]

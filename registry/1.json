@@ -72636,5 +72636,37 @@
     "symbol": "BTC.ℏ",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/55129/thumb/bitcoinHT_%281%29.png?1753601555"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5a42864b14c0c8241ef5ab62dae975b163a2e0c1",
+    "name": "Midas Hyperithm ETH",
+    "symbol": "MHYPERETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70978/thumb/mhypereth-38Uc0pjk.png?1764955809"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f34c8b3b5fb6d98da888f0fea543d4d9c9f2ebe",
+    "name": "Peruvian Sol",
+    "symbol": "WPEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70975/thumb/wpen_logo_1.png?1764954695"
+  },
+  {
+    "chainId": 1,
+    "address": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
+    "name": "Chilean Peso",
+    "symbol": "WCLP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70976/thumb/wclp_logo_1.png?1764954870"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa12cc123ba206d4031d1c7f6223d1c2ec249f4f3",
+    "name": "Zama",
+    "symbol": "ZAMA",
+    "decimals": 19,
+    "logoURI": "https://assets.coingecko.com/coins/images/70921/thumb/zama.png?1764591992"
   }
 ]

@@ -14041,5 +14041,21 @@
     "symbol": "TGBP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800"
+  },
+  {
+    "chainId": 137,
+    "address": "0xe1b0e0f0427af6f943cdeb6304eed259d152fc78",
+    "name": "Ovato",
+    "symbol": "OVATO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18124/thumb/ovato.jpg?1764955413"
+  },
+  {
+    "chainId": 137,
+    "address": "0x5c067c80c00ecd2345b05e83a3e758ef799c40b5",
+    "name": "BRL1",
+    "symbol": "BRL1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70996/thumb/brl1-logo.jpeg?1765021153"
   }
 ]
