@@ -658,5 +658,13 @@
     "symbol": "FRXUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+  },
+  {
+    "chainId": 534352,
+    "address": "0x3b005fefc63ca7c8d25ee21fba3787229ba4cf03",
+    "name": "USX",
+    "symbol": "USX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71020/thumb/usx.png?1765270693"
   }
 ]

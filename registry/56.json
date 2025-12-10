@@ -17240,5 +17240,21 @@
     "address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223.png"
+  },
+  {
+    "address": "0x5bfdaa3f7c28b9994b56135403bf1acea02595b0",
+    "symbol": "COW",
+    "name": "CoW Protocol Token",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/56/0x5bfdaa3f7c28b9994b56135403bf1acea02595b0/logo.png"
+  },
+  {
+    "name": "NIGHT",
+    "chainId": 56,
+    "symbol": "NIGHT",
+    "address": "0xFe930c2d63AeD9b82fC4DBC801920dD2c1a3224F",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xFe930c2d63AeD9b82fC4DBC801920dD2c1a3224F.png"
   }
 ]

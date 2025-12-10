@@ -24178,5 +24178,45 @@
     "symbol": "WCLP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70976/thumb/wclp_logo_1.png?1764954870"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2aca4ca8b7bbd9a5388ccb044c87dedf8a51c7c",
+    "name": "Thirdfy",
+    "symbol": "TFY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70997/thumb/TFY-logo.png?1765092126"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x09f87f948c88848363b124c9099cbb58e4cc7cb6",
+    "name": "Messy Virgo",
+    "symbol": "MESSY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71010/thumb/MESSY-AVATAR.png?1765099069"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x65d88916d9fa10762e62d26592610fe52de31d5a",
+    "name": "zeme",
+    "symbol": "ZEME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71023/thumb/zeme_400x400.jpg?1765302807"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb0ca83c9524a642cc1ab6e62c6006c47ba74d68a",
+    "name": "PLOI",
+    "symbol": "PLOI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71021/thumb/8rsiiq97s23w4xc9d85h0jo4tmny.?1765302145"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdefa1d21c5f1cbeac00eeb54b44c7d86467cc3a3",
+    "name": "Almanak",
+    "symbol": "ALMANAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68466/thumb/almanak.png?1755828664"
   }
 ]

@@ -14057,5 +14057,21 @@
     "symbol": "BRL1",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70996/thumb/brl1-logo.jpeg?1765021153"
+  },
+  {
+    "chainId": 137,
+    "address": "0x24c80d7f032bc8d308f10d59e20d5a65b90b7334",
+    "name": "Philcoin",
+    "symbol": "PHL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24178/thumb/2ZFyoMSk.png?1696523366"
+  },
+  {
+    "chainId": 137,
+    "address": "0xd0076d7e57aac42ec3f9d6e7c604d04a5b7030fa",
+    "name": "VNDC",
+    "symbol": "VNDC",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/9670/thumb/vndc-gold-coin.png?1696509740"
   }
 ]

@@ -72668,5 +72668,29 @@
     "symbol": "ZAMA",
     "decimals": 19,
     "logoURI": "https://assets.coingecko.com/coins/images/70921/thumb/zama.png?1764591992"
+  },
+  {
+    "chainId": 1,
+    "address": "0xad22f63404f7305e4713ccbd4f296f34770513f4",
+    "name": "Atomic Wallet Coin",
+    "symbol": "AWC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7430/thumb/Atomic_Wallet_Aeron_%281%29.png?1696507703"
+  },
+  {
+    "chainId": 1,
+    "address": "0x723bd1f87a327e94ceabf68d8f022e0f54b9cc1a",
+    "name": "Philcoin",
+    "symbol": "PHL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24178/thumb/2ZFyoMSk.png?1696523366"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdefa1d21c5f1cbeac00eeb54b44c7d86467cc3a3",
+    "name": "Almanak",
+    "symbol": "ALMANAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68466/thumb/almanak.png?1755828664"
   }
 ]
