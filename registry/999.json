@@ -1057,5 +1057,13 @@
     "symbol": "NEST",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/tokens/999/nest.svg"
+  },
+  {
+    "chainId": 999,
+    "address": "0x360c140e5344a1a0593d44b4ea6fc7c3daf0c473",
+    "name": "Kinetiq Markets HYPE",
+    "symbol": "KMHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71042/thumb/kmhype.png?1765388346"
   }
 ]

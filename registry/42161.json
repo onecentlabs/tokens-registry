@@ -12832,5 +12832,28 @@
     "symbol": "ALMANAK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68466/thumb/almanak.png?1755828664"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x73efDC761596328461B68E5FC58c3284CB15ba13",
+    "name": "Plume",
+    "symbol": "PLUME",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png?1736896935",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x4C1746A800D224393fE2470C70A35717eD4eA5F1"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x99f70a0e1786402a6796c6b0aa997ef340a5c6da",
+    "name": "Spiko Digital Assets Cash & Carry Fund",
+    "symbol": "SPKCC",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/71054/thumb/Fund_C_C-_Dollar.png?1765460346"
   }
 ]

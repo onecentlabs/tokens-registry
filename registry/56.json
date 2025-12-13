@@ -17256,5 +17256,45 @@
     "address": "0xFe930c2d63AeD9b82fC4DBC801920dD2c1a3224F",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xFe930c2d63AeD9b82fC4DBC801920dD2c1a3224F.png"
+  },
+  {
+    "name": "STABLE",
+    "chainId": 56,
+    "symbol": "STABLE",
+    "address": "0x011EBe7d75E2C9D1E0bD0be0bEf5C36f0A90075F",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x011EBe7d75E2C9D1E0bD0be0bEf5C36f0A90075F.png"
+  },
+  {
+    "name": "Cysic Token",
+    "chainId": 56,
+    "symbol": "CYS",
+    "address": "0x0C69199C1562233640e0Db5Ce2c399A88eB507C7",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0C69199C1562233640e0Db5Ce2c399A88eB507C7.png"
+  },
+  {
+    "name": "BeatSwap",
+    "chainId": 56,
+    "symbol": "BTX",
+    "address": "0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3.png"
+  },
+  {
+    "name": "RaveDAO",
+    "chainId": 56,
+    "symbol": "RAVE",
+    "address": "0x97693439EA2f0ecdeb9135881E49f354656a911c",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x97693439EA2f0ecdeb9135881E49f354656a911c.png"
+  },
+  {
+    "name": "DOYR",
+    "chainId": 56,
+    "symbol": "DOYR",
+    "address": "0x925c8Ab7A9a8a148E87CD7f1EC7ECc3625864444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x925c8Ab7A9a8a148E87CD7f1EC7ECc3625864444.png"
   }
 ]

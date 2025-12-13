@@ -24218,5 +24218,77 @@
     "symbol": "ALMANAK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68466/thumb/almanak.png?1755828664"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x517dbb32270fb39ae303e8ce94163f5beb9c3edb",
+    "name": "ED TORQ",
+    "symbol": "QOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71053/thumb/torq.png?1765452021"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11ff37785b849f38117a7ab2dff766c056d8ba6d",
+    "name": "Charred Treasures",
+    "symbol": "CHARRED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71028/thumb/charred_200*200.png?1765337037"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xac941d7a4c48f9896f60354c494afb3ed31ac21b",
+    "name": "Saul GoodAI",
+    "symbol": "SAUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71061/thumb/saul.jpg?1765487804"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x85cb098bdcd3ca929d2cd18fc7a2669ff0362242",
+    "name": "Bazaars",
+    "symbol": "BZR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26392/thumb/bazaars_logo-color-black-icon.png?1696525469"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf695df6c0f3bb45918a7a82e83348fc59517734e",
+    "name": "Spiko Digital Assets Cash & Carry Fund",
+    "symbol": "SPKCC",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/71054/thumb/Fund_C_C-_Dollar.png?1765460346"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x19e8d59ff3d7a31289e0dc04db48d43b02c7ffa6",
+    "name": "Cysic",
+    "symbol": "CYS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71025/thumb/cysic.png?1765330348"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1cea84203673764244e05693e42e6ace62be9ba5",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/WBTCLOGO.png?1764496367"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xedacc73ae9f73235934f72a43388404e4a2c4a24",
+    "name": "Reactive Network",
+    "symbol": "REACT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54415/thumb/Symbol_ColorBlack_H32_%281%29.png?1739555520"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x138746adfa52909e5920def027f5a8dc1c7effb6",
+    "name": "AR.IO Network",
+    "symbol": "ARIO",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54840/thumb/ARIO_Token_Logo.png?1742017505"
   }
 ]

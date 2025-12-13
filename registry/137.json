@@ -14073,5 +14073,37 @@
     "symbol": "VNDC",
     "decimals": 0,
     "logoURI": "https://assets.coingecko.com/coins/images/9670/thumb/vndc-gold-coin.png?1696509740"
+  },
+  {
+    "chainId": 137,
+    "address": "0x40445993b0122456ec9e5c679f4f0485e1a5b474",
+    "name": "FDrive Coin",
+    "symbol": "FDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71072/thumb/fdlogotransparent.png?1765555536"
+  },
+  {
+    "chainId": 137,
+    "address": "0x85cb098bdcd3ca929d2cd18fc7a2669ff0362242",
+    "name": "Bazaars",
+    "symbol": "BZR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26392/thumb/bazaars_logo-color-black-icon.png?1696525469"
+  },
+  {
+    "chainId": 137,
+    "address": "0x6eaea1ed457e06f8cf6ee7adf34e621844c3b0fc",
+    "name": "Ness Lab",
+    "symbol": "NESS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31923/thumb/NESS.jpg?1696530731"
+  },
+  {
+    "chainId": 137,
+    "address": "0x903d5990119bc799423e9c25c56518ba7dd19474",
+    "name": "Spiko Digital Assets Cash & Carry Fund",
+    "symbol": "SPKCC",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/71054/thumb/Fund_C_C-_Dollar.png?1765460346"
   }
 ]

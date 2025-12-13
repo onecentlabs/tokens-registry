@@ -681,5 +681,13 @@
     "symbol": "USDT0",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+  },
+  {
+    "chainId": 5000,
+    "address": "0xdefa1d21c5f1cbeac00eeb54b44c7d86467cc3a3",
+    "name": "Almanak",
+    "symbol": "ALMANAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68466/thumb/almanak.png?1755828664"
   }
 ]

@@ -72692,5 +72692,109 @@
     "symbol": "ALMANAK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68466/thumb/almanak.png?1755828664"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa5ea28c216e24168c1610ede3c6200a23d3ef3ef",
+    "name": "ATTRA",
+    "symbol": "ATTRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71045/thumb/icon_attractor_color_200%D1%85200.png?1765442988"
+  },
+  {
+    "chainId": 1,
+    "address": "0xea059f3f1106aa0ddd1550b1cc37fc195a559ef9",
+    "name": "TRD Network",
+    "symbol": "TRD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71067/thumb/1000076239.jpg?1765518954"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a668332825450acd2e449372057d31b3de16a1e",
+    "name": "Core MSCI Emerging Markets xStock",
+    "symbol": "IEMGX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71029/thumb/Ticker_IEMGx__Company_Name_Core_MSCI_Emerging_Markets__size_200x200.png?1765377483"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf6d87e523512704c29e9b7ca3e9e6226bdce3ea1",
+    "name": "Schwab International Equity xStock",
+    "symbol": "SCHFX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71030/thumb/Ticker_SCHFx__Company_Name_Schwab_International_Equity__size_200x200.png?1765377495"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb8f28c60dd8240141185a192fa4156a23e189305",
+    "name": "Kyo",
+    "symbol": "KYO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71031/thumb/Kyo.png?1765377840"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6d5edeebbc6a4099eb8bb289eb3b80d799f7b28c",
+    "name": "Vanguard Total World xStock",
+    "symbol": "VTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71032/thumb/Ticker_VTx__Company_Name_Vanguard_Total_World__size_200x200.png?1765380211"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1aad217b8f78dba5e6693460e8470f8b1a3977f3",
+    "name": "Strategy PP Variable xStock",
+    "symbol": "STRCX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71033/thumb/Ticker_STRCx__Company_Name_Strategy_PP_Variable__size_200x200.png?1765380234"
+  },
+  {
+    "chainId": 1,
+    "address": "0x38e0445308e7fcd5230f2df6b52b36dd4ff313b6",
+    "name": "Strategy PP Fixed xStock",
+    "symbol": "STRKX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71034/thumb/Ticker_STRKx__Company_Name_Strategy_PP_Fixed__size_200x200.png?1765380251"
+  },
+  {
+    "chainId": 1,
+    "address": "0xceda2d856238aa0d12f6329de20b9115f07c366d",
+    "name": "USDe ARM LP Token",
+    "symbol": "ARM-SUSDE-USDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71073/thumb/arm-susde-usde-512x512.png?1765556977"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f33acf823e6eeb697180d553ce0c710124c8d59",
+    "name": "Spiko Digital Assets Cash & Carry Fund",
+    "symbol": "SPKCC",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/71054/thumb/Fund_C_C-_Dollar.png?1765460346"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72e36d22717e7bd70ac1a148f578b78e05dace73",
+    "name": "Nakamigo",
+    "symbol": "MEEGSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71055/thumb/tokenworks.png?1765480087"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa27a2c21a9d468634107b38d9fffb42ad09b204f",
+    "name": "Fwogs Strategy",
+    "symbol": "FWOGSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71056/thumb/tokenworks.png?1765480414"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9",
+    "name": "Pieverse",
+    "symbol": "PIEVERSE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68773/thumb/pieverse.png?1756546685"
   }
 ]
