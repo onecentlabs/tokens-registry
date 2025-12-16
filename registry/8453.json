@@ -24290,5 +24290,53 @@
     "symbol": "ARIO",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/54840/thumb/ARIO_Token_Logo.png?1742017505"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7b67f8e45f91e043f80eeaea52f3dc8ff1e55a5a",
+    "name": "macedo",
+    "symbol": "MACEDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71083/thumb/poolside2.jpg?1765617934"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x311935cd80b76769bf2ecc9d8ab7635b2139cf82",
+    "name": "Base Bridged SOL (Base)",
+    "symbol": "SOL",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/71099/thumb/solana.jpg?1765793164"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x680bc6ed5c7222e2f29bdbc87f8e8f3400d8ce04",
+    "name": "WYDE: End Hunger",
+    "symbol": "EAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71098/thumb/_EAT_cashtag_icon.png?1765790033"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf5a346ab106042d19743532162c2b07d22414557",
+    "name": "lilmiquela.base.eth",
+    "symbol": "LILMIQUELA.BASE.ETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71094/thumb/ban4mcr46umc5qy3yufbxizzweas.?1765701167"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3ad8539cf0e010c77d276fb197061ac613511cae",
+    "name": "Lightspeed to the Moon!",
+    "symbol": "MOON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71113/thumb/MOON_logo_200x200.png?1765816703"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x06fe6d0ec562e19cfc491c187f0a02ce8d5083e4",
+    "name": "BurnieAI",
+    "symbol": "ROAST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71107/thumb/twrtgxrfrmlaszofs0zhrmdkiuxu.?1765809638"
   }
 ]

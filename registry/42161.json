@@ -12855,5 +12855,13 @@
     "symbol": "SPKCC",
     "decimals": 5,
     "logoURI": "https://assets.coingecko.com/coins/images/71054/thumb/Fund_C_C-_Dollar.png?1765460346"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xed6c7a7b116876a4bf225cbf044681f070684fa5",
+    "name": "Bitcoin.ℏ",
+    "symbol": "BTC.ℏ",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/55129/thumb/bitcoinHT_%281%29.png?1753601555"
   }
 ]

@@ -72796,5 +72796,29 @@
     "symbol": "PIEVERSE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68773/thumb/pieverse.png?1756546685"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0511df77e420c9c37b065ddb7973d0f81430a092",
+    "name": "Enigma",
+    "symbol": "ENX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71079/thumb/photo_2025-12-11_22.41.21.png?1765616046"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a6e3a4396993a4ec98a6f4a654cc0819538721e",
+    "name": "StakeStone USD",
+    "symbol": "STONEUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71084/thumb/STONEUSD-background_White.png?1765618232"
+  },
+  {
+    "chainId": 1,
+    "address": "0x63d74d22e689c715a04f2c13962b1f77f443d35b",
+    "name": "Alto DUSD",
+    "symbol": "DUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71110/thumb/dusd.png?1765813034"
   }
 ]
