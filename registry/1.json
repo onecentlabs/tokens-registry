@@ -72820,5 +72820,125 @@
     "symbol": "DUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71110/thumb/dusd.png?1765813034"
+  },
+  {
+    "chainId": 1,
+    "address": "0x50f41F589aFACa2EF41FDF590FE7b90cD26DEe64",
+    "name": "Irys",
+    "symbol": "IRYS",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38978.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xafFbe9a60F1F45E057FD9b6DC70004Bb0Ccc8b99",
+    "name": "Theoriq",
+    "symbol": "THQ",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67759/large/thq.jpg?1753757049"
+  },
+  {
+    "chainId": 1,
+    "address": "0x890a5122aa1da30fec4286de7904ff808f0bd74a",
+    "name": "Main Street Yield",
+    "symbol": "MSY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71150/thumb/msY_200x200.png?1766047721"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a7c6aa2b8b8a6a891de552bdeffa87c3f53bd46",
+    "name": "JPMorgan My OnChain Net Yield Fund",
+    "symbol": "MONY",
+    "decimals": 4,
+    "logoURI": "https://assets.coingecko.com/coins/images/71118/thumb/jpm_400x400.png?1765872616"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe1be424f442d0687129128c6c38aace44f8c8dbc",
+    "name": "zkPass",
+    "symbol": "ZKP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70273/thumb/zkpass.png?1761379373"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa9299c296d7830a99414d1e5546f5171fa01e9c8",
+    "name": "Gold Token SA DGLD Tokenized Gold",
+    "symbol": "DGLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71141/thumb/Metallic__G__and_Cedi_Logo_%281%29.png?1765974091"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb31561f0e2aac72406103b1926356d756f07a481",
+    "name": "VOOI",
+    "symbol": "VOOI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70365/thumb/VOOI_Token_Logo.png?1764177739"
+  },
+  {
+    "chainId": 1,
+    "address": "0x76d935320123a60c9b22a19fdb3ae22a7e9b2152",
+    "name": "Xach",
+    "symbol": "XACH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71122/thumb/Ahx8w1QV_400x400_%281%29.jpg?1765893468"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa9efd29931cdda74e27c1ca9043a9624ed9888d2",
+    "name": "DATBOI",
+    "symbol": "DATBOI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/71136/thumb/Untitled_design_%289%29.png?1765908617"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4a5a483e88d16f9fa1725b8d90449c3a4f8424a9",
+    "name": "PCGAMEFI",
+    "symbol": "PCGAMEFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71137/thumb/Pc_logo.jpeg?1765955017"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa279ca693d66fe65ba0062d0218578f424249dfd",
+    "name": "Cypher",
+    "symbol": "CYPH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71139/thumb/photo_2025-12-16_15-25-20.jpg?1765965226"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc0c17dd08263c16f6b64e772fb9b723bf1344ddf",
+    "name": "Precious Metals USD",
+    "symbol": "PMUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71149/thumb/pmUSD.png?1766015276"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4ba01f22827018b4772cd326c7627fb4956a7c00",
+    "name": "Main Street USD",
+    "symbol": "MSUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66996/thumb/msUSD.png?1751389184"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe820c06321e60d36257c666643fa5436643445e3",
+    "name": "USDKG",
+    "symbol": "USDKG",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71116/thumb/USDKG_400x400.jpg?1765871330"
+  },
+  {
+    "chainId": 1,
+    "address": "0x59db93d135f16585ed90b8c942d4f8ae0dcfbfc0",
+    "name": "Rain Coin",
+    "symbol": "RAIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34032/thumb/rain_coin_logo.png?1703676333"
   }
 ]

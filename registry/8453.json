@@ -24338,5 +24338,53 @@
     "symbol": "ROAST",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71107/thumb/twrtgxrfrmlaszofs0zhrmdkiuxu.?1765809638"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd67ec255100ef200a439d09ff865fbaa2ad9c730",
+    "name": "Scor",
+    "symbol": "SCOR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71138/thumb/Scor_logo.jpg?1765957578"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0b2558bdbc7ffec0f327fb3579c23dabd1699706",
+    "name": "Theoriq",
+    "symbol": "THQ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67759/thumb/thq.jpg?1753757049"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3ed03e95dd894235090b3d4a49e0c3239edce59e",
+    "name": "Blox MYRC",
+    "symbol": "MYRC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38632/thumb/myrc-token-trans-200x200.png?1718172187"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd02f50e1017f493ffffa70c8fcf09e349e11d6c9",
+    "name": "Gold Token SA DGLD Tokenized Gold",
+    "symbol": "DGLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71141/thumb/Metallic__G__and_Cedi_Logo_%281%29.png?1765974091"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00312400303d02c323295f6e8b7309bc30fb6bce",
+    "name": "Caldera",
+    "symbol": "ERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54475/thumb/Token_Logo.png?1749676251"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4e21eabf4fc4cf66f10a93395e4b0e2438de81a6",
+    "name": "Rain Coin",
+    "symbol": "RAIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34032/thumb/rain_coin_logo.png?1703676333"
   }
 ]

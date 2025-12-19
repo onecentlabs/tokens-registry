@@ -17296,5 +17296,37 @@
     "address": "0x925c8Ab7A9a8a148E87CD7f1EC7ECc3625864444",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x925c8Ab7A9a8a148E87CD7f1EC7ECc3625864444.png"
+  },
+  {
+    "name": "Infrared Governance Token",
+    "chainId": 56,
+    "symbol": "IR",
+    "address": "0xAce9De5AF92Eb82A97A5973B00efF85024bDCB39",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xAce9De5AF92Eb82A97A5973B00efF85024bDCB39.png"
+  },
+  {
+    "name": "LISA Token",
+    "chainId": 56,
+    "symbol": "LISA",
+    "address": "0x0AA9D742A1e3C4Ad2947eBbf268aFA15D7c9bFBd",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0AA9D742A1e3C4Ad2947eBbf268aFA15D7c9bFBd.png"
+  },
+  {
+    "name": "United Stables",
+    "chainId": 56,
+    "symbol": "U",
+    "address": "0xcE24439F2D9C6a2289F741120FE202248B666666",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xcE24439F2D9C6a2289F741120FE202248B666666.png"
+  },
+  {
+    "name": "VOOI",
+    "chainId": 56,
+    "symbol": "VOOI",
+    "address": "0x876cEcb73c9ED1B1526F8e35C6a5a51a31BCF341",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x876cEcb73c9ED1B1526F8e35C6a5a51a31BCF341.png"
   }
 ]

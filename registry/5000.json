@@ -881,5 +881,13 @@
     "symbol": "KOX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55622/thumb/Ticker_KO__Company_Name_CokeCola__size_200x200_2x.png?1746861996"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x111111d2bf19e43c34263401e0cad979ed1cdb61",
+    "name": "USD1",
+    "symbol": "USD1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54977/thumb/USD1_1000x1000_transparent.png?1749297002"
   }
 ]
