@@ -72940,5 +72940,45 @@
     "symbol": "RAIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34032/thumb/rain_coin_logo.png?1703676333"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc114cf69972e3c1b4b529e0418012c01fcf9e725",
+    "name": "Bearly Legal",
+    "symbol": "BEAR",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/71174/thumb/bearlylogonew200.png?1766206982"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc3997ff81f2831929499c4ee4ee4e0f08f42d4d8",
+    "name": "Bifrost Voucher ETH",
+    "symbol": "VETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71176/thumb/vETH.png?1766218149"
+  },
+  {
+    "chainId": 1,
+    "address": "0x39687bfd0de0b022fe29e7700ee60f9b327c4992",
+    "name": "BlinkBot",
+    "symbol": "BLINK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71179/thumb/BlinkBot.jpg?1766219786"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb73ee5488647a6302ebf5fee8af3152f6960ae4c",
+    "name": "Hex Trust Wrapped XRP",
+    "symbol": "WXRP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71189/thumb/hex-trust-wrapped-xrp.jpg?1766224488"
+  },
+  {
+    "chainId": 1,
+    "address": "0x51c2d74017390cbbd30550179a16a1c28f7210fc",
+    "name": "Securitize Tokenized AAA CLO Fund",
+    "symbol": "STAC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71167/thumb/stac_logo.png?1766163743"
   }
 ]

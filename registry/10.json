@@ -5384,5 +5384,21 @@
     "symbol": "GOHM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/21129/thumb/token_wsOHM_logo.png?1696520508"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc3997ff81f2831929499c4ee4ee4e0f08f42d4d8",
+    "name": "Bifrost Voucher ETH",
+    "symbol": "VETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71176/thumb/vETH.png?1766218149"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb73ee5488647a6302ebf5fee8af3152f6960ae4c",
+    "name": "Hex Trust Wrapped XRP",
+    "symbol": "WXRP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71189/thumb/hex-trust-wrapped-xrp.jpg?1766224488"
   }
 ]

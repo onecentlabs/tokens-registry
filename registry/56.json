@@ -17328,5 +17328,29 @@
     "address": "0x876cEcb73c9ED1B1526F8e35C6a5a51a31BCF341",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x876cEcb73c9ED1B1526F8e35C6a5a51a31BCF341.png"
+  },
+  {
+    "name": "RateX",
+    "chainId": 56,
+    "symbol": "RTX",
+    "address": "0x4829A1D1fB6DED1F81d26868ab8976648baF9893",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4829A1D1fB6DED1F81d26868ab8976648baF9893.png"
+  },
+  {
+    "name": "zkPass",
+    "chainId": 56,
+    "symbol": "ZKP",
+    "address": "0xd89B7dD376E671c124352267516BEF1C2cc231a3",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xd89B7dD376E671c124352267516BEF1C2cc231a3.png"
+  },
+  {
+    "name": "Trade Tide Token",
+    "chainId": 56,
+    "symbol": "TTD",
+    "address": "0x169eC30125728BC7912Da2dF76Ab5f97F3BAB9cB",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x169eC30125728BC7912Da2dF76Ab5f97F3BAB9cB.png"
   }
 ]

@@ -1065,5 +1065,21 @@
     "symbol": "KMHYPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71042/thumb/kmhype.png?1765388346"
+  },
+  {
+    "chainId": 999,
+    "address": "0x391121d817da42ed3434d281aedbbcc416a2af18",
+    "name": "Harmonix Finance",
+    "symbol": "HAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71071/thumb/harmonix.jpg?1765524835"
+  },
+  {
+    "chainId": 999,
+    "address": "0xb73ee5488647a6302ebf5fee8af3152f6960ae4c",
+    "name": "Hex Trust Wrapped XRP",
+    "symbol": "WXRP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71189/thumb/hex-trust-wrapped-xrp.jpg?1766224488"
   }
 ]

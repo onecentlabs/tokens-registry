@@ -14105,5 +14105,13 @@
     "symbol": "SPKCC",
     "decimals": 5,
     "logoURI": "https://assets.coingecko.com/coins/images/71054/thumb/Fund_C_C-_Dollar.png?1765460346"
+  },
+  {
+    "chainId": 137,
+    "address": "0xf4c3fac9c98aa62474998e299495b699dfdb00eb",
+    "name": "Handl Pay",
+    "symbol": "HANDL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71168/thumb/icon-200x200.png?1766173866"
   }
 ]
