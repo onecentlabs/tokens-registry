@@ -14113,5 +14113,13 @@
     "symbol": "HANDL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71168/thumb/icon-200x200.png?1766173866"
+  },
+  {
+    "chainId": 137,
+    "address": "0x99f70a0e1786402a6796c6b0aa997ef340a5c6da",
+    "name": "Spiko Digital Assets Cash & Carry Fund - Euro Share Class",
+    "symbol": "EURSPKCC",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/71236/thumb/Fund_C_C_-_Euro.png?1766513734"
   }
 ]

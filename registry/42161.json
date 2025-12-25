@@ -12879,5 +12879,13 @@
     "symbol": "VETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71176/thumb/vETH.png?1766218149"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0e389c83bc1d16d86412476f6103027555c03265",
+    "name": "Spiko Digital Assets Cash & Carry Fund - Euro Share Class",
+    "symbol": "EURSPKCC",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/71236/thumb/Fund_C_C_-_Euro.png?1766513734"
   }
 ]

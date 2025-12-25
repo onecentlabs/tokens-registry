@@ -889,5 +889,21 @@
     "symbol": "USD1",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54977/thumb/USD1_1000x1000_transparent.png?1749297002"
+  },
+  {
+    "chainId": 5000,
+    "address": "0xd81a4adea9932a6bdba0bdbc8c5fd4c78e5a09f1",
+    "name": "VOOI",
+    "symbol": "VOOI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70365/thumb/VOOI_Token_Logo.png?1764177739"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x8ddb986b11c039a6cc1dbcabd62bae911b348f33",
+    "name": "Scor",
+    "symbol": "SCOR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71138/thumb/Scor_logo.jpg?1765957578"
   }
 ]

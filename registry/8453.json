@@ -24450,5 +24450,69 @@
     "symbol": "CMC20",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71188/thumb/cmc20.png?1766223823"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xffcadd0cdadd39673991a1dda4a756a801535f48",
+    "name": "Flipr.bet",
+    "symbol": "FLIPR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71203/thumb/Resized_main.png?1766417918"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x99899a7362d726b43c5a360f10208610f7128b07",
+    "name": "chat",
+    "symbol": "CHAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71243/thumb/o0wotfhe9fbib2agozjca0a0xe16.?1766598684"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00dfb58cf6e43ffdfb56a72f7fc6899134f2462b",
+    "name": "Imprnt",
+    "symbol": "PRNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37728/thumb/logo1.png?1766483583"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x95ff646bcf1603ca78ad1619ddcfef1a228c0366",
+    "name": "Nico",
+    "symbol": "NICO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71225/thumb/nico_400x400.jpg?1766484081"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x43e74d30443b5e7661ac077ce626a6b134e803c4",
+    "name": "Pilot3",
+    "symbol": "PILT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71224/thumb/Untitled_design.png?1766482801"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2eddac071732a52ab2cbfa2d5fd89df4381f7f4a",
+    "name": "Peach and Pablo",
+    "symbol": "PP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71228/thumb/peachpablo_400x400.jpg?1766484730"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9b5e262cf9bb04869ab40b19af91d2dc85761722",
+    "name": "Nockchain",
+    "symbol": "NOCK",
+    "decimals": 16,
+    "logoURI": "https://assets.coingecko.com/coins/images/68474/thumb/GrCcG9N9_400x400.jpg?1755845184"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4f33acf823e6eeb697180d553ce0c710124c8d59",
+    "name": "Spiko Digital Assets Cash & Carry Fund - Euro Share Class",
+    "symbol": "EURSPKCC",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/71236/thumb/Fund_C_C_-_Euro.png?1766513734"
   }
 ]
