@@ -17352,5 +17352,13 @@
     "address": "0x169eC30125728BC7912Da2dF76Ab5f97F3BAB9cB",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x169eC30125728BC7912Da2dF76Ab5f97F3BAB9cB.png"
+  },
+  {
+    "name": "Collect on Fanable",
+    "chainId": 56,
+    "symbol": "COLLECT",
+    "address": "0x4B3D30992f003c8167699735F5Ab2831B2A087D3",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4B3D30992f003c8167699735F5Ab2831B2A087D3.png"
   }
 ]

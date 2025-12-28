@@ -73068,5 +73068,45 @@
     "symbol": "AUDX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71222/thumb/AUDX_Logo.png?1766480331"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3d7d6fdf07ee548b939a80edbc9b2256d0cdc003",
+    "name": "Strata Senior USDe",
+    "symbol": "SRUSDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71272/thumb/srUSDe.png?1766823215"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1c9b53aaca3bb34ab1039c6308671fba173adc0e",
+    "name": "JGGL",
+    "symbol": "JGGL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71262/thumb/512x512.png?1766774280"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d37c86805905b4404aed7f74d95c1c1dc051ea2",
+    "name": "Coinbidex",
+    "symbol": "CBE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33804/thumb/photo_2023-12-20_03-52-05_2x.jpg?1703122555"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6ad12e761b438bea3ea09f6c6266556bb24c2181",
+    "name": "Beldex",
+    "symbol": "BDX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/5111/thumb/Beldex.png?1696505631"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8b1484d57abbe239bb280661377363b03c89caea",
+    "name": "ADI",
+    "symbol": "ADI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68846/thumb/ADI_Token-min.png?1765296433"
   }
 ]

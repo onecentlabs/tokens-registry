@@ -12887,5 +12887,13 @@
     "symbol": "EURSPKCC",
     "decimals": 5,
     "logoURI": "https://assets.coingecko.com/coins/images/71236/thumb/Fund_C_C_-_Euro.png?1766513734"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x19d0899464dea847ad0a5b7d42f3ce0592542f9a",
+    "name": "Molecular Token",
+    "symbol": "MOLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71259/thumb/Logo_-_simp.png?1766738819"
   }
 ]

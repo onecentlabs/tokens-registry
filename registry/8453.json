@@ -24514,5 +24514,21 @@
     "symbol": "EURSPKCC",
     "decimals": 5,
     "logoURI": "https://assets.coingecko.com/coins/images/71236/thumb/Fund_C_C_-_Euro.png?1766513734"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x05af98aebec91aef2bd893614a2c333c58855012",
+    "name": "House",
+    "symbol": "AUCTION",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71252/thumb/n1202y4wpz14443sdbvdhpcsnmvy.?1766689810"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x172b81d3396fbccd97090c9a685ed67f8c7a5f8f",
+    "name": "Bobo the Base",
+    "symbol": "BOBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71249/thumb/dv-vbfsj_400x400_%281%29.jpg?1766670180"
   }
 ]
