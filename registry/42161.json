@@ -12895,5 +12895,13 @@
     "symbol": "MOLE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71259/thumb/Logo_-_simp.png?1766738819"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8d6c51f69028ae822d9f4e0a494ccefa05438b2d",
+    "name": "Helios Blockchain",
+    "symbol": "HLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71304/thumb/logo32x32.png?1767090591"
   }
 ]

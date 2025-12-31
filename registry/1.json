@@ -73108,5 +73108,61 @@
     "symbol": "ADI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68846/thumb/ADI_Token-min.png?1765296433"
+  },
+  {
+    "chainId": 1,
+    "address": "0x528605856a9eb9567688b0e912ed6961522a74d4",
+    "name": "Mansa AI",
+    "symbol": "$MUSA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71293/thumb/Mansa_AI_Logo.png?1766989652"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb8cc0a0d0dbe23894afa7d35168976aed1048c89",
+    "name": "Totakeke",
+    "symbol": "TOTAKEKE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/71282/thumb/200logo.jpg?1766906648"
+  },
+  {
+    "chainId": 1,
+    "address": "0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2",
+    "name": "Lighter",
+    "symbol": "LIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71121/thumb/lighter.png?1765888098"
+  },
+  {
+    "chainId": 1,
+    "address": "0x970a341b4e311a5c7248dc9c3d8d4f35fedfa73e",
+    "name": "Helios Blockchain",
+    "symbol": "HLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71304/thumb/logo32x32.png?1767090591"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc58d044404d8b14e953c115e67823784dea53d8f",
+    "name": "Strata Junior USDe",
+    "symbol": "JRUSDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71283/thumb/jrUSDe.png?1766907254"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd9343a049d5dbd89cd19dc6bca8c48fb3a0a42a7",
+    "name": "Lumia",
+    "symbol": "LUMIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50867/thumb/lumia.jpg?1729321993"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9f2ef66a09a5d2dab13d84a7638668ea36679e03",
+    "name": "Graviton",
+    "symbol": "GRAV",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/24818/thumb/Graviton_-_Blue_200x200i.png?1696523976"
   }
 ]

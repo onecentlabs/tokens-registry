@@ -6074,5 +6074,21 @@
     "symbol": "JAAA",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/70446/thumb/jaaa.png?1762078666"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x30c74769ea97c6454e2a4d4e9d2da947c64ca1e0",
+    "name": "Bitcoin.ℏ",
+    "symbol": "BTC.ℏ",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/55129/thumb/bitcoinHT_%281%29.png?1753601555"
   }
 ]

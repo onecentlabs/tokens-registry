@@ -24530,5 +24530,21 @@
     "symbol": "BOBO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71249/thumb/dv-vbfsj_400x400_%281%29.jpg?1766670180"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb4c6458c2e67da23caa4ffadb9b4d3659da98164",
+    "name": "XTTA",
+    "symbol": "XTTA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54021/thumb/hdtWTejS_400x400.jpg?1738008678"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd7b7861afbc78fc35418f95c3174acca2e8b1644",
+    "name": "Tibo",
+    "symbol": "TIBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71307/thumb/MT5MHeRv_400x400.jpg?1767100595"
   }
 ]

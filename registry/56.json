@@ -17360,5 +17360,13 @@
     "address": "0x4B3D30992f003c8167699735F5Ab2831B2A087D3",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x4B3D30992f003c8167699735F5Ab2831B2A087D3.png"
+  },
+  {
+    "name": "oooo",
+    "chainId": 56,
+    "symbol": "oooo",
+    "address": "0xf0A28BdDAC9d3045c95BF57dF033e80685D881c0",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xf0A28BdDAC9d3045c95BF57dF033e80685D881c0.png"
   }
 ]

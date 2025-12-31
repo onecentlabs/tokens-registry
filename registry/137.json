@@ -1,6 +1,14 @@
 [
   {
     "chainId": 137,
+    "address": "18",
+    "name": "Xauras",
+    "symbol": "XRS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28958/thumb/Xauras_Token_logo.png?1766826760"
+  },
+  {
+    "chainId": 137,
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "name": "Aave",
     "symbol": "AAVE",
