@@ -14129,5 +14129,13 @@
     "symbol": "EURSPKCC",
     "decimals": 5,
     "logoURI": "https://assets.coingecko.com/coins/images/71236/thumb/Fund_C_C_-_Euro.png?1766513734"
+  },
+  {
+    "chainId": 137,
+    "address": "0x570a42849ac23e3fdc45d8c31ddf7c09283e702d",
+    "name": "Xauras",
+    "symbol": "XRS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28958/thumb/Xauras_Token_logo.png?1766826760"
   }
 ]
