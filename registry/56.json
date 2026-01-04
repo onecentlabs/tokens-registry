@@ -17368,5 +17368,21 @@
     "address": "0xf0A28BdDAC9d3045c95BF57dF033e80685D881c0",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xf0A28BdDAC9d3045c95BF57dF033e80685D881c0.png"
+  },
+  {
+    "name": "White Monkey",
+    "chainId": 56,
+    "symbol": "WM",
+    "address": "0x2789033DFE80593f69d689f65892a75aFA491111",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2789033DFE80593f69d689f65892a75aFA491111.png"
+  },
+  {
+    "name": "AI AVatar",
+    "chainId": 56,
+    "symbol": "$AIAV",
+    "address": "0x76CC9E532Bb6803EFc3d7766ac16A884a015951f",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x76CC9E532Bb6803EFc3d7766ac16A884a015951f.png"
   }
 ]

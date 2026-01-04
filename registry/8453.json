@@ -24546,5 +24546,53 @@
     "symbol": "TIBO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71307/thumb/MT5MHeRv_400x400.jpg?1767100595"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb33acd55ec34c22dc3c0f75be36e483d9a420314",
+    "name": "Titanium Finance",
+    "symbol": "TI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71336/thumb/ti_%281%29.jpeg?1767371773"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2bdffbd8bbaf20e511a73b8689312bfec5098ae9",
+    "name": "Baseforever",
+    "symbol": "BASEFOREVER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71328/thumb/IMG_20251229_135725_744_%281%29.png?1767303138"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x132b99d96d4ac9efc05f62f8aa4fc68a82121bc0",
+    "name": "The Based White Whale",
+    "symbol": "WHITEWHALE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71327/thumb/1000046552.png?1767302859"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x62720cee08fdafa62473f0b4e462a84a0fd04ce9",
+    "name": "cryptokaleo",
+    "symbol": "CRYPTOKALEO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71347/thumb/bnzu93epve5m0zrlwxc0pymbypj0.?1767448487"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xce5e3f98ce13a0434fd91defd69fa04c92cbc80c",
+    "name": "Panda",
+    "symbol": "PANDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71343/thumb/0QSwNmAn_400x400_%281%29_%281%29.jpg?1767440073"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1d2fbee7994d7018af52252a97b0deab4ee4f2f8",
+    "name": "jeffkirdeikis",
+    "symbol": "JEFFKIRDEIKIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71332/thumb/auvmn0oxt7dce6ylf3d7n05ssm1e.?1767305758"
   }
 ]

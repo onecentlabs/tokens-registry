@@ -73164,5 +73164,21 @@
     "symbol": "GRAV",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/24818/thumb/Graviton_-_Blue_200x200i.png?1696523976"
+  },
+  {
+    "chainId": 1,
+    "address": "0x53a03e9edf4fa647268f19cf2ec509a7a1c52359",
+    "name": "Wolfenstein",
+    "symbol": "WOLF",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/71344/thumb/Wolfenstein.jpg?1767440578"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcb20b537f5df50bccc00fe6a8eb4d57b14a89a03",
+    "name": "Orta Chain",
+    "symbol": "ORTA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71345/thumb/Frame_20.png?1767441479"
   }
 ]
