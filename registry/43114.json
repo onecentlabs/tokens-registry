@@ -6090,5 +6090,13 @@
     "symbol": "BTC.ℏ",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/55129/thumb/bitcoinHT_%281%29.png?1753601555"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9728db5817d51ccec8605f97fbc598302dda4f66",
+    "name": "Fort Block Games",
+    "symbol": "FBG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35354/thumb/photo_2024-02-18_10-27-38.jpg?1708360479"
   }
 ]

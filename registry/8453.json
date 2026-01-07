@@ -24594,5 +24594,45 @@
     "symbol": "JEFFKIRDEIKIS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71332/thumb/auvmn0oxt7dce6ylf3d7n05ssm1e.?1767305758"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x06fc3d5d2369561e28f261148576520f5e49d6ea",
+    "name": "AVC",
+    "symbol": "AVC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71367/thumb/avc.jpeg?1767677911"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbe535d034078e262f72c67020006a63e8c64592f",
+    "name": "Kudaberi",
+    "symbol": "KUDABERI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71365/thumb/logoooo_%281%29.png?1767610623"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2357110f5f0c5344eef75966500c75116a4aa153",
+    "name": "Primer",
+    "symbol": "PR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71356/thumb/primer_CG.png?1767539472"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xae7dc6559aeaadd8a3c156fe695a650c7095c9ce",
+    "name": "deployer",
+    "symbol": "DEPLOYER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71354/thumb/tawvtilpsr8j3ap5qa8btl4je1z1.?1767537580"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x086f405146ce90135750bbec9a063a8b20a8bffb",
+    "name": "Brevis",
+    "symbol": "BREV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71219/thumb/brevis.png?1766454723"
   }
 ]

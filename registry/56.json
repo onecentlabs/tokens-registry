@@ -17384,5 +17384,37 @@
     "address": "0x76CC9E532Bb6803EFc3d7766ac16A884a015951f",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x76CC9E532Bb6803EFc3d7766ac16A884a015951f.png"
+  },
+  {
+    "name": "Brevis Token",
+    "chainId": 56,
+    "symbol": "BREV",
+    "address": "0x086F405146Ce90135750Bbec9A063a8B20A8bfFb",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x086F405146Ce90135750Bbec9A063a8B20A8bfFb.png"
+  },
+  {
+    "name": "DEPINSIM Token",
+    "chainId": 56,
+    "symbol": "ESIM",
+    "address": "0x7765A659C5b0cFBFD9fbc2Ef2298b75a598F2d2D",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7765A659C5b0cFBFD9fbc2Ef2298b75a598F2d2D.png"
+  },
+  {
+    "name": "USDu",
+    "chainId": 56,
+    "symbol": "USDu",
+    "address": "0xeA953eA6634d55dAC6697C436B1e81A679Db5882",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xeA953eA6634d55dAC6697C436B1e81A679Db5882.png"
+  },
+  {
+    "name": "Staked USDu",
+    "chainId": 56,
+    "symbol": "sUSDu",
+    "address": "0x385C279445581a186a4182a5503094eBb652EC71",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x385C279445581a186a4182a5503094eBb652EC71.png"
   }
 ]

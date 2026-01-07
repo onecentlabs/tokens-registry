@@ -73180,5 +73180,21 @@
     "symbol": "ORTA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71345/thumb/Frame_20.png?1767441479"
+  },
+  {
+    "chainId": 1,
+    "address": "0x086f405146ce90135750bbec9a063a8b20a8bffb",
+    "name": "Brevis",
+    "symbol": "BREV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71219/thumb/brevis.png?1766454723"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3910210d206295ca14f30e493607c40abc0d90aa",
+    "name": "Burglar",
+    "symbol": "BURGLAR",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/71359/thumb/Burglar.jpg?1767588115"
   }
 ]

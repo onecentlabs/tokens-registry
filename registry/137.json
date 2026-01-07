@@ -14137,5 +14137,13 @@
     "symbol": "XRS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28958/thumb/Xauras_Token_logo.png?1766826760"
+  },
+  {
+    "chainId": 137,
+    "address": "0xd687759f35bb747a29246a4b9495c8f52c49e00c",
+    "name": "Aussie Dollar Token",
+    "symbol": "AUDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71222/thumb/AUDX_Logo.png?1766480331"
   }
 ]
