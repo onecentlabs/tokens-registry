@@ -24634,5 +24634,69 @@
     "symbol": "BREV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71219/thumb/brevis.png?1766454723"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc1de4e664cc6cb54af019264757f47ef45195b07",
+    "name": "Dominion",
+    "symbol": "DOM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71390/thumb/output-onlinepngtools_%2821%29.png?1767856062"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa760c69ae94b4b7c20b75f2eef2e84a4d48ffe37",
+    "name": "Naomi by BunnyOS",
+    "symbol": "NAOMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71383/thumb/oz36j2ky6l9ip3qa7jpfru104xtd.?1767825421"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcf00e8a7eaf62d8c9b4e573308a8be30badd47c4",
+    "name": "Just a Based Guy",
+    "symbol": "BASEGUY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71378/thumb/bMTFxTSB_400x400.jpg?1767772060"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4b5d32a07b8d3ec5d6928caa30196f8dd6a7c5a9",
+    "name": "PRXVT by Virtuals",
+    "symbol": "PRXVT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70627/thumb/mxdJ79hy_400x400.jpg?1762849223"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x916f179d5d9b7d8ad815ac2f8570aabf0c6a6e38",
+    "name": "Ledgity Yield USD",
+    "symbol": "LYUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71388/thumb/logo_200_*_200.png?1767855419"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfaa1e3720e6ef8cc76a800db7b3df8944833b134",
+    "name": "Ledgity Yield EUR",
+    "symbol": "LYEUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71389/thumb/logo_200_*_200.png?1767855574"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9b6a1d4fa5d90e5f2d34130053978d14cd301d58",
+    "name": "DeepNode",
+    "symbol": "DN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71395/thumb/deepnode.png?1767860774"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5096b85ed11798fddcb8b5cb27c399c04689c435",
+    "name": "WisdomTree Treasury Money Market Digital Fund",
+    "symbol": "WTGXX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71484/thumb/wtgxx_circle_ci.png?1767948288"
   }
 ]

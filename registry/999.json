@@ -1081,5 +1081,13 @@
     "symbol": "WXRP",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/71189/thumb/hex-trust-wrapped-xrp.jpg?1766224488"
+  },
+  {
+    "chainId": 999,
+    "address": "0x61ef9543f8919bb06e374b3bb58a17725e34f9d9",
+    "name": "Unstable Coin",
+    "symbol": "USDUC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/56006/thumb/usduc-logo.jpg?1748000956"
   }
 ]

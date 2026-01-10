@@ -17416,5 +17416,29 @@
     "address": "0x385C279445581a186a4182a5503094eBb652EC71",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x385C279445581a186a4182a5503094eBb652EC71.png"
+  },
+  {
+    "name": "Zenchain",
+    "chainId": 56,
+    "symbol": "ZTC",
+    "address": "0x87033d521F1A5DB206860F2688cA161719F85187",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x87033d521F1A5DB206860F2688cA161719F85187.png"
+  },
+  {
+    "name": "DeepNode",
+    "chainId": 56,
+    "symbol": "DN",
+    "address": "0x9B6a1d4fa5d90E5f2D34130053978D14Cd301d58",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9B6a1d4fa5d90E5f2D34130053978D14Cd301d58.png"
+  },
+  {
+    "name": "我踏马来了",
+    "chainId": 56,
+    "symbol": "我踏马来了",
+    "address": "0xc51A9250795c0186a6FB4A7D20A90330651e4444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xc51A9250795c0186a6FB4A7D20A90330651e4444.png"
   }
 ]

@@ -12903,5 +12903,21 @@
     "symbol": "HLS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71304/thumb/logo32x32.png?1767090591"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x283f35b6406a0e19a786ed119869ef2c0fe157ee",
+    "name": "Ledgity Yield USD",
+    "symbol": "LYUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71388/thumb/logo_200_*_200.png?1767855419"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfeb26f0943c3885b2cb85a9f933975356c81c33d",
+    "name": "WisdomTree Treasury Money Market Digital Fund",
+    "symbol": "WTGXX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71484/thumb/wtgxx_circle_ci.png?1767948288"
   }
 ]
