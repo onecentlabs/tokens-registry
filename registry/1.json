@@ -73956,5 +73956,13 @@
     "symbol": "SDUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68063/thumb/sdUSD_Logo.png?1754642699"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4951bec6f4dfc23935c0ec8af92f231f4c20ea03",
+    "name": "BytomDAO",
+    "symbol": "BTM",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/71525/thumb/Group_48151.png?1768203277"
   }
 ]

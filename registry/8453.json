@@ -24698,5 +24698,53 @@
     "symbol": "WTGXX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71484/thumb/wtgxx_circle_ci.png?1767948288"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7e2734515b6da78182d8cad69e7f275ea28bd687",
+    "name": "traded",
+    "symbol": "TRADED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71493/thumb/ikfamt2dl2557zyqr990z43jw5fo.?1768005756"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x17bc667d17fcdd3bbaacbfdf0442d298a9b59f13",
+    "name": "Base Egg",
+    "symbol": "BASEEGG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71494/thumb/Mainegg.png?1768021469"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc2427bf51d99b6ed0da0da103bc51235638ee868",
+    "name": "Wasabot",
+    "symbol": "BOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71506/thumb/ehjk2027m2rlrr2pjq6yfwnmhp5e.?1768035331"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x85fbe583368888bc8dabde6f1e6ec6a3f0b2a040",
+    "name": "MORSE",
+    "symbol": "MORSE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71513/thumb/de273twicw8xeatkl7ijgvgi2m94.?1768109150"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3a8caad0eefea68d2df2b8825420382b8e60f7f3",
+    "name": "PLUS",
+    "symbol": "PLUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71511/thumb/Token_Transparent.png?1768107895"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6ad12e761b438bea3ea09f6c6266556bb24c2181",
+    "name": "Beldex",
+    "symbol": "BDX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/5111/thumb/Beldex.png?1696505631"
   }
 ]

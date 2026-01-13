@@ -17440,5 +17440,13 @@
     "address": "0xc51A9250795c0186a6FB4A7D20A90330651e4444",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xc51A9250795c0186a6FB4A7D20A90330651e4444.png"
+  },
+  {
+    "name": "CharacterX",
+    "chainId": 56,
+    "symbol": "CAI",
+    "address": "0x7E7ec10E7B55194714cfBC4dAa14EAA4e423B774",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7E7ec10E7B55194714cfBC4dAa14EAA4e423B774.png"
   }
 ]
