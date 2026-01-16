@@ -17448,5 +17448,37 @@
     "address": "0x7E7ec10E7B55194714cfBC4dAa14EAA4e423B774",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x7E7ec10E7B55194714cfBC4dAa14EAA4e423B774.png"
+  },
+  {
+    "name": "Owlto",
+    "chainId": 56,
+    "symbol": "OWL",
+    "address": "0x51E667E91b4B8Cb8e6E0528757F248406bD34B57",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x51E667E91b4B8Cb8e6E0528757F248406bD34B57.png"
+  },
+  {
+    "name": "Empire of Sight",
+    "chainId": 56,
+    "symbol": "Sight",
+    "address": "0x107C9C954b19f69DEC6ddEFfFF9a5745a05E86a3",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x107C9C954b19f69DEC6ddEFfFF9a5745a05E86a3.png"
+  },
+  {
+    "name": "黑马",
+    "chainId": 56,
+    "symbol": "黑马",
+    "address": "0xf9C6e80e9A5807A1214a79449009b48104F94444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xf9C6e80e9A5807A1214a79449009b48104F94444.png"
+  },
+  {
+    "name": "老子",
+    "chainId": 56,
+    "symbol": "老子",
+    "address": "0x1a5F9d77CA46646cD4937fD8d093F460B66F4444",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1a5F9d77CA46646cD4937fD8d093F460B66F4444.png"
   }
 ]

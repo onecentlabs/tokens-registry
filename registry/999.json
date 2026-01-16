@@ -1089,5 +1089,21 @@
     "symbol": "USDUC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/56006/thumb/usduc-logo.jpg?1748000956"
+  },
+  {
+    "chainId": 999,
+    "address": "0x97df58ce4489896f4ec7d16b59b64ad0a56243a8",
+    "name": "xBTC",
+    "symbol": "XBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71562/thumb/xBTC_logo_PNG_format.png?1768320366"
+  },
+  {
+    "chainId": 999,
+    "address": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073",
+    "name": "Movement",
+    "symbol": "MOVE",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39345/thumb/movement-testnet-token.png?1721878759"
   }
 ]

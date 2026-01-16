@@ -24746,5 +24746,37 @@
     "symbol": "BDX",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/5111/thumb/Beldex.png?1696505631"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1d3be1cc80ca89ddbabe5b5c254af63200e708f7",
+    "name": "Monstro DeFi",
+    "symbol": "MONSTRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71597/thumb/_monstro-logo-200x200.png?1768474481"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1ba597770e98c4f630ddbdc8b9e1a5cb1b4ca047",
+    "name": "Melvin",
+    "symbol": "MEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71606/thumb/Gradient_Icon_Map_Navigation_App_Logo_kopyas%C4%B1.png?1768509873"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x14913815bcfde78baead2111f463d038ac9c2949",
+    "name": "eUSD",
+    "symbol": "EUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71602/thumb/eUSD.png?1768507474"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073",
+    "name": "Movement",
+    "symbol": "MOVE",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39345/thumb/movement-testnet-token.png?1721878759"
   }
 ]

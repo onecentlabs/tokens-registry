@@ -14145,5 +14145,21 @@
     "symbol": "AUDX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71222/thumb/AUDX_Logo.png?1766480331"
+  },
+  {
+    "chainId": 137,
+    "address": "0x79103b27fc21c81f7c6cb5caff78901b45a972d5",
+    "name": "Bitcoin.ℏ",
+    "symbol": "BTC.ℏ",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/55129/thumb/bitcoinHT_%281%29.png?1753601555"
+  },
+  {
+    "chainId": 137,
+    "address": "0x14913815bcfde78baead2111f463d038ac9c2949",
+    "name": "eUSD",
+    "symbol": "EUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71602/thumb/eUSD.png?1768507474"
   }
 ]
