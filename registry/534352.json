@@ -666,5 +666,13 @@
     "symbol": "USX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71020/thumb/usx.png?1765270693"
+  },
+  {
+    "chainId": 534352,
+    "address": "0xcb14bcdf6cd483665d10dfd6f87d908996c7f922",
+    "name": "sUSX",
+    "symbol": "SUSX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
   }
 ]

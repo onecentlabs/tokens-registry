@@ -1105,5 +1105,21 @@
     "symbol": "MOVE",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/39345/thumb/movement-testnet-token.png?1721878759"
+  },
+  {
+    "chainId": 999,
+    "address": "0x2222227d90046f1483b3fb37990dea31fcabea02",
+    "name": "Chateau USD",
+    "symbol": "CHUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71634/thumb/chusdn.png?1768641680"
+  },
+  {
+    "chainId": 999,
+    "address": "0x888888facb316879129e1eee2451260e44b93aa8",
+    "name": "Staked chUSD",
+    "symbol": "SCHUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71635/thumb/schusd.png?1768641802"
   }
 ]

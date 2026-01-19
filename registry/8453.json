@@ -24778,5 +24778,37 @@
     "symbol": "MOVE",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/39345/thumb/movement-testnet-token.png?1721878759"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x29cc30f9d113b356ce408667aa6433589cecbdca",
+    "name": "Elsa",
+    "symbol": "ELSA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71623/thumb/Red_circle_white_logo_512x512_%281%29.png?1768570174"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3da7ad8101bc1fc0c80e2860be9a531385258525",
+    "name": "SessionX",
+    "symbol": "SXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71624/thumb/IMG_4331.jpeg?1768586703"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xab6363da0c80cef3ae105bd6241e30872355d021",
+    "name": "ROLL",
+    "symbol": "ROLL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71618/thumb/token_image_roll.png?1768563479"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x89aca77d84616e89a7e4b201e95ba612ede0496b",
+    "name": "Based Bill",
+    "symbol": "BASEDBILL",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/71609/thumb/Untitled-1.png?1768536823"
   }
 ]
