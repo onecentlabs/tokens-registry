@@ -1145,5 +1145,13 @@
     "symbol": "FT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68285/thumb/FlyingTulip_FT_200px.png?1759802398"
+  },
+  {
+    "chainId": 146,
+    "address": "0xd75787ba9aba324420d522bda84c08c87e5099b1",
+    "name": "Kelp DAO Restaked ETH",
+    "symbol": "RSETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
   }
 ]

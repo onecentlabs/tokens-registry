@@ -74132,5 +74132,61 @@
     "symbol": "ROAI",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/71594/thumb/3d_splash_matte_black.png?1768472559"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0cb6d03b0ac88a463f67b7ad99f9f3ec4678092e",
+    "name": "SoFiUSD",
+    "symbol": "SOFID",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71688/thumb/CRY25-3266080_StableCoinLogo.png?1768922282"
+  },
+  {
+    "chainId": 1,
+    "address": "0xece811d35f79c4868a2b911e55d9aa0821399edf",
+    "name": "Generic USD",
+    "symbol": "GUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71672/thumb/Twitter_PP.png?1768855924"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb87c087d0f6fbe2f7223c5410291cb82744102d4",
+    "name": "New Vision Fund",
+    "symbol": "NVF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71664/thumb/200.png?1768819748"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4a657e1324e8fbc48046dc8d1a5120bd8b6069f7",
+    "name": "MovieDOM TOKEN",
+    "symbol": "MDOM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70914/thumb/cglogo.png?1764508254"
+  },
+  {
+    "chainId": 1,
+    "address": "0x510dd21055188eda378714de3bb5591ffa0cc468",
+    "name": "BitGo Holdings (Ondo Tokenized Stock)",
+    "symbol": "BTGOON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71702/thumb/btgoon_160x160.png?1769009385"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2798b1cc5a993085e8a9d46e80499f1b63f42204",
+    "name": "ETHGas",
+    "symbol": "GWEI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71375/thumb/ETHGas_token_logo.jpg?1769015268"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf4f53989d770458b659f8d094b8e31415f68a4cf",
+    "name": "ASSDAQ",
+    "symbol": "ASSDAQ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67212/thumb/1000002377_%281%29.png?1752093770"
   }
 ]

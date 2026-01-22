@@ -6098,5 +6098,13 @@
     "symbol": "FBG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35354/thumb/photo_2024-02-18_10-27-38.jpg?1708360479"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc430c78da6e4af49bd115f0329d154bb135f1363",
+    "name": "Kelp DAO Restaked ETH",
+    "symbol": "RSETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
   }
 ]

@@ -905,5 +905,13 @@
     "symbol": "SCOR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71138/thumb/Scor_logo.jpg?1765957578"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+    "name": "Kelp DAO Restaked ETH",
+    "symbol": "RSETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
   }
 ]

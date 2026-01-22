@@ -24810,5 +24810,45 @@
     "symbol": "BASEDBILL",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/71609/thumb/Untitled-1.png?1768536823"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x55c650b99529ebdda6f7199b64f94ad49316db07",
+    "name": "King’s Casino",
+    "symbol": "CHIPS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71691/thumb/IMG_0554.png?1768979403"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x406164fe30ff8bd4f64a665d306a049a5ef14716",
+    "name": "Agd",
+    "symbol": "AGD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71675/thumb/1000118040.jpg?1768898713"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x80b84b63c88d054d300d51e801c2a65e20d44b07",
+    "name": "KayakNet",
+    "symbol": "KNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71697/thumb/output-onlinepngtools_%2824%29.png?1768981638"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x500ef56ddab213ae46748d253eca3d9cd3607ec0",
+    "name": "Based Alien",
+    "symbol": "ALIEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71678/thumb/M6Zdss6f_400x400.jpg?1768902534"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0ffebc403f2d3dd9ea5501ca03916e98967acb2d",
+    "name": "Portal",
+    "symbol": "PORTAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35436/thumb/portal.jpeg?1708590254"
   }
 ]
