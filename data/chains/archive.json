@@ -1,0 +1,55 @@
+[
+    {
+        "key": "sei",
+        "chainType": "EVM",
+        "name": "Sei",
+        "coin": "SEI",
+        "id": 1329,
+        "mainnet": true,
+        "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/sei.svg",
+        "tokenlistUrl": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/1329.json",
+        "metamask": {
+            "chainId": "0x531",
+            "blockExplorerUrls": [
+                "https://seitrace.com/",
+                "https://seistream.app/"
+            ],
+            "chainName": "Sei Network",
+            "nativeCurrency": {
+                "name": "SEI",
+                "symbol": "SEI",
+                "decimals": 18
+            },
+            "rpcUrls": [
+                "https://evm-rpc.sei-apis.com"
+            ]
+        },
+        "nativeToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "chainId": 1329,
+            "symbol": "SEI",
+            "decimals": 18,
+            "name": "SEI",
+            "coinKey": "SEI",
+            "logoURI": "https://cdn.sei.io/sei-app/sei-icon.png"
+        },
+        "stablecoins": [
+            {
+                "name": "USDC",
+                "symbol": "USDC",
+                "type": "ERC20",
+                "decimals": 6,
+                "address": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+            },
+            {
+                "name": "Tether",
+                "symbol": "USDT",
+                "type": "ERC20",
+                "decimals": 6,
+                "address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
+                "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+            }
+        ]
+    }
+]

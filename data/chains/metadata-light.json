@@ -1,0 +1,1275 @@
+[
+  {
+    "id": 1,
+    "identifier": "ethereum",
+    "type": "EVM",
+    "name": "Ethereum",
+    "coin": "ETH",
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/ethereum.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/1.json",
+      "explorers": [
+        "https://etherscan.io/"
+      ],
+      "rpcs": [
+        "https://ethereum-rpc.publicnode.com",
+        "https://eth.drpc.org",
+        "https://eth.public-rpc.com",
+        "https://rpc.ankr.com/eth"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x1",
+      "blockExplorerUrls": [
+        "https://etherscan.io/"
+      ],
+      "chainName": "Ethereum Mainnet",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://ethereum-rpc.publicnode.com",
+        "https://eth.drpc.org",
+        "https://eth.public-rpc.com",
+        "https://rpc.ankr.com/eth"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 1,
+        "symbol": "ETH",
+        "decimals": 18,
+        "name": "ETH",
+        "coinKey": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "USDC",
+          "symbol": "USDC",
+          "type": "ERC20",
+          "decimals": 6,
+          "address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+          "name": "Tether",
+          "symbol": "USDT",
+          "type": "ERC20",
+          "decimals": 6,
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+          "name": "Dai",
+          "symbol": "DAI",
+          "type": "ERC20",
+          "decimals": 18,
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9745,
+    "identifier": "plasma",
+    "type": "EVM",
+    "name": "Plasma",
+    "coin": "XPL",
+    "mode": "mainnet",
+    "multicall": "0xcA11bde05977b3631167028862bE2a173976CA11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/plasma-dark.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/9745.json",
+      "explorers": [
+        "https://plasmascan.to/"
+      ],
+      "rpcs": [
+        "https://rpc.plasma.to"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x2611",
+      "blockExplorerUrls": [
+        "https://plasmascan.to/"
+      ],
+      "chainName": "Plasma",
+      "nativeCurrency": {
+        "name": "XPL",
+        "symbol": "XPL",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.plasma.to"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 9745,
+        "symbol": "XPL",
+        "decimals": 18,
+        "name": "XPL",
+        "coinKey": "XPL",
+        "logoURI": ""
+      },
+      "stablecoins": [
+        {
+          "name": "USDT0",
+          "symbol": "USDT0",
+          "type": "PLASMA",
+          "decimals": 6,
+          "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+          "logo": "https://app.hypurr.fi/tokens/usdt0.svg"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "arbitrum",
+    "type": "EVM",
+    "name": "Arbitrum",
+    "coin": "ETH",
+    "id": 42161,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/arbitrum.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/42161.json",
+      "explorers": [
+        "https://arbiscan.io/"
+      ],
+      "rpcs": [
+        "https://arb1.arbitrum.io/rpc",
+        "https://arbitrum-one-rpc.publicnode.com",
+        "https://arbitrum.drpc.org",
+        "https://rpc.ankr.com/arbitrum"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0xa4b1",
+      "blockExplorerUrls": [
+        "https://arbiscan.io/"
+      ],
+      "chainName": "Arbitrum One",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://arb1.arbitrum.io/rpc",
+        "https://arbitrum-one-rpc.publicnode.com",
+        "https://arbitrum.drpc.org",
+        "https://rpc.ankr.com/arbitrum"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 42161,
+        "symbol": "ETH",
+        "decimals": 18,
+        "name": "ETH",
+        "coinKey": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "Bridged USDC",
+          "symbol": "USDC",
+          "type": "ARBITRUM",
+          "decimals": 6,
+          "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "type": "ARBITRUM",
+          "decimals": 6,
+          "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png"
+        },
+        {
+          "name": "Dai Stablecoin",
+          "symbol": "DAI",
+          "type": "ARBITRUM",
+          "decimals": 18,
+          "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "base",
+    "type": "EVM",
+    "name": "Base",
+    "coin": "ETH",
+    "id": 8453,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/base.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/8453.json",
+      "explorers": [
+        "https://basescan.org/"
+      ],
+      "rpcs": [
+        "https://mainnet.base.org",
+        "https://base-rpc.publicnode.com",
+        "https://base.drpc.org",
+        "https://rpc.ankr.com/base"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x2105",
+      "blockExplorerUrls": [
+        "https://basescan.org/"
+      ],
+      "chainName": "Base",
+      "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://mainnet.base.org",
+        "https://base-rpc.publicnode.com",
+        "https://base.drpc.org",
+        "https://rpc.ankr.com/base"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 8453,
+        "symbol": "ETH",
+        "decimals": 18,
+        "name": "ETH",
+        "coinKey": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "USDC",
+          "symbol": "USDC",
+          "type": "BASE",
+          "decimals": 6,
+          "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913/logo.png"
+        },
+        {
+          "name": "USDS Stablecoin",
+          "symbol": "USDS",
+          "type": "BASE",
+          "decimals": 18,
+          "address": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x820C137fa70C8691f0e44Dc420a5e53c168921Dc/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "gnosis",
+    "type": "EVM",
+    "name": "Gnosis",
+    "coin": "DAI",
+    "id": 100,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/gnosis.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/43114.json",
+      "explorers": [
+        "https://gnosisscan.io/",
+        "https://gnosis.blockscout.com/"
+      ],
+      "rpcs": [
+        "https://rpc.gnosischain.com",
+        "https://gnosis-rpc.publicnode.com",
+        "https://gnosis.drpc.org",
+        "https://rpc.ankr.com/gnosis"
+      ],
+      "faucets": []
+    },
+    "faucetUrls": [
+      "https://stakely.io/faucet/xdai-chain"
+    ],
+    "wallet": {
+      "chainId": "0x64",
+      "blockExplorerUrls": [
+        "https://gnosisscan.io/",
+        "https://gnosis.blockscout.com/"
+      ],
+      "chainName": "Gnosis",
+      "nativeCurrency": {
+        "name": "XDAI",
+        "symbol": "XDAI",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.gnosischain.com",
+        "https://gnosis-rpc.publicnode.com",
+        "https://gnosis.drpc.org",
+        "https://rpc.ankr.com/gnosis"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 100,
+        "symbol": "xDAI",
+        "decimals": 18,
+        "name": "xDAI Native Token",
+        "coinKey": "DAI",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "xDAI Native Token",
+          "symbol": "xDAI",
+          "type": "GNOSIS",
+          "decimals": 18,
+          "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "avalanche",
+    "type": "EVM",
+    "name": "Avalanche C-Chain",
+    "coin": "AVAX",
+    "id": 43114,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/avalanche.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/43114.json",
+      "explorers": [
+        "https://snowscan.xyz/",
+        "https://snowtrace.io/"
+      ],
+      "rpcs": [
+        "https://api.avax.network/ext/bc/C/rpc",
+        "https://avalanche.drpc.org",
+        "https://avalanche-c-chain-rpc.publicnode.com",
+        "https://avalanche.public-rpc.com",
+        "https://rpc.ankr.com/avalanche"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0xa86a",
+      "blockExplorerUrls": [
+        "https://snowscan.xyz/",
+        "https://snowtrace.io/"
+      ],
+      "chainName": "Avalanche C-Chain",
+      "nativeCurrency": {
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://api.avax.network/ext/bc/C/rpc",
+        "https://avalanche.drpc.org",
+        "https://avalanche-c-chain-rpc.publicnode.com",
+        "https://avalanche.public-rpc.com",
+        "https://rpc.ankr.com/avalanche"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 43114,
+        "symbol": "AVAX",
+        "decimals": 18,
+        "name": "AVAX",
+        "coinKey": "AVAX",
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/avax/0b9c84359c84d6bdd5bfda9c2d4c4a82.png"
+      },
+      "stablecoins": [
+        {
+          "name": "USDC",
+          "symbol": "USDC",
+          "type": "AVALANCHE",
+          "decimals": 6,
+          "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+        },
+        {
+          "name": "Tether",
+          "symbol": "USDT",
+          "type": "AVALANCHE",
+          "decimals": 6,
+          "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+        },
+        {
+          "name": "Dai",
+          "symbol": "DAI",
+          "type": "AVALANCHE",
+          "decimals": 18,
+          "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "polygon",
+    "type": "EVM",
+    "name": "Polygon",
+    "coin": "POL",
+    "id": 137,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/polygon.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/137.json",
+      "explorers": [
+        "https://polygonscan.com/"
+      ],
+      "rpcs": [
+        "https://polygon-bor-rpc.publicnode.com",
+        "https://polygon.drpc.org",
+        "https://polygon-rpc.com",
+        "https://rpc.ankr.com/polygon"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x89",
+      "blockExplorerUrls": [
+        "https://polygonscan.com/"
+      ],
+      "chainName": "Polygon",
+      "nativeCurrency": {
+        "name": "Polygon Ecosystem Token",
+        "symbol": "POL",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://polygon-bor-rpc.publicnode.com",
+        "https://polygon.drpc.org",
+        "https://polygon-rpc.com",
+        "https://rpc.ankr.com/polygon"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0x0000000000000000000000000000000000001010",
+        "chainId": 137,
+        "symbol": "POL",
+        "decimals": 18,
+        "name": "Polygon Ecosystem Token",
+        "coinKey": "POL",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/matic/6f5a6b6f0732a7a235131bd7804d357c.png"
+      },
+      "stablecoins": [
+        {
+          "name": "Bridged USD Coin",
+          "symbol": "USDC.e",
+          "type": "ERC20",
+          "decimals": 6,
+          "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "type": "ERC20",
+          "decimals": 6,
+          "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
+        },
+        {
+          "name": "Dai Stablecoin",
+          "symbol": "DAI",
+          "type": "ERC20",
+          "decimals": 18,
+          "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "bnb",
+    "type": "EVM",
+    "name": "Binance Smart Chain",
+    "coin": "BNB",
+    "id": 56,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/bsc.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/56.json",
+      "explorers": [
+        "https://bscscan.com/"
+      ],
+      "rpcs": [
+        "https://bsc-dataseed.binance.org",
+        "https://bsc-dataseed.bnbchain.org",
+        "https://bsc-rpc.publicnode.com",
+        "https://bsc-dataseed1.defibit.io",
+        "https://bsc-dataseed1.ninicoin.io"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x38",
+      "blockExplorerUrls": [
+        "https://bscscan.com/"
+      ],
+      "chainName": "BNB Smart Chain",
+      "nativeCurrency": {
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://bsc-dataseed.binance.org",
+        "https://bsc-dataseed.bnbchain.org",
+        "https://bsc-rpc.publicnode.com",
+        "https://bsc-dataseed1.defibit.io",
+        "https://bsc-dataseed1.ninicoin.io"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 56,
+        "symbol": "BNB",
+        "decimals": 18,
+        "name": "BNB",
+        "coinKey": "BNB",
+        "logoURI": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png?1547034615"
+      },
+      "stablecoins": [
+        {
+          "name": "Binance-Peg USD Coin",
+          "symbol": "USDC",
+          "type": "BEP20",
+          "decimals": 18,
+          "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDC-CD2/logo.png"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "type": "BEP20",
+          "decimals": 18,
+          "address": "0x55d398326f99059ff775485246999027b3197955",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"
+        },
+        {
+          "name": "Binance-Peg BUSD Token",
+          "symbol": "BUSD",
+          "type": "BEP20",
+          "decimals": 18,
+          "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "linea",
+    "type": "EVM",
+    "name": "Linea",
+    "coin": "ETH",
+    "id": 59144,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/linea.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/59144.json",
+      "explorers": [
+        "https://lineascan.build/"
+      ],
+      "rpcs": [
+        "https://rpc.linea.build"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0xe708",
+      "blockExplorerUrls": [
+        "https://lineascan.build/"
+      ],
+      "chainName": "Linea",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.linea.build"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 59144,
+        "symbol": "ETH",
+        "decimals": 18,
+        "name": "ETH",
+        "coinKey": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "Axelar Wrapped USDC",
+          "symbol": "axlUSDC",
+          "type": "LINEA",
+          "decimals": 6,
+          "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/linea/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo.png"
+        },
+        {
+          "name": "Binance-Peg BUSD Token",
+          "symbol": "BUSD",
+          "type": "LINEA",
+          "decimals": 18,
+          "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/linea/assets/0x7d43AABC515C356145049227CeE54B608342c0ad/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "mantle",
+    "type": "EVM",
+    "name": "Mantle",
+    "coin": "MNT",
+    "id": 5000,
+    "mode": "mainnet",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/mantle.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/5000.json",
+      "explorers": [
+        "https://mantlescan.xyz/",
+        "https://explorer.mantle.xyz/"
+      ],
+      "rpcs": [
+        "https://rpc.mantle.xyz",
+        "https://mantle-rpc.publicnode.com",
+        "https://mantle.drpc.org",
+        "https://mantle.public-rpc.com",
+        "https://rpc.ankr.com/mantle"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x1388",
+      "blockExplorerUrls": [
+        "https://mantlescan.xyz/",
+        "https://explorer.mantle.xyz/"
+      ],
+      "chainName": "Mantle",
+      "nativeCurrency": {
+        "name": "Mantle",
+        "symbol": "MNT",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.mantle.xyz",
+        "https://mantle-rpc.publicnode.com",
+        "https://mantle.drpc.org",
+        "https://mantle.public-rpc.com",
+        "https://rpc.ankr.com/mantle"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 5000,
+        "symbol": "MNT",
+        "decimals": 18,
+        "name": "MNT",
+        "coinKey": "MNT",
+        "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8/a443c78c33704d48f06e5686bb87f85e.png"
+      },
+      "stablecoins": [
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "type": "MANTLE",
+          "decimals": 6,
+          "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/mantle/assets/0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE/logo.png"
+        },
+        {
+          "name": "Axelar Wrapped USDC",
+          "symbol": "axlUSDC",
+          "type": "MANTLE",
+          "decimals": 6,
+          "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/mantle/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "optimism",
+    "type": "EVM",
+    "name": "Optimism",
+    "coin": "ETH",
+    "id": 10,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/optimism.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/10.json",
+      "explorers": [
+        "https://optimistic.etherscan.io/"
+      ],
+      "rpcs": [
+        "https://mainnet.optimism.io/",
+        "https://optimism.drpc.org",
+        "https://optimism-rpc.publicnode.com",
+        "https://rpc.ankr.com/optimism"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0xa",
+      "blockExplorerUrls": [
+        "https://optimistic.etherscan.io/"
+      ],
+      "chainName": "OP Mainnet",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://mainnet.optimism.io/",
+        "https://optimism.drpc.org",
+        "https://optimism-rpc.publicnode.com",
+        "https://rpc.ankr.com/optimism"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 10,
+        "symbol": "ETH",
+        "decimals": 18,
+        "name": "ETH",
+        "coinKey": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "USDC",
+          "symbol": "USDC",
+          "type": "OPTIMISM",
+          "decimals": 6,
+          "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "type": "OPTIMISM",
+          "decimals": 6,
+          "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "unichain",
+    "type": "EVM",
+    "name": "Unichain",
+    "coin": "ETH",
+    "id": 130,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/unichain.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/130.json",
+      "explorers": [
+        "https://uniscan.xyz/"
+      ],
+      "rpcs": [
+        "https://unichain-rpc.publicnode.com",
+        "https://unichain.drpc.org"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x82",
+      "blockExplorerUrls": [
+        "https://uniscan.xyz/"
+      ],
+      "chainName": "Unichain",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://unichain-rpc.publicnode.com",
+        "https://unichain.drpc.org"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 130,
+        "symbol": "ETH",
+        "decimals": 18,
+        "name": "ETH",
+        "coinKey": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "USDC",
+          "symbol": "USDC",
+          "type": "UNICHAIN",
+          "decimals": 6,
+          "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png"
+        },
+        {
+          "name": "Dai Stablecoin",
+          "symbol": "DAI",
+          "type": "UNICHAIN",
+          "decimals": 18,
+          "address": "0x20CAb320A855b39F724131C69424240519573f81",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/scroll/assets/0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "berachain",
+    "type": "EVM",
+    "name": "Berachain",
+    "coin": "BERA",
+    "id": 80094,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/berachain.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/80094.json",
+      "explorers": [
+        "https://berascan.com/",
+        "https://beratrail.io/"
+      ],
+      "rpcs": [
+        "https://rpc.berachain.com"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x138de",
+      "blockExplorerUrls": [
+        "https://berascan.com/",
+        "https://beratrail.io/"
+      ],
+      "chainName": "Berachain",
+      "nativeCurrency": {
+        "name": "Bera",
+        "symbol": "BERA",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.berachain.com"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0x0000000000000000000000000000000000000000",
+        "chainId": 80094,
+        "symbol": "BERA",
+        "decimals": 18,
+        "name": "BERA",
+        "coinKey": "BERA",
+        "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/berachain.svg"
+      },
+      "stablecoins": [
+        {
+          "name": "Bridged USDC (Stargate)",
+          "symbol": "USDC.e",
+          "type": "ERC20",
+          "decimals": 6,
+          "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
+          "logo": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "scroll",
+    "type": "EVM",
+    "name": "Scroll",
+    "coin": "ETH",
+    "id": 534352,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/scroll.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/534352.json",
+      "explorers": [
+        "https://scrollscan.com/"
+      ],
+      "rpcs": [
+        "https://rpc.scroll.io",
+        "https://scroll.drpc.org",
+        "https://scroll-mainnet.public.blastapi.io",
+        "https://1rpc.io/scroll"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x82750",
+      "blockExplorerUrls": [
+        "https://scrollscan.com/"
+      ],
+      "chainName": "Scroll",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.scroll.io",
+        "https://scroll.drpc.org",
+        "https://scroll-mainnet.public.blastapi.io",
+        "https://1rpc.io/scroll"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 534352,
+        "symbol": "ETH",
+        "decimals": 18,
+        "name": "ETH",
+        "coinKey": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "USDC",
+          "symbol": "USDC",
+          "type": "SCROLL",
+          "decimals": 6,
+          "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/scroll/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "type": "SCROLL",
+          "decimals": 6,
+          "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
+        },
+        {
+          "name": "Dai Stablecoin",
+          "symbol": "DAI",
+          "type": "SCROLL",
+          "decimals": 18,
+          "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/scroll/assets/0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "taiko",
+    "type": "EVM",
+    "name": "Taiko",
+    "coin": "ETH",
+    "id": 167000,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/taiko.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/167000.json",
+      "explorers": [
+        "https://taikoscan.io/"
+      ],
+      "rpcs": [
+        "https://rpc.mainnet.taiko.xyz",
+        "https://rpc.taiko.xyz",
+        "https://rpc.taiko.tools"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x28c58",
+      "blockExplorerUrls": [
+        "https://taikoscan.io/"
+      ],
+      "chainName": "Taiko",
+      "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.mainnet.taiko.xyz",
+        "https://rpc.taiko.xyz",
+        "https://rpc.taiko.tools"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 167000,
+        "symbol": "ETH",
+        "decimals": 18,
+        "name": "ETH",
+        "coinKey": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "USDC",
+          "symbol": "USDC",
+          "type": "TAIKO",
+          "decimals": 6,
+          "address": "0x07d83526730c7438048D55A4fc0b850e2aaB6f0b",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/scroll/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "type": "TAIKO",
+          "decimals": 6,
+          "address": "0x9c2dc7377717603eB92b2655c5f2E7997a4945BD",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
+        },
+        {
+          "name": "Dai Stablecoin",
+          "symbol": "DAI",
+          "type": "TAIKO",
+          "decimals": 18,
+          "address": "0x7d02A3E0180451B17e5D7f29eF78d06F8117106C",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/scroll/assets/0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "blast",
+    "type": "EVM",
+    "name": "Blast",
+    "coin": "ETH",
+    "id": 81457,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/blast/info/logo.png",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/81457.json",
+      "explorers": [
+        "https://blastscan.io/",
+        "https://blastexplorer.io/"
+      ],
+      "rpcs": [
+        "https://rpc.blast.io",
+        "https://blast-rpc.publicnode.com",
+        "https://blast.drpc.org",
+        "https://rpc.ankr.com/blast"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x13e31",
+      "blockExplorerUrls": [
+        "https://blastscan.io/",
+        "https://blastexplorer.io/"
+      ],
+      "chainName": "Blast",
+      "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.blast.io",
+        "https://blast-rpc.publicnode.com",
+        "https://blast.drpc.org",
+        "https://rpc.ankr.com/blast"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 81457,
+        "symbol": "ETH",
+        "decimals": 18,
+        "name": "ETH",
+        "coinKey": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "USDB",
+          "symbol": "USDB",
+          "type": "BLAST",
+          "decimals": 18,
+          "address": "0x4300000000000000000000000000000000000003",
+          "logo": "https://s2.coinmarketcap.com/static/img/coins/128x128/29599.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "sonic",
+    "type": "EVM",
+    "name": "Sonic",
+    "coin": "S",
+    "id": 146,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/sonic.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/146.json",
+      "explorers": [
+        "https://sonicscan.org"
+      ],
+      "rpcs": [
+        "https://rpc.soniclabs.com"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x92",
+      "blockExplorerUrls": [
+        "https://sonicscan.org"
+      ],
+      "chainName": "Sonic",
+      "nativeCurrency": {
+        "name": "S",
+        "symbol": "S",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.soniclabs.com"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 146,
+        "symbol": "S",
+        "decimals": 18,
+        "name": "S",
+        "coinKey": "S",
+        "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/sonic.svg"
+      },
+      "stablecoins": [
+        {
+          "name": "Sonic Bridged USDC",
+          "symbol": "USDC.e",
+          "type": "ERC20",
+          "decimals": 6,
+          "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+          "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "hyperevm",
+    "type": "EVM",
+    "name": "HyperEVM",
+    "coin": "HYPE",
+    "id": 999,
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/hyperevm-dark.svg",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/999.json",
+      "explorers": [
+        "https://purrsec.com/",
+        "https://app.hyperliquid.xyz/explorer"
+      ],
+      "rpcs": [
+        "https://rpc.hyperliquid.xyz/evm",
+        "https://rpc.hypurrscan.io"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "chainId": "0x3e7",
+      "blockExplorerUrls": [
+        "https://purrsec.com/",
+        "https://app.hyperliquid.xyz/explorer"
+      ],
+      "chainName": "HyperEVM",
+      "nativeCurrency": {
+        "name": "HYPE",
+        "symbol": "HYPE",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.hypurrscan.io",
+        "https://rpc.hyperliquid.xyz/evm"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0x2222222222222222222222222222222222222222",
+        "chainId": 999,
+        "symbol": "HYPE",
+        "decimals": 18,
+        "name": "HYPE",
+        "coinKey": "HYPE",
+        "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/hyperevm.svg"
+      },
+      "stablecoins": [
+        {
+          "name": "Ethena USDe",
+          "symbol": "USDe",
+          "type": "ERC20",
+          "chainId": 999,
+          "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+          "decimals": 18,
+          "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png"
+        }
+      ]
+    }
+  }
+]

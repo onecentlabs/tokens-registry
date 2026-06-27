@@ -1,0 +1,908 @@
+[
+  {
+    "chainId": 80094,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BERA",
+    "name": "BERA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/bera.svg",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6969696969696969696969696969696969696969",
+    "symbol": "WBERA",
+    "name": "Wrapped Bera",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/wbera.svg",
+    "tags": [
+      "NATIVE",
+      "WRAPPED",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0x549943e04f40284185054145c6E4e9568C1D3241",
+    "symbol": "USDC.e",
+    "name": "Bridged USD (Stargate)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "symbol": "WETH",
+    "name": "WETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "WRAPPED",
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC",
+    "name": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "tags": [
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
+    "symbol": "HONEY",
+    "name": "HONEY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/honey.svg",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0x688e72142674041f8f6Af4c808a4045cA1D6aC82",
+    "symbol": "BYUSD",
+    "name": "BYUSD",
+    "decimals": 6,
+    "logoURI": "https://hub.berachain.com/_next/image/?url=https%3A%2F%2Fres.cloudinary.com%2Fduv0g402y%2Fimage%2Fupload%2Fv1738732576%2Ftokens%2Fy6wa21vehnappbe2cruf.png&w=3840&q=75&dpl=dpl_FBim27rRDfMcGJQxRsgz2AneXzpt",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0x09D4214C03D01F49544C0448DBE3A27f768F2b34",
+    "symbol": "rUSD",
+    "name": "Reservoir Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/reservoirxyz/759a2ac7d08479d0e0b3f288f4bb84a5.png",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png",
+    "tags": [
+      "STABLE",
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5",
+    "symbol": "iBERA",
+    "name": "Infrared BERA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x9b6761bf2397bb5a6624a856cc84a3a14dcd3fe5/44cd7d48d92cc95521b36309f6cc233a.png",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0xFF0a636Dfc44Bb0129b631cDd38D21B613290c98",
+    "symbol": "HOLD",
+    "name": "Holdstation",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/era_token/logo_url/0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2/98e281572409ba6d38fbb6a7baf76fda.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x5C43a5fEf2b056934478373A53d1cb08030fd382",
+    "symbol": "BRLY",
+    "name": "Berally Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x5c43a5fef2b056934478373a53d1cb08030fd382/1fc015bb5a4f6822c1ba18c52312e8d3.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E",
+    "symbol": "pumpBTC.bera",
+    "name": "pumpBTC.bera",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf469fbd2abcd6b9de8e169d128226c0fc90a012e/07a577c250ea34196b2584048789393a.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6fc6545d5cDE268D5C7f1e476D444F39c995120d",
+    "symbol": "beraETH",
+    "name": "Berachain Staked ETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x6fc6545d5cde268d5c7f1e476d444f39c995120d/5fedbf4b427ce58f3d2e4edb9bd18ad3.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+    "symbol": "SolvBTC",
+    "name": "Solv BTC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bob_token/logo_url/0x59889b7021243db5b1e065385f918316cd90d46c/31a6cb7216c2b772a41a8913cc36f2c0.png",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0xC3827A4BC8224ee2D116637023b124CED6db6e90",
+    "symbol": "uniBTC",
+    "name": "uniBTC",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x93919784c523f39cacaa98ee0a9d96c3f32b593e/3adc425af3410e7c7cedb1ce4f777eda.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
+    "symbol": "USDa",
+    "name": "USDa",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0x075df695b8e7f4361fa7f8c1426c63f11b06e326/6aca648e5ac1bcc962281245c478576c.png",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0xE946Dd7d03F6F5C440F68c84808Ca88d26475FC5",
+    "symbol": "ylBTCLST",
+    "name": "CIAN yield layer BTCLST",
+    "decimals": 8
+  },
+  {
+    "chainId": 80094,
+    "address": "0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3",
+    "symbol": "NECT",
+    "name": "Nectar",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x1ce0a25d13ce4d52071ae7e02cf1f6606f4c79d3/00afe74ca7fec05cff5febbcc73b3d1a.png",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3",
+    "symbol": "STONE",
+    "name": "StakeStone Ether",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7122985656e38bdc0302db86685bb972b145bd3c/42726d1cb174e9460a5a875194e5a317.png"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x8f06863df59a042bcc2c86cc8ca1709ec1ee316b",
+    "name": "janitooor",
+    "symbol": "JANI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54525/thumb/janinew.png?1740137171"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x1f7210257fa157227d09449229a9266b0d581337",
+    "name": "BeramoniumCoin",
+    "symbol": "BERAMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54529/thumb/_BERAMO_logo.png?1740168354"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x047b41a14f0bef681b94f570479ae7208e577a0c",
+    "name": "Honey Is Money",
+    "symbol": "HIM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54552/thumb/HIM_LOGO.jpg?1740307478"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x36e9fe653e673fda3857dbe5afbc884af8a316a2",
+    "name": "BeraFi",
+    "symbol": "BERAFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54382/thumb/TOKEN_LOGO_%281%29.png?1739459375"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xa452810a4215fccc834ed241e6667f519b9856ec",
+    "name": "Berabot",
+    "symbol": "BBOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54546/thumb/Berabot_Logo.png?1740220386"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x656b95e550c07a9ffe548bd4085c72418ceb1dba",
+    "name": "Berachain Governance Token",
+    "symbol": "BGT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x656b95e550c07a9ffe548bd4085c72418ceb1dba/dde74b78a73815e74ab723506e90ad11.png",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7",
+    "name": "Ramen",
+    "symbol": "RAMEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54443/thumb/rsz_tokens_1.png?1739772470"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xb749584f9fc418cf905d54f462fdbfdc7462011b",
+    "name": "bm",
+    "symbol": "BM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54413/thumb/photo_2025-02-13_05.15.34.jpeg?1739554671"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x08a38caa631de329ff2dad1656ce789f31af3142",
+    "name": "Yeet",
+    "symbol": "YEET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54416/thumb/IMG_7050.PNG?1739556073",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "name": "Yel Finance",
+    "symbol": "YEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17429/thumb/Logo200.png?1696516976"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4",
+    "name": "Amped Finance",
+    "symbol": "AMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "name": "Solv Protocol Babylon",
+    "symbol": "SolvBTC.BBN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0x18878df23e2a36f81e820e4b47b4a40576d3159c",
+    "name": "Olympus",
+    "symbol": "OHM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1696514169",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0xac03caba51e17c86c921e1f6cbfbdc91f8bb2e6b",
+    "name": "Infrared BGT",
+    "symbol": "IBGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54614/thumb/ibgt.jpg?1740718302",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0x7838cec5b11298ff6a9513fa385621b765c74174",
+    "name": "Beradrome",
+    "symbol": "BERO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54626/thumb/beradrome_logo.webp?1740746547"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6536cead649249cae42fc9bfb1f999429b3ec755",
+    "name": "NAV",
+    "symbol": "NAV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54663/thumb/NAV_Token.png?1740898251"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xb2f776e9c1c926c4b2e54182fac058da9af0b6a5",
+    "name": "Henlo",
+    "symbol": "HENLO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/bera_token/logo_url/0xb2f776e9c1c926c4b2e54182fac058da9af0b6a5/ac3e2de8c216e337c9a62a9b33d9dc35.png",
+    "tags": [
+      "VERIFIED"
+    ]
+  },
+  {
+    "chainId": 80094,
+    "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "name": "Lombard Staked BTC",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912",
+    "name": "Wrapped gBera",
+    "symbol": "WGBERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54804/thumb/wgbera.jpg?1741743688"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "name": "Bedrock BTC",
+    "symbol": "BRBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "name": "ynETH MAX",
+    "symbol": "YNETHX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xbaadcc2962417c01af99fb2b7c75706b9bd6babe",
+    "name": "Liquid BGT",
+    "symbol": "LBGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54878/thumb/lbgt.png?1742327918"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x0003eedfdd020bf60d10cf684abac7c4534b7ead",
+    "name": "Bread",
+    "symbol": "BREAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54952/thumb/photo_2025-03-21_13.46.43.jpeg?1742805118"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x69f1e971257419b1e9c405a553f252c64a29a30a",
+    "name": "Origami iBGT Auto Compounder",
+    "symbol": "ORIBGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54994/thumb/oriBGT.png?1743069741"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb",
+    "name": "Berally Token",
+    "symbol": "BRLY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54295/thumb/Dex-01_%282%29.png?1739085758"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x5475611dffb8ef4d697ae39df9395513b6e947d7",
+    "name": "Reservoir srUSD",
+    "symbol": "SRUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54118/thumb/srUSD.png?1738313910"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x147c9a7f5265d7ca9a671c3817b212a0cf88856e",
+    "name": "BeraXBT",
+    "symbol": "BIXBT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55022/thumb/BeraLogo-200px.jpg?1743243276"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x01c8a5ccad23a4d3764ef71c403862160aa2913a",
+    "name": "Wizzwoods Token",
+    "symbol": "WIZZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55049/thumb/200x200_logo.png?1743437086"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xc99e948e9d183848a6c4f5e6c1d225f02f171d79",
+    "name": "Pollen",
+    "symbol": "POLLEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54929/thumb/Pollen_200x200.png?1742578406"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x66a501076865a2b21df9dbd51fa931317188418b",
+    "name": "BERATARDIO",
+    "symbol": "BERATARDIO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55086/thumb/for_resizing_.png?1743665350"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xd3415dcfbda117814e24a4cbaf61128a4d79b860",
+    "name": "Celeron token",
+    "symbol": "CEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55094/thumb/Celeron_Logo.png?1743699296"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xfaf4c16847bd0ebac546c49a9c9c6b81abd4b08c",
+    "name": "NOME",
+    "symbol": "NOME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55095/thumb/Nome_400x400.jpg?1743699482"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6",
+    "name": "USDbr",
+    "symbol": "USDBR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55096/thumb/USDbr.png?1743699568"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x009af46df68db0e76bfe9ea35663f6ed17877956",
+    "name": "Ooga Booga",
+    "symbol": "OOGA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55119/thumb/Ooga_Booga_Listing_Icon_200x200.png?1743839384"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x28e0e3b9817012b356119df9e217c25932d609c2",
+    "name": "Burr Governance Token",
+    "symbol": "BURR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55134/thumb/BURR_Token_logo.png?1744006499"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xcc6a16bcfda7d0ebe168f69ef7b946e96a90e67f",
+    "name": "HoneyFun AI",
+    "symbol": "AIBERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55198/thumb/HoneyFunAI-LogoRebrand-200px.png?1744617530"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
+    "name": "Dolomite",
+    "symbol": "DOLO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54710/thumb/DOLO-small.png?1745398535"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xf3530788deb3d21e8fa2c3cbbf93317fb38a0d3c",
+    "name": "Lair",
+    "symbol": "LAIR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55181/thumb/Lair_token.png?1744616096"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xb7e448e5677d212b8c8da7d6312e8afc49800466",
+    "name": "Goldilocks DAO",
+    "symbol": "LOCKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55422/thumb/Goldilocks_logo_no_text.png?1745919245"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xd352dc6e5f0c45e2f2b38eb5565eb286a1ea4087",
+    "name": "Bedrock",
+    "symbol": "BR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54908/thumb/BR_200px.png?1742453499"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6b26f778bfae56cfb4bf9b62c678d9d40e725227",
+    "name": "HarryPotterObamaSonic10Inu  ETH ",
+    "symbol": "BITCOIN",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/30323/thumb/hpos10i_logo_casino_night-dexview.png?1696529224"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xedb5180661f56077292c92ab40b1ac57a279a396",
+    "name": "Mead",
+    "symbol": "MEAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55743/thumb/MEAD.jpg?1747287719"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+    "name": "Peapods Finance",
+    "symbol": "PEAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xcb700b56226d3b28a3b897c6ce8881bbfb22d2f8",
+    "name": "TWIN ASSET TOKEN iAAPL",
+    "symbol": "IAAPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66277/thumb/TWIN_Asset_Token_Logo_iAAPL_CG.png?1749050831"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x9ea30078bc52740f10812539e77b6502a2a5387a",
+    "name": "TWIN Asset Token iCOIN short",
+    "symbol": "ICOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66284/thumb/TWIN_Asset_Token_Logo_iCOIN_CG.png?1749108530"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x65967109401506222609bdc86e3039f910c4d08b",
+    "name": "TWIN ASSET TOKEN COIN",
+    "symbol": "COIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66282/thumb/TWIN_Asset_Token_Logo_COIN_CG.png?1749056586"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x3a4b2d07c237c701c68238da07e11302353a16f1",
+    "name": "TWIN Asset Token iNVDA Short",
+    "symbol": "INVDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66286/thumb/TWIN_Asset_Token_Logo_iNVDA_CG.png?1749108927"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xe5a08b6f213a7c530e03ad40522befcbaa1a7f8c",
+    "name": "TWIN ASSET TOKEN iMSTR",
+    "symbol": "IMSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66280/thumb/TWIN_Asset_Token_Logo_iMSTR_CG.png?1749054879"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x80d6206c800a6ede51ec52fe724df57fa4b4410b",
+    "name": "TWIN ASSET TOKEN MSTR",
+    "symbol": "MSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66278/thumb/TWIN_Asset_Token_Logo_MSTR_CG.png?1749051204"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x1de7efabfa656d077cfd961e4a83b061d351a83b",
+    "name": "TWIN Asset Token NVDA Long",
+    "symbol": "NVDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66285/thumb/TWIN_Asset_Token_Logo_NVDA_CG.png?1749108863"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x63ca3e797cbbcb16b1875d42b4869af7d328d820",
+    "name": "TWIN ASSET TOKEN AAPL",
+    "symbol": "AAPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66276/thumb/TWIN_Asset_Token_Logo_AAPL_CG.png?1749050463"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x804cf700de1e18f2411bd05aad5fa10d60e1900f",
+    "name": "aSUGAR",
+    "symbol": "ASUGAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66395/thumb/aSUGAR.png?1749286870"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x0000382fbb422b4f593931fc6f2d25cc16600000",
+    "name": "Zero",
+    "symbol": "ZERO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66874/thumb/Zero_Logo-Option_B-B_W.jpg?1750921009"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xd2c41bf4033a83c0fc3a7f58a392bf37d6dcdb58",
+    "name": "OpenState BGT",
+    "symbol": "OSBGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67157/thumb/osbgt.jpg?1751938475"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x6698ede14709a9dd8379744cc2d28f276e3d2eac",
+    "name": "Plutus",
+    "symbol": "PLUTUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67346/thumb/plutus.jpg?1752473074"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+    "name": "Wrapped FRAX",
+    "symbol": "WFRAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xff9c599d51c407a45d631c6e89cb047efb88aef6",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1696514728"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x1b25ca174c158440621ff96e4b1262cb5cc8942f",
+    "name": "Solv Protocol SolvBTC BNB",
+    "symbol": "SOLVBTCBNB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67662/thumb/SolvBTC.BNB.png?1753426768"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x118d2ceee9785eaf70c15cd74cd84c9f8c3eec9a",
+    "name": "POL Staked WBERA",
+    "symbol": "SWBERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68010/thumb/swbera.png?1754573891"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+    "name": "Resolv RLP",
+    "symbol": "RLP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x2a5fc05f71cfc54ddcad19457cee79e3aaf415c9",
+    "name": "SatLayer Restaked uniBTC",
+    "symbol": "SATUNIBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/67943/thumb/satUniBTC.png?1754391309"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "name": "Ethena Staked USDe",
+    "symbol": "SUSDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x2206182a4264bce0663681448b24fc6781fc8e40",
+    "name": "Bulla",
+    "symbol": "BULLA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69028/thumb/bull-logo-1.jpg?1757319059"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+    "name": "Stargate Finance",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1696523595"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
+    "name": "Wrapped eETH",
+    "symbol": "WEETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x2cec7f1ac87f5345ced3d6c74bbb61bfae231ffb",
+    "name": "stBGT",
+    "symbol": "STBGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69129/thumb/stBGT.PNG?1757582178"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
+    "name": "Resolv USR",
+    "symbol": "USR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40008/thumb/USR_LOGO.png?1725222638"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x982940ebfc5caa2f5b5a82aac2dfa99f18bb7da4",
+    "name": "Bearn BERA",
+    "symbol": "YBERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69282/thumb/ybera.png?1758095597"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xcc601605dc5011616934b6fdac8a14d51b791a94",
+    "name": "Resolv wstUSR",
+    "symbol": "WSTUSR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x850cdf416668210ed0c36bfff5d21921c7ada3b8",
+    "name": "Restaked Swell ETH",
+    "symbol": "RSWETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34489/thumb/rswETH_Icon.png?1706865484"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x51a7688ca5b142456f4c8d44513433485bf599e9",
+    "name": "POLAR AI",
+    "symbol": "POLAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69715/thumb/1.png?1759396535"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x0f6f337b09cb5131cf0ce9df3beb295b8e728f3b",
+    "name": "Solv Protocol SolvBTC.BERA",
+    "symbol": "SOLVBTC.BERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69747/thumb/SolvBTC.BERA.png?1759482666"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xeb9b5f4eb023ae754ff59a04c9c038d58606dac6",
+    "name": "Euler",
+    "symbol": "EUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+    "name": "Frax USD",
+    "symbol": "FRXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x71356761fd23e77e5d78c37c70fe78229ca75a72",
+    "name": "Reservoir",
+    "symbol": "DAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68267/thumb/dam.png?1755228740"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x5bad2b7a0a2eee88a4ef05d5470cdedb0ff948ea",
+    "name": "Origami hOHM",
+    "symbol": "HOHM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66457/thumb/hOHM_200px.png?1749435178"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xb2a12db2691fc05dca47b2be9a087077afaa0800",
+    "name": "Smilee",
+    "symbol": "SMILEE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70922/thumb/SMILEE_Token_Icon_CoinGecko.png?1764594106"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xc0d1ac00a30fa4e30e44afc7313d6312c87e21df",
+    "name": "Kodiak Finance",
+    "symbol": "KDK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71160/thumb/KDK-Logo-200px.png?1766076667"
+  },
+  {
+    "chainId": 80094,
+    "address": "0xa1b644aec990ad6023811ced36e6a2d6d128c7c9",
+    "name": "Infrared Finance",
+    "symbol": "IR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71127/thumb/infrared_finance.png?1765894946"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+    "name": "Kelp DAO Restaked ETH",
+    "symbol": "RSETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
+  },
+  {
+    "chainId": 80094,
+    "address": "0x59a61b8d3064a51a95a5d6393c03e2152b1a2770",
+    "name": "SailOut Royalty",
+    "symbol": "SAIL.R",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172045/thumb/SailOut_Logo_%281%29.png?1771228639"
+  }
+]

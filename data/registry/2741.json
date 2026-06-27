@@ -1,0 +1,50 @@
+[
+  {
+    "chainId": 2741,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "name": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "chainId": 2741,
+    "address": "0x3439153EB7AF838Ad19d56E1571FBD09333C2809",
+    "symbol": "WETH",
+    "name": "WETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/lyra_token/logo_url/lyra/48bfb74adddd170e936578aec422836d.png"
+  },
+  {
+    "chainId": 2741,
+    "address": "0x84A71ccD554Cc1b02749b35d22F684CC8ec987e1",
+    "symbol": "USDC.e",
+    "name": "Bridged USD (Stargate)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "chainId": 2741,
+    "address": "0x0709F39376dEEe2A2dfC94A58EdEb2Eb9DF012bD",
+    "symbol": "USDT",
+    "name": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "chainId": 2741,
+    "address": "0x9eBe3A824Ca958e4b3Da772D2065518F009CBa62",
+    "symbol": "PENGU",
+    "name": "Pudgy Penguins",
+    "decimals": 18,
+    "logoURI": "https://img.reservoir.tools/images/v2/abstract/SOH16Rml4teTwteHGv7mzFPoR1RDmrxetEov4ZKPdr8CYgqfVfhFwsW1UkTuBQ3a%2FNdYKidF15cP4O5fsctct9K93ey9EXyv2l1YcYkecnLIFh7o7jtBa8LTRZ%2BhHcil?width=250"
+  },
+  {
+    "chainId": 2741,
+    "address": "0xd045e0686A784e272E651Fc2C08324edABE7403A",
+    "symbol": "CHENGU",
+    "name": "CHENGU",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/abs_token/logo_url/0xd045e0686a784e272e651fc2c08324edabe7403a/c42e255c36b320e0f8dedda8d62231ae.png"
+  }
+]

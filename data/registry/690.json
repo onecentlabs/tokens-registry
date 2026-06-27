@@ -1,0 +1,15 @@
+[
+  {
+    "chainId": 690,
+    "address": "0xD5d59fC063e7548b6015A36fEb10B875924A19be",
+    "name": "Bridged USDC (Lattice)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
+    "extensions": {
+      "redstoneBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BridgedUSDC"
+    }
+  }
+]

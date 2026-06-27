@@ -1,0 +1,5468 @@
+[
+  {
+    "chainId": 10,
+    "address": "0xAd42D013ac31486B73b6b059e748172994736426",
+    "name": "1inch",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x111111111117dC0aa78b770fA6A738034120C302"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x76fb31fb4af56892a25e32cfc43de717950c9278/6b4834c1467396a9097fde2a85c966cb.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B",
+    "name": "Across Protocol Token",
+    "symbol": "ACX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xff733b2a3557a7ed6697007ab5d11b79fdd1b76b/587a5da5475ab14d68c2516164318f84.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x334cc734866E97D8452Ae6261d68Fd9bc9BFa31E",
+    "name": "ARPA Chain",
+    "symbol": "ARPA",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a"
+        }
+      }
+    }
+  },
+  {
+    "name": "Balancer",
+    "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+    "symbol": "BAL",
+    "decimals": 18,
+    "chainId": 10,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921/52990c207f4001bd9090dfd90e54374a.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xba100000625a3754423978a60c9317c58a424e3D"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x07ad578FF86B135bE19A12759064b802Cb88854D",
+    "name": "Boba Network",
+    "symbol": "BOBA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/20285/thumb/BOBA.png?1636811576",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+    "name": "BarnBridge",
+    "symbol": "BOND",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x3e7ef8f50246f725885102e8238cbba33f276747/7291183bd938f0224f9ee791aa186966.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x0391D2021f89DC339F60Fff84546EA23E337750f"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xEd50aCE88bd42B45cB0F49be15395021E141254e",
+    "name": "Braintrust",
+    "symbol": "BTRST",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x4Fabb145d64652a948d72533023f6E7A623C7C53"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x1debd73e752beaf79865fd6446b0c970eae7732f/e5ec1d605518e827e08594b2aff84d7f.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x9b88D293b7a791E40d36A39765FFd5A1B9b5c349",
+    "name": "Celo native asset (Wormhole)",
+    "symbol": "CELO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x9b88d293b7a791e40d36a39765ffd5a1b9b5c349/46e18855c82d7c2e73bac982365d2f21.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69"
+        }
+      }
+    }
+  },
+  {
+    "name": "Curve DAO Token",
+    "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
+    "symbol": "CRV",
+    "decimals": 18,
+    "chainId": 10,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x0994206dfe8de6ec6920ff4d779b0d950605fb53/9e4f7e3d92eac8b5df46b0cf8d35daa5.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xEc6adef5E1006bb305bB1975333e8fc4071295bf",
+    "name": "Cartesi",
+    "symbol": "CTSI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xec6adef5e1006bb305bb1975333e8fc4071295bf/ef8f140a69013c2a0045847f80bbf655.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D"
+        }
+      }
+    }
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x65559aA14915a70190438eF90104769e5E890A00",
+    "name": "Ethereum Name Service",
+    "symbol": "ENS",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72/034d454d78d7be7f9675066fdb63e114.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xD8737CA46aa6285dE7B8777a8e3db232911baD41",
+    "name": "Stafi",
+    "symbol": "FIS",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d/073622e19a455dfa683db4859374a1c0.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xF1a0DA3367BC7aa04F8D94BA57B862ff37CeD174",
+    "name": "ShapeShift FOX Token",
+    "symbol": "FOX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xf1a0da3367bc7aa04f8d94ba57b862ff37ced174/a3ba70c14f1dfe0cd7bff6c759686b33.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/movr_token/logo_url/0x965f84d915a9efa2dd81b653e3ae736555d945f4/1f2c42cba1add081f314ee899ab67816.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x67ccea5bb16181e7b4109c9c2143c24a1c2205be/c89aca6896b4ce681c06829ca38c4d38.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x1EBA7a6a72c894026Cd654AC5CDCF83A46445B08",
+    "name": "Gitcoin",
+    "symbol": "GTC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xde30da39c46104798bb5aa3fe8b9e0e1f348163f/ea5a2a4e68c20a12cab5bb17cac38b26.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x589d35656641d6aB57A545F08cf473eCD9B6D5F7",
+    "name": "GYEN",
+    "symbol": "GYEN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/14191/thumb/icon_gyen_200_200.png?1614843343",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xC08512927D12348F6620a698105e1BAac6EcD911"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x3a18dcc9745edcd1ef33ecb93b0b6eba5671e7ca/91a9bafc6d11146b00aea1f2e70a6b6c.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x96543ef8d2C75C26387c1a319ae69c0BEE6f3fe7"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
+    "name": "Lido DAO",
+    "symbol": "LDO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xfdb794692724153d1488ccdbe0c56c252596735f/ca70e712bf4b68bd979e825960a63577.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32"
+        }
+      }
+    }
+  },
+  {
+    "name": "ChainLink Token",
+    "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 10,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6/69425617db0ef93a7c21c4f9b81c7ca5.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
+        }
+      }
+    }
+  },
+  {
+    "name": "LoopringCoin V2",
+    "address": "0xFEaA9194F9F8c1B65429E31341a103071464907E",
+    "symbol": "LRC",
+    "decimals": 18,
+    "chainId": 10,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "name": "Liquity USD",
+    "symbol": "LUSD",
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc40f949f8a4e094d1b49a23ea9241d289b7b2819/2fee99025e9128162b4869bf7ffc6036.png",
+    "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
+    "name": "Mask Network",
+    "symbol": "MASK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14051/thumb/Mask_Network.jpg?1614050316",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074"
+        }
+      }
+    }
+  },
+  {
+    "name": "Maker",
+    "address": "0xab7bAdEF82E9Fe11f6f33f87BC9bC2AA27F2fCB5",
+    "symbol": "MKR",
+    "decimals": 18,
+    "chainId": 10,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x2561aa2bB1d2Eb6629EDd7b0938d7679B8b49f9E",
+    "name": "Ocean Protocol",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x2561aa2bb1d2eb6629edd7b0938d7679b8b49f9e/f24245783e42eb77db43924db27d9690.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x4200000000000000000000000000000000000042",
+    "name": "Optimism",
+    "symbol": "OP",
+    "decimals": 18,
+    "logoURI": "https://optimistic.etherscan.io/token/images/optimism_32.png",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
+    "chainId": 10,
+    "address": "0xC1c167CC44f7923cd0062c4370Df962f9DDB16f5",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x6982508145454Ce325dDbE47a25d4ec3d2311933"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+    "name": "Perpetual Protocol",
+    "symbol": "PERP",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x9e1028f5f1d5ede59748ffcee5532509976840e0/f70e08dbc055f3728e7fb8053612906d.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xbC396689893D065F41bc2C6EcbeE5e0085233447"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x7FB688CCf682d58f86D7e38e03f9D22e7705448B",
+    "name": "Rai Reflex Index",
+    "symbol": "RAI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x7fb688ccf682d58f86d7e38e03f9d22e7705448b/57a7ea8eca0147dccd9c23577ff62a8a.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xB548f63D4405466B36C0c0aC3318a22fDcec711a",
+    "name": "Rari Governance Token",
+    "symbol": "RGT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xb548f63d4405466b36c0c0ac3318a22fdcec711a/99481fc7a7ea924c62058af097c011aa.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xD291E7a03283640FDc51b121aC401383A46cC623"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x650AF3C15AF43dcB218406d30784416D64Cfb6B2",
+    "name": "Status",
+    "symbol": "SNT",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E"
+        }
+      }
+    }
+  },
+  {
+    "name": "Synthetix Network Token",
+    "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+    "symbol": "SNX",
+    "decimals": 18,
+    "chainId": 10,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x8700daec35af8ff88c16bdf0418774cb3d7599b4/fb568c26c7902169572abe8fa966e791.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xba1Cf949c382A32a09A17B2AdF3587fc7fA664f1",
+    "name": "SOL Wormhole ",
+    "symbol": "SOL",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x570a5d26f7765ecb712c0924e4de545b89fd43df/7c5db5c2eae571da837b65f5b9ae1a5c.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xEf6301DA234fC7b0545c6E877D3359FE0B9E50a4",
+    "name": "SUKU",
+    "symbol": "SUKU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11969/thumb/UmfW5S6f_400x400.jpg?1596602238",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7"
+        }
+      }
+    }
+  },
+  {
+    "name": "Synth sUSD",
+    "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+    "symbol": "sUSD",
+    "decimals": 18,
+    "chainId": 10,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9/c699f829018dea55b6b49da32bc9a90d.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B",
+    "name": "Sushi",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x3eaeb77b03dbc0f6321ae1b72b2e9adb0f60112b/19f4fdc6f2364c159a580f6c6636f909.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "name": "Threshold Network",
+    "symbol": "T",
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x747e42eb0591547a0ab429b3627816208c734ea7/2e746f90a5176c3179324b8aab3e747c.png",
+    "address": "0x747e42Eb0591547a0ab429B3627816208c734EA7",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xaf8ca653fa2772d58f4368b0a71980e9e3ceb888/d0a6887fce34243d63aa3986e458aca6.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0"
+        }
+      }
+    }
+  },
+  {
+    "name": "UMA Voting Token v1",
+    "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+    "symbol": "UMA",
+    "decimals": 18,
+    "chainId": 10,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828"
+        }
+      }
+    }
+  },
+  {
+    "name": "Uniswap",
+    "address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+    "symbol": "UNI",
+    "decimals": 18,
+    "chainId": 10,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6fd9d7ad17242c41f7131d257212c54a0e816691/7ae820078682b6eb89b6279ef81dd2e9.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
+        }
+      }
+    }
+  },
+  {
+    "name": "USDCoin",
+    "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "name": "USDC (Bridged from Ethereum)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "tags": [
+      "STABLE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+    "name": "Velodrome Finance",
+    "symbol": "VELO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x9560e827af36c94d2ac33a39bce1fe78631088db/433c39cc788f0e5e31cb00dddd8b3c53.png"
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "tags": [
+      "WRAPPED",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+        }
+      }
+    }
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 10,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x4200000000000000000000000000000000000006/61844453e63cf81301f845d7864236f6.png",
+    "tags": [
+      "NATIVE",
+      "WRAPPED",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ],
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "name": "WOO Network",
+    "symbol": "WOO",
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x871f2f2ff935fd1ed867842ff2a7bfd051a5e527/07dc86e7b5af91f618237b0b37823d72.png",
+    "address": "0x871f2F2ff935FD1eD867842FF2a7bfD051A5E527",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x9db118D43069B73B8a252bF0be49d50Edbd81fc8",
+    "name": "XYO Network",
+    "symbol": "XYO",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x55296f69f40Ea6d20E478533C15A6B08B654E758"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B",
+    "name": "yearn finance",
+    "symbol": "YFI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x9046d36440290ffde54fe0dd84db8b1cfee9107b/f14ac7f4efe5c51e1c6b32add3dea10c.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6985884c4392d348587b19cb9eaaf157f13271cd/f4f029909cbdfeba0721d321231eb812.png"
+  },
+  {
+    "name": "0x Protocol Token",
+    "address": "0xD1917629B3E6A72E6772Aab5dBe58Eb7FA3C2F33",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "chainId": 10,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
+    "name": "0xBitcoin",
+    "symbol": "0xBTC",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "0xBTC"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x764ad60e1b81f6cacfec1a2926393d688d4493e6",
+    "name": "AladdinCRV",
+    "symbol": "aCRV",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "aCRV"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
+    "name": "Aelin Protocol",
+    "symbol": "AELIN",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x61baadcf22d2565b0f471b291c475db5555e0b76/6c25590a907c4e3b78905f8b4cb89f08.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "AELIN"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
+    "name": "Alchemix ETH",
+    "symbol": "alETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6/258b7ffef65d8b0a25bda1c72a8fe654.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "alETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xC27D9BC194a648fE3069955a5126699C4e49351C",
+    "name": "Alongside Crypto Market Index",
+    "symbol": "AMKT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AMKT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AMKT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xC5B3AC2DF8D8D7AC851F763a5b3Ff23B4A696d59",
+    "name": "Aptos",
+    "symbol": "APT",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/APT/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "APT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xc62c9B7BE5d4E5D415F682b2331bfa5f0C8D061a",
+    "name": "AthenaDAO Token",
+    "symbol": "ATH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ATH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ATH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
+    "name": "Aura",
+    "symbol": "AURA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc0c293ce456ff0ed870add98a0828dd4d2903dbf/f5bdc54131498b4bda381d301e855962.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "AURA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x29FAF5905bfF9Cfcc7CF56a5ed91E0f091F8664B",
+    "name": "Bankless Token",
+    "symbol": "BANK",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x29faf5905bff9cfcc7cf56a5ed91e0f091f8664b/65548d47f97a234fd98885f0bc89d4ff.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BANK"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xDb9888b842408B0b8eFa1f5477bD9F351754999E",
+    "name": "BAXagent Coin",
+    "symbol": "BAXA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BAXA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BAXA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x0Af1580f49121d7a42b0F9125f5F7dc172f8a469",
+    "name": "BananaCat",
+    "symbol": "BCAT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/BCAT/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BCAT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
+    "name": "BitANT",
+    "symbol": "BitANT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BitANT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xc98B98d17435AA00830c87eA02474C5007E1f272",
+    "name": "BitBTC",
+    "symbol": "BitBTC",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x158F513096923fF2d3aab2BcF4478536de6725e2",
+      "opListId": "extended",
+      "opTokenId": "BitBTC"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+    "name": "BOB Token",
+    "symbol": "BOB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27266/small/Bob-logo.png?1663073030",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "BOB"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x65334cE5aaE9Fb390C056574C7AA4DE33cf1D40E",
+    "name": "Bright",
+    "symbol": "BRIGHT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BRIGHT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BRIGHT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x6c518f9D1a163379235816c543E62922a79863Fa",
+    "name": "Burn Wrapped AJNA",
+    "symbol": "bwAJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "bwAJNA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
+    "name": "Chi USD",
+    "symbol": "CHI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CHI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CHI"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x1D015bF7d8a6fb0fc30959F3e12355530086b2A5",
+    "name": "Changer",
+    "symbol": "CNG",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CNG"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x629c2fd5d5f432357465b59d7832389a89956f0b",
+    "name": "CryptoOracle Collective",
+    "symbol": "COC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/COC/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "COC"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+    "name": "Collab.Land",
+    "symbol": "COLLAB",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a/24e978284b414f34c401b4c8596f2031.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "COLLAB"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xC52D7F23a2e460248Db6eE192Cb23dD12bDDCbf6",
+    "name": "Curve.Fi USD Stablecoin",
+    "symbol": "crvUSD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e/c8e14f0d2abeda53a52c418094b7ea03.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "crvUSD"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x01402d1Bc10Ae6E96C0E494A5860748517a3c070",
+    "name": "CryoDAO",
+    "symbol": "CRYO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CRYO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CRYO"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xeFCC1BaCD639619135746bD8113B70abBFa6C7B0",
+    "name": "Travel Deals",
+    "symbol": "CTRAVL",
+    "decimals": 4,
+    "logoURI": "https://ethereum-optimism.github.io/data/CTRAVL/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CTRAVL"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x03e5b5930f3a42b56af4a982b10e60957bdd2f61",
+    "name": "Prime",
+    "symbol": "D2D",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/D2D/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "D2D"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062",
+    "name": "Dentacoin",
+    "symbol": "DCN",
+    "decimals": 0,
+    "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DCN"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+    "name": "dForce",
+    "symbol": "DF",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3/02df44f03a3c1f24cf95915fcbdc57bb.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DF"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+    "name": "dHEDGE DAO Token",
+    "symbol": "DHT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xaf9fe3b5ccdae78188b1f8b9a49da7ae9510f151/0f08e26a6166f8b39b59f64ed9fef096.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "DHT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+    "name": "Dola USD Stablecoin",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x8ae125e8653821e851f12a49f7765db9a9ce7384/0c348eedfa7f89d3db2919e0a18988ea.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DOLA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x05c87b79844227a4d95171E9969da3DD7d65914e",
+    "name": "DRODEC",
+    "symbol": "DRODEC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DRODEC/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "DRODEC"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x0e49ca6ea763190084c846d3fc18f28bc2ac689a",
+    "name": "Unit protocol",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DUCK/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DUCK"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xe7BC9b3A936F122f08AAC3b1fac3C3eC29A78874",
+    "name": "Eco",
+    "symbol": "ECO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ECO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0xAa029BbdC947F5205fBa0F3C11b592420B58f824",
+      "opListId": "extended",
+      "opTokenId": "ECO"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x76c37F9949e05b37C8373d155C1Fef46a6858481",
+    "name": "Equilibria Pendle",
+    "symbol": "ePendle",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ePENDLE"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xd1cac46a9a77169C310c2C780A4267eE6CA884f5",
+    "name": "Epoch",
+    "symbol": "EPOCH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/EPOCH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "EPOCH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xaf3A6f67Af1624d3878A8d30b09FAe7915DcA2a0",
+    "name": "Equilibria Token",
+    "symbol": "EQB",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd6ecfd0d5f1dfd3ad30f267a3a29b3e1bc4fd54f/879c85f8f0133d12fbb1ef89e0130d65.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "EQB"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b",
+    "name": "Equalizer",
+    "symbol": "EQZ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "EQZ"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
+    "name": "Erica Social Token",
+    "symbol": "EST",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x7b0bcc23851bbf7601efc9e9fe532bf5284f65d3/524e23327a23803fd51c42334ecc8fcf.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "EST"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "ETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x86bEA60374f220dE9769b2fEf2db725bc1cDd335",
+    "name": "Flashstake",
+    "symbol": "FLASH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FLASH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FLASH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xB58d1d90c4f0A89c96337387FEAffF0A7a75a722",
+    "name": "Franklin",
+    "symbol": "FLy",
+    "decimals": 4,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xb58d1d90c4f0a89c96337387feafff0a7a75a722/7905208b6f1e7c43d71b2eafecba8e16.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FLY"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x79E6c6b6aABA4432FAbacB30cC0C879D8f3E598e",
+    "name": "FOAM Token",
+    "symbol": "FOAM",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x79e6c6b6aaba4432fabacb30cc0c879d8f3e598e/d8259a7274ca631f9cd44ba789038609.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FOAM"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xc5d43a94e26fca47a9b21cf547ae4aa0268670e1",
+    "name": "Frax Price Index",
+    "symbol": "FPI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FPI/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "FPI"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x8368Dca5CE2a4Db530c0F6e535d90B6826428Dee",
+    "name": "Frax Price Index Share",
+    "symbol": "FPIS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FPIS/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "FPIS"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6806411765af15bddd26f8f544a34cc40cb9838b/74628d212cf16e6183a7242b4ce71b92.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "frxETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98",
+    "name": "Giveth Token",
+    "symbol": "GIV",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x900db999074d9277c5da2a43f252d74366230da0/48a1779d740e93397c6204755092a146.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GIV"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x53ed36b1d07a5f4b01e5f872fd054f8439335460",
+    "name": "Gemach",
+    "symbol": "GMAC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GMAC/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "GMAC"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xEcF46257ed31c329F204Eb43E254C609dee143B3",
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GRG"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xc871cCf95024eFa2CbcE69B5B775D2a1DcF49c1B",
+    "name": "ValleyDAO Token",
+    "symbol": "GROW",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GROW"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
+    "name": "Geyser",
+    "symbol": "GYSR",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GYSR"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x5465145a47260D5E715733997333A175D97285Bb",
+    "name": "HairDAO Token",
+    "symbol": "HAIR",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "HAIR"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x50Bce64397C75488465253c0A034b8097FeA6578",
+    "name": "HanChain",
+    "symbol": "HAN",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x50bce64397c75488465253c0a034b8097fea6578/6aaf08c06e22455f87a1f796396960b9.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "HAN"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xC3248A1bd9D72fa3DA6E6ba701E58CbF818354eB",
+    "name": "HANePlatform",
+    "symbol": "HANeP",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc3248a1bd9d72fa3da6e6ba701e58cbf818354eb/717132b51a05b62a18b161a6cd6aaca6.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "HANeP"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x01B8b6384298D4848E3BE63D4C9D17830EeE488A",
+    "name": "DAOhaus Token on Optimism",
+    "symbol": "HAUS",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "HAUS"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "name": "Hop",
+    "symbol": "HOP",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc/c8be411deb2585a3dba7e5df36b53bc5.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "HOP"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xBB6BBaa0F6D839A00c82B10747aBc3b7E2eEcc82",
+    "name": "Impermax",
+    "symbol": "IBEX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IBEX/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "IBEX"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xa211E25F7246950E0cCe054e3161C7c0b6379485",
+    "name": "Interest Protocol",
+    "symbol": "IPT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xa211e25f7246950e0cce054e3161c7c0b6379485/cbf184f256a0dd04d2c8df461e9ced4a.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "IPT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xa00e3a3511aac35ca78530c85007afcd31753819/1d25e188deb06e642ea6f4f4f8eb0a0c.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "KNC"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xf98dcd95217e15e05d8638da4c91125e59590b07",
+    "name": "Kromatika",
+    "symbol": "KROM",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xf98dcd95217e15e05d8638da4c91125e59590b07/d97d32749c368bb0fff58bba15b3b8d9.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "KROM"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+    "name": "Theranos Coin",
+    "symbol": "LIZ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LIZ"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x0B3e851cf6508A16266BC68A651ea68b31ef673b",
+    "name": "Loopfi",
+    "symbol": "LPF",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LPF/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LPF"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "name": "Lyra",
+    "symbol": "LYRA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x50c5725949a6f0c72e6c4a641f24049a917db0cb/474a23cfed5652ad5cb1ddf7ddb84b17.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "LYRA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x9a2e53158e12bc09270af10c16a466cb2b5d7836",
+    "name": "Metronome2",
+    "symbol": "MET",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/metronome/2e2e51acaff8061e11e3d9ac61ffbd9d.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MET"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x77D40CBc27f912dcDbF4348cAf87B427c4D02486",
+    "name": "Mochi",
+    "symbol": "MOCHI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MOCHI"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x5e70AfFE232e2919792f77EB94e566db0320fa88",
+    "name": "Monetum",
+    "symbol": "MOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MOM"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x819845b60a192167ed1139040b4f8eca31834f27",
+    "name": "MetaPoolETH",
+    "symbol": "mpETH",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "mpETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x929b939f8524c3be977af57a4a0ad3fb1e374b50",
+    "name": "Meta",
+    "symbol": "MTA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x929b939f8524c3be977af57a4a0ad3fb1e374b50/6591c530a19ee39dad23ada7dd5af528.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MTA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x1164b451624E0D53bD8Be84d3fF7f9591bA8922e",
+    "name": "Mugloo",
+    "symbol": "MUGLOO",
+    "decimals": 4,
+    "logoURI": "https://ethereum-optimism.github.io/data/MUGLOO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MUGLOO"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NFTE/logo.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "NFTE"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527",
+    "name": "Autonolas",
+    "symbol": "OLAS",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OLAS"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
+    "name": "Ethereans",
+    "symbol": "OS",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6af3cb766d6cd37449bfd321d961a61b0515c1bc/b41173a7f2cd637b52c46f41c48abaea.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OS"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
+    "name": "Paper",
+    "symbol": "PAPER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PAPER"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/pendle2/d5cfacd3b8f7e0ec161c0de9977cabbd.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PENDLE"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xFa956eB0c4b3E692aD5a6B2f08170aDE55999ACa",
+    "name": "PhunToken",
+    "symbol": "PHTK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PHTK/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PHTK"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
+    "name": "PoolTogether",
+    "symbol": "POOL",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x395ae52bb17aef68c2888d941736a71dc6d4e125/5021ae8f6772686fc2cbe3cd800f0c11.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "POOL"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x6F0fecBC276de8fC69257065fE47C5a03d986394",
+    "name": "Popcorn",
+    "symbol": "POP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/POP/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "POP"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x374Ad0f47F4ca39c78E5Cc54f1C9e426FF8f231A",
+    "name": "Premia",
+    "symbol": "PREMIA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PREMIA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xd3594E879B358F430E20F82bea61e83562d49D48",
+    "name": "ParaSwap",
+    "symbol": "PSP",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xd3594e879b358f430e20f82bea61e83562d49d48/142412ec7069ec0a4806f2bfc2855022.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PSP"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xf8397db1eedb800fdbce9e62ad83a28059cbb068",
+    "name": "RAZOR",
+    "symbol": "RAZOR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RAZOR/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "RAZOR"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x9bcef72be871e61ed4fbbc7630889bee758eb81d/0a56aa87c04449332f88702b2bd5f45c.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "rETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x6c2f7b6110a37b3B0fbdd811876be368df02E8B0",
+    "name": "StaFi Staked ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/rETH_StaFi/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "rETH_StaFi"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xeAeAdAC73baaF4cB8B024dE9D65B2eeFa722856C",
+    "name": "Respawn Finance Wrapped Staked Ethereum",
+    "symbol": "RFWSTETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RFWSTETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "RFWSTETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xC81D1F0EB955B0c020E5d5b264E1FF72c14d1401",
+    "name": "Rocket Pool Protocol",
+    "symbol": "RPL",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xb766039cc6db368759c1e56b79affe831d0cc507/f310ef0bdbf9f72e72cd54ff7f4d3ee6.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "RPL"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x7a1263eC3Bf0a19e25C553B8A2C312e903262C5E",
+    "name": "SAIL Token",
+    "symbol": "SAIL",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd8f1460044925d2d5c723c7054cd9247027415b7/e1c883647ff0db6b07bdae256e81f761.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SAIL"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+    "name": "Sarcophagus",
+    "symbol": "SARCO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SARCO/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SARCO"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+    "name": "Synthetic Bitcoin",
+    "symbol": "sBTC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x298b9b95708152ff6968aafd889c6586e9169f1d/505fe21ba0b90cfdddf8079e46ed0993.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "sBTC"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x61ccfe71d8ee67780320b0d990A02D702d99C271",
+    "name": "Scamfari",
+    "symbol": "SCM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SCM/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SCM"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x64ba55a341ec586a4c5d58d6297cde5125ab55bc",
+    "name": "Scry Protocol",
+    "symbol": "SCRY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SCRY/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SCRY"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x2218a117083f5B482B0bB821d27056Ba9c04b1D3",
+    "name": "Savings Dai",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x7a5c3860a77a8dc1b225bd46d0fb2ac1c6d191bc/69f85d3ba8792213549c8260ed636fd7.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "sDAI"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xAe31207aC34423C41576Ff59BFB4E036150f9cF7",
+    "name": "Saddle DAO",
+    "symbol": "SDL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SDL/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SDL"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+    "name": "Synthetic Ether",
+    "symbol": "sETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xe405de8f52ba7559f9df3c368500b6e6ae6cee49/5a359c53d8d08132fbc6025c49ec5b19.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "sETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
+    "name": "Staked Frax Ether",
+    "symbol": "sfrxETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x484c2d6e3cdd945a8b2df735e079178c1036578c/b0802881acff20fd906a2e189a4ea882.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "sfrxETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xaF1d71BF947709315655514467D5158E5d3046D5",
+    "name": "Shutter Token",
+    "symbol": "SHU",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SHU"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xa6521C950B0aB5215337Dab84d65F4fFa7F6dF55",
+    "name": "Silo Governance Token",
+    "symbol": "Silo",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "Silo"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xb94944669f7967E16588E55Ac41Be0d5ef399DcD",
+    "name": "Sipher Token",
+    "symbol": "SIPHER",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SIPHER"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+    "name": "Synthetic Chainlink",
+    "symbol": "sLINK",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc5db22719a06418028a40a9b5e9a7c02959d0d08/2c51a53f0965c34055a18185bc5d6f5c.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "sLINK"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x8Eb99a441b04576282e9069977F6DE6053EF6a97",
+    "name": "Swarm Markets",
+    "symbol": "SMT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SMT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SMT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9",
+    "name": "SPANK",
+    "symbol": "SPANK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SPANK"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xe539298a99004a102E4B6997ef96e5137Be42Eab",
+    "name": "SpaceChainV2",
+    "symbol": "SPC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SPC/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SPC"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x0F5d45a7023612e9e244fe84FAc5fCf3740d1492",
+    "name": "Staked Lyra",
+    "symbol": "stkLYRA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/stkLYRA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "stkLYRA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xa925f4057d6E6C8FAf8bdE537Ad14BA91A1D0337",
+    "name": "Synth",
+    "symbol": "SYNTH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SYNTH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SYNTH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+    "name": "Optimistic Thales Token",
+    "symbol": "THALES",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x217d47011b23bb961eb6d93ca9945b7501a5bb11/0cc85ecb36d87b46ab7ce957e9b1bdd2.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "THALES"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xd8f365c2c85648f9b89d9f1bf72c0ae4b1c36cfd",
+    "name": "TheDAO",
+    "symbol": "TheDAO",
+    "decimals": 16,
+    "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TheDAO"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x3Eb398fEc5F7327C6b15099a9681d9568ded2e82",
+    "name": "Token Name Service",
+    "symbol": "TKN",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x3eb398fec5f7327c6b15099a9681d9568ded2e82/b0a1cabf0921c1d968ee5bd7f0430b76.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TKN"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xb1aE0a34DC3976d98C1741C92b798dAF8E0e1e11",
+    "name": "TRON",
+    "symbol": "TRX",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/TRX/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TRX"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xcb59a0a753fdb7491d5f3d794316f1ade197b21e/16efe1b0edfb28ae1cbef9491d525fa8.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "TUSD"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xbb586ed34974b15049a876fd5366a4c2d1203115",
+    "name": "Universal Basic Income",
+    "symbol": "UBI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UBI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "UBI"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xc709c9116dBf29Da9c25041b13a07A0e68aC5d2D",
+    "name": "Unlock Discount Token",
+    "symbol": "UDT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UDT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "UDT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/btt_token/logo_url/0xb602f26bf29b83e4e1595244000e0111a9d39f62/adcbebebf6959bfdfeb547fe76deb11a.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USDD"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "name": "Glo Dollar",
+    "symbol": "USDGLO",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usdglo.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "USDGLO"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+    "name": "USD+",
+    "symbol": "USD+",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x73cb180bf0521828d8849bc8cf2b920918e23032/58363c9095ed5998f48688b3c52c78c7.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "USDplus"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xBA28feb4b6A6b81e3F26F08b83a19E715C4294fd",
+    "name": "UST (Wormhole)",
+    "symbol": "UST",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/UST/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "UST"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
+    "name": "dForce USD",
+    "symbol": "USX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9/68e8517f8c1bfc5a95b84c8f76fd0b30.png",
+    "extensions": {
+      "optimismBridgeAddress": "0xc76cbFbAfD41761279E3EDb23Fd831Ccb74D5D67",
+      "opListId": "extended",
+      "opTokenId": "USX"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x0A9AAa1c7542b42233AC7FfdA364E97adE21f160",
+    "name": "Validator",
+    "symbol": "VALX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VALX/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VALX"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x678d8f4Ba8DFE6bad51796351824DcCECeAefF2B",
+    "name": "veKwenta",
+    "symbol": "veKWENTA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "veKWENTA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+    "name": "Velodrome",
+    "symbol": "VELO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/op_velodrome/91c9c0f782ba8b2faf88e29b31e724fc.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "VELO"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x7d14206c937e70e19e3a5b94011faf0d5b3928e2",
+    "name": "VitaDAO Token",
+    "symbol": "VITA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x7d14206c937e70e19e3a5b94011faf0d5b3928e2/483d86baf8d3b0da800cfc59b21218e9.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VITA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x888a88eb9de9401237dbf543EAaf4B90B6574261",
+    "name": "VesperToken",
+    "symbol": "VSP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VSP/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VSP"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x17B4f9dA9e06D395dB5de839E299Cf829469E7eF",
+    "name": "VUSD",
+    "symbol": "VUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VUSD/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VUSD"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x703D57164CA270b0B330A87FD159CfEF1490c0a5",
+    "name": "WardenSwap",
+    "symbol": "WAD",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WAD"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WCT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x346e03F8Cce9fE01dCB3d0Da3e9D00dC2c0E08f0",
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/weETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "weETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x163f8c2467924be0ae7b5347228cabf260318753/30ac094d49a4b6e7561810c16ddc8c69.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "WLD"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x96bBD55479e9923512dcc95Eb7Df5edDe6FB9874",
+    "name": "OpenX Optimism",
+    "symbol": "wOpenX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "wOpenX"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1f32b1c2345538c0c6f582fcb022739c4a194ebb/7e931af8cb34b6f5671ca2eb1b847849.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x8E01013243a96601a86eb3153F0d9Fa4fbFb6957",
+      "opListId": "default",
+      "opTokenId": "wstETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xdb4eA87fF83eB1c80b8976FC47731Da6a31D35e5",
+    "name": "wTBT(Bridge Token)",
+    "symbol": "wTBT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wTBT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "wTBT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xE4F27b04cC7729901876B44f4EAA5102EC150265",
+    "name": "CryptoFranc",
+    "symbol": "XCHF",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XCHF/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XCHF"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
+    "name": "MetalSwap",
+    "symbol": "XMT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XMT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XMT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33",
+    "name": "xZoomerCoin",
+    "symbol": "xZOOMER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZOOMER/logo.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "ZOOMER"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x4A36562d5D7074f8EE664922b320e066e67C2a24",
+    "name": "Zunami Governance Token",
+    "symbol": "ZUN",
+    "decimals": 18,
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ZUN"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x805B93d5ff318Cc054B46d6850aF12fEB55472d6",
+    "name": "Zunami ETH",
+    "symbol": "zunETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/zunETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "zunETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x93C3E0fa191141c957C2632752eC35C84d0C440a",
+    "name": "Zunami USD",
+    "symbol": "zunUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/zunUSD/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "zunUSD"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x6e4cc0Ab2B4d2eDAfa6723cFA1582229F1Dd1Be1",
+    "name": "Z.com USD",
+    "symbol": "ZUSD",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZUSD/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ZUSD"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
+    "name": "Exactly USD e Coin",
+    "symbol": "EXAUSDCE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/31175/thumb/ExaUSDC_1.png?1696530003"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
+    "name": "DexToro Pro",
+    "symbol": "DTORO",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1cef2d62af4cd26673c7416957cc4ec619a696a7/481ce0d22e4d9f2a09b61da8fbb32e98.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc5b001dc33727f8f26880b184090d3e252470d45",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc5b001dc33727f8f26880b184090d3e252470d45/eed6eed70dda941ad4d753b96e04c235.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
+    "name": "Staked Ethos Reserve Note",
+    "symbol": "STERN",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x3ee6107d9c93955acbb3f39871d32b02f82b78ab/64fa0a8306117622d708f0644d3d6ca1.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc3864f98f2a61a7caeb95b039d031b4e2f55e0e9",
+    "name": "OpenXSwap",
+    "symbol": "OPENX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc3864f98f2a61a7caeb95b039d031b4e2f55e0e9/21841ee57932afe41fd81cc298497fe4.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
+    "name": "Overnight Finance",
+    "symbol": "OVN",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e/2b1acacea067b3894469b6e41b7417df.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "name": "PoolTogether Prize USD Coin",
+    "symbol": "PUSDCE",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xe3b3a464ee575e8e25d2508918383b89c832f275/99799f396286445885872529e4320289.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404",
+    "name": "Kite",
+    "symbol": "KITE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404/aef89bf5b726da148fb6cd6b06a7c2ec.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a",
+    "name": "Magicaltux",
+    "symbol": "TUX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a/60c4eed65f7133e4a5135bbcf0d0146d.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
+    "name": "Overnight fi DAI ",
+    "symbol": "DAI+",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x970d50d09f3a656b43e11b0d45241a84e3a6e011/c83128ae40ae929220a910d128e89890.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb9243c495117343981ec9f8aa2abffee54396fc0",
+    "name": "Perpetual Delta Neutral Yield  Optimism",
+    "symbol": "USDPY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
+    "name": "PCM",
+    "symbol": "PCM",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3/1463cf3e9155241e7796b9ee32f408cb.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x139052115f8b1773cf7dcba6a553f922a2e54f69",
+    "name": "Nekocoin",
+    "symbol": "",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/50449/thumb/Token-160px.png?1727772379"
+  },
+  {
+    "chainId": 10,
+    "address": "0x8fc7c1109c08904160d6ae36482b79814d45eb78",
+    "name": "Token Engineering Commons",
+    "symbol": "TEC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18233/thumb/72481541.png?1696517730"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5df7abe3c51c01dcf6d1f1f9a0ab4dc3759869b9",
+    "name": "SoonChain",
+    "symbol": "SOONX",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x2513486f18eee1498d7b6281f668b955181dd0d9",
+    "name": "OpenXSwap Gov  Token",
+    "symbol": "XOPENX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x2513486f18eee1498d7b6281f668b955181dd0d9/091e8d969d9cd2025a0955a57e1e95c6.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xfa436399d0458dbe8ab890c3441256e3e09022a8",
+    "name": "ZipSwap",
+    "symbol": "ZIP",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xfa436399d0458dbe8ab890c3441256e3e09022a8/20df8c6ebecec5fb7ff330a4f2a0b700.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+    "name": "Aave v3 OP",
+    "symbol": "AOP",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff/827c5d178104c2426612f773e37fd2b2.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc26921b5b9ee80773774d36c84328ccb22c3a819",
+    "name": "Wrapped OptiDoge",
+    "symbol": "WOPTIDOGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31066/thumb/Wrapped_OptiDoge_logo_200x200px_.png?1696529900"
+  },
+  {
+    "chainId": 10,
+    "address": "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f",
+    "name": "Exactly Wrapped stETH",
+    "symbol": "EXAWSTETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31172/thumb/ExawstETH_1.png?1696530000"
+  },
+  {
+    "chainId": 10,
+    "address": "0x10b3667304130ecc9c972008459249e8141ced97",
+    "name": "Aktionariat Clever Forever Education AG",
+    "symbol": "CFES",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33365/thumb/CFES.png?1701613582"
+  },
+  {
+    "chainId": 10,
+    "address": "0xa430a427bd00210506589906a71b54d6c256cedb",
+    "name": "Exactly Optimism",
+    "symbol": "EXAOP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31173/thumb/ExaOP_1.png?1696530001"
+  },
+  {
+    "chainId": 10,
+    "address": "0x96d17e1301b31556e5e263389583a9331e6749e9",
+    "name": "RillaFi",
+    "symbol": "RILLA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29193/thumb/output-onlinepngtools.png?1696528152"
+  },
+  {
+    "chainId": 10,
+    "address": "0xa72f7df6c1454096387dbb74f70b3dac4f0a61f5",
+    "name": "Aktionariat Carnault AG Tokenized Share",
+    "symbol": "CAS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33334/thumb/CAS.png?1701519269"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5ad323d764301e057614edb0449f470d68ea9485",
+    "name": "Aktionariat SIA Swiss Influencer Award ",
+    "symbol": "SIAS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33373/thumb/SIA.png?1701649606"
+  },
+  {
+    "chainId": 10,
+    "address": "0xf8e943f646816e4b51279b8934753821ed832dca",
+    "name": "Cthulhu Finance",
+    "symbol": "CTH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29487/thumb/logo200.png?1696528431"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0d82b5d3a8420c285c6d353a6bdc30d164bb50f0",
+    "name": "Aktionariat Sportsparadise Switzerland ",
+    "symbol": "SPOS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33391/thumb/SPOS.png?1701680250"
+  },
+  {
+    "chainId": 10,
+    "address": "0x8fb94e08bc984497aaaf1a545ed455be89f8c675",
+    "name": "Aktionariat TV PLUS AG Tokenized Shares",
+    "symbol": "TVPLS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33375/thumb/TVPLS.png?1701649948"
+  },
+  {
+    "chainId": 10,
+    "address": "0xed9b52e6d2df4ad9fc258254e1e5ef5ad0b3ca3c",
+    "name": "Aktionariat Fieldoo AG Tokenized Shares",
+    "symbol": "FDOS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33392/thumb/FDOS.png?1701680368"
+  },
+  {
+    "chainId": 10,
+    "address": "0x29cb69d4780b53c1e5cd4d2b817142d2e9890715",
+    "name": "PoolTogether Prize WETH   Aave",
+    "symbol": "PWETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x29cb69d4780b53c1e5cd4d2b817142d2e9890715/4f2a4aa8dcf2221c9c409d9c1c045d18.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x071682832d213638f8eda67a873262e581a4006d",
+    "name": "Aktionariat Vereign AG Tokenized Shares",
+    "symbol": "VRGNS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33364/thumb/VRGNS.png?1701613337"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe64b4eb5eec6343887c4683da31f0ca62ea39ce3",
+    "name": "Aktionariat BEE Digital Growth AG Token",
+    "symbol": "BEES",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33367/thumb/BEES.png?1701613820"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc02b55bb2fe3643e1955b13515396ce23b110f80",
+    "name": "Aktionariat Axelra Early Stage AG Token",
+    "symbol": "AXRAS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33333/thumb/AXRAS.png?1701519079"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd6c67ff71a82f1d994d94fa01295467d273d7324",
+    "name": "Aktionariat DDC Schweiz AG Tokenized Sh",
+    "symbol": "DDCS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33354/thumb/DDC.png?1701563532"
+  },
+  {
+    "chainId": 10,
+    "address": "0x065399a1e5522af1c9044c18ce60ec70d64d74a1",
+    "name": "Aktionariat Finelli Studios AG Tokenize",
+    "symbol": "FNLS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33374/thumb/FNL.png?1701649817"
+  },
+  {
+    "chainId": 10,
+    "address": "0x6f748fd65d7c71949ba6641b3248c4c191f3b322",
+    "name": "Exactly WBTC",
+    "symbol": "EXAWBTC",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+    "name": "MAI  Optimism ",
+    "symbol": "MIMATIC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xa3fa99a148fa48d14ed51d610c367c61876997f1/be77e8e47016b1e9d3f01b7edc9b8d4f.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xdc8840a0a1ebf8be5ace62a7d9360dfcb26adffc",
+    "name": "HappyAI",
+    "symbol": "SMILEAI",
+    "decimals": 13,
+    "logoURI": "https://assets.coingecko.com/coins/images/34824/thumb/smileai.jpg?1706189986"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4b03afc91295ed778320c2824bad5eb5a1d852dd",
+    "name": "NBL",
+    "symbol": "NBL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34811/thumb/%E6%88%AA%E5%9B%BE-%E5%A4%A7.png?1706122685"
+  },
+  {
+    "chainId": 10,
+    "address": "0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d",
+    "name": "LERNITAS",
+    "symbol": "2192",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36240/thumb/lernitas.jpg?1710920218"
+  },
+  {
+    "chainId": 10,
+    "address": "0x48a9f8b4b65a55cc46ea557a610acf227454ab09",
+    "name": "OP Chads",
+    "symbol": "OPC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36580/thumb/smol.png?1711944400"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd9cc3d70e730503e7f28c1b407389198c4b75fa2",
+    "name": "TLX",
+    "symbol": "TLX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xd9cc3d70e730503e7f28c1b407389198c4b75fa2/c29ef6c516035c122df575ef4c0e65ef.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb153fb3d196a8eb25522705560ac152eeec57901",
+    "name": "Magic Internet Money  Optimism ",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xb153fb3d196a8eb25522705560ac152eeec57901/95c3c6e088933acaf8edf11631c2253a.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb5090d514bcaca7dafb7e52763658844121f346d",
+    "name": "Binary Holdings",
+    "symbol": "BNRY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37521/thumb/Vector-1.png?1714634222"
+  },
+  {
+    "chainId": 10,
+    "address": "0x95ec2f13ea96251c7037ecc0c2a25ea7d6be520b",
+    "name": "WILDCOIN",
+    "symbol": "WILDCOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39219/thumb/logo.png?1721109363"
+  },
+  {
+    "chainId": 10,
+    "address": "0xfe5b10f053871e66a319a57a16cf4e709f51367f",
+    "name": "OVERPOWERED",
+    "symbol": "OVERPOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38180/thumb/overpowered.png?1716788158"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+    "name": "KelpDAO Bridged rsETH  Optimism ",
+    "symbol": "RSETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7/9b29efed86aff5a64f238d6d30032f40.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x3925f9820c312d968644f12ebd314c13558a7c05",
+    "name": "Masks",
+    "symbol": "MASKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39684/thumb/undefined_-_Imgur.png?1723657352"
+  },
+  {
+    "chainId": 10,
+    "address": "0x6926b434cce9b5b7966ae1bfeef6d0a7dcf3a8bb",
+    "name": "Exactly USD Coin",
+    "symbol": "EXAUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/50240/thumb/exaUSDC.png?1726676118"
+  },
+  {
+    "chainId": 10,
+    "address": "0x10398abc267496e49106b07dd6be13364d10dc71",
+    "name": "Let s Get HAI",
+    "symbol": "HAI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x10398abc267496e49106b07dd6be13364d10dc71/a79947b52d0330dff1c7bfa19007c4a6.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97",
+    "name": "Aave v3 sUSD",
+    "symbol": "ASUSD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97/cbd92d5e0358bb3d11db3547e3e05c3e.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
+    "name": "Defi money",
+    "symbol": "MONEY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39230/thumb/Token_2x-1.png?1725438128"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc4d4500326981eacd020e20a81b1c479c161c7ef",
+    "name": "Exactly Wrapped Ether",
+    "symbol": "EXAWETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc4d4500326981eacd020e20a81b1c479c161c7ef/ec280e74d6bac8e377a8a2434c3ea403.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
+    "name": "Sonne Finance",
+    "symbol": "SONNE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1db2466d9f5e10d7090e7152b68d62703a2245f0/cd951d40f654f67f7643802c281ce8a0.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd42fe55e8a43b546aa75fda6483073be1d7ef74c",
+    "name": "NEROX AI",
+    "symbol": "NEROX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52477/thumb/NEROX-AI.png?1733424883"
+  },
+  {
+    "chainId": 10,
+    "address": "0x920cf626a271321c151d027030d5d08af699456b",
+    "name": "Kwenta",
+    "symbol": "KWENTA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x920cf626a271321c151d027030d5d08af699456b/3c3b5523f2c279ed9c6a465e26627d4a.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x9a601c5bb360811d96a23689066af316a30c3027",
+    "name": "Pika Protocol",
+    "symbol": "PIKA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x9a601c5bb360811d96a23689066af316a30c3027/070ca47089a1e968dc7f3d2b2851759c.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1e925de1c68ef83bd98ee3e130ef14a50309c01b",
+    "name": "Exactly Token",
+    "symbol": "EXA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1e925de1c68ef83bd98ee3e130ef14a50309c01b/9e1509f0b8052333cd80efc4b7c1a80c.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
+    "name": "Extra Finance",
+    "symbol": "EXTRA",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x2dad3a13ef0c6366220f989157009e501e7938f8/919c2b8c7259a4fc20b96302ce94d20c.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x25193034153afb4251a8e02a8db0deaef4c876f6",
+    "name": "Zunami Governance Token",
+    "symbol": "ZUN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38298/thumb/ZUN_200x200.png?1717194404"
+  },
+  {
+    "chainId": 10,
+    "address": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
+    "name": "Nya",
+    "symbol": "NYA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40082/thumb/nya.jpg?1725523655"
+  },
+  {
+    "chainId": 10,
+    "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+    "name": "Wrapped USDM",
+    "symbol": "WUSDM",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x57f5e098cad7a3d1eed53991d4d66c45c9af7812/1de546037bee94e4bc8cad6ee76e3474.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x50549be7e21c3dc0db03c3abab83e1a78d07e6e0",
+    "name": "Ionic USD Coin",
+    "symbol": "IONUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39224/thumb/ionUSDC.png?1721184505"
+  },
+  {
+    "chainId": 10,
+    "address": "0x2d691c2492e056adcae7ca317569af25910fc4cb",
+    "name": "Zunami ETH",
+    "symbol": "ZUNETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37835/thumb/zunETH_200x200.png?1715741123"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb2918350826c1fb3c8b25a553b5d49611698206f",
+    "name": "Ionic Tether USD",
+    "symbol": "IONUSDT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39225/thumb/ionUSDT.png?1721184701"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1d01aae6ef5d13406fdabab0e6c12fb862e342c5",
+    "name": "Dackie USD",
+    "symbol": "DCKUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39966/thumb/dackie_usd_circle.png?1734941381"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+    "name": "Ankr Staked ETH",
+    "symbol": "ANKRETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13403/thumb/aETHc.png?1696513165"
+  },
+  {
+    "chainId": 10,
+    "address": "0x33800de7e817a70a694f31476313a7c572bba100",
+    "name": "Derive",
+    "symbol": "DRV",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x33800de7e817a70a694f31476313a7c572bba100/efa05e8ddee922d6812104e0b12b8c8f.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xf7dc37493e2e375dfdebec75e71d555af68648bf",
+    "name": "UTU Coin",
+    "symbol": "UTU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12831/thumb/Aa5nmbkJ_400x400.png?1696512622"
+  },
+  {
+    "chainId": 10,
+    "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+    "name": "Axelar Bridged Frax Ether",
+    "symbol": "AXLFRXETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x887d1c6a4f3548279c2a8a9d0fa61b5d458d14fc",
+    "name": "Ionic Protocol",
+    "symbol": "ION",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x887d1c6a4f3548279c2a8a9d0fa61b5d458d14fc/a6a77f2ad6cb7644b481abaa34d784b8.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x87eee96d50fb761ad85b1c982d28a042169d61b1",
+    "name": "Wrapped rsETH",
+    "symbol": "WRSETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd/570bd8c5a7c151124d71d35ccbfaaefb.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca",
+    "name": "DackieSwap  OLD ",
+    "symbol": "DACKIE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/base_token/logo_url/0xc2bc7a73613b9bd5f373fe10b55c59a69f4d617b/5a8e65e3cd61fce46407f5da8f77c186.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc6bdfc4f2e90196738873e824a9efa03f7c64176",
+    "name": "ViciCoin",
+    "symbol": "VCNT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc6bdfc4f2e90196738873e824a9efa03f7c64176/d529da8e168b5ccd4ce333179d7650f7.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5f5292fe4583f476ab90fbf247999816a9503f9e",
+    "name": "Seamoon Protocol",
+    "symbol": "SMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39885/thumb/SMP_Logo.png?1724647800"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4a971e87ad1f61f7f3081645f52a99277ae917cf",
+    "name": "Venus",
+    "symbol": "XVS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12677/thumb/XVS_Token.jpg?1727454303"
+  },
+  {
+    "chainId": 10,
+    "address": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
+    "name": "Osaka Protocol",
+    "symbol": "OSAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30911/thumb/OSAK_LOGO_200x200.png?1723662197"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb4357054c3da8d46ed642383f03139ac7f090343",
+    "name": "Port3 Network",
+    "symbol": "PORT3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33383/thumb/port3-bc-200x200.png?1710075114"
+  },
+  {
+    "chainId": 10,
+    "address": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
+    "name": "Unitus",
+    "symbol": "UTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33178/thumb/IMG_0051.jpeg?1700924333"
+  },
+  {
+    "chainId": 10,
+    "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+    "name": "tBTC",
+    "symbol": "TBTC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40/81d0f366026c3480d25d3c1dfa5b60d3.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1f514a61bcde34f94bc39731235690ab9da737f7",
+    "name": "Tarot",
+    "symbol": "TAROT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1f514a61bcde34f94bc39731235690ab9da737f7/279c43a0188f1a56de7921e454091a52.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/28913/thumb/euroe-200x200-round.png?1696527889"
+  },
+  {
+    "chainId": 10,
+    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
+    "name": "Aave v3 USDC",
+    "symbol": "AUSDC",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x625e7708f30ca75bfd92586e17077590c60eb4cd/edbff4857cf186c17bfdac67f2b0e6b1.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "name": "Wagmi",
+    "symbol": "WAGMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31887/thumb/wagmi_token_logo.png?1696530698"
+  },
+  {
+    "chainId": 10,
+    "address": "0x9fd22a17b4a96da3f83797d122172c450381fb88",
+    "name": "Jefe",
+    "symbol": "JEFE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/25336/thumb/JEFE_200.png?1696524470"
+  },
+  {
+    "chainId": 10,
+    "address": "0x8413041a7702603d9d991f2c4add29e4e8a241f8",
+    "name": "Router Protocol  OLD ",
+    "symbol": "ROUTE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13709/thumb/router.jpg?1722424977"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "name": "Aave v3 WETH",
+    "symbol": "AWETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8/a27c1def8d782e2f73f2cad6b752406f.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe453d6649643f1f460c371dc3d1da98f7922fe51",
+    "name": "Fuse",
+    "symbol": "FUSE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xe453d6649643f1f460c371dc3d1da98f7922fe51/b9fe0bbfeccc43ac46bc652752e25532.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xa3b615667cbd33cfc69843bf11fbb2a1d926bd46",
+    "name": "mPendle",
+    "symbol": "MPENDLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31918/thumb/mPendle.png?1696530726"
+  },
+  {
+    "chainId": 10,
+    "address": "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4",
+    "name": "Bridged Wrapped stETH  Axelar ",
+    "symbol": "AXL-WSTETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x9cfb13e6c11054ac9fcb92ba89644f30775436e4/3ed3fa1a236f1995f16a080b65f35b73.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861",
+    "name": "Ankr Network",
+    "symbol": "ANKR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1696504928"
+  },
+  {
+    "chainId": 10,
+    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
+    "name": "Aave v3 WBTC",
+    "symbol": "AWBTC",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x078f358208685046a11c85e8ad32895ded33a249/80e30115091d5d88e26d9274e2d09e30.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x323665443cef804a3b5206103304bd4872ea4253",
+    "name": "Verified USD",
+    "symbol": "USDV",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x323665443cef804a3b5206103304bd4872ea4253/65be2a80233d0791601d1965032c233f.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "name": "Aave v3 USDT",
+    "symbol": "AUSDT",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6ab707aca953edaefbc4fd23ba73294241490620/057271a3c3a18b2776a0bf6baf0cfe0b.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "name": "Mountain Protocol USD",
+    "symbol": "USDM",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x59d9356e565ab3a36dd77763fc0d87feaf85508c/6e122ee67d9ebb97f7f3e2b57bc676bb.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
+    "name": "Aave v3 rETH",
+    "symbol": "ARETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x724dc807b04555b71ed48a6896b6f41593b8c637/e378fb8297c06556f3a177a121b07e83.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "name": "Aave v3 DAI",
+    "symbol": "ADAI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee/5e56ea1139b85c381144fbb5dd15d06d.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
+    "name": "Aave v3 AAVE",
+    "symbol": "AAAVE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xf329e36c7bf6e5e86ce2150875a84ce77f477375/ebbf4d1c1de18982d8573dbe1994cba8.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
+    "name": "Aave v3 LINK",
+    "symbol": "ALINK",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x191c10aa4af7c30e871e70c95db0e4eb77237530/048393d32b2941d475463a9f9a9c1596.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc45a479877e1e9dfe9fcd4056c699575a1045daa",
+    "name": "Aave v3 wstETH",
+    "symbol": "AWSTETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc45a479877e1e9dfe9fcd4056c699575a1045daa/0c42c856a8a66982e348ed4a919aed6e.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x35b5a3bf31b67f832230da9424824edc9f7ad98c",
+    "name": "Phemex Token",
+    "symbol": "PT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33314/thumb/phemex_logo.png?1701959611"
+  },
+  {
+    "chainId": 10,
+    "address": "0x8eb270e296023e9d92081fdf967ddd7878724424",
+    "name": "Aave v3 LUSD",
+    "symbol": "ALUSD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x8eb270e296023e9d92081fdf967ddd7878724424/22ad8d5c8906b15dc622eec9cb8512f3.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb829b68f57cc546da7e5806a929e53be32a4625d",
+    "name": "Axelar Wrapped Ether",
+    "symbol": "AXLETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/weth-wei_D_3x.png?1696527174"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb0ae108669ceb86e9e98e8fe9e40d98b867855fd",
+    "name": "OneRing",
+    "symbol": "RING",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23273/thumb/ring.png?1696522493"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
+    "name": "Okcash",
+    "symbol": "OK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/274/thumb/ok-logo-200px.png?1696501624"
+  },
+  {
+    "chainId": 10,
+    "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+    "name": "Fantom Bomb",
+    "symbol": "BOMB",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979/1a2556a9965b8afa4f97b6fdf5029f1e.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x15e770b95edd73fd96b02ece0266247d50895e76",
+    "name": "Jarvis Reward",
+    "symbol": "JRT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/10390/thumb/cfeii0y.png?1696510389"
+  },
+  {
+    "chainId": 10,
+    "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
+    "name": "Bridged Tether  Axelar ",
+    "symbol": "AXLUSDT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/31002/thumb/uusdt_D_3x.png?1696529840"
+  },
+  {
+    "chainId": 10,
+    "address": "0x47536f17f4ff30e64a96a7555826b8f9e66ec468",
+    "name": "Navigator Exchange",
+    "symbol": "NAVI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28547/thumb/navi.jpg?1736302094"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5c0ea461fe5e6f3b4f90a071e72243c14c6abfd7",
+    "name": "Amulet Protocol",
+    "symbol": "AMU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/34716/thumb/AMT200x200.png?1705904544"
+  },
+  {
+    "chainId": 10,
+    "address": "0xfd389dc9533717239856190f42475d3f263a270d",
+    "name": "Granary",
+    "symbol": "GRAIN",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xfd389dc9533717239856190f42475d3f263a270d/f8f2be72e32de1effa39b757e330b76f.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+    "name": "USDA",
+    "symbol": "USDA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8",
+    "name": "Persistence One",
+    "symbol": "XPRT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/14582/thumb/Download%28black_Dark%29.png?1723470571"
+  },
+  {
+    "chainId": 10,
+    "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456",
+    "name": "Reunit Wallet",
+    "symbol": "REUNI",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x9ed7e4b1bff939ad473da5e7a218c771d1569456/0a8654e5a85cfa8d86f0b025d49fa3ff.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1",
+    "name": "Molten",
+    "symbol": "MOLTEN",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1/425a6d7df56e3eb4b61a6294c746b34d.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "name": "Axelar Bridged USDC",
+    "symbol": "AXLUSDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xf899e3909b4492859d44260e1de41a9e663e70f5",
+    "name": "RadioShack",
+    "symbol": "RADIO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25307/thumb/ZVoPiysPJq6dPIZm_Se-6vjmsBepwhHlTQfdYZRILbHyVVTRUYCO-wmJJ4zT10HXCGv1j-ZyWr2u2sBaVlap5Y-ILqeXZuIquWdBDxxG0E0qDpgH7omLqYdgWWLSM_TUK9d1PiiYdu6bERdCDaucgFjlqwmhVQK4uV4jyUiXzchVUnu8Qt6SnxlNxz88G0mQ_tfiwkFv_vKqtgb1CcPycVZVz9.jpg?1696524444"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5a5fff6f753d7c11a56a52fe47a177a87e431655",
+    "name": "Synapse",
+    "symbol": "SYN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18024/thumb/synapse_social_icon.png?1696517540"
+  },
+  {
+    "chainId": 10,
+    "address": "0x375488f097176507e39b9653b88fdc52cde736bf",
+    "name": "Tarot V1",
+    "symbol": "TAROT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x375488f097176507e39b9653b88fdc52cde736bf/279c43a0188f1a56de7921e454091a52.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+    "name": "O3 Swap",
+    "symbol": "O3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15460/thumb/o3.png?1696515107"
+  },
+  {
+    "chainId": 10,
+    "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+    "name": "Hundred Finance",
+    "symbol": "HND",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x10010078a54396f62c96df8532dc2b4847d47ed3/cae168ae659748f245f0d57b76521952.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x764a726d9ced0433a8d7643335919deb03a9a935",
+    "name": "Pocket Network",
+    "symbol": "POKT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/22506/thumb/POKT.jpg?1703257310"
+  },
+  {
+    "chainId": 10,
+    "address": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97",
+    "name": "Stargate Finance",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x296f55f8fb28e498b858d0bcda06d955b2cb3f97/3e78cc5b8a3f077a619a7ce556b41b25.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc04fb38f10ad352c5f16bd4546f7456e7f1a2d9e",
+    "name": "Minato",
+    "symbol": "MNTO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24622/thumb/MNTO_200x200.png?1696523794"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
+    "name": "Roobee",
+    "symbol": "ROOBEE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/8791/thumb/Group_11.png?1696508946"
+  },
+  {
+    "chainId": 10,
+    "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
+    "name": "Iron Bank",
+    "symbol": "IB",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x00a35fd824c717879bf370e70ac6868b95870dfb/8dbda79e0b09620fe809d979a7f1466c.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a",
+    "name": "Alchemix USD",
+    "symbol": "ALUSD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a/b41c3a90ad538a58a28c9fd6e979e2e9.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb5c457ddb4ce3312a6c5a2b056a1652bd542a208",
+    "name": "OMNI404",
+    "symbol": "O404",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35196/thumb/O404.jpg?1707839531"
+  },
+  {
+    "chainId": 10,
+    "address": "0x14778860e937f509e651192a90589de711fb88a9",
+    "name": "CYBER",
+    "symbol": "CYBER",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x14778860e937f509e651192a90589de711fb88a9/d734351e9b0d18c1a177454a75f3faf3.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x28b42698caf46b4b012cf38b6c75867e0762186d",
+    "name": "UniDex",
+    "symbol": "UNIDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13178/thumb/unidx.png?1696512961"
+  },
+  {
+    "chainId": 10,
+    "address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
+    "name": "Everclear",
+    "symbol": "NEXT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31293/thumb/photo_2024-06-03_12-14-59.png?1717638614"
+  },
+  {
+    "chainId": 10,
+    "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x467719ad09025fcc6cf6f8311755809d45a5e5f3/41180471c6922ea4cb57584478330418.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+    "name": "BetSwirl",
+    "symbol": "BETS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb396b31599333739a97951b74652c117be86ee1d",
+    "name": "Davos xyz USD",
+    "symbol": "DUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28775/thumb/dusd_logo_200x200.png?1696527754"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc03b43d492d904406db2d7d57e67c7e8234ba752",
+    "name": "Wrapped USDR",
+    "symbol": "WUSDR",
+    "decimals": 9,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc03b43d492d904406db2d7d57e67c7e8234ba752/c2524c9f38607e4862733fb51a2af417.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0",
+    "name": "Beethoven X",
+    "symbol": "BEETS",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0/744d4f1e39e1279ae9c403d20b04da89.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe4de4b87345815c71aa843ea4841bcdc682637bb",
+    "name": "BUILD",
+    "symbol": "BUILD",
+    "decimals": 4,
+    "logoURI": "https://assets.coingecko.com/coins/images/26533/thumb/BUILD.png?1696525607"
+  },
+  {
+    "chainId": 10,
+    "address": "0x42069d11a2cc72388a2e06210921e839cfbd3280",
+    "name": "GnomeLand",
+    "symbol": "GNOME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35201/thumb/logopng.png?1707841763"
+  },
+  {
+    "chainId": 10,
+    "address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
+    "name": "Interport Token",
+    "symbol": "ITP",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31/63a7b04f3ae71cecb9385976aa05dde3.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x2598c30330d5771ae9f983979209486ae26de875",
+    "name": "Any Inu",
+    "symbol": "AI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34126/thumb/anyinulogo200.png?1704174269"
+  },
+  {
+    "chainId": 10,
+    "address": "0x023550adde4fa2f90d63a41d9282bee0294c04cd",
+    "name": "pSTAKE Finance",
+    "symbol": "PSTAKE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23931/thumb/512_x_512_Dark.png?1721243699"
+  },
+  {
+    "chainId": 10,
+    "address": "0x248f43b622ce2f35a14db3fc528284730b619cd5",
+    "name": "Spectra",
+    "symbol": "SPECTRA",
+    "decimals": 14,
+    "logoURI": "https://assets.coingecko.com/coins/images/52854/thumb/spectra.jpg?1734517434"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1574564fcfd15bccb3fe04e9818f61131ea74066",
+    "name": "Jarvis",
+    "symbol": "JARVIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35812/thumb/jarvis.png?1709873633"
+  },
+  {
+    "chainId": 10,
+    "address": "0xbc1735d65290a25b4bc964378828a2a57e33d03d",
+    "name": "impactMarket  OLD ",
+    "symbol": "PACT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21907/thumb/PACT_Token_Ticker_Blue_2x.png?1696521258"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+    "name": "Orderly Network",
+    "symbol": "ORDER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc55e93c62874d8100dbd2dfe307edc1036ad5434",
+    "name": "Staked BIFI",
+    "symbol": "MOOBIFI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc55e93c62874d8100dbd2dfe307edc1036ad5434/cb80285e5163560bbe9ad455abae2794.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x67631ff69130ea1a6c4feaa4a0abf0a1e0148be7",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1f444e9fb735b2438bee3b841efea060d235abf1",
+    "name": "Opulous",
+    "symbol": "OPUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16548/thumb/opulous.PNG?1696516110"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe3c332a5dce0e1d9bc2cc72a68437790570c28a4",
+    "name": "BLOCKv",
+    "symbol": "VEE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/1266/thumb/blockv.png?1696502339"
+  },
+  {
+    "chainId": 10,
+    "address": "0x8f69ee043d52161fd29137aedf63f5e70cd504d5",
+    "name": "Own The Doge",
+    "symbol": "DOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18111/thumb/Doge.png?1696517615"
+  },
+  {
+    "chainId": 10,
+    "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "name": "Universal BTC",
+    "symbol": "UNIBTC",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x93919784c523f39cacaa98ee0a9d96c3f32b593e/3adc425af3410e7c7cedb1ce4f777eda.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa",
+    "name": "Quack Token",
+    "symbol": "QUACK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31436/thumb/0x639C0D019C257966C4907bD4E68E3F349bB58109.png?1696530251"
+  },
+  {
+    "chainId": 10,
+    "address": "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98",
+    "name": "Kraken Wrapped BTC",
+    "symbol": "KBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/50879/thumb/kBTC.png?1730321084"
+  },
+  {
+    "chainId": 10,
+    "address": "0x000000000000012def132e61759048be5b5c6033",
+    "name": "Cortex",
+    "symbol": "CX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53285/thumb/CX_Round.png?1735994730"
+  },
+  {
+    "chainId": 10,
+    "address": "0x00e1724885473b63bce08a9f0a52f35b0979e35a",
+    "name": "OATH",
+    "symbol": "OATH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24075/thumb/OATH.png?1698051304"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe2dca969624795985f2f083bcd0b674337ba130a",
+    "name": "Saakuru",
+    "symbol": "SKR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37058/thumb/saakuru.jpeg?1713172376"
+  },
+  {
+    "chainId": 10,
+    "address": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
+    "name": "Savings USX",
+    "symbol": "SUSX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39895/thumb/IMG_7024.png?1724724019"
+  },
+  {
+    "chainId": 10,
+    "address": "0x3b2a34c8a085a6ca425ea64192d9f3a0b5dfb397",
+    "name": "ZAI Stablecoin",
+    "symbol": "ZAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588"
+  },
+  {
+    "chainId": 10,
+    "address": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
+    "name": "Liquity BOLD",
+    "symbol": "BOLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53755/thumb/BOLD_logo.png?1737183873"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d",
+    "name": "Inception Restaked ETH",
+    "symbol": "INETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34127/thumb/inETH.png?1715036464"
+  },
+  {
+    "chainId": 10,
+    "address": "0xddf7d080c82b8048baae54e376a3406572429b4e",
+    "name": "GODDOG",
+    "symbol": "OOOOOO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38157/thumb/Goddog_logo_for_Coingecko_200x200.png?1716669510"
+  },
+  {
+    "chainId": 10,
+    "address": "0xea50f402653c41cadbafd1f788341db7b7f37816",
+    "name": "sGYD",
+    "symbol": "SGYD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51171/thumb/sGYD_Logo_Large.png?1730268578"
+  },
+  {
+    "chainId": 10,
+    "address": "0xdc30b3bde2734a0bc55af01b38943ef04aacb423",
+    "name": "Zunami USD",
+    "symbol": "ZUNUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37809/thumb/zunUSD_200x200.png?1715591997"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1d1498166ddceee616a6d99868e1e0677300056f",
+    "name": "Space Token",
+    "symbol": "SPACE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1d1498166ddceee616a6d99868e1e0677300056f/9321d6638fa1fe316e6a6436e8d49685.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "name": "Gyroscope GYD",
+    "symbol": "GYD",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x80137510979822322193fc997d400d5a6c747bf7",
+    "name": "StakeStone ETH",
+    "symbol": "STONE",
+    "decimals": 17,
+    "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672"
+  },
+  {
+    "chainId": 10,
+    "address": "0x6c511dc18572d31c2c3f7b1505cb2bbc08282fcc",
+    "name": "Aipocalypto",
+    "symbol": "AIPO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51400/thumb/aipo.png?1731084580"
+  },
+  {
+    "chainId": 10,
+    "address": "0x2dd1b4d4548accea497050619965f91f78b3b532",
+    "name": "Staked FRAX",
+    "symbol": "SFRAX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32/8cbe4b8bd9d4501a2f93b28a90f58dea.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd08c3f25862077056cb1b710937576af899a4959",
+    "name": "Inception stETH",
+    "symbol": "INSTETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34954/thumb/Group_14.png?1706773546"
+  },
+  {
+    "chainId": 10,
+    "address": "0x51707dc661630f8fd624b985fa6ef4f1d4d919db",
+    "name": "Unvest",
+    "symbol": "UNV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18119/thumb/UNV.jpg?1696517622"
+  },
+  {
+    "chainId": 10,
+    "address": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "name": "Yel Finance",
+    "symbol": "YEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17429/thumb/Logo200.png?1696516976"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd52f94df742a6f4b4c8b033369fe13a41782bf44",
+    "name": "Layer2DAO",
+    "symbol": "L2DAO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23699/thumb/Khp7Y4Sn.png?1696522900"
+  },
+  {
+    "chainId": 10,
+    "address": "0xaec9e50e3397f9ddc635c6c429c8c7eca418a143",
+    "name": "Arcana arcUSD",
+    "symbol": "ARCUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38490/thumb/USDa.png?1717688209"
+  },
+  {
+    "chainId": 10,
+    "address": "0x135c78d7f52aab6e9f17bcf4a9e8627aa233d050",
+    "name": "BOO",
+    "symbol": "BOO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34234/thumb/boo_coin_%28200%29.png?1704306085"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc4a65a93dd6cd9717551ebe827e8baee025d1d7e",
+    "name": "Penpie",
+    "symbol": "PNP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30760/thumb/PNP_Token.png?1696529629"
+  },
+  {
+    "chainId": 10,
+    "address": "0xa6ae8f29e0031340ea5dbe11c2da4466cde34464",
+    "name": "Davos Protocol Staked DUSD",
+    "symbol": "SDUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37909/thumb/image_%281%29.png?1715934988"
+  },
+  {
+    "chainId": 10,
+    "address": "0xbcb49fcb41899e31e442a4d7439964966e0c9b28",
+    "name": "Smart Layer Network",
+    "symbol": "SLN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35397/thumb/sln.jpeg?1708488815"
+  },
+  {
+    "chainId": 10,
+    "address": "0xdd462e9399624dfcf73018793bd50a7ef47940b9",
+    "name": "Meeds DAO",
+    "symbol": "MEED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24281/thumb/s-YfFWYu_400x400.png?1696523464"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5eAA326fB2fc97fAcCe6A79A304876daD0F2e96c",
+    "name": "Dimo",
+    "symbol": "DIMO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DIMO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DIMO"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x895e15020c3f52ddd4d8e9514eb83c39f53b1579",
+    "name": "YieldFi yToken",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/IMG_2188.jpeg?1736873763"
+  },
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "chainId": 10,
+    "decimals": 18,
+    "symbol": "ETH",
+    "name": "Ether",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+    "tags": [
+      "NATIVE",
+      "FEATURED",
+      "POPULAR",
+      "VERIFIED",
+      "TRADE_VOLUME"
+    ]
+  },
+  {
+    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "chainId": 10,
+    "decimals": 18,
+    "symbol": "ELK",
+    "name": "Elk",
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee/23d3a03567a8e42a6d5981aaf17799fc.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd336c74b840f9962cf2c666f8666d6d61ec24440",
+    "name": "Balanced",
+    "symbol": "BALN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1696514953"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0ce45dd53affbb011884ef1866e0738f58ab7969",
+    "name": "cgETH Hashkey Cloud",
+    "symbol": "CGETHHASHKEY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54162/thumb/Cgeth_Hashkey.png?1738482570"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1792865d493fe4dfdd504010d3c0f6da11e8046d",
+    "name": "clBTC",
+    "symbol": "CLBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999"
+  },
+  {
+    "chainId": 10,
+    "address": "0x2ed6222cb75e353b8789bec7bb443b7ec9022021",
+    "name": "KRYLL",
+    "symbol": "KRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2807/thumb/krl-ticker_%282%29.png?1716353733"
+  },
+  {
+    "chainId": 10,
+    "address": "0xEB528F54676dC39e8D62EEc1d4C1AFB25c1b9bB1",
+    "name": "Darwinia Commitment xKTON",
+    "symbol": "xKTON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XKTON/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XKTON"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x5ac3F9EDB4896DB1EdC0EF9d91421e740083e6e8",
+    "name": "Darwinia Network xRING",
+    "symbol": "xRING",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XRING/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XRING"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xa1cdab15bba75a80df4089cafba013e376957cf5",
+    "name": "BlackRock USD Institutional Digital Liq",
+    "symbol": "BUIDL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/36291/thumb/blackrock.png?1711013223"
+  },
+  {
+    "chainId": 10,
+    "address": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+    "name": "Layer3",
+    "symbol": "L3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37768/thumb/Square.png?1722045128"
+  },
+  {
+    "chainId": 10,
+    "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+    "name": "Frax USD",
+    "symbol": "FRXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "name": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb47bC3ed6D70F04fe759b2529c9bc7377889678f",
+    "symbol": "WETH(Wormhole)",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb5ad7d6d6F92a77F47f98C28C84893FBccc94809",
+    "symbol": "bb-DAI+",
+    "name": "Beets Boosted DAI+",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xaD17A225074191d5c8a37B50FdA1AE278a2EE6A2",
+    "symbol": "yvUSDC",
+    "name": "USDC yVault",
+    "decimals": 6
+  },
+  {
+    "chainId": 10,
+    "address": "0xAFdf91f120DEC93c65fd63DBD5ec372e5dcA5f82",
+    "symbol": "soLUSD",
+    "name": "Sonne Liquity USD",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0xB448eC505C924944ca8B2C55EF05c299eE0781df",
+    "symbol": "axlKNC",
+    "name": "Axelar Wrapped KNC",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xb448ec505c924944ca8b2c55ef05c299ee0781df/babb08402e4eb7819d92673b3e694d68.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb972abef80046A57409e37a7DF5dEf2638917516",
+    "symbol": "stataOptwstETH",
+    "name": "Static Aave Optimism wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x9F281eb58fd98ad98EDe0fc4C553AD4D73e7Ca2C",
+    "symbol": "stataOptUSDC",
+    "name": "Static Aave Optimism USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 10,
+    "address": "0x9F41d0AA24E599fd8D0c180Ee3C0F609dc41c622",
+    "symbol": "USDGLOx",
+    "name": "Super Glo Dollar",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usdglo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x9F2fE3500B1a7E285FDc337acacE94c480e00130",
+    "symbol": "sbtc-f",
+    "name": "Curve.fi Factory Plain Pool: sBTC/wbtc",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
+    "symbol": "BLU",
+    "name": "BLUE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xa50b23cdfb2ec7c590e84f403256f67ce6dffb84/88ac5da2ef3e3e050f9a10ad5c92d68b.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xA348700745D249c3b49D2c2AcAC9A5AE8155F826",
+    "symbol": "wUSD+",
+    "name": "Wrapped USD+",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xb86fb1047a955c0186c77ff6263819b37b32440d/1d822a6ceb470b0655872ac989558f7e.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xA88594D404727625A9437C3f886C7643872296AE",
+    "symbol": "WELL",
+    "name": "WELL",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x511ab53f793683763e5a8829738301368a2411e3/b82e97dd371cfdacb522ffebd7840729.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+    "symbol": "W",
+    "name": "Wormhole Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91/e5b418b93d981b9b5dcd170347369465.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x300d2c875C6fb8Ce4bf5480B4d34b7c9ea8a33A4",
+    "symbol": "pxETH",
+    "name": "Pirex Ether OFT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x300d2c875c6fb8ce4bf5480b4d34b7c9ea8a33a4/a6dea88ffe7c0d1dff58fe2f78647368.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4ac8bD1bDaE47beeF2D1c6Aa62229509b962Aa0d",
+    "symbol": "ETHx",
+    "name": "Super ETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x1610e3c85dd44Af31eD7f33a63642012Dca0C5A5",
+    "symbol": "msETH",
+    "name": "Metronome Synth ETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1610e3c85dd44af31ed7f33a63642012dca0c5a5/933ff2590fc69a995dc9df8a17573a7c.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x9dAbAE7274D28A45F0B65Bf8ED201A5731492ca0",
+    "symbol": "msUSD",
+    "name": "Metronome Synth USD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x9dabae7274d28a45f0b65bf8ed201a5731492ca0/90fd1cec7514a76d89fc46fff2a8ea2c.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/1228d6e73f70f37ec1f6fe02a3bbe6ff.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "symbol": "ezETH",
+    "name": "Renzo Restaked ETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbf5495efe5db9ce00f80364c8b423567e58d2110/446998664e866e2fadceb5a96fe9f688.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5A7fACB970D094B6C7FF1df0eA68D99E6e73CBFF",
+    "symbol": "weETH(layerzero)",
+    "name": "Wrapped eETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xDecC0c09c3B5f6e92EF4184125D5648a66E35298",
+    "symbol": "S*USDC",
+    "name": "USD Coin-LP",
+    "decimals": 6
+  },
+  {
+    "chainId": 10,
+    "address": "0xCcF3d1AcF799bAe67F6e354d685295557cf64761",
+    "symbol": "vaETH",
+    "name": "vaETH Pool",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x1d073cf59Ae0C169cbc58B6fdD518822ae89173a",
+    "symbol": "iUSDC",
+    "name": "Iron Bank USD Coin",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+    "symbol": "3CRV",
+    "name": "Curve.fi DAI/USDC/USDT",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1337bedc9d22ecbe766df105c9623922a27963ec/5ae339155ccd68f26f931b6af241c41a.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x17533a1bDe957979E3977EbbFBC31E6deeb25C7d",
+    "symbol": "iWETH",
+    "name": "Iron Bank Wrapped Ether",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x8a6039fC7A479928B1d73f88040362e9C50Db275",
+    "symbol": "BITCOIN (HPOS10I)",
+    "name": "HarryPotterObamaSonic10Inu",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x72e4f9f808c49a2a61de9c5896298920dc4eeea9/3244c9284d8345d65b2602e46a5fc6ff.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x04F0fd3CD03B17a3E5921c0170ca6dD3952841cA",
+    "symbol": "iSUSD",
+    "name": "Iron Bank Synth sUSD",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x049E04bEE77cFfB055f733A138a2F204D3750283",
+    "symbol": "iDAI",
+    "name": "Iron Bank Dai Stablecoin",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+    "symbol": "QI(old)",
+    "name": "QiDao",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x3f56e0c36d275367b8c502090edf38289b3dea0d/cb30de2ca105456fbb279ef6297cf1dd.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5990002594b13e174885ba4D4Ec15B8a8A4485bb",
+    "symbol": "mooCurveMIM",
+    "name": "Moo Curve MIM",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x874C01c2d1767EFA01Fa54b2Ac16be96fAd5a742",
+    "symbol": "iUSDT",
+    "name": "Iron Bank Tether USD",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0xdD69DB25F6D620A7baD3023c5d32761D353D3De9",
+    "symbol": "GETH",
+    "name": "Goerli ETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xdd69db25f6d620a7bad3023c5d32761d353d3de9/f5d3ccd6f15d877a70d11fd8c968d809.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xE38faf9040c7F09958c638bBDB977083722c5156",
+    "symbol": "hETH",
+    "name": "ETH Hop Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/coin/logo_url/eth/6443cdccced33e204d90cb723c632917.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x6D2E5b8841a6Aa5f0f973436357f75D3Eeb93312",
+    "symbol": "VMEX",
+    "name": "VMEX Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6d2e5b8841a6aa5f0f973436357f75d3eeb93312/a0edda0dc1f377122015cd0b0304af61.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x79AF5dd14e855823FA3E9ECAcdF001D99647d043",
+    "symbol": "jEUR",
+    "name": "Jarvis Synthetic Euro",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x79af5dd14e855823fa3e9ecacdf001d99647d043/55961c20bdc87e1c959b0a42acc1de99.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xcdb9b4db65C913aB000b40204248C8A53185D14D",
+    "symbol": "iWBTC",
+    "name": "Iron Bank Wrapped BTC",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x259479fBeb1CDe194afA297f36f4216e9C87728c",
+    "symbol": "OKSE",
+    "name": "Okse",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x7D2382b1f8Af621229d33464340541Db362B4907",
+    "symbol": "yvOP",
+    "name": "OP yVault",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x23C748FeF17518B8DE55065338d7Fa20327472eB",
+    "symbol": "REVA",
+    "name": "Reva Token",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x259c1C2ED264402b5ed2f02bc7dC25A15C680c18",
+    "symbol": "RING (OneRing)",
+    "name": "OneRing",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x259c1c2ed264402b5ed2f02bc7dc25a15c680c18/558aa4df23094684b3941be7f1485cb6.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4645e0952678E9566FB529D9313f5730E4e1C412",
+    "symbol": "iOP",
+    "name": "Iron Bank Optimism",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+    "symbol": "BTC.b",
+    "name": "Bitcoin",
+    "decimals": 8,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x2297aebd383787a160dd0d9f71508148769342e3/302c75014907af482ed27e9d91e14b8b.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd6909e9e702024eb93312B989ee46794c0fB1C9D",
+    "symbol": "BICO",
+    "name": "Biconomy Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d/eac2f51a41dc500f5e0bbbe586c3d58a.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x62BB4fc73094c83B5e952C2180B23fA7054954c4",
+    "symbol": "PTaOptUSDC",
+    "name": "PoolTogether aOptUSDC Ticket",
+    "decimals": 6
+  },
+  {
+    "chainId": 10,
+    "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
+    "symbol": "GRAI",
+    "name": "Gravita Debt Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/era_token/logo_url/0x5fc44e95eaa48f9eb84be17bd3ac66b6a82af709/91700a6cc713e4086eb36696ecc0f9b4.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x107Dbf9c9C0EF2Df114159e5C7DC2baf7C444cFF",
+    "symbol": "mooCurveFsUSD",
+    "name": "Moo Curve f-sUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x0892a178c363b4739e5Ac89E9155B9c30214C0c0",
+    "symbol": "mooCurveWSTETH",
+    "name": "Moo Curve wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x615B9dd61f1F9a80f5bcD33A53Eb79c37b20adDC",
+    "symbol": "vAMMV2-USDC/BLU",
+    "name": "VolatileV2 AMM - USDC/BLU",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x67C10C397dD0Ba417329543c1a40eb48AAa7cd00",
+    "symbol": "nUSD",
+    "name": "nUSD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x67c10c397dd0ba417329543c1a40eb48aaa7cd00/303f6d48533a5b177e649a05be5eb625.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x57d00d036485B5fEE6A58c8763Bdc358906E6D19",
+    "symbol": "mooVeloV2mooBIFI-ETH",
+    "name": "Moo VeloV2 mooBIFI-ETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x676f784d19c7F1Ac6C6BeaeaaC78B02a73427852",
+    "symbol": "OPP",
+    "name": "OptimismPrime",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x676f784d19c7f1ac6c6beaeaac78b02a73427852/cf5cb4e0b69a7f2c838c12afa1f551ed.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5Ff29E4470799b982408130EFAaBdeeAE7f66a10",
+    "symbol": "soUSDT",
+    "name": "Sonne USDT",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x78b1Bd624791eB8AFf5F0724Ac2c3539142108BF",
+    "symbol": "ZINU",
+    "name": "Zippy Inu",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x78b1bd624791eb8aff5f0724ac2c3539142108bf/df13d811f17c23a64dd1d7a8f687dfac.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x33865E09A572d4F1CC4d75Afc9ABcc5D3d4d867D",
+    "symbol": "soWBTC",
+    "name": "Sonne Wrapped Bitcoin",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x348Fdfe2c35934A96C1353185F09D0F9efBAdA86",
+    "symbol": "TROVE",
+    "name": "Arbitrove Governance Token",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x348fdfe2c35934a96c1353185f09d0f9efbada86/5d4644df2353e72e71fc7596c26b7240.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x38d693cE1dF5AaDF7bC62595A37D667aD57922e5",
+    "symbol": "aOptUSDCn",
+    "name": "Aave Optimism USDCn",
+    "decimals": 6
+  },
+  {
+    "chainId": 10,
+    "address": "0x809DC529f07651bD43A172e8dB6f4a7a0d771036",
+    "symbol": "nETH",
+    "name": "nETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x809dc529f07651bd43a172e8db6f4a7a0d771036/1fc6698f634693d1e354bbff3795bab1.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x83250FFEC162E084a23e165434a8A110623ABe38",
+    "symbol": "Hay Destablecoin",
+    "name": "HAY",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x4CdD06C73bC42980A6d59A13854f710eF5fa07EF",
+    "symbol": "mooVeloV2SNX-USDC",
+    "name": "Moo VeloV2 SNX-USDC",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x26AaB17f27CD1c8d06a0Ad8E4a1Af8B1032171d5",
+    "symbol": "sowstETH",
+    "name": "Sonne Wrapped liquid staked Ether 2.0",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x29A3d66B30Bc4AD674A4FDAF27578B64f6afbFe7",
+    "symbol": "FRAXBP-f",
+    "name": "Curve.fi Factory Plain Pool: FRAXBP",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x5569b83de187375d43FBd747598bfe64fC8f6436",
+    "symbol": "soDAI",
+    "name": "Sonne DAI",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0xE724FfA5D30782499086682C8362CB3673bF69ae",
+    "symbol": "iSNX",
+    "name": "Iron Bank Synthetix Network Token",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x8e2cDf8c6477439B7C989e86B917D80871B92339",
+    "symbol": "mooAaveOpWBTC",
+    "name": "Moo Aave Op WBTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x17ffD1D55A5D9D73f6a337aA35109a63B405dE21",
+    "symbol": "HAKU",
+    "name": "Hakura Protocol",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x17ffd1d55a5d9d73f6a337aa35109a63b405de21/79c0b76de51565e21265b2bb1bd14bd8.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97",
+    "symbol": "axlTIA",
+    "name": "Axelar Wrapped TIA",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x420eeed09cbc6e8416decd28857ff3c7d991fc46/82e5d9441cacdfa6c773db0b3929c45c.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0493Bf8b6DBB159Ce2Db2E0E8403E753Abd1235b",
+    "symbol": "vAMMV2-WETH/USDC",
+    "name": "VolatileV2 AMM - WETH/USDC",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x061b87122Ed14b9526A813209C8a59a633257bAb",
+    "symbol": "sUSD3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: sUSD Synthetix",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x777CF5ba9C291A1A8f57FF14836F6F9dC5c0F9Dd",
+    "symbol": "SOLID",
+    "name": "Solidly",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x777cf5ba9c291a1a8f57ff14836f6f9dc5c0f9dd/44b66c1d52d5ca4fd0f0444d30d240c3.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x8cD6b19A07d754bF36AdEEE79EDF4F2134a8F571",
+    "symbol": "soOP",
+    "name": "Sonne OP",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x34C0431C98cd37F8359f4445477619a815CB36bd",
+    "symbol": "CWA",
+    "name": "Chris World Asset",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x34c0431c98cd37f8359f4445477619a815cb36bd/51617f1f5834de61a72b4516a3fbbfde.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x7Bc5728BC2b59B45a58d9A576E2Ffc5f0505B35E",
+    "symbol": "seth-f",
+    "name": "Curve.fi Factory Pool: sETH/ETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x25DE69dA4469A96974FaE79d0C41366A63317FDC",
+    "symbol": "mooCurveFsBTC",
+    "name": "Moo Curve f-sBTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x810D1AaA4Cd8F21c23bB648F2dfb9DC232A01F09",
+    "symbol": "mim3CRV-f",
+    "name": "Curve.fi Factory USD Metapool: MIM",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xEC8FEa79026FfEd168cCf5C627c7f486D77b765F",
+    "symbol": "soUSDC",
+    "name": "Sonne USDC",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x9B280aD674d35008482F94a673f8017B961C29F6",
+    "symbol": "mooVeloV2KWENTA-ETH",
+    "name": "Moo VeloV2 KWENTA-ETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x97513e975a7fA9072c72C92d8000B0dB90b163c5",
+    "symbol": "BEETS(multi)",
+    "name": "BeethovenxToken",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x97513e975a7fa9072c72c92d8000b0db90b163c5/4175424bb5046ee05a4f582623ce08f9.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x935A64d0825D86c1ca57Fe8f270e635AC1a0878A",
+    "symbol": "mooVeloV2wstETH-LDO",
+    "name": "Moo VeloV2 wstETH-LDO",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x1eC50880101022C11530A069690F5446d1464592",
+    "symbol": "USDy",
+    "name": "Stablecoin Yield",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xFB21B70922B9f6e3C6274BcD6CB1aa8A0fe20B80",
+    "symbol": "UST(Terra)",
+    "name": "TerraUSD",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xfb21b70922b9f6e3c6274bcd6cb1aa8a0fe20b80/49f7b373942084bed37fba73899ecf58.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xFBc4198702E81aE77c06D58f81b629BDf36f0a71",
+    "symbol": "sEUR",
+    "name": "Synth sEUR",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0xfbc4198702e81ae77c06d58f81b629bdf36f0a71/250bd85bd7798f125a01aab5604a770e.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xf7B5965f5C117Eb1B5450187c9DcFccc3C317e8E",
+    "symbol": "soWETH",
+    "name": "Sonne Wrapped Ether",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x9236cd1Cb2df141E842F825B95f51742CC930814",
+    "symbol": "mooAuraOPEthereumTriplets",
+    "name": "Moo Aura OP Ethereum Triplets",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xCe8293f586091d48A0cE761bBf85D5bCAa1B8d2b",
+    "symbol": "pDAI",
+    "name": "Prize DAI - Aave",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xDB1FE6DA83698885104DA02A6e0b3b65c0B0dE80",
+    "symbol": "vAMMV2-POOL/WETH",
+    "name": "VolatileV2 AMM - POOL/WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xEfDE221f306152971D8e9f181bFe998447975810",
+    "symbol": "wstETHCRV",
+    "name": "Curve.fi ETH/wstETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x3417E54A51924C225330f8770514aD5560B9098D",
+    "symbol": "RED",
+    "name": "REDKoin",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x3417e54a51924c225330f8770514ad5560b9098d/8ba34fb2d2bd7d44612e60f4dfb4b7e9.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd14451E0Fa44B18f08aeB1E4a4d092B823CaCa68",
+    "symbol": "soSUSD",
+    "name": "Sonne SUSD",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x084382D1cc4f4DFD1769b1cC1Ac2A9b1f8365e90",
+    "symbol": "MODE",
+    "name": "MODE",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/mode_token/logo_url/0xdfc7c877a950e49d2610114102175a06c2e3167a/0df0ff7dc977a206f3909e8bf1222419.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4DD03dfD36548C840B563745e3FBeC320F37BA7e",
+    "symbol": "stataOptUSDCn",
+    "name": "Static Aave Optimism USDCn",
+    "decimals": 6
+  },
+  {
+    "chainId": 10,
+    "address": "0xea129aE043C4cB73DcB241AAA074F9E667641BA0",
+    "symbol": "celrFRAX",
+    "name": "Celer-Pegged Frax",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xD7dAabd899D1fAbbC3A9ac162568939CEc0393Cc",
+    "symbol": "soSNX",
+    "name": "Sonne Synthetix Network Token",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0x035c93db04E5aAea54E6cd0261C492a3e0638b37",
+    "symbol": "stataOptUSDT",
+    "name": "Static Aave Optimism USDT",
+    "decimals": 6
+  },
+  {
+    "chainId": 10,
+    "address": "0x1AfD1fF9E441973B7D34c7B8AbE91d94F1B23ce0",
+    "symbol": "soUSDCnative",
+    "name": "Sonne USD Coin",
+    "decimals": 8
+  },
+  {
+    "chainId": 10,
+    "address": "0xF4F2657AE744354bAcA871E56775e5083F7276Ab",
+    "symbol": "vAMMV2-USDC/WETH",
+    "name": "VolatileV2 AMM - USDC/WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x6dDc64289bE8a71A707fB057d5d07Cc756055d6e",
+    "symbol": "stataOptDAI",
+    "name": "Static Aave Optimism DAI",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
+    "symbol": "aOptMAI",
+    "name": "Aave Optimism MAI",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x88DfaAABaf06f3a41D2606EA98BC8edA109AbeBb",
+    "symbol": "axlWMAI",
+    "name": "Axelar Wrapped WMAI",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x88dfaaabaf06f3a41d2606ea98bc8eda109abebb/133e68cceb25a8589b6f3d1d26b58a1e.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x73A7fe27fe9545D53924E529Acf11F3073841b9e",
+    "symbol": "wrsETH/wETH",
+    "name": "Balancer wrsETH/wETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xd4F1Cf9A038269FE8F03745C2875591Ad6438ab1",
+    "symbol": "stataOptOP",
+    "name": "Static Aave Optimism OP",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x98d69620C31869fD4822ceb6ADAB31180475FD37",
+    "symbol": "stataOptWETH",
+    "name": "Static Aave Optimism WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xdd63ae655b388Cd782681b7821Be37fdB6d0E78d",
+    "symbol": "vawstETH",
+    "name": "vawstETH Pool",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x7e7d4467112689329f7E06571eD0E8CbAd4910eE",
+    "symbol": "COMP",
+    "name": "Compound",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437/dd174d3d7083fa027a433dc50edaf0bc.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x7B50775383d3D6f0215A8F290f2C9e2eEBBEceb2",
+    "symbol": "BPT-WSTETH-WETH",
+    "name": "Shanghai Shakedown",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x6Ed6Df1C23C51cb7Cc67a348cC8d9E6108EA3BFE",
+    "symbol": "vAMMV2-WETH/mooBIFI",
+    "name": "VolatileV2 AMM - WETH/mooBIFI",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
+    "symbol": "ALTD",
+    "name": "Altitude",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/op_token/logo_url/0x8929e9dbd2785e3ba16175e596cdd61520fee0d1/13fd3da495f7a5e73d917b21b863510b.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x8453cc52F2108fF9D1636B6A108dB06Ac137B72F",
+    "symbol": "vAMMV2-USDC/MTA",
+    "name": "VolatileV2 AMM - USDC/MTA",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+    "symbol": "EURA",
+    "name": "EURA (previously agEUR)",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+    "symbol": "stEUR",
+    "name": "Staked EURA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x58441E37255b09F9f545e9Dc957F1C41658ff665",
+    "symbol": "ANGLE",
+    "name": "ANGLE_optimism",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/project/logo_url/op_angle/306ffce483295499c5b62e264148d468.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+    "symbol": "stUSD",
+    "name": "Staked USDA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x7d342726B69C28D942ad8BfE6Ac81b972349d524",
+    "symbol": "DAIx",
+    "name": "Super Dai Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/dai.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x8430F084B939208E2eDEd1584889C9A66B90562f",
+    "symbol": "USDC.ex",
+    "name": "Super USD Coin (Bridged from Ethereum)",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usdc.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1828Bff08BD244F7990edDCd9B19cc654b33cDB4",
+    "symbol": "OPx",
+    "name": "Super Optimism",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/op.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x9638EC1D29dfA9835fdb7fa74B5B77B14d6Ac77e",
+    "symbol": "WBTCx",
+    "name": "Super Wrapped BTC",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/wbtc.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4caB5B9930210E2EdC6A905B9C75D615872A1A7E",
+    "symbol": "GIVx",
+    "name": "Super Giveth Token",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/giv.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x35Adeb0638EB192755B6E52544650603Fe65A006",
+    "symbol": "USDCx",
+    "name": "Super USD Coin",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usdc.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x7FF7Fa94b8b66Ef313f7970d4EEbd2CB3103a2C0",
+    "symbol": "VANA",
+    "name": "Vana",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "name": "ynETH MAX",
+    "symbol": "YNETHX",
+    "decimals": 16,
+    "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
+  },
+  {
+    "chainId": 10,
+    "address": "0x38761749330c23d681d136e8ea3fc47d4bb93db3",
+    "name": "Sweat Economy",
+    "symbol": "SWEAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1696524208"
+  },
+  {
+    "chainId": 10,
+    "address": "0x2baa7e92f3f14883264bfa63058cc223ad719438",
+    "name": "iBTC Network",
+    "symbol": "IBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/37289/thumb/iBTC_main.png?1742022373"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "name": "OpenUSDT",
+    "symbol": "OUSDT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54815/thumb/ousdt.jpg?1741848258"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+    "name": "InteNet",
+    "symbol": "INT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54832/thumb/dDZtouYf_400x400.jpg?1741957002"
+  },
+  {
+    "chainId": 10,
+    "address": "0x647fE0cCA3DF596ba414C8c600D441BB3D10d616",
+    "name": "Boson Token",
+    "symbol": "BOSON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOSON/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BOSON"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xe85d2c93f7E26B99a46A8bB9350cBfB965FA4F82",
+    "name": "DHK DAO",
+    "symbol": "DHK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DHK/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "DHK"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xedf38688b27036816a50185caa430d5479e1c63e",
+    "name": "Overtime",
+    "symbol": "OVER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54973/thumb/over.png?1742959291"
+  },
+  {
+    "chainId": 10,
+    "address": "0x01bff41798a0bcf287b996046ca68b395dbc1071",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+  },
+  {
+    "chainId": 10,
+    "address": "0x74d5b4a317fffd3cbf8ed94327ff07e2884e84bc",
+    "name": "Oracul Analytics",
+    "symbol": "ORCL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55043/thumb/cfZ9cjrJ_400x400.png?1743432308"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5E0F5388896A6b6232aBF076ee89BC6Dfc043685",
+    "name": "Ajna",
+    "symbol": "AJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AJNA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AJNA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5",
+    "name": "Voucher DOT",
+    "symbol": "VDOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28875/thumb/vDOT.png?1696527852"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 10,
+    "address": "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
+    "name": "BRZ Token",
+    "symbol": "BRZ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BRZ/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BRZ"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+  },
+  {
+    "chainId": 10,
+    "address": "0x9923db8d7fbacc2e69e87fad19b886c81cd74979",
+    "name": "Hyperlane",
+    "symbol": "HYPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55298/thumb/Hyperlane.png?1745248900"
+  },
+  {
+    "chainId": 10,
+    "address": "0x774b9dd3977a7556bf16cc22b74b2991e4511e13",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1b5f7fa46ed0f487f049c42f374ca4827d65a264",
+    "name": "Decentralized Euro",
+    "symbol": "DEURO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55108/thumb/dEuro_CoinLogo_200px.png?1743753944"
+  },
+  {
+    "chainId": 10,
+    "address": "0xfe3b2f655b725ba6cd0cc78961e013968ffb30fb",
+    "name": "Rubicon",
+    "symbol": "RUBI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55956/thumb/RUbi_Token.png?1747864046"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+    "name": "YieldFi yToken",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/yUSD.png?1739862886"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4793405c2231d8646f8ee79e120c230c574b0c4b",
+    "name": "NOI Token",
+    "symbol": "NOI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66171/thumb/LOGO_200x200.png?1748538866"
+  },
+  {
+    "chainId": 10,
+    "address": "0x44805a7597Ab90624E0B4aa6947a47F358AE4eF1",
+    "name": "Cortensor",
+    "symbol": "COR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/COR/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "COR"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
+    "name": "Superseed",
+    "symbol": "SUPR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55519/thumb/Small.png?1746469855"
+  },
+  {
+    "chainId": 10,
+    "address": "0xB260d236F5eA5094D31F016160705ff53ac45028",
+    "name": "BTREE",
+    "symbol": "BTREE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTREE/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BTREE"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b",
+    "name": "M by M0",
+    "symbol": "M",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798"
+  },
+  {
+    "chainId": 10,
+    "address": "0x03569cc076654f82679c4ba2124d64774781b01d",
+    "name": "Liquity BOLD",
+    "symbol": "BOLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56069/thumb/BOLD_logo.png?1748265087"
+  },
+  {
+    "chainId": 10,
+    "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+    "name": "Wrapped FRAX",
+    "symbol": "WFRAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+    "name": "AI Network",
+    "symbol": "AIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
+    "name": "XVGOPT",
+    "symbol": "XVGOPT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67715/thumb/xvgopt-200x200.png?1753616135"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
+  },
+  {
+    "chainId": 10,
+    "address": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
+    "name": "Polkadot Bridged DOT",
+    "symbol": "DOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54481/thumb/polkadot-new-dot-logo.png?1753881726"
+  },
+  {
+    "chainId": 10,
+    "address": "0x464b808c2c7e04b07e860fdf7a91870620246148",
+    "name": "Wrapped Aave Optimism WETH",
+    "symbol": "WAOPTWETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68212/thumb/eth.jpg?1755084184"
+  },
+  {
+    "chainId": 10,
+    "address": "0x720f86f4b5b5d5d0ea3e5718ec43071d4d05134b",
+    "name": "Hamilton Lane Senior Credit Opportuniti",
+    "symbol": "HLSCOPE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54810/thumb/HLSCOPE.png?1755203168"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+    "name": "Frontier Stable Token",
+    "symbol": "FRNT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496"
+  },
+  {
+    "chainId": 10,
+    "address": "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de",
+    "name": "YieldFi vyUSD",
+    "symbol": "VYUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68253/thumb/vyUSD_image.png?1755201198"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0",
+    "name": "Infinite Trading Protocol",
+    "symbol": "ITP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68308/thumb/itplogo.png?1755327311"
+  },
+  {
+    "chainId": 10,
+    "address": "0x7d3ce1265d5ea5848dc1c96aadbf754e2bad33b1",
+    "name": "BNV",
+    "symbol": "FASH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39399/thumb/fa_h_logo_200x200.png?1729799349"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc47da4cb96ce65a96844a01bfae509f9d5454534",
+    "name": "Dephaser JPY",
+    "symbol": "JPYT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68576/thumb/JPYT_Logo_200x200_px.png?1756110424"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb5b2dc7fd34c249f4be7fb1fcea07950784229e0",
+    "name": "sUSDS",
+    "symbol": "SUSDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52721/thumb/sUSDS_Coin.png?1734086971"
+  },
+  {
+    "chainId": 10,
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "name": "Ethena Staked USDe",
+    "symbol": "SUSDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
+  },
+  {
+    "chainId": 10,
+    "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+    "name": "Ethena",
+    "symbol": "ENA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
+  },
+  {
+    "chainId": 10,
+    "address": "0xca0eac34408e4b5906d3e161c73bb4611ff22ca1",
+    "name": "CANA Holdings California Carbon Credits",
+    "symbol": "CANA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CANA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CANA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
+    "name": "Velora",
+    "symbol": "VLR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55593/thumb/PNG_Round.png?1746809175"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0633E91f64C22d4FEa53dbE6e77B7BA4093177B8",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
+    "name": "Parallel Governance",
+    "symbol": "PRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
+  },
+  {
+    "chainId": 10,
+    "address": "0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84",
+    "name": "US Permissionless Dollar",
+    "symbol": "USPD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69917/thumb/logo_uspd_200_200.png?1760025748"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
+    "name": "AllUnity EUR",
+    "symbol": "EURAU",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68076/thumb/EURAU_Full_Colour.png?1754717091"
+  },
+  {
+    "chainId": 10,
+    "address": "0xf0197f10ea542a67914ecc0ec5304dc9df1faf6f",
+    "name": "DEAD",
+    "symbol": "DEAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70904/thumb/_NotDEADTrans.png?1764486688"
+  },
+  {
+    "chainId": 10,
+    "address": "0x060cb087a9730e13aa191f31a6d86bff8dfcdcc0",
+    "name": "Olympus",
+    "symbol": "OHM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1696514169"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0b5740c6b4a97f90ef2f0220651cca420b868ffb",
+    "name": "Governance OHM",
+    "symbol": "GOHM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21129/thumb/token_wsOHM_logo.png?1696520508"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc3997ff81f2831929499c4ee4ee4e0f08f42d4d8",
+    "name": "Bifrost Voucher ETH",
+    "symbol": "VETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71176/thumb/vETH.png?1766218149"
+  },
+  {
+    "chainId": 10,
+    "address": "0xb73ee5488647a6302ebf5fee8af3152f6960ae4c",
+    "name": "Hex Trust Wrapped XRP",
+    "symbol": "WXRP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71189/thumb/hex-trust-wrapped-xrp.jpg?1766224488"
+  },
+  {
+    "chainId": 10,
+    "address": "0xca5921df65e2e1b0b98ae91c0187ba80d4124898",
+    "name": "EtherFi Liquid Reserve",
+    "symbol": "LIQUIDRESERVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172979/thumb/5131961928874921052.jpg?1776956818"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe7ba07519dfa06e60059563f484d6090dedf21b3",
+    "name": "Midas Re7 Ethereum",
+    "symbol": "MRE7ETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172907/thumb/mre7eth-L64TBTee.png?1776525613"
+  },
+  {
+    "chainId": 10,
+    "address": "0xcc476b1a49bcdf5192561e87b6fb8ea78aa28c13",
+    "name": "Liquid Euro",
+    "symbol": "WEEUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172978/thumb/5122844774162435177.jpg?1776956692"
+  },
+  {
+    "chainId": 10,
+    "address": "0x000000001dc8bd45d7e7829fb1c969cbe4d0d1ec",
+    "name": "Gauntlet USD Alpha",
+    "symbol": "GTUSDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102171863/thumb/gtUSDa.png?1770138785"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd83e3d560ba6f05094d9d8b3eb8aaea571d1864e",
+    "name": "Wrapped HYPE",
+    "symbol": "WHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54469/thumb/_UP3jBsi_400x400.jpg?1739905920"
+  },
+  {
+    "chainId": 10,
+    "address": "0xa0a675d08ca63066f48408136f8a71fc65be4afc",
+    "name": "Bazaars",
+    "symbol": "BZR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26392/thumb/bazaars_logo-color-black-icon.png?1696525469"
+  },
+  {
+    "chainId": 10,
+    "address": "0xdcb612005417dc906ff72c87df732e5a90d49e11",
+    "name": "EURC",
+    "symbol": "EURC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/EURC.png?1769615705"
+  },
+  {
+    "chainId": 10,
+    "address": "0x74db7a52773a52699dbc0c01b1254e5301e3e119",
+    "name": "Altura Vault Tokens",
+    "symbol": "AVLT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172640/thumb/AVLT_200x200_Kopie.png?1774446611"
+  }
+]

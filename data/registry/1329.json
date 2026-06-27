@@ -1,0 +1,97 @@
+[
+  {
+    "chainId": 1329,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "SEI",
+    "name": "SEI",
+    "decimals": 18,
+    "logoURI": "https://cdn.sei.io/sei-app/sei-icon.png"
+  },
+  {
+    "chainId": 1329,
+    "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+    "symbol": "WSEI",
+    "name": "Wrapped SEI",
+    "decimals": 18,
+    "logoURI": "https://cdn.sei.io/sei-app/sei-icon.png"
+  },
+  {
+    "chainId": 1329,
+    "address": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "chainId": 1329,
+    "address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
+    "symbol": "USDT",
+    "name": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "chainId": 1329,
+    "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+    "symbol": "WETH",
+    "name": "WETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "chainId": 1329,
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 8
+  },
+  {
+    "chainId": 1329,
+    "address": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+    "symbol": "frxETH",
+    "name": "frxETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png"
+  },
+  {
+    "chainId": 1329,
+    "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+    "symbol": "FRAX",
+    "name": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/movr_token/logo_url/0x965f84d915a9efa2dd81b653e3ae736555d945f4/1f2c42cba1add081f314ee899ab67816.png"
+  },
+  {
+    "chainId": 1329,
+    "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
+    "symbol": "iSEI",
+    "name": "iSEI",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/sei_token/logo_url/0x5cf6826140c1c56ff49c808a1a75407cd1df9423/f4b3731501343f4ac86c9bcdaf02ed2a.png"
+  },
+  {
+    "chainId": 1329,
+    "address": "0x5f0E07dFeE5832Faa00c63F2D33A0D79150E8598",
+    "symbol": "SEIYAN",
+    "name": "SEIYAN",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/sei_token/logo_url/0x5f0e07dfee5832faa00c63f2d33a0d79150e8598/7bf4cad2ed35f5618f44411934982721.png"
+  },
+  {
+    "chainId": 1329,
+    "address": "0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
+    "symbol": "fastUSD",
+    "name": "fastUSD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/sei_token/logo_url/0x37a4dd9ced2b19cfe8fac251cd727b5787e45269/97f1966c1e35a9b6783994ce90e1d76e.png"
+  },
+  {
+    "chainId": 1329,
+    "address": "0xe5085112160fF75ee89a540Cdba570eAFdAF7f57",
+    "symbol": "STSEI",
+    "name": "stSEI",
+    "decimals": 6,
+    "logoURI": "https://static.debank.com/image/sei_token/logo_url/0xe5085112160ff75ee89a540cdba570eafdaf7f57/dcae56e9b38a178231869d9706e9e292.png"
+  }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "chainId": 43111,
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "wrapped ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png"
+    },
+    {
+        "chainId": 43111,
+        "address": "0x99e3dE3817F6081B2568208337ef83295b7f591D",
+        "name": "Hemi",
+        "symbol": "HEMI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/hemi.svg"
+    },
+    {
+        "chainId": 43111,
+        "address": "0xad11a8BEb98bbf61dbb1aa0F6d6F2ECD87b35afA",
+        "name": "Bridged USDC (Stargate)",
+        "symbol": "USDC.e",
+        "decimals": 6,
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png"
+    },
+    {
+        "chainId": 43111,
+        "address": "0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28",
+        "name": "Hemi Bitcoin",
+        "symbol": "hemiBTC",
+        "decimals": 8,
+        "logoURI": ""
+    },
+    {
+        "chainId": 43111,
+        "address": "0xbB0D083fb1be0A9f6157ec484b6C79E0A4e31C2e",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+        "chainId": 43111,
+        "address": "0xb4818BB69478730EF4e33Cc068dD94278e2766cB",
+        "name": "Satoshi Stablecoin V2",
+        "symbol": "satUSD",
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xb4818BB69478730EF4e33Cc068dD94278e2766cB.png"
+    }
+]

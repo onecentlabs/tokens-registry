@@ -1,0 +1,259 @@
+[
+  {
+    "chainId": 9745,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "symbol": "XPL",
+    "name": "XPL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/plasma.svg",
+    "tags": [
+      "NATIVE"
+    ]
+  },
+  {
+    "chainId": 9745,
+    "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+    "symbol": "WXPL",
+    "name": "Wrapped XPL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/chains/plasma.svg",
+    "tags": [
+      "NATIVE"
+    ]
+  },
+  {
+    "chainId": 9745,
+    "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+    "symbol": "USDT0",
+    "name": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://app.hypurr.fi/tokens/usdt0.svg",
+    "tags": [
+      "STABLE"
+    ]
+  },
+  {
+    "chainId": 9745,
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193",
+    "symbol": "XAUt0",
+    "name": "XAUt0",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/66560/standard/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+    "symbol": "weETH",
+    "name": "Wrapped eETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33033/small/weETH.png"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+    "name": "Ethena Staked USDe",
+    "symbol": "SUSDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+    "name": "Ethena",
+    "symbol": "ENA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+    "name": "sUSDai",
+    "symbol": "SUSDAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55861/thumb/sUSDai_200x200.png?1747474691"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x87e617C7484aDE79FcD90db58BEB82B057facb48",
+    "name": "OpenEden Open Dollar",
+    "symbol": "USDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53750/thumb/USDO_LOGO-white.png?1737181887"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xbEeE5862649eF24c1F1d5e799505F67F1e7bAB9a",
+    "name": "Compounding Open Dollar",
+    "symbol": "CUSDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53751/thumb/cUSDO_logo_white.png?1737182014"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x9eCaf80c1303CCA8791aFBc0AD405c8a35e8d9f1",
+    "name": "Kelp DAO Restaked ETH",
+    "symbol": "rsETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7/6a035ac6c9b42e51e05b0e4c162979f9.png"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xe561FE05C39075312Aa9Bc6af79DdaE981461359",
+    "name": "Wrapped rsETH",
+    "symbol": "WRSETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd/570bd8c5a7c151124d71d35ccbfaaefb.png"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C",
+    "name": "StraitsX XUSD",
+    "symbol": "XUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39180/thumb/XUSD_Logo_200px.png?1720850024"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xb1b385542B6E80F77B94393Ba8342c3Af699f15c",
+    "name": "Resolv USR",
+    "symbol": "USR",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/791c489bf30421cfded8d372726503e6.png"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x35533f54740F1F1aA4179E57bA37039dfa16868B",
+    "name": "Resolv RLP",
+    "symbol": "RLP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x2a52B289bA68bBd02676640aA9F605700c9e5699",
+    "name": "Resolv wstUSR",
+    "symbol": "WSTUSR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x92A01Ab7317Ac318b39b00EB6704ba56F0245D7a",
+    "name": "trillions",
+    "symbol": "trillions",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69560/standard/trillions.png?1759039612"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xE13E223116b9F53238A228d7DC9159786FfF502A",
+    "name": "Sparkle",
+    "symbol": "SPARK",
+    "decimals": 18,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/d0f11a422d97abbb3e4a38226cd3a631aeddc4db89ebd7b987bd2c93d1c741be"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xfC8A5aeEfAd8cC23f629489Cdc6b0Ec883D04702",
+    "name": "BANKLESS",
+    "symbol": "BANKLESS",
+    "decimals": 18,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/a237b293803fff90df6a92d02a405a5e3cc409795aa4a84261a939fd7a622897"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xDab1D6f39A375e643752BD2c5A374a933cbeec72",
+    "name": "Xploy",
+    "symbol": "Xploy",
+    "decimals": 18,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/fb454a04a2964f2a001c40322aeaf75543edf4657fc0cd315e1c9c74bd0a069c"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x54Ef95b1eb3024e578b429B2883aB888A12a96A9",
+    "name": "LUNA",
+    "symbol": "LUNA",
+    "decimals": 18,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/0e51138cf2d4d29570103ba19f2c8ceaf381c8095064d8d87b2bf5a8a6724280"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x6d4573f3fC333fD196b6fdB90a13e81dC52F6097",
+    "name": "Plasmatic Instant Payment System",
+    "symbol": "PIPS",
+    "decimals": 18,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/56c9b8e6604b49d56e29cbda9e03edc651cd184b075d1447c1a67ce1091164a4"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xd516188daf64efa04a8d60872f891f2cc811a561",
+    "name": "PT USDai 19MAR2026",
+    "symbol": "PT-USDai-19MAR2026",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/tokens/9745/usdai.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x8e05bf8df95134a95d3513d5e0a0030abc39f2a3",
+    "name": "YT USDai 19MAR2026",
+    "symbol": "YT-USDai-19MAR2026",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/tokens/9745/usdai.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xedac81b27790e0728f54dea3b7718e5437e85353",
+    "name": "PT Staked USDai 19MAR2026",
+    "symbol": "PT-sUSDai-19MAR2026",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/tokens/9745/susdai.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xf043ab55e8abac03fa4eeaa5102d8ca89e31fbe3",
+    "name": "YT Staked USDai 19MAR2026",
+    "symbol": "YT-sUSDai-19MAR2026",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/tokens/9745/susdai.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x8dfb9a39dfab16bffe77f15544b5bf03e377e419",
+    "name": "PT Syrup USDT 29JAN2026",
+    "symbol": "PT-Syrup-USDT-29JAN2026",
+    "decimals": 6,
+    "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/55f1c813-9f03-45ad-aa1d-f0aeea30eb20.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x44920a786043f663693d2ea1c7de8551d90b3213",
+    "name": "YT Syrup USDT 29JAN2026 ",
+    "symbol": "YT-Syrup-USDT-29JAN2026",
+    "decimals": 6,
+    "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5abc9323-0b35-4853-96ce-798e493ddbbb.svg"
+  },
+  {
+    "chainId": 9745,
+    "address": "0xAbB48792A3161E81B47cA084c0b7A22a50324A44",
+    "name": "Lithos",
+    "symbol": "LITH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/tokens/9745/lith.svg"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "chainId": 480,
+    "address": "0x79A02482A880bCE3F13e09Da970dC34db4CD24d1",
+    "name": "Bridged USDC",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "chainId": 480,
+    "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "chainId": 480,
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/world_token/logo_url/world/48bfb74adddd170e936578aec422836d.png"
+  },
+  {
+    "chainId": 480,
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "name": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "chainId": 480,
+    "address": "0x2cFc85d8E48F8EAB294be644d9E25C3030863003",
+    "symbol": "WLD",
+    "name": "WLD",
+    "decimals": 18,
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x163f8c2467924be0ae7b5347228cabf260318753/30ac094d49a4b6e7561810c16ddc8c69.png"
+  },
+  {
+    "chainId": 480,
+    "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+    "name": "Stargate USD₮0 (Bridged)",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "worldchainBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
+    }
+  },
+  {
+    "chainId": 480,
+    "address": "0x9A60565f305F8863BA48fe642fB55c81F0b3680d",
+    "name": "MVP Token V2",
+    "symbol": "MVP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MVP/logo.png",
+    "extensions": {
+      "worldchainBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MVP"
+    }
+  },
+  {
+    "chainId": 480,
+    "address": "0xFdCa15bd55F350a36E63C47661914d80411d2C22",
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447"
+  }
+]
