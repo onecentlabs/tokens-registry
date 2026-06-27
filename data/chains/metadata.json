@@ -497,7 +497,8 @@
         "decimals": 18
       },
       "rpcUrls": [
-        "https://rpc.linea.build"
+        "https://rpc.linea.build",
+        "https://linea-rpc.publicnode.com"
       ]
     },
     "nativeToken": {
@@ -719,7 +720,8 @@
         "decimals": 18
       },
       "rpcUrls": [
-        "https://rpc.berachain.com"
+        "https://rpc.berachain.com",
+        "https://berachain-rpc.publicnode.com"
       ]
     },
     "nativeToken": {
@@ -767,7 +769,8 @@
         "https://rpc.scroll.io",
         "https://scroll.drpc.org",
         "https://scroll-mainnet.public.blastapi.io",
-        "https://1rpc.io/scroll"
+        "https://1rpc.io/scroll",
+        "https://scroll-rpc.publicnode.com"
       ]
     },
     "nativeToken": {
@@ -830,7 +833,8 @@
       "rpcUrls": [
         "https://rpc.mainnet.taiko.xyz",
         "https://rpc.taiko.xyz",
-        "https://rpc.taiko.tools"
+        "https://rpc.taiko.tools",
+        "https://taiko-rpc.publicnode.com"
       ]
     },
     "nativeToken": {
@@ -940,7 +944,8 @@
         "decimals": 18
       },
       "rpcUrls": [
-        "https://rpc.soniclabs.com"
+        "https://rpc.soniclabs.com",
+        "https://sonic-rpc.publicnode.com"
       ]
     },
     "nativeToken": {
