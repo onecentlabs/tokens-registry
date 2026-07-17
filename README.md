@@ -62,8 +62,12 @@ Chain aliases (`ETH`, `BNB`, `ARB`, `BASE`, `POL`, ...) and numeric ids both wor
 ## Auto-update
 
 A background task pulls the source lists in `app/sources.py` every
-`REFRESH_INTERVAL_SECONDS` (default 6h), merges them into `data/registry/*.json`
-(dedup by address, first-wins), applies optional overlays, then hot-swaps the
+`REFRESH_INTERVAL_SECONDS` (default 6h) — plus the Jupiter Tokens API for Solana
+when `JUP_API_KEY` is set (verified tag + top organic/trending/traded, mapped to
+the registry schema with `VERIFIED` tags and an `extensions.organicScore`). It
+merges them into `data/registry/*.json` (dedup by address, first-wins; Solana is
+source-wins so verification/score refresh each cycle), applies optional overlays,
+then hot-swaps the
 in-memory snapshot. Sources are fetched concurrently; a failing source is
 skipped, not fatal.
 
@@ -90,6 +94,9 @@ Overlays (optional, per chain id) under `data/overlays/`:
 | `REFRESH_TOKEN` | _(empty)_ | require `x-refresh-token` header on `POST /refresh` |
 | `REFRESH_CONCURRENCY` | `16` | parallel source fetches |
 | `RPC_FALLBACK_ENABLED` | `true` | read unknown tokens on-chain via JSON-RPC |
+| `JUP_API_KEY` | _(empty)_ | enable the Jupiter Solana source on refresh (verified + top-organic/trending/traded) |
+| `JUP_API_BASE` | `https://api.jup.ag/tokens/v2` | Jupiter Tokens API base URL |
+| `SOLANA_CHAIN_ID` | `501000101` | chain id used for Solana tokens |
 | `REGISTRY_DIR` / `CHAINS_DIR` / `ASSETS_DIR` | `data/...`, `assets/` | data locations |
 
 ## Layout

@@ -14465,5 +14465,37 @@
     "symbol": "AVI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31024/thumb/avi-200x200png.png?1711119363"
+  },
+  {
+    "chainId": 137,
+    "address": "0xb39ec11468f689c7984bc35171ed50247131e809",
+    "name": "QORA",
+    "symbol": "Q",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174382/thumb/IMG_5344.webp?1783526173"
+  },
+  {
+    "chainId": 137,
+    "address": "0xfbbbf749c3df8c166335e933548103b9b51d416a",
+    "name": "BigTechExchange",
+    "symbol": "BTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174354/thumb/_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_BTX_%EB%A1%9C%EA%B3%A0.png?1783422659"
+  },
+  {
+    "chainId": 137,
+    "address": "0x63de49a3c952ca35957d03741ec62e7a19af67a3",
+    "name": "PredictAsiaX",
+    "symbol": "PAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174359/thumb/logo.png?1783437420"
+  },
+  {
+    "chainId": 137,
+    "address": "0x99af3eea856556646c98c8b9b2548fe815240750",
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/31212/thumb/PYUSD_Token_Logo_2x.png?1765987788"
   }
 ]

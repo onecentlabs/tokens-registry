@@ -1958,5 +1958,40 @@
     "symbol": "BNKR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52626/thumb/bankr-static.png?1736405365"
+  },
+  {
+    "chainId": 4663,
+    "address": "0x666716999E75d2652398FF830Bbc2e485946E140",
+    "name": "Arm Holdings plc",
+    "symbol": "ARM",
+    "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0x33C18e2CC8AE9AE486e785090D86B2CE632FF994",
+    "name": "Roundhill Memory ETF",
+    "symbol": "DRAM",
+    "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0x6ddb95405db6179012Bff2fFf7E0F8d49cF00137",
+    "name": "Tema Space Innovators ETF",
+    "symbol": "NASA",
+    "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0x25EE805ac369b6E3F8bF5764c682d34a37cb7175",
+    "name": "Nokia",
+    "symbol": "NOK",
+    "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0xb02e3E1b7f68559427C2D9100566E4F3CC5b7611",
+    "name": "RVI",
+    "symbol": "RVI",
+    "decimals": 18
   }
 ]

@@ -26,6 +26,12 @@ REFRESH_TOKEN = os.getenv("REFRESH_TOKEN", "")
 RPC_FALLBACK_ENABLED = os.getenv("RPC_FALLBACK_ENABLED", "true").lower() == "true"
 RPC_HTTP_TIMEOUT = float(os.getenv("RPC_HTTP_TIMEOUT", "5"))
 
+# Jupiter Tokens API — Solana source. Fetched during refresh only when a key is
+# set. Provides verification status + organic score for the Solana registry.
+JUP_API_KEY = os.getenv("JUP_API_KEY", "")
+JUP_API_BASE = os.getenv("JUP_API_BASE", "https://api.jup.ag/tokens/v2")
+SOLANA_CHAIN_ID = int(os.getenv("SOLANA_CHAIN_ID", "501000101"))
+
 # Sentinel address used for native gas tokens across the ecosystem.
 NATIVE_SENTINEL = "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
 ZERO_ADDRESS = "0x0000000000000000000000000000000000000000"

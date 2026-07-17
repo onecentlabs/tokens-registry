@@ -28711,5 +28711,149 @@
     "symbol": "SUSDAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55861/thumb/sUSDai_Token_Full_Glyph.png?1755229072"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7f2f00e54dcaa8b248bdfd75da2ae859d4d8ff3e",
+    "name": "The America Only Token",
+    "symbol": "TAOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174545/thumb/taot.png?1783980898"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x88ff7b451286b1f667e95369b965fee3fe629f89",
+    "name": "Dungeon Labs",
+    "symbol": "DLABS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174358/thumb/dvKIHEPu_400x400.jpg?1783437133"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa382c83e2a3b79368f372c2eb9b6925ffaf45ba3",
+    "name": "HIVE",
+    "symbol": "HIVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174390/thumb/app-icon-200x200.png?1783578375"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x693bad964f815f32fabe0b9d4911865bffc30172",
+    "name": "MYRAD",
+    "symbol": "MYRAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174566/thumb/myrad-logo.png?1784046618"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8185eaf46136a3f095c60facd97eca1bfc2f38f6",
+    "name": "Olivia AI 2.0",
+    "symbol": "$OLIVIA2.0",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174253/thumb/kbbosdrh67b304lrvhghaohkapdd.?1782812683"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x19cf86d38ae55d1dc08f50588f11b6acc297f977",
+    "name": "Alpha Bulgaria Warrants",
+    "symbol": "ALFW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174400/thumb/0fc344_46599cf95f3b4eac9dcd8b50a1fcd064_mv2%281%29%281%29.png?1783581235"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x73ac2806c40ab4741ea7a35b7328aca957755ba3",
+    "name": "The White Wolf",
+    "symbol": "WOLF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174377/thumb/ChatGPT_Image_29_juin_2026__17_02_57.png?1783502631"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x55f9c8992fc4abce5aca585bf8f18284a2379d4c",
+    "name": "8lends",
+    "symbol": "8LNDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174425/thumb/logo200x200px_%283%29.png?1783668931"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc4a09803e2e1a491cb3119b891dcf890e3c98b07",
+    "name": "CHEF Universe",
+    "symbol": "CHEF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174355/thumb/CHEF.jpeg?1783422856"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb3846fd356c2149ee8d30b0449088dc74e265459",
+    "name": "Moonbeam",
+    "symbol": "GLMR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22459/thumb/Moonbeam_GLMR_ICON.png?1716647586"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7aa7cb583084defc43cc0c2e95213ce364a8df9c",
+    "name": "Solarcoin",
+    "symbol": "SLR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174534/thumb/solarcoin.png?1783952711"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1e925de1c68ef83bd98ee3e130ef14a50309c01b",
+    "name": "Exactly Protocol",
+    "symbol": "EXA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31089/thumb/EXA.png?1696529921"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x43feb74608334dda8c1a6500d185cfc3ea962b83",
+    "name": "Moonriver",
+    "symbol": "MOVR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17984/thumb/Moonriver_MOVR_ICON.png?1716647589"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0c0db132c6c4f687b7f772e3514ae2a172cab2bb",
+    "name": "Hydra",
+    "symbol": "HYDRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13631/thumb/Logo_Hydra_200x200_Transparent.png?1719010995"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0357d61ede1cbcb38981b11117cfca1854ca28ad",
+    "name": "BitSong",
+    "symbol": "BTSG",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/5041/thumb/logo_-_2021-01-10T210801.390.png?1696505572"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb9caa63e09c646c1ec79acb2158d173e64a5fed3",
+    "name": "SKALE",
+    "symbol": "SKL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13245/thumb/SKALE_token_300x300.png?1696513021"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe908475f8beb7a138b0dc6eb5a05cb27068ffb9a",
+    "name": "Gold Token SA DGLD Tokenized Gold",
+    "symbol": "DGLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71141/thumb/Metallic__G__and_Cedi_Logo_%281%29.png?1765974091"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x934ef4bfffdce191ac4bcc351b2fe7892865b440",
+    "name": "Cypress",
+    "symbol": "CP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/IMG_9405.JPG?1783674461"
   }
 ]

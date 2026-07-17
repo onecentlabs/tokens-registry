@@ -13285,5 +13285,21 @@
     "symbol": "AUDX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71222/thumb/AUDX_Logo.png?1766480331"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7796f4e23a62ef3653829c21032a9e24beaf4cf5",
+    "name": "Bending Spoons xStock",
+    "symbol": "BSPX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174230/thumb/BSPx.png?1782604454"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x27f6c8289550fce67f6b50bed1f519966afe5287",
+    "name": "Tokenised GBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800"
   }
 ]

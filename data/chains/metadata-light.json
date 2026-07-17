@@ -1336,5 +1336,69 @@
         }
       ]
     }
+  },
+  {
+    "id": 501000101,
+    "identifier": "solana",
+    "type": "SVM",
+    "name": "Solana",
+    "coin": "SOL",
+    "mode": "mainnet",
+    "multicall": "",
+    "properties": {
+      "logo": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png",
+      "tokenlist": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/501000101.json",
+      "explorers": [
+        "https://solscan.io/"
+      ],
+      "rpcs": [
+        "https://api.mainnet-beta.solana.com"
+      ],
+      "faucets": []
+    },
+    "wallet": {
+      "blockExplorerUrls": [
+        "https://solscan.io/"
+      ],
+      "chainName": "Solana",
+      "nativeCurrency": {
+        "name": "SOL",
+        "symbol": "SOL",
+        "decimals": 9
+      },
+      "rpcUrls": [
+        "https://api.mainnet-beta.solana.com"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "11111111111111111111111111111111",
+        "alternate": "So11111111111111111111111111111111111111112",
+        "chainId": 501000101,
+        "symbol": "SOL",
+        "decimals": 9,
+        "name": "SOL",
+        "coinKey": "SOL",
+        "logoURI": "https://coin-images.coingecko.com/coins/images/21629/large/solana.jpg?1696520989"
+      },
+      "stablecoins": [
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "type": "SPL",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "logo": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694"
+        },
+        {
+          "name": "Tether",
+          "symbol": "USDT",
+          "type": "SPL",
+          "decimals": 6,
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "logo": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661"
+        }
+      ]
+    }
   }
 ]

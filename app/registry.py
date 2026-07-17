@@ -50,6 +50,8 @@ CHAIN_ALIASES: dict[str, str] = {
     "PLASMA": "9745",
     "HEMI": "43111",
     "ROBINHOOD": "4663",
+    "SOL": "501000101",
+    "SOLANA": "501000101",
 }
 
 # Native gas-token placeholder rows that should not appear in token *lists*
@@ -143,9 +145,15 @@ class Snapshot:
 
     def get_token(self, token: str, chain: str) -> dict | None:
         chain_id = resolve_chain_id(chain)
+        key = token.lower()
         if _looks_like_address(token):
-            return self.by_address.get(chain_id, {}).get(token.lower())
-        return self.by_symbol.get(chain_id, {}).get(token.lower())
+            return self.by_address.get(chain_id, {}).get(key)
+        # Symbol first; fall back to the address index so non-EVM identifiers
+        # (e.g. Solana base58 mints) that aren't 0x-addresses still resolve.
+        hit = self.by_symbol.get(chain_id, {}).get(key)
+        if hit is None:
+            hit = self.by_address.get(chain_id, {}).get(key)
+        return hit
 
     def tokens_response(self, chains: list[str] | None) -> bytes:
         """Return pre-serialized JSON bytes for the /tokens endpoint."""

@@ -45,6 +45,87 @@ async def _fetch(client: httpx.AsyncClient, url: str, sem: asyncio.Semaphore) ->
         return tokens
 
 
+# Jupiter Solana lists to pull each refresh: the verified tag (authoritative
+# curated set) plus a few hot categories to catch trending tokens early.
+_JUP_TAGS = ["verified"]
+_JUP_CATEGORIES = [("toporganicscore", "24h"), ("toptrending", "24h"), ("toptraded", "24h")]
+_JUP_CATEGORY_LIMIT = 100
+
+
+def _jup_to_token(j: dict) -> dict | None:
+    """Map a Jupiter token object to the registry (Uniswap-style) schema."""
+    mint = j.get("id")
+    decimals = j.get("decimals")
+    if not mint or decimals is None:
+        return None
+    token: dict = {
+        "chainId": config.SOLANA_CHAIN_ID,
+        "address": mint,
+        "name": j.get("name"),
+        "symbol": j.get("symbol"),
+        "decimals": decimals,
+    }
+    if j.get("icon"):
+        token["logoURI"] = j["icon"]
+    if j.get("isVerified"):
+        token["tags"] = ["VERIFIED"]
+    if "major" in (j.get("tags") or []):
+        token["major"] = True
+    ext: dict = {}
+    score = j.get("organicScore")
+    if score is not None:
+        ext["organicScore"] = round(score, 2)
+    if j.get("isVerified") is not None:
+        ext["isVerified"] = bool(j["isVerified"])
+    if ext:
+        token["extensions"] = ext
+    return token
+
+
+async def _fetch_jupiter(client: httpx.AsyncClient, sem: asyncio.Semaphore) -> list[dict]:
+    """Pull Solana tokens from Jupiter (verified tag + hot categories).
+
+    Returns an empty list when no API key is configured. Deduped by mint,
+    first-wins, so the verified list takes precedence over category overlaps.
+    """
+    if not config.JUP_API_KEY:
+        return []
+    headers = {"x-api-key": config.JUP_API_KEY}
+    urls = [f"{config.JUP_API_BASE}/tag?query={t}" for t in _JUP_TAGS]
+    urls += [
+        f"{config.JUP_API_BASE}/{cat}/{iv}?limit={_JUP_CATEGORY_LIMIT}"
+        for cat, iv in _JUP_CATEGORIES
+    ]
+
+    async def one(url: str) -> list[dict]:
+        async with sem:
+            try:
+                resp = await client.get(url, headers=headers)
+                resp.raise_for_status()
+                data = orjson.loads(resp.content)
+            except Exception as exc:  # noqa: BLE001 - a bad Jupiter call must not fail the run
+                log.warning("jupiter source failed %s: %s", url, exc)
+                return []
+            return data if isinstance(data, list) else []
+
+    results = await asyncio.gather(*(one(u) for u in urls))
+    seen: set[str] = set()
+    tokens: list[dict] = []
+    for arr in results:
+        for j in arr:
+            tok = _jup_to_token(j)
+            if not tok:
+                continue
+            key = tok["address"].lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            tokens.append(tok)
+    if tokens:
+        log.info("jupiter: %d solana tokens", len(tokens))
+    return tokens
+
+
 def _read_json(path) -> list[dict]:
     if not path.is_file():
         return []
@@ -55,13 +136,16 @@ def _read_json(path) -> list[dict]:
         return []
 
 
-def _merge_chain(chain_id: int, new_tokens: list[dict]) -> list[dict]:
+def _merge_chain(chain_id: int, new_tokens: list[dict], source_wins: bool = False) -> list[dict]:
     registry_path = config.REGISTRY_DIR / f"{chain_id}.json"
     existing = _read_json(registry_path)
 
-    # Dedup by address, first-wins (existing entries take precedence).
+    # Dedup by address, first-wins. Existing entries take precedence by default;
+    # with source_wins the fetched tokens win (used for Solana/Jupiter so
+    # verification + organic score refresh every cycle).
+    ordered = [*new_tokens, *existing] if source_wins else [*existing, *new_tokens]
     deduped: dict[str, dict] = {}
-    for token in [*existing, *new_tokens]:
+    for token in ordered:
         addr = token.get("address")
         if not addr:
             continue
@@ -119,6 +203,7 @@ async def run_refresh() -> dict:
                 *(_fetch(client, url, sem) for url in SOURCES),
                 return_exceptions=True,
             )
+            jup_tokens = await _fetch_jupiter(client, sem)
 
         for result in results:
             if isinstance(result, Exception):
@@ -132,10 +217,17 @@ async def run_refresh() -> dict:
                     continue
                 tokens_by_chain.setdefault(int(cid), []).append(token)
 
+        # Jupiter Solana tokens go to the front so they win the source_wins merge.
+        if jup_tokens:
+            prev = tokens_by_chain.get(config.SOLANA_CHAIN_ID, [])
+            tokens_by_chain[config.SOLANA_CHAIN_ID] = jup_tokens + prev
+
         written = 0
         config.REGISTRY_DIR.mkdir(parents=True, exist_ok=True)
         for chain_id, new_tokens in tokens_by_chain.items():
-            merged = _merge_chain(chain_id, new_tokens)
+            merged = _merge_chain(
+                chain_id, new_tokens, source_wins=(chain_id == config.SOLANA_CHAIN_ID)
+            )
             path = config.REGISTRY_DIR / f"{chain_id}.json"
             path.write_bytes(orjson.dumps(merged, option=orjson.OPT_INDENT_2))
             written += len(merged)
