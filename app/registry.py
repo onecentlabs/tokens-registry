@@ -26,6 +26,7 @@ CHAIN_ALIASES: dict[str, str] = {
     "ETHEREUM": "1",
     "BNB": "56",
     "BSC": "56",
+    "BINANCE": "56",
     "ARB": "42161",
     "ARBITRUM": "42161",
     "BASE": "8453",
@@ -48,6 +49,7 @@ CHAIN_ALIASES: dict[str, str] = {
     "HYPEREVM": "999",
     "PLASMA": "9745",
     "HEMI": "43111",
+    "ROBINHOOD": "4663",
 }
 
 # Native gas-token placeholder rows that should not appear in token *lists*

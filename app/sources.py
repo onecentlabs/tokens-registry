@@ -37,4 +37,5 @@ SOURCES: list[str] = [
     "https://tokens.coingecko.com/sonic/all.json",
     "https://tokens.coingecko.com/berachain/all.json",
     "https://tokens.coingecko.com/hyperevm/all.json",
+    "https://tokens.coingecko.com/robinhood/all.json",
 ]

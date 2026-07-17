@@ -412,9 +412,9 @@
     ]
   },
   {
-    "key": "bnb",
+    "key": "binance",
     "chainType": "EVM",
-    "name": "Binance Smart Chain",
+    "name": "Binance",
     "coin": "BNB",
     "id": 56,
     "mainnet": true,
@@ -1068,6 +1068,59 @@
         "decimals": 6,
         "address": "0xbB0D083fb1be0A9f6157ec484b6C79E0A4e31C2e",
         "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      }
+    ]
+  },
+  {
+    "key": "robinhood",
+    "chainType": "EVM",
+    "name": "Robinhood",
+    "coin": "ETH",
+    "id": 4663,
+    "mainnet": true,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174485/thumb/IMG_2485.jpeg?1784083180",
+    "tokenlistUrl": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/refs/heads/main/registry/4663.json",
+    "metamask": {
+      "chainId": "0x1237",
+      "blockExplorerUrls": [
+        "https://robinhoodchain.blockscout.com/"
+      ],
+      "chainName": "Robinhood Chain",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.mainnet.chain.robinhood.com"
+      ]
+    },
+    "nativeToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 4663,
+      "symbol": "ETH",
+      "decimals": 18,
+      "name": "ETH",
+      "coinKey": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    "stablecoins": [
+      {
+        "name": "Global Dollar",
+        "symbol": "USDG",
+        "type": "ERC20",
+        "decimals": 6,
+        "address": "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+        "logo": "https://assets.coingecko.com/coins/images/51281/thumb/GDN_USDG_Token_200x200.png?1730484111"
+      },
+      {
+        "name": "Ethena USDe",
+        "symbol": "USDE",
+        "type": "ERC20",
+        "decimals": 18,
+        "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+        "logo": "https://assets.coingecko.com/coins/images/33613/thumb/usde.png?1733810059"
       }
     ]
   }
