@@ -1521,5 +1521,93 @@
     "symbol": "AUDX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71222/small/AUDX_Logo.png?1766480331"
+  },
+  {
+    "chainId": 999,
+    "address": "0xd62dcc1e28d646db54e2204a40980f9db28e0363",
+    "name": "HyperHam",
+    "symbol": "HAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174248/small/HAM1_copy.jpg?1782809439"
+  },
+  {
+    "chainId": 999,
+    "address": "0xbee62d1b61af920098873bd0336b46a5efdc0e83",
+    "name": "HyperLink hlHYPE",
+    "symbol": "HLHYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174277/small/hlhype-dither-512.png?1784170081"
+  },
+  {
+    "chainId": 999,
+    "address": "0xe2d2959f89b6389deb624bf076fe7d9e5401f377",
+    "name": "Monetrix USD",
+    "symbol": "USDM",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174243/small/monetrix.png?1782722620"
+  },
+  {
+    "chainId": 999,
+    "address": "0x77146784315ba81904d654466968e3a7c196d1f3",
+    "name": "Treehouse",
+    "symbol": "TREE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67664/small/TREE_logo.png?1753601041"
+  },
+  {
+    "chainId": 999,
+    "address": "0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
+    "name": "Argentine Peso",
+    "symbol": "WARS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70846/small/world_logos_wars_logo_3.png?1764176749"
+  },
+  {
+    "chainId": 999,
+    "address": "0x4f34c8b3b5fb6d98da888f0fea543d4d9c9f2ebe",
+    "name": "Peruvian Sol",
+    "symbol": "WPEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70975/small/wpen_logo_1.png?1764954695"
+  },
+  {
+    "chainId": 999,
+    "address": "0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
+    "name": "Brazilian real",
+    "symbol": "WBRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70862/small/wbrl.png?1764272108"
+  },
+  {
+    "chainId": 999,
+    "address": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
+    "name": "Chilean Peso",
+    "symbol": "WCLP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70976/small/wclp_logo_1.png?1764954870"
+  },
+  {
+    "chainId": 999,
+    "address": "0x337e7456b420bd3481e7fa61fa9850343d610d34",
+    "name": "Mexican Peso",
+    "symbol": "WMXN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70880/small/wmxn_logo_1.png?1764392404"
+  },
+  {
+    "chainId": 999,
+    "address": "0x8a1d45e102e886510e891d2ec656a708991e2d76",
+    "name": "Colombian Peso",
+    "symbol": "WCOP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70887/small/wcop_logo_1.png?1764394538"
+  },
+  {
+    "chainId": 999,
+    "address": "0x58100046a4afcd4ee4fadbd4244f3f895a341c56",
+    "name": "SK Hynix xStock",
+    "symbol": "SKHYX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174327/small/SKHYx.png?1783238310"
   }
 ]

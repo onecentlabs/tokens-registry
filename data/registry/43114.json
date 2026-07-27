@@ -6210,5 +6210,29 @@
     "symbol": "SUSDP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172374/small/sUSDp_w200.png?1773162285"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5954ff4099ac47c4d6d098a9216f3278bb8c9506",
+    "name": "Securitize",
+    "symbol": "SECZ",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174282/small/secz_logo.png?1782923675"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x77146784315ba81904d654466968e3a7c196d1f3",
+    "name": "Treehouse",
+    "symbol": "TREE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67664/small/TREE_logo.png?1753601041"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x787b8cad6f6539e90734780f370bfddf299713e1",
+    "name": "CURRENC Group Inc.",
+    "symbol": "CURR",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173367/small/458ff28e-4484-4fd1-a2b2-7b8d5b78ac75-token-icon.png?1779207252"
   }
 ]

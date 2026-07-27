@@ -13301,5 +13301,37 @@
     "symbol": "TGBP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70647/small/tgbp-square.png?1762953800"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5af01e4d2beff2b01a8f3992e875edd8d67469d2",
+    "name": "UranoToken",
+    "symbol": "URANO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174804/small/dhn52l9prrir8rhuxcsxn8ko354d.?1784970670"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd432c4f8ea36d53ef17e6500b611f95ef3fa68c4",
+    "name": "Boardwalk",
+    "symbol": "BWLK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174687/small/boardwalk_avatar_white_on_blue.png?1784621838"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xff0490bf1a58a4151d4d6ec6cb3d2959a561874c",
+    "name": "saffron.finance",
+    "symbol": "SFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13117/small/sfi_red_250px.png?1696512904"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4267ac2b815664047855b6c64be5605af9d51304",
+    "name": "Helios Blockchain",
+    "symbol": "HLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71304/small/logo32x32.png?1767090591"
   }
 ]

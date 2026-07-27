@@ -1,107 +1,59 @@
 [
   {
-    "chainId": 501000101,
-    "address": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp",
     "name": "michi",
-    "symbol": "$michi",
+    "address": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp",
+    "symbol": "$MICHI",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmTQrP6R7ieRSbKzwzLAy1i8c2U66b7LM6bSUmK1dfYc5b",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37309/small/5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp.jpeg?1713952829"
   },
   {
-    "chainId": 501000101,
-    "address": "J6pQQ3FAcJQeWPPGppWRb4nM8jU3wLyYbRrLh7feMfvd",
     "name": "DoubleZero",
+    "address": "J6pQQ3FAcJQeWPPGppWRb4nM8jU3wLyYbRrLh7feMfvd",
     "symbol": "2Z",
     "decimals": 8,
-    "logoURI": "https://i.ibb.co/CpkQG6C1/img.jpg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 51.5,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68339/small/Coingecko_-_PFP.png?1755694420"
   },
   {
-    "chainId": 501000101,
-    "address": "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y",
     "name": "Access Protocol",
+    "address": "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y",
     "symbol": "ACS",
     "decimals": 6,
-    "logoURI": "https://ap-staging.fra1.digitaloceanspaces.com/1663691449945",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28747/small/dR4FovX4_400x400.jpg?1696527727"
   },
   {
-    "chainId": 501000101,
+    "name": "Act I The AI Prophecy",
     "address": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
-    "name": "Act I : The AI Prophecy",
     "symbol": "ACT",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmUfrHNLqia7NmqgbzHYGF4rtX75nEwukPFFU1YscKKquL",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50984/small/ai_prophecy.jpg?1729653897"
   },
   {
-    "chainId": 501000101,
-    "address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
     "name": "ai16z",
-    "symbol": "ai16z",
+    "address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+    "symbol": "AI16Z",
     "decimals": 9,
-    "logoURI": "https://ipfs.io/ipfs/QmcNTVAoyJ7zDbPnN9jwiMoB8uCoJBUP9RGmmiGGHv44yX",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 48.86,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51090/small/AI16Z.jpg?1730027175"
   },
   {
-    "chainId": 501000101,
+    "name": "aixbt",
     "address": "14zP2ToQ79XWvc7FQpm4bRnp9d6Mp1rFfsUW3gpLcRX",
-    "name": "aixbt by Virtuals (Wormhole)",
     "symbol": "AIXBT",
     "decimals": 8,
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51784/small/3.png?1731981138"
   },
   {
-    "chainId": 501000101,
-    "address": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
     "name": "Alchemist AI",
+    "address": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
     "symbol": "ALCH",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmYqwkPV1p4DraqN5TfLZVhyrAusSkHfvFDZMJAWALZJxj",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 57.14,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52302/small/small-logo.png?1733053544"
   },
   {
     "name": "Artificial Liquid Intelligence",
@@ -112,64 +64,44 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/22062/small/ALI-v2.webp?1728501978"
   },
   {
-    "chainId": 501000101,
+    "name": "Hey Anon",
     "address": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
-    "name": "HeyAnon",
-    "symbol": "Anon",
+    "symbol": "ANON",
     "decimals": 9,
-    "logoURI": "https://ipfs.io/ipfs/QmZDXjdV3fDssQeXVhgUFWi8Uv7FBSCUzZHnfupgTGsi27",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52961/small/AAI__ANON_SQ_Wb_250x250.png?1740500195"
   },
   {
-    "chainId": 501000101,
+    "name": "Apu Apustaja",
     "address": "26s3UGB9hund1qspApy1zYgCritxAooGg7o63BMn89Yq",
-    "name": "Apu Apustaja (Wormhole)",
     "symbol": "APU",
     "decimals": 8,
-    "logoURI": "https://res.cloudinary.com/do9mjpesy/image/upload/v1753709191/APU_logo_olfyoz.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35986/small/200x200.png?1710308147"
   },
   {
-    "chainId": 501000101,
-    "address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
     "name": "AI Rig Complex",
-    "symbol": "arc",
+    "address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+    "symbol": "ARC",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmPDJuEobBcLZihjFCvkWA8c1FiW7UzM2ctFdiffSLxf1d",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 74.47,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52701/small/u312bPNA_400x400.jpg?1734044765"
   },
   {
     "chainId": 501000101,
-    "address": "ASRRjA1R4RHVk5H9QKKm1jaQqMkxvv6nh5EypPrvwmxQ",
+    "address": "ARXwZkNAtzPfdcoqQiduJn8EPv9fKiDfGn2KyggyDrFs",
+    "name": "Arcium",
+    "symbol": "ARX",
+    "decimals": 9,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39970.png"
+  },
+  {
     "name": "Assisterr AI",
+    "address": "ASRRjA1R4RHVk5H9QKKm1jaQqMkxvv6nh5EypPrvwmxQ",
     "symbol": "ASRR",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/assister-xyz/slm-integrations/79c7ff32b6071acee6842480a50b8d0e1c11322f/assisterr-bl-w.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66206/small/ASRR_LOGO200.jpg?1748670826"
   },
   {
     "name": "Aethir",
@@ -180,19 +112,12 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/36179/small/logogram_circle_dark_green_vb_green_%281%29.png?1718232706"
   },
   {
-    "chainId": 501000101,
-    "address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
     "name": "Star Atlas",
+    "address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
     "symbol": "ATLAS",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 67.61,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/17659/small/Icon_Reverse.png?1696517190"
   },
   {
     "name": "Australian Digital Dollar",
@@ -203,109 +128,84 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/small/AUDD-Logo-Blue_512.png?1701319895"
   },
   {
-    "chainId": 501000101,
+    "name": "Audius",
     "address": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
-    "name": "Audius (Portal)",
     "symbol": "AUDIO",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/12913/small/audio-token-asset_2x.png?1747243328"
   },
   {
-    "chainId": 501000101,
-    "address": "DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2",
     "name": "aura",
-    "symbol": "aura",
+    "address": "DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2",
+    "symbol": "AURA",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmSBgFtpXnxLMeyU1Czs1PW5Zv7nFjy8ZXe5ZDhA8fyyPD",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 66.03,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/38376/small/aura_logo_200x200-01-01.png?1751114135"
   },
   {
     "chainId": 501000101,
-    "address": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump",
+    "address": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39284/small/AUSD_1024px.png?1764684132"
+  },
+  {
     "name": "Ava AI",
+    "address": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump",
     "symbol": "AVA",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmQdYxGMCLEZqWpgKo8BREBa5YSUbxFu6qaWiVXUW1yUhg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51935/small/7VZQ0qhB_400x400_%282%29.jpg?1732206907"
   },
   {
     "chainId": 501000101,
+    "address": "G8LfyGVsjsLzetJ5RWZVAhMo4H9cb58ET1Z6gEZJQdPM",
+    "name": "AVA",
+    "symbol": "AVA",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/3014/small/AVA_Logo_160x160px_Black.png?1696503750"
+  },
+  {
+    "name": "Basic Attention",
     "address": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
-    "name": "Basic Attention Token (Portal)",
     "symbol": "BAT",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/677/small/basic-attention-token.png?1696501867"
   },
   {
-    "chainId": 501000101,
-    "address": "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump",
     "name": "Bertram The Pomeranian",
-    "symbol": "Bert",
+    "address": "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump",
+    "symbol": "BERT",
     "decimals": 6,
-    "logoURI": "https://i.imgur.com/lcUxetM.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 65.62,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51480/small/photo_2025-04-22_23.04.39.png?1745405423"
   },
   {
-    "chainId": 501000101,
+    "name": "Bio Protocol",
     "address": "bioJ9JTqW62MLz7UKHU69gtKhPpGi1BQhccj2kmSvUJ",
-    "name": "BIO",
     "symbol": "BIO",
     "decimals": 9,
-    "logoURI": "https://crimson-fantastic-mouse-567.mypinata.cloud/ipfs/bafkreih3c2fcuob3h3vvv6s7sdvgglqgyc6tqu6tphaceciuonz2h4cagi",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53022/small/bio.jpg?1735011002"
   },
   {
+    "name": "Moonbirds",
+    "address": "G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG",
+    "symbol": "BIRB",
+    "decimals": 6,
     "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/69732/small/birb-logo.jpg?1759413928"
+  },
+  {
+    "name": "HarryPotterObamaSonic10Inu (ETH)",
     "address": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
-    "name": "HarryPotterObamaSonic (Wormhole)",
     "symbol": "BITCOIN",
     "decimals": 8,
-    "logoURI": "https://res.cloudinary.com/dwabqjws2/image/upload/v1753687603/hpos10i_logo_casino_night-twitter_oywvay.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30323/small/hpos10i_logo_casino_night-dexview.png?1696529224"
   },
   {
     "name": "Bless",
@@ -316,64 +216,36 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/69339/small/Layer_1_%284%29.png?1758523043"
   },
   {
-    "chainId": 501000101,
-    "address": "FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY",
     "name": "Bubblemaps",
+    "address": "FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY",
     "symbol": "BMT",
     "decimals": 9,
-    "logoURI": "https://storage.googleapis.com/bubblemaps-metadata/bmt/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52778/small/background-square.png?1734284378"
   },
   {
-    "chainId": 501000101,
+    "name": "Jeo Boden",
     "address": "3psH1Mj1f7yUfaD5gh6Zj7epE8hhrMkMETgv5TshQA4o",
-    "name": "jeo boden",
-    "symbol": "boden",
+    "symbol": "BODEN",
     "decimals": 9,
-    "logoURI": "https://bafkreid2t4f3i36tq4aowwaaa5633ggslefthxfdudaimog6unwu36umha.ipfs.nftstorage.link",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35872/small/boden.jpeg?1709974700"
   },
   {
-    "chainId": 501000101,
-    "address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
     "name": "BOOK OF MEME",
+    "address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
     "symbol": "BOME",
     "decimals": 6,
-    "logoURI": "https://bafkreihztk5poge7f2lz6logfjmhc7h7u6shvgacoktnuezks5oblmieue.ipfs.nftstorage.link",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 48.64,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/36071/small/bome.png?1710407255"
   },
   {
-    "chainId": 501000101,
-    "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
     "name": "Bonk",
-    "symbol": "Bonk",
+    "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "symbol": "BONK",
     "decimals": 5,
-    "logoURI": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 94.39,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28600/small/bonk.jpg?1696527587"
   },
   {
     "name": "Coin98",
@@ -384,19 +256,12 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/17117/small/logo.png?1696516677"
   },
   {
-    "chainId": 501000101,
+    "name": "PancakeSwap",
     "address": "4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL",
-    "name": "PancakeSwap Token",
-    "symbol": "Cake",
+    "symbol": "CAKE",
     "decimals": 9,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/12632/small/pancakeswap-cake-logo_%281%29.png?1696512440"
   },
   {
     "name": "CARV",
@@ -407,79 +272,44 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/37689/small/CARV_%281%29.png?1728418485"
   },
   {
-    "chainId": 501000101,
-    "address": "3joMReCCSESngJEpFLoKR2dNcChjSRCDtybQet5uSpse",
     "name": "Simon's Cat",
+    "address": "3joMReCCSESngJEpFLoKR2dNcChjSRCDtybQet5uSpse",
     "symbol": "CAT",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmUDeNDuacgt5SK4fVAqG72NbkBr8BULk7BZjfnKpDdyFF",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39765/small/Dv9GheV0_400x400.jpg?1756951559"
   },
   {
-    "chainId": 501000101,
-    "address": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
     "name": "Chintai",
+    "address": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
     "symbol": "CHEX",
     "decimals": 8,
-    "logoURI": "https://chintai.io/images/icon.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/10349/small/logo-white-bg-dark.png?1733475849"
   },
   {
-    "chainId": 501000101,
-    "address": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
     "name": "Just a chill guy",
+    "address": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
     "symbol": "CHILLGUY",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmaFy59TMnLb4jGgL6LpquyXSxTRXKR4mEfSobUSsPoR46",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 60.54,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51746/small/Scherm%C2%ADafbeelding_2024-11-15_om_20.57.58.png?1731926037"
   },
   {
-    "chainId": 501000101,
-    "address": "GkyPYa7NnCFbduLknCfBfP7p8564X1VZhwZYJ6CZpump",
     "name": "Chill House",
+    "address": "GkyPYa7NnCFbduLknCfBfP7p8564X1VZhwZYJ6CZpump",
     "symbol": "CHILLHOUSE",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmU5D2LBjkriYD4wqL5cEVwv1x1xqj2LCQAPKC79cVGd34",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 64.71,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55535/small/1irHeiVg_400x400.jpg?1746563474"
   },
   {
-    "chainId": 501000101,
-    "address": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
     "name": "Cloud",
+    "address": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
     "symbol": "CLOUD",
     "decimals": 9,
-    "logoURI": "https://arweave.net/N7vCgQdgQ-fab28zEB4m8QRLMwI91_KcXI-Gtr151gg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 63.06,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/38485/small/CLOUD_128x128.png?1721331750"
   },
   {
     "name": "Corn",
@@ -498,153 +328,100 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/19252/small/photo_2022-08-31_12.45.02.jpeg?1696518697"
   },
   {
-    "chainId": 501000101,
-    "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
     "name": "deBridge",
+    "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
     "symbol": "DBR",
     "decimals": 6,
-    "logoURI": "https://cdn.debridge.foundation/images/DBR.svg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 49.79,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/38019/small/DBR_icon_Color.png?1724708885"
   },
   {
-    "chainId": 501000101,
-    "address": "A7n89LqW67HJKzJkdWZa2xojuK4N5GBKHz3dfjATCZPz",
     "name": "Degen",
+    "address": "A7n89LqW67HJKzJkdWZa2xojuK4N5GBKHz3dfjATCZPz",
     "symbol": "DEGEN",
     "decimals": 6,
-    "logoURI": "https://arweave.net/YOAEsVKu2pTybwVLwemBxW_NtSRFJYcg3ItJKC9Xb78",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34515/small/android-chrome-512x512.png?1706198225"
   },
   {
-    "chainId": 501000101,
+    "name": "Dog (Bitcoin)",
     "address": "dog1viwbb2vWDpER5FrJ4YFG6gq6XuyFohUe9TXN65u",
-    "name": "DOG (Bitcoin)",
     "symbol": "DOG",
     "decimals": 5,
-    "logoURI": "https://metadata.runemine.com/doggotothemoon.jpg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 50.92,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37352/small/DOGGOTOTHEMOON.png?1714096969"
   },
   {
+    "name": "Doodles",
+    "address": "DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV",
+    "symbol": "DOOD",
+    "decimals": 9,
     "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/54399/small/doods.png?1739506481"
+  },
+  {
+    "name": "Drift Protocol",
     "address": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
-    "name": "Drift",
     "symbol": "DRIFT",
     "decimals": 6,
-    "logoURI": "https://metadata.drift.foundation/drift.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 54.28,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37509/small/DRIFT.png?1715842607"
   },
   {
-    "chainId": 501000101,
+    "name": "Dogelon Mars",
     "address": "7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5",
-    "name": "Dogelon (Portal)",
     "symbol": "ELON",
     "decimals": 4,
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/14962/small/6GxcPRo3_400x400.jpg?1696514622"
   },
   {
-    "chainId": 501000101,
-    "address": "BqPqrrQuoQXFGGEAEMnPmDgZ6RWQCajWnY3V6Yp4DZWP",
     "name": "Eclipse",
+    "address": "BqPqrrQuoQXFGGEAEMnPmDgZ6RWQCajWnY3V6Yp4DZWP",
     "symbol": "ES",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/hyperlane-xyz/hyperlane-registry/a86c3b432b6f9ad7272ae09859f20eb3ade3bd6e/deployments/warp_routes/ES/logo.svg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54958/small/image_%2832%29.png?1742979704"
   },
   {
-    "chainId": 501000101,
+    "name": "EstateX",
     "address": "28G7z3VyHDFNhrnvSTf1GssKoGrtCrdiguASQy2BsHiF",
-    "name": "EstateX (Wormhole)",
     "symbol": "ESX",
     "decimals": 8,
-    "logoURI": "https://res.cloudinary.com/daikum1wm/image/upload/v1755690979/logo-esx-l_q4zhf4.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/36937/small/logo.jpeg?1712847900"
   },
   {
-    "chainId": 501000101,
-    "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
     "name": "EURC",
+    "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
     "symbol": "EURC",
     "decimals": 6,
-    "logoURI": "https://www.circle.com/eurc-icon",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 70.48,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/26045/small/euro.png?1696525125"
   },
   {
-    "chainId": 501000101,
-    "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
     "name": "Fartcoin",
-    "symbol": "Fartcoin",
+    "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "symbol": "FARTCOIN",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmQr3Fz4h1etNsF7oLGMRHiCzhB5y9a7GjyodnF7zLHK1g",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 89.4,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50891/small/fart.jpg?1729503972"
   },
   {
-    "chainId": 501000101,
-    "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
     "name": "Bonfida",
+    "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
     "symbol": "FIDA",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp/logo.svg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/13395/small/bonfida.png?1696513157"
+  },
+  {
+    "name": "FIGHT",
+    "address": "8f62NyJGo7He5uWeveTA2JJQf4xzf8aqxkmzxRQ3mxfU",
+    "symbol": "FIGHT",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/70650/small/FIGHT_Token_Icon_200x200.png?1762972217"
   },
   {
     "name": "Frax (prev. FXS)",
@@ -655,94 +432,60 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/13423/small/frax.png?1745921071"
   },
   {
-    "chainId": 501000101,
+    "name": "Fwog",
     "address": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
-    "name": "FWOG",
     "symbol": "FWOG",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmQ4H6Y23dSEjn9LKB85M7KpVFiDu6KfDNZAcrqiCwFQQH",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 57.73,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39453/small/fwog.png?1722318442"
   },
   {
-    "chainId": 501000101,
+    "name": "Gari Network",
     "address": "CKaKtYvz6dKPyMvYq9Rh3UBrnNqYZAyd7iF4hJtjUvks",
-    "name": "Gari",
     "symbol": "GARI",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CKaKtYvz6dKPyMvYq9Rh3UBrnNqYZAyd7iF4hJtjUvks/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/22615/small/gari.png?1696521931"
   },
   {
     "chainId": 501000101,
-    "address": "4TBi66vi32S7J8X1A6eWfaLHYmUXu7CStcEmsJQdpump",
+    "address": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
+    "name": "GEODNET",
+    "symbol": "GEOD",
+    "decimals": 9,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31608/small/Circular_White.png?1696530424"
+  },
+  {
     "name": "Ghiblification",
-    "symbol": "Ghibli",
+    "address": "4TBi66vi32S7J8X1A6eWfaLHYmUXu7CStcEmsJQdpump",
+    "symbol": "GHIBLI",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmT7pkJ1aTLRqWEVY8jY33k2YxacHYeiMb76iUGf6F6PuX",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54988/small/ghibli.png?1743059802"
   },
   {
-    "chainId": 501000101,
+    "name": "Gigachad",
     "address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
-    "name": "GIGACHAD",
     "symbol": "GIGA",
     "decimals": 5,
-    "logoURI": "https://bafybeifiyvpbr3kd6wepax4qxdlxbjrpz2de4lqsuwwuihirvaal6kqwba.ipfs.nftstorage.link",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 68.9,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34755/small/IMG_0015.png?1705957165"
   },
   {
-    "chainId": 501000101,
-    "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
     "name": "GMT",
+    "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
     "symbol": "GMT",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 70.95,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/23597/small/token-gmt-200x200.png?1703153841"
   },
   {
-    "chainId": 501000101,
-    "address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
     "name": "Goatseus Maximus",
+    "address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
     "symbol": "GOAT",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmapAq9WtNrtyaDtjZPAHHNYmpSZAQU6HywwvfSWq4dQVV",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 53.15,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50717/small/GOAT_LOGO_NEW.jpg?1731292759"
   },
   {
     "name": "GoMining Token",
@@ -753,49 +496,28 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/15662/small/GoMining_Logo.png?1714757256"
   },
   {
-    "chainId": 501000101,
-    "address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
     "name": "Grass",
+    "address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
     "symbol": "GRASS",
     "decimals": 9,
-    "logoURI": "https://static.grassfoundation.io/grass-logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 73.11,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/40094/small/Grass.jpg?1725697048"
   },
   {
-    "chainId": 501000101,
+    "name": "GRIFFAIN",
     "address": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
-    "name": "test griffain.com",
     "symbol": "GRIFFAIN",
     "decimals": 6,
-    "logoURI": "https://griffain.com/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 48.89,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52547/small/aAp7HijF4Uf1SkZO3FsVMyrbBc5kux_0vIlI7Amxiu7ygza2T_Swtp8bA2KoL_yU0YWw7c52LG9wflD7b5KMZ6GNJgDtgQfmMKy75SBQ5ldIHl6qffC9SNWqKyvqKQJ5sWZgJnXztPPsuJD_IVTTdPlabPlxxuNq7OAxQcjCbRxnge3tim3QyyIrc5vTOzWR93BoZVf0pd7EzwziVlhzov.jpg?1733590142"
   },
   {
-    "chainId": 501000101,
+    "name": "STEPN Green Satoshi Token on Solana",
     "address": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
-    "name": "GST",
-    "symbol": "GST",
+    "symbol": "GST-SOL",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 67.14,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/21841/small/gst.png?1696521196"
   },
   {
     "name": "Gunz",
@@ -806,139 +528,76 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/55027/small/gunz.jpg?1743262298"
   },
   {
-    "chainId": 501000101,
+    "name": "Helium",
     "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
-    "name": "Helium Network Token",
     "symbol": "HNT",
     "decimals": 8,
-    "logoURI": "https://entities.nft.helium.io/v2/assets/hnt.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 67.33,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/4284/small/helium_logo_use.png?1748092589"
   },
   {
-    "chainId": 501000101,
+    "name": "HOME",
     "address": "J3umBWqhSjd13sag1E1aUojViWvPYA5dFNyqpKuX3WXj",
-    "name": "Home",
     "symbol": "HOME",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/defi-app/assets/refs/heads/main/logo/Logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54873/small/defi-app.png?1742235743"
   },
   {
-    "chainId": 501000101,
+    "name": "Hivemapper",
     "address": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
-    "name": "HONEY",
     "symbol": "HONEY",
     "decimals": 9,
-    "logoURI": "https://hivemapper-marketing-public.s3.us-west-2.amazonaws.com/Hivemapper_HONEY_token.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 60.57,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28388/small/honey.png?1696527388"
   },
   {
-    "chainId": 501000101,
-    "address": "DitHyRMQiSDhn5cnKMJV2CDDt6sVct96YrECiM49pump",
     "name": "Housecoin",
-    "symbol": "House",
+    "address": "DitHyRMQiSDhn5cnKMJV2CDDt6sVct96YrECiM49pump",
+    "symbol": "HOUSE",
     "decimals": 6,
-    "logoURI": "https://res.cloudinary.com/durc13eeg/image/upload/v1756713170/housecoin_logo_cy7q2d.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 53.89,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55056/small/house.jpg?1743469684"
   },
   {
-    "chainId": 501000101,
+    "name": "io.net",
     "address": "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K",
-    "name": "IO",
     "symbol": "IO",
     "decimals": 8,
-    "logoURI": "https://bafkreicnqsbhpzxiasdm5esr7fqi3vcjvcbfefo4sq4y3ff747rfqf7w7i.ipfs.nftstorage.link",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 54.93,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37754/small/io_blackbg.png?1715446363"
   },
   {
-    "chainId": 501000101,
-    "address": "AxriehR6Xw3adzHopnvMn7GcpRFcD41ddpiTWMg6pump",
     "name": "Stool Prisondente",
-    "symbol": "jailstool",
+    "address": "AxriehR6Xw3adzHopnvMn7GcpRFcD41ddpiTWMg6pump",
+    "symbol": "JAILSTOOL",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmeLJyTUjKbU6E47DqZGaPHdktRQi8HyJynmcSyghUbLjw",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54296/small/jailstool-logo.webp?1739093360"
   },
   {
-    "chainId": 501000101,
-    "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
     "name": "Jito Staked SOL",
-    "symbol": "JitoSOL",
+    "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "symbol": "JITOSOL",
     "decimals": 9,
-    "logoURI": "https://storage.googleapis.com/token-metadata/JitoSOL-256.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 94.67,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28046/small/JitoSOL-200.png?1696527060"
   },
   {
-    "chainId": 501000101,
+    "name": "Jito",
     "address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
-    "name": "JITO",
     "symbol": "JTO",
     "decimals": 9,
-    "logoURI": "https://metadata.jito.network/token/jto/image",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 85.85,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33228/small/jto.png?1701137022"
   },
   {
-    "chainId": 501000101,
-    "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
     "name": "Jupiter",
+    "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
     "symbol": "JUP",
     "decimals": 6,
-    "logoURI": "https://static.jup.ag/jup/icon.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 97.06,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34188/small/jup.png?1704266489"
   },
   {
     "name": "Sidekick",
@@ -949,34 +608,20 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/67966/small/kick.jpg?1754450296"
   },
   {
-    "chainId": 501000101,
+    "name": "Kin",
     "address": "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
-    "name": "KIN",
     "symbol": "KIN",
     "decimals": 5,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/959/small/image.png?1721122241"
   },
   {
-    "chainId": 501000101,
-    "address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
     "name": "Kamino",
+    "address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
     "symbol": "KMNO",
     "decimals": 6,
-    "logoURI": "https://cdn.kamino.finance/kamino.svg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 70.31,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35801/small/tP0Lcgwp_400x400.jpg?1709824189"
   },
   {
     "name": "Layer3",
@@ -987,19 +632,12 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/37768/small/Square.png?1722045128"
   },
   {
-    "chainId": 501000101,
-    "address": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
     "name": "Solayer",
+    "address": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
     "symbol": "LAYER",
     "decimals": 9,
-    "logoURI": "https://metadata.solayer.org/layer/image.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53498/small/Layer_Green.png?1744950002"
   },
   {
     "name": "Chainlink",
@@ -1010,19 +648,12 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/877/small/Chainlink_Logo_500.png?1760023405"
   },
   {
-    "chainId": 501000101,
-    "address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
     "name": "LOCK IN",
+    "address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
     "symbol": "LOCKIN",
     "decimals": 9,
-    "logoURI": "https://ipfs.io/ipfs/Qmc2SJQW4K7UYYVLdoKSf4cGVZbuFGTF4dZiAdRtivNkpX",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/38646/small/lockin.png?1718212159"
   },
   {
     "name": "Liquid Staked SOL",
@@ -1041,79 +672,68 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/11335/small/2020-05-19-token-200.png?1696511257"
   },
   {
-    "chainId": 501000101,
-    "address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
     "name": "Magic Eden",
+    "address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
     "symbol": "ME",
     "decimals": 6,
-    "logoURI": "https://arweave.net/hhifTzaEDnPKnYNi4aAhkZTUkNLoK6d3nMiQPAjByn4",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 52.36,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39850/small/_ME_Profile_Dark_2x.png?1734013082"
   },
   {
-    "chainId": 501000101,
-    "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
     "name": "Melania Meme",
+    "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
     "symbol": "MELANIA",
     "decimals": 6,
-    "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiduq5c43xdbcbhzx3plcdtz2jwkjpzlm2hwkoxhjgmnmqbl6otyfu",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53775/small/melania-meme.png?1737329885"
+  },
+  {
+    "name": "Meteora",
+    "address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+    "symbol": "MET",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69110/small/meteora.png?1757517561"
   },
   {
     "chainId": 501000101,
-    "address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+    "address": "METAwkXcqyXKy1AtsSgJ8JiUHwGCafnZL38n3vYmeta",
+    "name": "MetaDAO",
+    "symbol": "META",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68320/small/META.png?1755335883"
+  },
+  {
     "name": "cat in a dogs world",
+    "address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
     "symbol": "MEW",
     "decimals": 5,
-    "logoURI": "https://bafkreidlwyr565dxtao2ipsze6bmzpszqzybz7sqi2zaet5fs7k53henju.ipfs.nftstorage.link/",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 58.59,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/36440/small/MEW.png?1711442286"
   },
   {
+    "name": "Mezo",
+    "address": "8niMFW4yuv3vLoqTtBaC6rchyasmUhgvpgSyPEeeCrw6",
+    "symbol": "MEZO",
+    "decimals": 9,
     "chainId": 501000101,
-    "address": "moonThZEkkTVoNB7v6YVCQiT56JYDZ1oN185ba3WizL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39727.png"
+  },
+  {
     "name": "Moonwalk Fitness",
+    "address": "moonThZEkkTVoNB7v6YVCQiT56JYDZ1oN185ba3WizL",
     "symbol": "MF",
     "decimals": 4,
-    "logoURI": "https://mdubpub.s3.us-east-1.amazonaws.com/mw.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 45.49,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69602/small/moonwalk.png?1759214994"
   },
   {
-    "chainId": 501000101,
+    "name": "MAGIC•INTERNET•MONEY (Bitcoin)",
     "address": "M1M6sdffCs3ozzhpRveweRCWdZhxth4mvVujPtYEC3h",
-    "name": "MAGIC INTERNET MONEY (Bitcoin)",
     "symbol": "MIM",
     "decimals": 2,
-    "logoURI": "https://metadata.runemine.com/magicinternetmoney.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54456/small/MIM_LOGO_2.png?1740171004"
   },
   {
     "name": "Black Mirror",
@@ -1124,153 +744,84 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/68922/small/black_mirror.png?1756974711"
   },
   {
-    "chainId": 501000101,
-    "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
     "name": "Marinade",
+    "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
     "symbol": "MNDE",
     "decimals": 9,
-    "logoURI": "https://res.cloudinary.com/dfsfiedf9/image/upload/v1755612757/c1_enn0xo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/18867/small/c1.png?1750668234"
   },
   {
-    "chainId": 501000101,
-    "address": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
     "name": "Mango",
+    "address": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
     "symbol": "MNGO",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac/token.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/14773/small/token-mango.png?1696514442"
   },
   {
-    "chainId": 501000101,
-    "address": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
     "name": "Moo Deng",
+    "address": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
     "symbol": "MOODENG",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/Qmf1g7dJZNDJHRQru7E7ENwDjcvu7swMUB6x9ZqPXr4RV2",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50264/small/MOODENG.jpg?1726726975"
   },
   {
-    "chainId": 501000101,
+    "name": "Metaplex",
     "address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
-    "name": "Metaplex Token",
     "symbol": "MPLX",
     "decimals": 6,
-    "logoURI": "https://arweave.net/VRKOcXIvCxqp35RZ9I0-bDGk5qNfT46OTho-2oP9iGc",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 70.28,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/27344/small/mplx.png?1696526391"
   },
   {
-    "chainId": 501000101,
+    "name": "Marinade Staked SOL",
     "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
-    "name": "Marinade staked SOL (mSOL)",
-    "symbol": "mSOL",
+    "symbol": "MSOL",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 89.57,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/17752/small/mSOL.png?1696517278"
   },
   {
-    "chainId": 501000101,
+    "name": "Neon",
     "address": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
-    "name": "Neon EVM",
     "symbol": "NEON",
     "decimals": 9,
-    "logoURI": "https://neonevm.org/neon_token/neon_token.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28331/small/neon_%281%29.png?1696527338"
   },
   {
-    "chainId": 501000101,
-    "address": "C29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon",
     "name": "Nobody Sausage",
+    "address": "C29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon",
     "symbol": "NOBODY",
     "decimals": 9,
-    "logoURI": "https://imagedelivery.net/TKv7KPMH2OHcr6ck7xjakw/122470db-2978-4620-8242-549349e82100/public",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 65.17,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55425/small/IMG_3623.jpeg?1745945623"
   },
   {
-    "chainId": 501000101,
-    "address": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
     "name": "Nosana",
+    "address": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
     "symbol": "NOS",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 68.4,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/22553/small/POfb_I4u_400x400.jpg?1696521873"
   },
   {
-    "chainId": 501000101,
+    "name": "Non-Playable Coin",
     "address": "BeGY8KqKxboEwRbJd1q9H2K829jS4Rc5dEyNMYXCbV5p",
-    "name": "Non-Playable Coin (Wormhole)",
     "symbol": "NPC",
     "decimals": 8,
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31193/small/NPC_200x200.png?1696530021"
   },
   {
-    "chainId": 501000101,
-    "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
     "name": "Orca",
+    "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
     "symbol": "ORCA",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 70.42,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/17547/small/Orca_Logo.png?1696517083"
   },
   {
     "name": "Orderly",
@@ -1289,304 +840,172 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/13509/small/8DjBZ79V_400x400.jpg?1696513271"
   },
   {
-    "chainId": 501000101,
-    "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
     "name": "Pudgy Penguins",
+    "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
     "symbol": "PENGU",
     "decimals": 6,
-    "logoURI": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 88.39,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52622/small/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
   },
   {
-    "chainId": 501000101,
+    "name": "Pipe Network",
     "address": "7s9MoSt7VV1J3jVNnw2AyocsQDBdCkPYz5apQDPKy9i5",
-    "name": "Pipe",
     "symbol": "PIPE",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/PipeNetwork/metadata/main/pipe.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69734/small/photo_2025-10-02_16-25-13.jpg?1759457063"
   },
   {
-    "chainId": 501000101,
-    "address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
     "name": "Peanut the Squirrel",
-    "symbol": "Pnut",
+    "address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+    "symbol": "PNUT",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmNdTtJauw39u4DzGyTaZ35rRx4VgAxqb91wE89zjyHWd2",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51301/small/Peanut_the_Squirrel.png?1734941241"
   },
   {
-    "chainId": 501000101,
-    "address": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
     "name": "Star Atlas DAO",
+    "address": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
     "symbol": "POLIS",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 58.9,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/17789/small/POLIS.jpg?1696517312"
   },
   {
-    "chainId": 501000101,
-    "address": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
     "name": "PONKE",
+    "address": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
     "symbol": "PONKE",
     "decimals": 9,
-    "logoURI": "https://gateway.irys.xyz/YBMDVBvnfgO1gXCSmmc8p0RQhc69WWe8_kOkoT8w7nE",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 68.04,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33929/small/ponke-logo.png?1747200908"
   },
   {
-    "chainId": 501000101,
-    "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
     "name": "Popcat",
+    "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
     "symbol": "POPCAT",
     "decimals": 9,
-    "logoURI": "https://arweave.net/A1etRNMKxhlNGTf-gNBtJ75QJJ4NJtbKh_UXQTlLXzI",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 72.19,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33760/small/image.jpg?1702964227"
   },
   {
-    "chainId": 501000101,
-    "address": "FMQjDvT1GztVxdvYgMBEde4L54fftFGx9m5GmbqeJGM5",
     "name": "Portal",
+    "address": "FMQjDvT1GztVxdvYgMBEde4L54fftFGx9m5GmbqeJGM5",
     "symbol": "PORTAL",
     "decimals": 9,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29555.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35436/small/portal.jpeg?1708590254"
   },
   {
-    "chainId": 501000101,
-    "address": "4LLbsb5ReP3yEtYzmXewyGjcir5uXtKFURtaEUVC2AHs",
     "name": "Parcl",
+    "address": "4LLbsb5ReP3yEtYzmXewyGjcir5uXtKFURtaEUVC2AHs",
     "symbol": "PRCL",
     "decimals": 6,
-    "logoURI": "https://delicate-amaranth-badger.myfilebase.com/ipfs/QmXPfhVt6BiuyrK5Va7y3GNqDqBDwms3uW75CknNxDHGS7",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 55.33,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37078/small/ParclToken.png?1737478326"
   },
   {
+    "name": "Perle",
+    "address": "PERLEQKUNUp1dgFZ8EvyXHdN9d6ZQqfGxALDvfs6pDs",
+    "symbol": "PRL",
+    "decimals": 8,
     "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172470/small/Symbol_-_Mango_%281%29.png?1773500485"
+  },
+  {
+    "name": "Pump.fun",
     "address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-    "name": "Pump",
     "symbol": "PUMP",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/bafkreibyb3hcn7gglvdqpmklfev3fut3eqv3kje54l3to3xzxxbgpt5wjm",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 93.72,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67164/small/pump.jpg?1751949376"
   },
   {
-    "chainId": 501000101,
+    "name": "Pups (Bitcoin)",
     "address": "2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
-    "name": "PUPS WORLD PEACE",
     "symbol": "PUPS",
     "decimals": 9,
-    "logoURI": "https://metadata.runemine.com/pupsworldpeace.jpg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37159/small/token_logo.png?1732383184"
   },
   {
-    "chainId": 501000101,
-    "address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
     "name": "Pyth Network",
+    "address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
     "symbol": "PYTH",
     "decimals": 6,
-    "logoURI": "https://pyth.network/token.svg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 86.23,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31924/small/pyth.png?1701245725"
   },
   {
-    "chainId": 501000101,
-    "address": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
     "name": "PayPal USD",
+    "address": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
     "symbol": "PYUSD",
     "decimals": 6,
-    "logoURI": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/PYUSDLOGO.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 89.47,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31212/small/PYUSD_Logo_%282%29.png?1696530039"
   },
   {
-    "chainId": 501000101,
-    "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
     "name": "Raydium",
+    "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
     "symbol": "RAY",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 78.04,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/13928/small/PSigc4ie_400x400.jpg?1696513668"
   },
   {
-    "chainId": 501000101,
-    "address": "vQoYWru2pbUdcVkUrRH74ktQDJgVjRcDvsoDbUzM5n9",
     "name": "Rekt",
+    "address": "vQoYWru2pbUdcVkUrRH74ktQDJgVjRcDvsoDbUzM5n9",
     "symbol": "REKT",
     "decimals": 4,
-    "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xdd3b11ef34cd511a2da159034a05fcb94d806686.png?key=f2f66c&size=xl",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51727/small/rektcion_trans_200px.png?1731910587"
   },
   {
-    "chainId": 501000101,
+    "name": "Render",
     "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
-    "name": "Render Token",
     "symbol": "RENDER",
     "decimals": 8,
-    "logoURI": "https://shdw-drive.genesysgo.net/5zseP54TGrcz9C8HdjZwJJsZ6f3VbP11p1abwKWGykZH/rndr.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 67.35,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/11636/small/rndr.png?1696511529"
   },
   {
-    "chainId": 501000101,
-    "address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
     "name": "RETARDIO",
+    "address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
     "symbol": "RETARDIO",
     "decimals": 6,
-    "logoURI": "https://ipfs.filebase.io/ipfs/QmTWd41E9u7f6aUjUnucP4S88TCZLJ9sJRM1Kj5EAKfivt",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 58.82,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35759/small/RETARDIO_LOGO.png?1728587088"
   },
   {
-    "chainId": 501000101,
-    "address": "3DK98MXPz8TRuim7rfQnebSLpA7VSoc79Bgiee1m4Zw5",
     "name": "Renzo",
+    "address": "3DK98MXPz8TRuim7rfQnebSLpA7VSoc79Bgiee1m4Zw5",
     "symbol": "REZ",
     "decimals": 9,
-    "logoURI": "https://pink-faithful-ape-781.mypinata.cloud/ipfs/QmQVf9CWRPJefNRJSb4isweVEsfxomRVBXxu3NvUb3TB9S",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37327/small/renzo_200x200.png?1714025012"
   },
   {
-    "chainId": 501000101,
+    "name": "Samoyedcoin",
     "address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
-    "name": "Samoyed Coin",
     "symbol": "SAMO",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/15051/small/IXeEj5e.png?1696514710"
   },
   {
-    "chainId": 501000101,
-    "address": "SarosY6Vscao718M4A778z4CGtvcwcGef5M9MEH1LGL",
     "name": "Saros",
+    "address": "SarosY6Vscao718M4A778z4CGtvcwcGef5M9MEH1LGL",
     "symbol": "SAROS",
     "decimals": 6,
-    "logoURI": "https://rapid.coin98.com/Currency/saros.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 57.92,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34594/small/_SAROS_-Mark.Purple_-_Token_logo.png?1755658309"
   },
   {
-    "chainId": 501000101,
+    "name": "Saber",
     "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-    "name": "Saber Protocol Token",
     "symbol": "SBR",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/17162/small/oYs_YFz8_400x400.jpg?1696516721"
   },
   {
     "name": "Stader",
@@ -1597,80 +1016,68 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/20658/small/SD_Token_Logo.png?1696520060"
   },
   {
-    "chainId": 501000101,
-    "address": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
     "name": "Shadow Token",
+    "address": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
     "symbol": "SHDW",
     "decimals": 9,
-    "logoURI": "https://shdw-drive.genesysgo.net/FDcC9gn12fFkSU2KuQYH4TUjihrZxiTodFRWNF4ns9Kt/250x250_with_padding.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/22271/small/Property_1_Color.png?1696521615"
   },
   {
-    "chainId": 501000101,
+    "name": "Sigma",
     "address": "5SVG3T9CNQsm2kEwzbRq6hASqh1oGfjqTtLXYUibpump",
-    "name": "SIGMA",
     "symbol": "SIGMA",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmSZuPFTgLfpP16zgCZxQfhroFnfsyH6rKczzwxEeDL72M",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 52.92,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39408/small/sigma_logo.jpg?1722053407"
+  },
+  {
+    "name": "Seeker",
+    "address": "SKRbvo6Gf7GondiT3BbTfuRDPqLWei4j2Qy2NPGZhW3",
+    "symbol": "SKR",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70974/small/seeker-logo.jpg?1764922774"
   },
   {
     "chainId": 501000101,
-    "address": "So11111111111111111111111111111111111111112",
+    "address": "SLXdx4BUt2v9uJQNzWqSfzTJ9UKLUDsvxHFMEEdrfgq",
+    "name": "Solstice",
+    "symbol": "SLX",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71128/small/slx.png?1779455873"
+  },
+  {
     "name": "Wrapped SOL",
+    "address": "So11111111111111111111111111111111111111112",
     "symbol": "SOL",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "major": true,
-    "extensions": {
-      "organicScore": 98.99,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/21629/small/solana.jpg?1696520989"
   },
   {
-    "chainId": 501000101,
+    "name": "Sonic SVM",
     "address": "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES",
-    "name": "SONIC",
     "symbol": "SONIC",
     "decimals": 9,
-    "logoURI": "https://arweave.net/599UDQd5YAUfesAJCTNZ-4ELWLHX5pbid-ahpoJ-w1A",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 37.1,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53061/small/Token.png?1735169618"
+  },
+  {
+    "name": "SOON",
+    "address": "4eDf52YYzL6i6gbZ6FXqrLUPXbtP61f1gPSFM66M4XHe",
+    "symbol": "SOON",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55124/small/red_2.PNG?1743843131"
   },
   {
     "chainId": 501000101,
-    "address": "4eDf52YYzL6i6gbZ6FXqrLUPXbtP61f1gPSFM66M4XHe",
-    "name": "SOON Token",
-    "symbol": "SOON",
-    "decimals": 9,
-    "logoURI": "https://ipfs.io/ipfs/QmSA6CbLwJL5uoAntBqT2CxD14C6u9Mr5fT2LLTAH77E9K",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "address": "2MU93nLHhDsHzgEYBKbVbwLDd2pi71ubGp8SkEv9dZwQ",
+    "name": "Space",
+    "symbol": "SPC",
+    "decimals": 6,
+    "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fu2s5el43phn1rq5qc2376uqkp04j&w=64&q=75"
   },
   {
     "name": "SPICE",
@@ -1681,49 +1088,28 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/54849/small/SPICE_ICON_PINK_MAIN_200px.png?1742023756"
   },
   {
-    "chainId": 501000101,
+    "name": "SPX6900",
     "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
-    "name": "SPX6900 (Wormhole)",
     "symbol": "SPX",
     "decimals": 8,
-    "logoURI": "https://i.imgur.com/fLpAyY4.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 73.2,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31401/small/centeredcoin_%281%29.png?1737048493"
   },
   {
-    "chainId": 501000101,
-    "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
     "name": "Serum",
+    "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
     "symbol": "SRM",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/11970/small/serum-logo.png?1696511829"
   },
   {
-    "chainId": 501000101,
+    "name": "Step Finance",
     "address": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
-    "name": "Step",
     "symbol": "STEP",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/14988/small/step.png?1696514652"
   },
   {
     "name": "SUKU",
@@ -1742,19 +1128,12 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1696512101"
   },
   {
-    "chainId": 501000101,
+    "name": "Swarms",
     "address": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
-    "name": "swarms",
-    "symbol": "swarms",
+    "symbol": "SWARMS",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmYhYx1r94b8apSJpRjUujCE5xXhzLXzXaR3ZmdGfUkvGb",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52988/small/swarms.jpg?1734921510"
   },
   {
     "name": "SWEAT",
@@ -1773,18 +1152,12 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/22228/small/nFPNiSbL_400x400.jpg?1696521570"
   },
   {
-    "chainId": 501000101,
+    "name": "tBTC",
     "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
-    "name": "Threshold Bitcoin",
     "symbol": "TBTC",
     "decimals": 8,
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155"
   },
   {
     "name": "titcoin",
@@ -1795,64 +1168,36 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/54773/small/titcoinicon.png?1741514331"
   },
   {
-    "chainId": 501000101,
-    "address": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
     "name": "Tensor",
+    "address": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
     "symbol": "TNSR",
     "decimals": 9,
-    "logoURI": "https://arweave.net/beGAyeIzjV_UkyjFtxbkZyi_YqfOBWayiQ0B6wqWygY",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35972/small/tnsr.png?1712687367"
   },
   {
-    "chainId": 501000101,
+    "name": "Doland Tremp",
     "address": "FU1q8vJpZNUrmqsciSjp8bAKKidGsLmouB8CBdf8TKQv",
-    "name": "doland tremp",
-    "symbol": "tremp",
+    "symbol": "TREMP",
     "decimals": 9,
-    "logoURI": "https://bafkreia5oynseyky72us6y7uzbas2uxoosujxvbnnuvscozetprbdinmey.ipfs.nftstorage.link",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35871/small/tremp.jpeg?1709974567"
   },
   {
-    "chainId": 501000101,
-    "address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
     "name": "TROLL",
+    "address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
     "symbol": "TROLL",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmWV8QgmH1gSw41yapzsFwkC8yPbzoSreAcJbzqfvo2sVq",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 90.11,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55282/small/trolllogo.png?1745215015"
   },
   {
-    "chainId": 501000101,
+    "name": "Official Trump",
     "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-    "name": "OFFICIAL TRUMP",
     "symbol": "TRUMP",
     "decimals": 6,
-    "logoURI": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 75.51,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53746/small/trump.png?1737171561"
   },
   {
     "name": "Turbo",
@@ -1863,322 +1208,204 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/30117/small/TurboMark-QL_200.png?1708079597"
   },
   {
-    "chainId": 501000101,
-    "address": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
     "name": "Unicorn Fart Dust",
+    "address": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
     "symbol": "UFD",
     "decimals": 6,
-    "logoURI": "https://static.datapi.jup.ag/images/asset-icon/eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 69.67,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52931/small/untitled.png?1734708671"
   },
   {
-    "chainId": 501000101,
+    "name": "USD1",
     "address": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
-    "name": "World Liberty Financial USD",
     "symbol": "USD1",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/worldliberty/usd1-metadata/refs/heads/main/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 89.64,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54977/small/USD1_1000x1000_transparent.png?1749297002"
   },
   {
-    "chainId": 501000101,
+    "name": "USDC",
     "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 100,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/6319/small/usdc.png?1696506694"
   },
   {
-    "chainId": 501000101,
+    "name": "Ethena USDe",
     "address": "DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT",
-    "name": "USDe",
-    "symbol": "USDe",
+    "symbol": "USDE",
     "decimals": 9,
-    "logoURI": "https://arweave.net/qeSnRm_FIyp_khPfmg8o1zQeGO4AczDaEKe8jEUOzL4",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 75,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33613/small/usde.png?1733810059"
   },
   {
-    "chainId": 501000101,
-    "address": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
     "name": "Global Dollar",
+    "address": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
     "symbol": "USDG",
     "decimals": 6,
-    "logoURI": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/GDN-USDG-Token-512x512.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 88.64,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51281/small/GDN_USDG_Token_200x200.png?1730484111"
   },
   {
-    "chainId": 501000101,
-    "address": "HVbpJAQGNpkgBaYBZQBR1t7yFdvaYVp2vCQQfKKEN4tM",
     "name": "Pax Dollar",
+    "address": "HVbpJAQGNpkgBaYBZQBR1t7yFdvaYVp2vCQQfKKEN4tM",
     "symbol": "USDP",
     "decimals": 6,
-    "logoURI": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/USDPLOGO.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/6013/small/Pax_Dollar.png?1696506427"
   },
   {
     "chainId": 501000101,
-    "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+    "address": "HVWf8JmLoHs99Lw8Psf3fyqAtA4crWxCPkrmSdNjhNH3",
+    "name": "USDPT",
+    "symbol": "USDPT",
+    "decimals": 6,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38850.png"
+  },
+  {
     "name": "USDS",
+    "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
     "symbol": "USDS",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 80.41,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39926/small/usds.webp?1726666683"
   },
   {
-    "chainId": 501000101,
+    "name": "Tether",
     "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-    "name": "USDT",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 100,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/325/small/Tether.png?1696501661"
   },
   {
-    "chainId": 501000101,
+    "name": "Unstable Coin",
     "address": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
-    "name": "unstable coin",
     "symbol": "USDUC",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmQw4DQjdWp3G8TuMCykG8SVSwtFwkxvTyxEWNMuAVYU4q",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 58.25,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/56006/small/usduc-logo.jpg?1748000956"
   },
   {
-    "chainId": 501000101,
+    "name": "Useless Coin",
     "address": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
-    "name": "USELESS COIN",
     "symbol": "USELESS",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/bafkreihsdoqkmpr5ryebaduoutyhj3nxco6wdp4s4743l2qrae4sz4hqrm",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 93.21,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55684/small/coingeckoupdate.png?1755203747"
   },
   {
-    "chainId": 501000101,
-    "address": "vRseBFqTy9QLmmo5qGiwo74AVpdqqMTnxPqWoWMpump",
     "name": "Verse World",
-    "symbol": "Verse",
+    "address": "vRseBFqTy9QLmmo5qGiwo74AVpdqqMTnxPqWoWMpump",
+    "symbol": "VERSE",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmVDRQKxtuLH5TEogrbQ9R1CL2VvmXohbkdcX4kaGVqPmt",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66483/small/image00001.jpeg?1749502715"
   },
   {
-    "chainId": 501000101,
+    "name": "Vine",
     "address": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
-    "name": "Vine Coin",
     "symbol": "VINE",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmRtFJu3ZospaS4EAk17iNXZGAJp7gMxzvsZckZxbqZa5r",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53859/small/vine.jpg?1737613523"
   },
   {
-    "chainId": 501000101,
+    "name": "Virtuals Protocol",
     "address": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
-    "name": "Virtual Protocol",
     "symbol": "VIRTUAL",
     "decimals": 9,
-    "logoURI": "https://ipfs.io/ipfs/bafkreifbjxsikdmuhk5qi6krg3sqk2fcqvqlcffrc44kg7ecfkmwhz6s5i",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 69.51,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34057/small/LOGOMARK.png?1708356054"
   },
   {
-    "chainId": 501000101,
+    "name": "Wormhole",
     "address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
-    "name": "Wormhole Token",
     "symbol": "W",
     "decimals": 6,
-    "logoURI": "https://wormhole.com/token.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 52.6,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35087/small/W_Token_%283%29.png?1758122686"
   },
   {
+    "name": "WAR",
+    "address": "8opvqaWysX1oYbXuTL8PHaoaTiXD69VFYAX4smPebonk",
+    "symbol": "WAR",
+    "decimals": 6,
     "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71796/small/war.png?1769676733"
+  },
+  {
+    "name": "Wrapped Bitcoin",
     "address": "5XZw2LKTyrfvfiskJ78AMpackRjPcyCif1WhUsPDuVqQ",
-    "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://j73gp4w27ucraqtyzsqa5th4fwldfvqgq576cnceekfactgk4fla.arweave.net/T_Zn8tr9BRBCeMygDsz8LZYy1gaHf-E0RCKKAUzK4VY\n",
-    "tags": [
-      "VERIFIED"
-    ],
-    "major": true,
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1696507857"
   },
   {
-    "chainId": 501000101,
+    "name": "Wrapped BTC (Wormhole)",
     "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
-    "name": "Wrapped BTC (Portal)",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "major": true,
-    "extensions": {
-      "organicScore": 88.42,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/23004/small/WBTC_wh_small.png?1696522299"
   },
   {
-    "chainId": 501000101,
-    "address": "WCTk5xWdn5SYg56twGj32sUF3W4WFQ48ogezLBuYTBY",
     "name": "WalletConnect Token",
+    "address": "WCTk5xWdn5SYg56twGj32sUF3W4WFQ48ogezLBuYTBY",
     "symbol": "WCT",
     "decimals": 9,
-    "logoURI": "https://arweave.net/zBO8_CRB3aQrPmMA_F6GP4QnfRVbHYJLyKPtnZPTCwQ",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50390/small/wc-token1.png?1727569464"
   },
   {
-    "chainId": 501000101,
-    "address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
     "name": "Wen",
+    "address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
     "symbol": "WEN",
     "decimals": 5,
-    "logoURI": "https://dd.dexscreener.com/ds-data/tokens/solana/WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk.png?size=lg&key=ad6a9a",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 73.33,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34856/small/wen-logo-new.jpg?1741334229"
   },
   {
-    "chainId": 501000101,
-    "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
-    "name": "Ether (Portal)",
-    "symbol": "ETH",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "major": true,
-    "extensions": {
-      "organicScore": 97.99,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
-    "name": "dogwifhat",
-    "symbol": "$WIF",
+    "name": "Humidifi",
+    "address": "WETZjtprkDMCcUxPi9PfWnowMRZkiGGHDb9rABuRZ2U",
+    "symbol": "WET",
     "decimals": 6,
-    "logoURI": "https://bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.nftstorage.link",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 74.25,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70397/small/720oatTU_400x400.jpg?1765007223"
+  },
+  {
+    "name": "Wrapped Ether (Wormhole)",
+    "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+    "symbol": "WETH",
+    "decimals": 8,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/22990/small/ETH_wh_small.png?1696522286"
+  },
+  {
+    "name": "dogwifhat",
+    "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "symbol": "WIF",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33566/small/dogwifhat.jpg?1702499428"
   },
   {
     "chainId": 501000101,
-    "address": "WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g",
+    "address": "WingsAYbfs4qnEgcw8jpSvetqp8XHM3GkKvow54WLcd",
+    "name": "Wingbits",
+    "symbol": "WINGS",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172968/small/wingbits.jpg?1776904828"
+  },
+  {
     "name": "World Liberty Financial",
+    "address": "WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g",
     "symbol": "WLFI",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/worldliberty/usd1-metadata/refs/heads/main/wlfi-logo.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 46.99,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50767/small/wlfi.png?1756438915"
   },
   {
     "name": "World Mobile Token",
@@ -2198,48 +1425,35 @@
   },
   {
     "chainId": 501000101,
+    "address": "AymATz4TCL9sWNEEV9Kvyz45CHVhDZ6kUgjTJPzLpU9P",
+    "name": "Tether Gold",
+    "symbol": "XAUt0",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66560/small/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "name": "Zerebro",
     "address": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
-    "name": "zerebro",
     "symbol": "ZEREBRO",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmZ1HDSibY2LdEmC1tPHK36ApGCQACJENqsbPsT2nc29AD",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 55.27,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51289/small/zerebro_2.png?1730588883"
   },
   {
-    "chainId": 501000101,
+    "name": "Zeus Network",
     "address": "ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq",
-    "name": "ZEUS",
     "symbol": "ZEUS",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/logo-v2.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 68.9,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/36692/small/logo-v1.png?1712427948"
   },
   {
-    "chainId": 501000101,
-    "address": "ZEXy1pqteRu3n13kdyh4LwPQknkFk3GzmMYMuNadWPo",
     "name": "Zeta",
+    "address": "ZEXy1pqteRu3n13kdyh4LwPQknkFk3GzmMYMuNadWPo",
     "symbol": "ZEX",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/zetamarkets/brand/master/assets/zeta.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 56.49,
-      "isVerified": true
-    }
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/38787/small/_ZEX-Token-200px.png?1718929220"
   },
   {
     "name": "ZIGChain",
@@ -2248,248 +1462,6 @@
     "decimals": 8,
     "chainId": 501000101,
     "logoURI": "https://coin-images.coingecko.com/coins/images/14796/small/zig.jpg?1731990265"
-  },
-  {
-    "chainId": 501000101,
-    "address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
-    "name": "Meteora",
-    "symbol": "MET",
-    "decimals": 6,
-    "logoURI": "https://assets.meteora.ag/met-token.svg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 81.49,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "WETZjtprkDMCcUxPi9PfWnowMRZkiGGHDb9rABuRZ2U",
-    "name": "HumidiFi Token",
-    "symbol": "WET",
-    "decimals": 6,
-    "logoURI": "https://pbs.twimg.com/profile_images/1968501292847771648/720oatTU_400x400.jpg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 58.5,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "ARXwZkNAtzPfdcoqQiduJn8EPv9fKiDfGn2KyggyDrFs",
-    "name": "Arcium",
-    "symbol": "ARX",
-    "decimals": 9,
-    "logoURI": "https://static.arcium.com/arx/icon.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 50.58,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
-    "name": "AUSD",
-    "symbol": "AUSD",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/token-icon/AUSD_1024px.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "G8LfyGVsjsLzetJ5RWZVAhMo4H9cb58ET1Z6gEZJQdPM",
-    "name": "AVA",
-    "symbol": "AVA",
-    "decimals": 8,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/3014/small/AVA_Logo_160x160px_Black.png?1696503750"
-  },
-  {
-    "chainId": 501000101,
-    "address": "G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG",
-    "name": "Moonbirds",
-    "symbol": "BIRB",
-    "decimals": 6,
-    "logoURI": "https://static.datapi.jup.ag/images/asset-icon/G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG.svg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 57.05,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV",
-    "name": "Doodles",
-    "symbol": "DOOD",
-    "decimals": 9,
-    "logoURI": "https://arweave.net/OqHnpGf36DiprL5YIC4xJHG8zRsWFV2FsZcNTfVgAPg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 58.98,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "8f62NyJGo7He5uWeveTA2JJQf4xzf8aqxkmzxRQ3mxfU",
-    "name": "Fight",
-    "symbol": "FIGHT",
-    "decimals": 9,
-    "logoURI": "https://assets.fight.foundation/FIGHT_Token_Icon/white_orange_bg/FightCoin1024.jpg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
-    "name": "Geodnet Token",
-    "symbol": "GEOD",
-    "decimals": 9,
-    "logoURI": "https://www.geodnet.com/metadataimg/GEODNET.svg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 66.28,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "METAwkXcqyXKy1AtsSgJ8JiUHwGCafnZL38n3vYmeta",
-    "name": "MetaDAO",
-    "symbol": "META",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/metaDAOproject/futarchy/refs/heads/develop/scripts/assets/META/META.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 57.28,
-      "isVerified": true
-    }
-  },
-  {
-    "name": "Mezo",
-    "address": "8niMFW4yuv3vLoqTtBaC6rchyasmUhgvpgSyPEeeCrw6",
-    "symbol": "MEZO",
-    "decimals": 9,
-    "chainId": 501000101,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39727.png"
-  },
-  {
-    "chainId": 501000101,
-    "address": "PERLEQKUNUp1dgFZ8EvyXHdN9d6ZQqfGxALDvfs6pDs",
-    "name": "Perle",
-    "symbol": "PRL",
-    "decimals": 8,
-    "logoURI": "https://arweave.net/W2LToY13A7UAOCMyPGdIY0I0ZWNtMaTkO05DZf5gy0w",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "SKRbvo6Gf7GondiT3BbTfuRDPqLWei4j2Qy2NPGZhW3",
-    "name": "Seeker",
-    "symbol": "SKR",
-    "decimals": 6,
-    "logoURI": "https://gateway.irys.xyz/uP1dFvCofZQT26m3SKOCttXrir3ORBR1B8wPhP6tv7M?ext=png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 78.5,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "SLXdx4BUt2v9uJQNzWqSfzTJ9UKLUDsvxHFMEEdrfgq",
-    "name": "Solstice",
-    "symbol": "SLX",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/Solstice-Labs-Official/slx-metadata/refs/heads/main/slx.png",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 78.66,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "2MU93nLHhDsHzgEYBKbVbwLDd2pi71ubGp8SkEv9dZwQ",
-    "name": "Space",
-    "symbol": "SPC",
-    "decimals": 6,
-    "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fu2s5el43phn1rq5qc2376uqkp04j&w=64&q=75"
-  },
-  {
-    "name": "WAR",
-    "address": "8opvqaWysX1oYbXuTL8PHaoaTiXD69VFYAX4smPebonk",
-    "symbol": "WAR",
-    "decimals": 6,
-    "chainId": 501000101,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/71796/small/war.png?1769676733"
-  },
-  {
-    "chainId": 501000101,
-    "address": "WingsAYbfs4qnEgcw8jpSvetqp8XHM3GkKvow54WLcd",
-    "name": "Wingbits",
-    "symbol": "WINGS",
-    "decimals": 6,
-    "logoURI": "https://prod-token-metadata.s3.eu-west-1.amazonaws.com/icon2.svg",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 46.23,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "AymATz4TCL9sWNEEV9Kvyz45CHVhDZ6kUgjTJPzLpU9P",
-    "name": "Tether Gold",
-    "symbol": "XAUt0",
-    "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/bafkreibth2yh4jlehmf5nmfgy763z4yvwxlz7zmuohmhp53un6wrho5t2q",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 56.28,
-      "isVerified": true
-    }
   },
   {
     "chainId": 501000101,
@@ -10305,7 +9277,7 @@
       "VERIFIED"
     ],
     "extensions": {
-      "organicScore": 87.0,
+      "organicScore": 87,
       "isVerified": true
     }
   },
@@ -10915,14 +9887,6 @@
     "symbol": "TREND",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102173614/small/fpyy0ogjnvq0bp5o4sid3f94bnfj.?1780466402"
-  },
-  {
-    "chainId": 501000101,
-    "address": "HVWf8JmLoHs99Lw8Psf3fyqAtA4crWxCPkrmSdNjhNH3",
-    "name": "USDPT | Western Union",
-    "symbol": "USDPT",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/102172055/small/USDPT_Pangram_circle_%28color%29.png?1771331076"
   },
   {
     "chainId": 501000101,
@@ -16256,7 +15220,7 @@
       "VERIFIED"
     ],
     "extensions": {
-      "organicScore": 61.0,
+      "organicScore": 61,
       "isVerified": true
     }
   },
@@ -22123,7 +21087,7 @@
       "VERIFIED"
     ],
     "extensions": {
-      "organicScore": 62.0,
+      "organicScore": 62,
       "isVerified": true
     }
   },

@@ -1,50 +1,122 @@
 [
-    {
-        "chainId": 43111,
-        "address": "0x4200000000000000000000000000000000000006",
-        "name": "wrapped ether",
-        "symbol": "WETH",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png"
-    },
-    {
-        "chainId": 43111,
-        "address": "0x99e3dE3817F6081B2568208337ef83295b7f591D",
-        "name": "Hemi",
-        "symbol": "HEMI",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/hemi.svg"
-    },
-    {
-        "chainId": 43111,
-        "address": "0xad11a8BEb98bbf61dbb1aa0F6d6F2ECD87b35afA",
-        "name": "Bridged USDC (Stargate)",
-        "symbol": "USDC.e",
-        "decimals": 6,
-        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png"
-    },
-    {
-        "chainId": 43111,
-        "address": "0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28",
-        "name": "Hemi Bitcoin",
-        "symbol": "hemiBTC",
-        "decimals": 8,
-        "logoURI": ""
-    },
-    {
-        "chainId": 43111,
-        "address": "0xbB0D083fb1be0A9f6157ec484b6C79E0A4e31C2e",
-        "name": "USDT",
-        "symbol": "USDT",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-        "chainId": 43111,
-        "address": "0xb4818BB69478730EF4e33Cc068dD94278e2766cB",
-        "name": "Satoshi Stablecoin V2",
-        "symbol": "satUSD",
-        "decimals": 18,
-        "logoURI": "https://tokens.pancakeswap.finance/images/0xb4818BB69478730EF4e33Cc068dD94278e2766cB.png"
-    }
+  {
+    "chainId": 43111,
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "wrapped ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png"
+  },
+  {
+    "chainId": 43111,
+    "address": "0x99e3dE3817F6081B2568208337ef83295b7f591D",
+    "name": "Hemi",
+    "symbol": "HEMI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/hemi.svg"
+  },
+  {
+    "chainId": 43111,
+    "address": "0xad11a8BEb98bbf61dbb1aa0F6d6F2ECD87b35afA",
+    "name": "Bridged USDC (Stargate)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png"
+  },
+  {
+    "chainId": 43111,
+    "address": "0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28",
+    "name": "Hemi Bitcoin",
+    "symbol": "hemiBTC",
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "chainId": 43111,
+    "address": "0xbB0D083fb1be0A9f6157ec484b6C79E0A4e31C2e",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "chainId": 43111,
+    "address": "0xb4818BB69478730EF4e33Cc068dD94278e2766cB",
+    "name": "Satoshi Stablecoin V2",
+    "symbol": "satUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb4818BB69478730EF4e33Cc068dD94278e2766cB.png"
+  },
+  {
+    "chainId": 43111,
+    "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
+    "name": "VUSD",
+    "symbol": "VUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67026/small/vusd.jpg?1751514327"
+  },
+  {
+    "chainId": 43111,
+    "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
+    "name": "Lorenzo Wrapped Bitcoin",
+    "symbol": "ENZOBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/54447/small/enzo_btc.png?1739773963"
+  },
+  {
+    "chainId": 43111,
+    "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+    "name": "Hemi Bridged WBTC (Hemi)",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/68384/small/wbtc.jpg?1755570014"
+  },
+  {
+    "chainId": 43111,
+    "address": "0x71881974e96152643c74a8e0214b877cfb2a0aa1",
+    "name": "VCRED",
+    "symbol": "VCRED",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69495/small/vcred.jpg?1758767359"
+  },
+  {
+    "chainId": 43111,
+    "address": "0x623f2774d9f27b59bc6b954544487532ce79d9df",
+    "name": "BitFi Bitcoin",
+    "symbol": "BFBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/69326/small/bfBTC-logo-symbol-color.png?1758193458"
+  },
+  {
+    "chainId": 43111,
+    "address": "0x63dbe12a6381d64ade47bc3d92abf4393dff4bc8",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/Chainlink_Logo_500.png?1760023405"
+  },
+  {
+    "chainId": 43111,
+    "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "name": "Bedrock BTC",
+    "symbol": "BRBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/53039/small/brBTC_200.png?1735074374"
+  },
+  {
+    "chainId": 43111,
+    "address": "0xc3eacf0612346366db554c991d7858716db09f58",
+    "name": "Kelp DAO Restaked ETH",
+    "symbol": "RSETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33800/small/Icon___Dark.png?1702991855"
+  },
+  {
+    "chainId": 43111,
+    "address": "0xf9775085d726e782e83585033b58606f7731ab18",
+    "name": "Universal BTC",
+    "symbol": "UNIBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39599/small/uniBTC_200px.png?1723064455"
+  }
 ]

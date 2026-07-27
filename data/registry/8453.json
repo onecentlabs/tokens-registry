@@ -28855,5 +28855,125 @@
     "symbol": "CP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35286/small/IMG_9405.JPG?1783674461"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000dfea18f58cd9adbc01",
+    "name": "HAYLORD",
+    "symbol": "HAYLORD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174760/small/Lp0sID99_400x400.jpg?1784795784"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7700c8091327b920c396dae468e2161a6f114a1a",
+    "name": "Keeta USD",
+    "symbol": "KUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174815/small/dollar.png?1785005033"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa989353699f2fb20de69e74b34f8aac11075a299",
+    "name": "Project DogCat DOGC",
+    "symbol": "DOGC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174692/small/dogc-200.png?1784628750"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x03ee11923326d54a580af44ec633f1cdcb414632",
+    "name": "Kittehcoin",
+    "symbol": "MEOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174629/small/meow.jpg?1784285170"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa08f01fdb660f7f4a3f2614a11598e439d3c320f",
+    "name": "Project DogCat DCAT",
+    "symbol": "DCAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174694/small/dcat-200.png?1784629050"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb145b8e9c02193d55454f534f917cabe704fa042",
+    "name": "Auxite Reserve",
+    "symbol": "AUXR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174810/small/AUXR_logo_200_current.png?1785001381"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x13d674cb9a092d486dd81cca683f82202a9fafa5",
+    "name": "Boardwalk",
+    "symbol": "BWLK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174687/small/boardwalk_avatar_white_on_blue.png?1784621838"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc03c8aa956ca3cf99a655f5d7ba5465d79d8ae28",
+    "name": "Keeta EUR",
+    "symbol": "KEUR",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174816/small/euro.png?1785005235"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3bce9c36ef445d04304d02ce376360ca1e23cfd3",
+    "name": "Keeta MXN",
+    "symbol": "KMXN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174817/small/mxn.png?1785005320"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9e3a802cdba0a4465470ffdc01bd8ba7a7de4d4a",
+    "name": "Keeta GBP",
+    "symbol": "KGBP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174818/small/pound.png?1785005394"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x550894f3ac2da54b8aab3fcc963dcd213bfa48d7",
+    "name": "Keeta AED",
+    "symbol": "KAED",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174819/small/aed.png?1785005460"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb6c15856606135b010005d22341db81cf13c1230",
+    "name": "Keeta CAD",
+    "symbol": "KCAD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174820/small/cad.png?1785005670"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4238254075c00e67d92a83e69513c91c8271e29f",
+    "name": "Keeta HKD",
+    "symbol": "KHKD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174821/small/hkd.png?1785005731"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd69be82086405fe4770a25d67f095ba8a00e048a",
+    "name": "Keeta JPY",
+    "symbol": "KJPY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174822/small/yen.png?1785005934"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8eec2d9b46063b36fc3947a88225aba87fe662a7",
+    "name": "Keeta CNY",
+    "symbol": "KCNY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174823/small/cny.png?1785005999"
   }
 ]
