@@ -13,7 +13,7 @@
     "name": "Danjuan Scroll Cat",
     "symbol": "CAT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969"
+    "logoURI": "https://assets.coingecko.com/coins/images/34637/small/200x200.jpg?1705555969"
   },
   {
     "chainId": 534352,
@@ -21,7 +21,7 @@
     "name": "Scribes",
     "symbol": "SCRIBES",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38185/thumb/scribes.png?1716788481"
+    "logoURI": "https://assets.coingecko.com/coins/images/38185/small/scribes.png?1716788481"
   },
   {
     "chainId": 534352,
@@ -37,7 +37,7 @@
     "name": "abcNURI",
     "symbol": "ABCNURI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281"
+    "logoURI": "https://assets.coingecko.com/coins/images/40074/small/abcNURI.png?1725511281"
   },
   {
     "chainId": 534352,
@@ -68,7 +68,7 @@
     "name": "Tokan",
     "symbol": "TKN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37905/thumb/200.png?1715932528"
+    "logoURI": "https://assets.coingecko.com/coins/images/37905/small/200.png?1715932528"
   },
   {
     "chainId": 534352,
@@ -99,7 +99,7 @@
     "name": "Papyrus Swap",
     "symbol": "PAPYRUS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
+    "logoURI": "https://assets.coingecko.com/coins/images/32479/small/PapyrusLogo.png?1698286849"
   },
   {
     "chainId": 534352,
@@ -123,7 +123,7 @@
     "name": "Z Protocol",
     "symbol": "ZP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36011/thumb/about_img01.png?1710324761"
+    "logoURI": "https://assets.coingecko.com/coins/images/36011/small/about_img01.png?1710324761"
   },
   {
     "chainId": 534352,
@@ -131,7 +131,7 @@
     "name": "Perseid Finance",
     "symbol": "PED",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269"
+    "logoURI": "https://assets.coingecko.com/coins/images/32805/small/perseid.png?1704711269"
   },
   {
     "chainId": 534352,
@@ -139,7 +139,7 @@
     "name": "Chi USD",
     "symbol": "CHI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37906/thumb/CHI_PNG200x200.png?1715932591"
+    "logoURI": "https://assets.coingecko.com/coins/images/37906/small/CHI_PNG200x200.png?1715932591"
   },
   {
     "chainId": 534352,
@@ -147,7 +147,7 @@
     "name": "Pandacoin Inu",
     "symbol": "PANDA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35746/thumb/panda.jpeg?1709714542"
+    "logoURI": "https://assets.coingecko.com/coins/images/35746/small/panda.jpeg?1709714542"
   },
   {
     "chainId": 534352,
@@ -163,7 +163,7 @@
     "name": "Axelar Bridged Frax Ether",
     "symbol": "AXLFRXETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/28284/small/frxETH_icon.png"
   },
   {
     "chainId": 534352,
@@ -225,7 +225,7 @@
     "name": "Dackie USD",
     "symbol": "DCKUSD",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/39966/thumb/dackie_usd_circle.png?1734941381"
+    "logoURI": "https://assets.coingecko.com/coins/images/39966/small/dackie_usd_circle.png?1734941381"
   },
   {
     "chainId": 534352,
@@ -249,7 +249,7 @@
     "name": "Ankr Network",
     "symbol": "ANKR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1696504928"
+    "logoURI": "https://assets.coingecko.com/coins/images/4324/small/U85xTl2.png?1696504928"
   },
   {
     "chainId": 534352,
@@ -257,7 +257,7 @@
     "name": "Ankr Staked ETH",
     "symbol": "ANKRETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13403/thumb/aETHc.png?1696513165"
+    "logoURI": "https://assets.coingecko.com/coins/images/13403/small/aETHc.png?1696513165"
   },
   {
     "chainId": 534352,
@@ -281,7 +281,7 @@
     "name": "iZUMi Bond USD",
     "symbol": "IUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25388/thumb/iusd-logo-symbol-10k%E5%A4%A7%E5%B0%8F.png?1696524521"
+    "logoURI": "https://assets.coingecko.com/coins/images/25388/small/iusd-logo-symbol-10k%E5%A4%A7%E5%B0%8F.png?1696524521"
   },
   {
     "chainId": 534352,
@@ -321,7 +321,7 @@
     "name": "Quack Token",
     "symbol": "QUACK",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31436/thumb/0x639C0D019C257966C4907bD4E68E3F349bB58109.png?1696530251"
+    "logoURI": "https://assets.coingecko.com/coins/images/31436/small/0x639C0D019C257966C4907bD4E68E3F349bB58109.png?1696530251"
   },
   {
     "chainId": 534352,
@@ -329,7 +329,7 @@
     "name": "Maha",
     "symbol": "MAHA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13404/thumb/black.png?1724679606"
+    "logoURI": "https://assets.coingecko.com/coins/images/13404/small/black.png?1724679606"
   },
   {
     "chainId": 534352,
@@ -337,7 +337,7 @@
     "name": "DackieSwap  OLD ",
     "symbol": "DACKIE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30752/thumb/dackieswap_large.png?1707290196"
+    "logoURI": "https://assets.coingecko.com/coins/images/30752/small/dackieswap_large.png?1707290196"
   },
   {
     "chainId": 534352,
@@ -345,7 +345,7 @@
     "name": "Aryze s Digital Gold",
     "symbol": "EGOLD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50815/thumb/eGOLD.png?1729238938"
+    "logoURI": "https://assets.coingecko.com/coins/images/50815/small/eGOLD.png?1729238938"
   },
   {
     "chainId": 534352,
@@ -353,7 +353,7 @@
     "name": "ZAI Stablecoin",
     "symbol": "ZAI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588"
+    "logoURI": "https://assets.coingecko.com/coins/images/39733/small/Group_4.png?1723771588"
   },
   {
     "chainId": 534352,
@@ -361,7 +361,7 @@
     "name": "Liquity BOLD",
     "symbol": "BOLD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53755/thumb/BOLD_logo.png?1737183873"
+    "logoURI": "https://assets.coingecko.com/coins/images/53755/small/BOLD_logo.png?1737183873"
   },
   {
     "chainId": 534352,
@@ -577,7 +577,7 @@
     "name": "ynETH MAX",
     "symbol": "YNETHX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
+    "logoURI": "https://assets.coingecko.com/coins/images/51623/small/ynETHx.png?1731659494"
   },
   {
     "chainId": 534352,
@@ -585,7 +585,7 @@
     "name": "Monerium EUR emoney",
     "symbol": "EURE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54303/thumb/eure.jpg?1739167959"
+    "logoURI": "https://assets.coingecko.com/coins/images/54303/small/eure.jpg?1739167959"
   },
   {
     "chainId": 534352,
@@ -593,7 +593,7 @@
     "name": "Wild Goat Coin",
     "symbol": "WGC",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+    "logoURI": "https://assets.coingecko.com/coins/images/37966/small/COIN_200x200.png?1716778831"
   },
   {
     "chainId": 534352,
@@ -601,7 +601,7 @@
     "name": "Quill USDQ",
     "symbol": "USDQ",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/66132/thumb/image_%289%29.png?1748439949"
+    "logoURI": "https://assets.coingecko.com/coins/images/66132/small/image_%289%29.png?1748439949"
   },
   {
     "chainId": 534352,
@@ -609,7 +609,7 @@
     "name": "Chainlink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1696502009"
   },
   {
     "chainId": 534352,
@@ -617,7 +617,7 @@
     "name": "Ethena Staked USDe",
     "symbol": "SUSDE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
+    "logoURI": "https://assets.coingecko.com/coins/images/33669/small/sUSDe-Symbol-Color.png?1716307680"
   },
   {
     "chainId": 534352,
@@ -625,7 +625,7 @@
     "name": "Ethena",
     "symbol": "ENA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
+    "logoURI": "https://assets.coingecko.com/coins/images/36530/small/ethena.png?1711701436"
   },
   {
     "chainId": 534352,
@@ -633,7 +633,7 @@
     "name": "Restaked Swell ETH",
     "symbol": "RSWETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34489/thumb/rswETH_Icon.png?1706865484"
+    "logoURI": "https://assets.coingecko.com/coins/images/34489/small/rswETH_Icon.png?1706865484"
   },
   {
     "chainId": 534352,
@@ -641,7 +641,7 @@
     "name": "Ether.fi",
     "symbol": "ETHFI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35958/thumb/etherfi.jpeg?1710254562"
+    "logoURI": "https://assets.coingecko.com/coins/images/35958/small/etherfi.jpeg?1710254562"
   },
   {
     "chainId": 534352,
@@ -649,7 +649,7 @@
     "name": "Wrapped FRAX",
     "symbol": "WFRAX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/small/wfrax_64.png?1745993624"
   },
   {
     "chainId": 534352,
@@ -657,7 +657,7 @@
     "name": "Frax USD",
     "symbol": "FRXUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+    "logoURI": "https://assets.coingecko.com/coins/images/53963/small/frxUSD.png?1737792154"
   },
   {
     "chainId": 534352,
@@ -665,7 +665,7 @@
     "name": "USX",
     "symbol": "USX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/71020/thumb/usx.png?1765270693"
+    "logoURI": "https://assets.coingecko.com/coins/images/71020/small/usx.png?1765270693"
   },
   {
     "chainId": 534352,
@@ -673,6 +673,6 @@
     "name": "sUSX",
     "symbol": "SUSX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
+    "logoURI": "https://assets.coingecko.com/coins/images/71611/small/Frame_1171274144_%281%29.png?1768548299"
   }
 ]

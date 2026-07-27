@@ -544,15 +544,15 @@
     }
   },
   {
-    "identifier": "bnb",
+    "identifier": "binance",
     "type": "EVM",
-    "name": "Binance Smart Chain",
+    "name": "Binance",
     "coin": "BNB",
     "id": 56,
     "mode": "mainnet",
     "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
     "properties": {
-      "logo": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/main/assets/chains/bsc.svg",
+      "logo": "{BASE}/chains/binance/logo",
       "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/56.json",
       "explorers": [
         "https://bscscan.com/"
@@ -598,7 +598,7 @@
         "decimals": 18,
         "name": "BNB",
         "coinKey": "BNB",
-        "logoURI": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png?1547034615"
+        "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
       },
       "stablecoins": [
         {
@@ -1339,7 +1339,7 @@
           "chainId": 999,
           "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
           "decimals": 18,
-          "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png"
+          "logoURI": "https://coin-images.coingecko.com/coins/images/33613/small/usde.png"
         }
       ]
     }
@@ -1403,6 +1403,143 @@
           "decimals": 6,
           "address": "0xbB0D083fb1be0A9f6157ec484b6C79E0A4e31C2e",
           "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4663,
+    "identifier": "robinhood",
+    "type": "EVM",
+    "name": "Robinhood",
+    "coin": "ETH",
+    "mode": "mainnet",
+    "multicall": "0xca11bde05977b3631167028862be2a173976ca11",
+    "properties": {
+      "logo": "{BASE}/chains/robinhood/logo",
+      "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/4663.json",
+      "explorers": [
+        "https://robinhoodchain.blockscout.com/"
+      ],
+      "rpcs": [
+        "https://rpc.mainnet.chain.robinhood.com"
+      ],
+      "faucets": []
+    },
+    "contracts": {
+      "native": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "wrapped": "0x0bd7d308f8e1639fab988df18a8011f41eacad73"
+    },
+    "wallet": {
+      "chainId": "0x1237",
+      "blockExplorerUrls": [
+        "https://robinhoodchain.blockscout.com/"
+      ],
+      "chainName": "Robinhood Chain",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.mainnet.chain.robinhood.com"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "alternate": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "chainId": 4663,
+        "symbol": "ETH",
+        "decimals": 18,
+        "name": "ETH",
+        "coinKey": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "stablecoins": [
+        {
+          "name": "Global Dollar",
+          "symbol": "USDG",
+          "type": "ERC20",
+          "decimals": 6,
+          "address": "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+          "logo": "https://assets.coingecko.com/coins/images/51281/small/GDN_USDG_Token_200x200.png?1730484111"
+        },
+        {
+          "name": "Ethena USDe",
+          "symbol": "USDE",
+          "type": "ERC20",
+          "decimals": 18,
+          "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+          "logo": "https://assets.coingecko.com/coins/images/33613/small/usde.png?1733810059"
+        }
+      ]
+    }
+  },
+  {
+    "id": 501000101,
+    "identifier": "solana",
+    "type": "SVM",
+    "name": "Solana",
+    "coin": "SOL",
+    "mode": "mainnet",
+    "multicall": "",
+    "properties": {
+      "logo": "{BASE}/chains/solana/logo",
+      "tokenlist": "https://raw.githubusercontent.com/onecentlabs/tokens_registry/refs/heads/main/registry/501000101.json",
+      "explorers": [
+        "https://solscan.io/"
+      ],
+      "rpcs": [
+        "https://api.mainnet-beta.solana.com"
+      ],
+      "faucets": []
+    },
+    "contracts": {
+      "native": "11111111111111111111111111111111",
+      "wrapped": "So11111111111111111111111111111111111111112"
+    },
+    "wallet": {
+      "blockExplorerUrls": [
+        "https://solscan.io/"
+      ],
+      "chainName": "Solana",
+      "nativeCurrency": {
+        "name": "SOL",
+        "symbol": "SOL",
+        "decimals": 9
+      },
+      "rpcUrls": [
+        "https://api.mainnet-beta.solana.com"
+      ]
+    },
+    "tokens": {
+      "native": {
+        "address": "11111111111111111111111111111111",
+        "alternate": "So11111111111111111111111111111111111111112",
+        "chainId": 501000101,
+        "symbol": "SOL",
+        "decimals": 9,
+        "name": "SOL",
+        "coinKey": "SOL",
+        "logoURI": "https://coin-images.coingecko.com/coins/images/21629/small/solana.jpg?1696520989"
+      },
+      "stablecoins": [
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "type": "SPL",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "logo": "https://coin-images.coingecko.com/coins/images/6319/small/usdc.png?1696506694"
+        },
+        {
+          "name": "Tether",
+          "symbol": "USDT",
+          "type": "SPL",
+          "decimals": 6,
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "logo": "https://coin-images.coingecko.com/coins/images/325/small/Tether.png?1696501661"
         }
       ]
     }

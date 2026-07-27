@@ -18,7 +18,7 @@
     "name": "MACHI",
     "symbol": "MACHI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50378/thumb/machi.png?1727403678"
+    "logoURI": "https://assets.coingecko.com/coins/images/50378/small/machi.png?1727403678"
   },
   {
     "chainId": 81457,
@@ -26,7 +26,7 @@
     "name": "Crypto Valleys YIELD Token",
     "symbol": "YIELD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36231/thumb/crypto-valleys.jpeg?1710906095"
+    "logoURI": "https://assets.coingecko.com/coins/images/36231/small/crypto-valleys.jpeg?1710906095"
   },
   {
     "chainId": 81457,
@@ -34,7 +34,7 @@
     "name": "KelpDAO Bridged rsETH  Blast ",
     "symbol": "RSETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39544/thumb/rseth.png?1722849866"
+    "logoURI": "https://assets.coingecko.com/coins/images/39544/small/rseth.png?1722849866"
   },
   {
     "chainId": 81457,
@@ -42,7 +42,7 @@
     "name": "Blastin Pepes",
     "symbol": "BPEPE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38717/thumb/blastinpepes.png?1718474635"
+    "logoURI": "https://assets.coingecko.com/coins/images/38717/small/blastinpepes.png?1718474635"
   },
   {
     "chainId": 81457,
@@ -50,7 +50,7 @@
     "name": "Super Sushi Samurai",
     "symbol": "SSS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36139/thumb/sss.jpeg?1710684220"
+    "logoURI": "https://assets.coingecko.com/coins/images/36139/small/sss.jpeg?1710684220"
   },
   {
     "chainId": 81457,
@@ -74,7 +74,7 @@
     "name": "Finger Blast",
     "symbol": "FINGER",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35597/thumb/finger.jpeg?1709260340"
+    "logoURI": "https://assets.coingecko.com/coins/images/35597/small/finger.jpeg?1709260340"
   },
   {
     "chainId": 81457,
@@ -133,7 +133,7 @@
     "name": "Fenix",
     "symbol": "FNX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51406/thumb/Orange_logo.png?1731087837"
+    "logoURI": "https://assets.coingecko.com/coins/images/51406/small/Orange_logo.png?1731087837"
   },
   {
     "chainId": 81457,
@@ -157,7 +157,7 @@
     "name": "Blast Pepe",
     "symbol": "BEPE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35658/thumb/logo_200.png?1709446390"
+    "logoURI": "https://assets.coingecko.com/coins/images/35658/small/logo_200.png?1709446390"
   },
   {
     "chainId": 81457,
@@ -165,7 +165,7 @@
     "name": "SwapBlast Finance Token",
     "symbol": "SBF",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35673/thumb/SBF200.png?1709508184"
+    "logoURI": "https://assets.coingecko.com/coins/images/35673/small/SBF200.png?1709508184"
   },
   {
     "chainId": 81457,
@@ -173,7 +173,7 @@
     "name": "DigiCask Token",
     "symbol": "DCASK",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36591/thumb/logo-black-removebg-preview.png?1720047847"
+    "logoURI": "https://assets.coingecko.com/coins/images/36591/small/logo-black-removebg-preview.png?1720047847"
   },
   {
     "chainId": 81457,
@@ -181,7 +181,7 @@
     "name": "Orbit Protocol",
     "symbol": "ORBIT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35675/thumb/orbit.png?1709520496",
+    "logoURI": "https://assets.coingecko.com/coins/images/35675/small/orbit.png?1709520496",
     "tag": [
       "VERIFIED"
     ]
@@ -192,7 +192,7 @@
     "name": "Titan Trading Token",
     "symbol": "TES",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35779/thumb/token-200x200.png?1709795122"
+    "logoURI": "https://assets.coingecko.com/coins/images/35779/small/token-200x200.png?1709795122"
   },
   {
     "chainId": 81457,
@@ -200,7 +200,7 @@
     "name": "Blast Inu",
     "symbol": "BINU",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35596/thumb/binu.jpeg?1709259914"
+    "logoURI": "https://assets.coingecko.com/coins/images/35596/small/binu.jpeg?1709259914"
   },
   {
     "chainId": 81457,
@@ -227,7 +227,7 @@
     "name": "BlastCat",
     "symbol": "BCAT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35594/thumb/oie_293911ib33rREx.jpg?1709564194"
+    "logoURI": "https://assets.coingecko.com/coins/images/35594/small/oie_293911ib33rREx.jpg?1709564194"
   },
   {
     "chainId": 81457,
@@ -235,7 +235,7 @@
     "name": "Core Markets",
     "symbol": "CORE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36241/thumb/200x200_%281%29.png?1710920282"
+    "logoURI": "https://assets.coingecko.com/coins/images/36241/small/200x200_%281%29.png?1710920282"
   },
   {
     "chainId": 81457,
@@ -251,7 +251,7 @@
     "name": "Cyberblast Token",
     "symbol": "CBR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35649/thumb/Logo.png?1709374259"
+    "logoURI": "https://assets.coingecko.com/coins/images/35649/small/Logo.png?1709374259"
   },
   {
     "chainId": 81457,
@@ -267,7 +267,7 @@
     "name": "MonoSwap USD",
     "symbol": "MUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37086/thumb/cmc_musd.png?1713254329"
+    "logoURI": "https://assets.coingecko.com/coins/images/37086/small/cmc_musd.png?1713254329"
   },
   {
     "chainId": 81457,
@@ -275,7 +275,7 @@
     "name": "Petoshi",
     "symbol": "PETOSHI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38453/thumb/IMG_20240613_160318_113.jpg?1718316761"
+    "logoURI": "https://assets.coingecko.com/coins/images/38453/small/IMG_20240613_160318_113.jpg?1718316761"
   },
   {
     "chainId": 81457,
@@ -283,7 +283,7 @@
     "name": "DJENN",
     "symbol": "COIN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38814/thumb/DJENN.png?1719072036"
+    "logoURI": "https://assets.coingecko.com/coins/images/38814/small/DJENN.png?1719072036"
   },
   {
     "chainId": 81457,
@@ -291,7 +291,7 @@
     "name": "Blast Hoge",
     "symbol": "HOGE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38126/thumb/Untitled_%28Website%29_%281%29.png?1716568733"
+    "logoURI": "https://assets.coingecko.com/coins/images/38126/small/Untitled_%28Website%29_%281%29.png?1716568733"
   },
   {
     "chainId": 81457,
@@ -299,7 +299,7 @@
     "name": "BAC Games",
     "symbol": "BACGAMES",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38442/thumb/uA_V79mH_400x400.jpg?1717546387"
+    "logoURI": "https://assets.coingecko.com/coins/images/38442/small/uA_V79mH_400x400.jpg?1717546387"
   },
   {
     "chainId": 81457,
@@ -307,7 +307,7 @@
     "name": "yETH",
     "symbol": "YETH",
     "decimals": 24,
-    "logoURI": "https://assets.coingecko.com/coins/images/38871/thumb/yETH.png?1719286818"
+    "logoURI": "https://assets.coingecko.com/coins/images/38871/small/yETH.png?1719286818"
   },
   {
     "chainId": 81457,
@@ -315,7 +315,7 @@
     "name": "yYOLO",
     "symbol": "YYOLO",
     "decimals": 24,
-    "logoURI": "https://assets.coingecko.com/coins/images/38866/thumb/yYOLO.png?1719277542"
+    "logoURI": "https://assets.coingecko.com/coins/images/38866/small/yYOLO.png?1719277542"
   },
   {
     "chainId": 81457,
@@ -323,7 +323,7 @@
     "name": "AIRcoin On Blast",
     "symbol": "AIR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38647/thumb/IMG_3988.png?1718213220"
+    "logoURI": "https://assets.coingecko.com/coins/images/38647/small/IMG_3988.png?1718213220"
   },
   {
     "chainId": 81457,
@@ -331,7 +331,7 @@
     "name": "Aso Finance",
     "symbol": "ASO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38883/thumb/image_-_2024-06-25T182500.895.png?1719377959"
+    "logoURI": "https://assets.coingecko.com/coins/images/38883/small/image_-_2024-06-25T182500.895.png?1719377959"
   },
   {
     "chainId": 81457,
@@ -355,7 +355,7 @@
     "name": "YES Money",
     "symbol": "YES",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35657/thumb/yes-money.jpeg?1709437181"
+    "logoURI": "https://assets.coingecko.com/coins/images/35657/small/yes-money.jpeg?1709437181"
   },
   {
     "chainId": 81457,
@@ -395,7 +395,7 @@
     "name": "Mia",
     "symbol": "MIA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35598/thumb/mia.jpeg?1709260994"
+    "logoURI": "https://assets.coingecko.com/coins/images/35598/small/mia.jpeg?1709260994"
   },
   {
     "chainId": 81457,
@@ -426,7 +426,7 @@
     "name": "Davos xyz USD",
     "symbol": "DUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28775/thumb/dusd_logo_200x200.png?1696527754"
+    "logoURI": "https://assets.coingecko.com/coins/images/28775/small/dusd_logo_200x200.png?1696527754"
   },
   {
     "chainId": 81457,
@@ -434,7 +434,7 @@
     "name": "AI Waifu",
     "symbol": "WAI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50441/thumb/Logo.png?1727768050"
+    "logoURI": "https://assets.coingecko.com/coins/images/50441/small/Logo.png?1727768050"
   },
   {
     "chainId": 81457,
@@ -442,7 +442,7 @@
     "name": "Dinari RIOT",
     "symbol": "RIOTD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39812/thumb/RIOT.d-200.png?1724166370"
+    "logoURI": "https://assets.coingecko.com/coins/images/39812/small/RIOT.d-200.png?1724166370"
   },
   {
     "chainId": 81457,
@@ -450,7 +450,7 @@
     "name": "Dinari GME",
     "symbol": "GMED",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39619/thumb/Dinari-token-icon.png?1723148884"
+    "logoURI": "https://assets.coingecko.com/coins/images/39619/small/Dinari-token-icon.png?1723148884"
   },
   {
     "chainId": 81457,
@@ -458,7 +458,7 @@
     "name": "Dinari RDDT",
     "symbol": "RDDTD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39618/thumb/Dinari-token-icon.png?1723148750"
+    "logoURI": "https://assets.coingecko.com/coins/images/39618/small/Dinari-token-icon.png?1723148750"
   },
   {
     "chainId": 81457,
@@ -466,7 +466,7 @@
     "name": "SquadSwap",
     "symbol": "SQUAD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34653/thumb/SquadSwap_Logo_-_main.png?1705599291"
+    "logoURI": "https://assets.coingecko.com/coins/images/34653/small/SquadSwap_Logo_-_main.png?1705599291"
   },
   {
     "chainId": 81457,
@@ -482,7 +482,7 @@
     "name": "GODDOG",
     "symbol": "OOOOOO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38157/thumb/Goddog_logo_for_Coingecko_200x200.png?1716669510"
+    "logoURI": "https://assets.coingecko.com/coins/images/38157/small/Goddog_logo_for_Coingecko_200x200.png?1716669510"
   },
   {
     "chainId": 81457,
@@ -490,7 +490,7 @@
     "name": "Bridged FRAX",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829"
+    "logoURI": "https://assets.coingecko.com/coins/images/53060/small/frax.jpg?1735171829"
   },
   {
     "chainId": 81457,
@@ -498,7 +498,7 @@
     "name": "Dackie USD",
     "symbol": "DCKUSD",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/39966/thumb/dackie_usd_circle.png?1734941381"
+    "logoURI": "https://assets.coingecko.com/coins/images/39966/small/dackie_usd_circle.png?1734941381"
   },
   {
     "chainId": 81457,
@@ -506,7 +506,7 @@
     "name": "Quack Token",
     "symbol": "QUACK",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31436/thumb/0x639C0D019C257966C4907bD4E68E3F349bB58109.png?1696530251"
+    "logoURI": "https://assets.coingecko.com/coins/images/31436/small/0x639C0D019C257966C4907bD4E68E3F349bB58109.png?1696530251"
   },
   {
     "chainId": 81457,
@@ -514,7 +514,7 @@
     "name": "Anzen USDz",
     "symbol": "USDZ",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38039/thumb/usdz-image-200x200.png?1716334412"
+    "logoURI": "https://assets.coingecko.com/coins/images/38039/small/usdz-image-200x200.png?1716334412"
   },
   {
     "chainId": 81457,
@@ -533,7 +533,7 @@
     "name": "Anzen Staked USDz",
     "symbol": "SUSDZ",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38040/thumb/susdz-symbol-200x200.png?1716334492"
+    "logoURI": "https://assets.coingecko.com/coins/images/38040/small/susdz-symbol-200x200.png?1716334492"
   },
   {
     "chainId": 81457,
@@ -541,7 +541,7 @@
     "name": "Persistence One",
     "symbol": "XPRT",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/14582/thumb/Download%28black_Dark%29.png?1723470571"
+    "logoURI": "https://assets.coingecko.com/coins/images/14582/small/Download%28black_Dark%29.png?1723470571"
   },
   {
     "chainId": 81457,
@@ -549,7 +549,7 @@
     "name": "Ankr Staked ETH",
     "symbol": "ANKRETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13403/thumb/aETHc.png?1696513165"
+    "logoURI": "https://assets.coingecko.com/coins/images/13403/small/aETHc.png?1696513165"
   },
   {
     "chainId": 81457,
@@ -557,7 +557,7 @@
     "name": "Maha",
     "symbol": "MAHA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13404/thumb/black.png?1724679606"
+    "logoURI": "https://assets.coingecko.com/coins/images/13404/small/black.png?1724679606"
   },
   {
     "chainId": 81457,
@@ -565,7 +565,7 @@
     "name": "Affine ultraETHs 2 0",
     "symbol": "ULTRAETHS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39864/thumb/affine-ultra-eths-cg-logo.png?1724379373"
+    "logoURI": "https://assets.coingecko.com/coins/images/39864/small/affine-ultra-eths-cg-logo.png?1724379373"
   },
   {
     "chainId": 81457,
@@ -573,7 +573,7 @@
     "name": "Any Inu",
     "symbol": "AI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34126/thumb/anyinulogo200.png?1704174269"
+    "logoURI": "https://assets.coingecko.com/coins/images/34126/small/anyinulogo200.png?1704174269"
   },
   {
     "chainId": 81457,
@@ -581,7 +581,7 @@
     "name": "OX Coin",
     "symbol": "OX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35365/thumb/9.png?1727331352"
+    "logoURI": "https://assets.coingecko.com/coins/images/35365/small/9.png?1727331352"
   },
   {
     "chainId": 81457,
@@ -596,7 +596,7 @@
     "name": "OmniCat",
     "symbol": "OMNI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33917/thumb/omnicatlogo.png?1717544778"
+    "logoURI": "https://assets.coingecko.com/coins/images/33917/small/omnicatlogo.png?1717544778"
   },
   {
     "chainId": 81457,
@@ -604,7 +604,7 @@
     "name": "DackieSwap  OLD ",
     "symbol": "DACKIE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30752/thumb/dackieswap_large.png?1707290196"
+    "logoURI": "https://assets.coingecko.com/coins/images/30752/small/dackieswap_large.png?1707290196"
   },
   {
     "chainId": 81457,
@@ -620,7 +620,7 @@
     "name": "Dinari UBER",
     "symbol": "UBERD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39834/thumb/Dinari-token-icon.png?1724254647"
+    "logoURI": "https://assets.coingecko.com/coins/images/39834/small/Dinari-token-icon.png?1724254647"
   },
   {
     "chainId": 81457,
@@ -658,7 +658,7 @@
     "name": "Wolf Game Wool",
     "symbol": "WOOL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20760/thumb/KM3RwIVx_400x400.jpg?1696520155"
+    "logoURI": "https://assets.coingecko.com/coins/images/20760/small/KM3RwIVx_400x400.jpg?1696520155"
   },
   {
     "chainId": 81457,
@@ -674,7 +674,7 @@
     "name": "Overnight fi USDC ",
     "symbol": "USDC+",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34763/thumb/USDC_.png?1705990720"
+    "logoURI": "https://assets.coingecko.com/coins/images/34763/small/USDC_.png?1705990720"
   },
   {
     "chainId": 81457,
@@ -682,7 +682,7 @@
     "name": "Inception Restaked ETH",
     "symbol": "INETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34127/thumb/inETH.png?1715036464"
+    "logoURI": "https://assets.coingecko.com/coins/images/34127/small/inETH.png?1715036464"
   },
   {
     "chainId": 81457,
@@ -690,7 +690,7 @@
     "name": "KAP Games",
     "symbol": "KAP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27682/thumb/KAP_Logo.png?1696526710"
+    "logoURI": "https://assets.coingecko.com/coins/images/27682/small/KAP_Logo.png?1696526710"
   },
   {
     "chainId": 81457,
@@ -698,7 +698,7 @@
     "name": "RabbitX",
     "symbol": "RBX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30048/thumb/RBX.png?1696528970"
+    "logoURI": "https://assets.coingecko.com/coins/images/30048/small/RBX.png?1696528970"
   },
   {
     "chainId": 81457,
@@ -706,7 +706,7 @@
     "name": "Unvest",
     "symbol": "UNV",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18119/thumb/UNV.jpg?1696517622"
+    "logoURI": "https://assets.coingecko.com/coins/images/18119/small/UNV.jpg?1696517622"
   },
   {
     "chainId": 81457,
@@ -722,7 +722,7 @@
     "name": "Dinari AMC",
     "symbol": "AMCD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39835/thumb/Dinari-token-icon.png?1724254655"
+    "logoURI": "https://assets.coingecko.com/coins/images/39835/small/Dinari-token-icon.png?1724254655"
   },
   {
     "chainId": 81457,
@@ -730,7 +730,7 @@
     "name": "ZAI Stablecoin",
     "symbol": "ZAI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588"
+    "logoURI": "https://assets.coingecko.com/coins/images/39733/small/Group_4.png?1723771588"
   },
   {
     "chainId": 81457,
@@ -738,7 +738,7 @@
     "name": "ZKDX",
     "symbol": "ZKDX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34802/thumb/logo-png.png?1706092934"
+    "logoURI": "https://assets.coingecko.com/coins/images/34802/small/logo-png.png?1706092934"
   },
   {
     "chainId": 81457,
@@ -746,7 +746,7 @@
     "name": "Aipocalypto",
     "symbol": "AIPO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51400/thumb/aipo.png?1731084580"
+    "logoURI": "https://assets.coingecko.com/coins/images/51400/small/aipo.png?1731084580"
   },
   {
     "chainId": 81457,
@@ -754,7 +754,7 @@
     "name": "Vertex",
     "symbol": "VRTX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27927/thumb/vrtx.png?1696526947"
+    "logoURI": "https://assets.coingecko.com/coins/images/27927/small/vrtx.png?1696526947"
   },
   {
     "chainId": 81457,
@@ -770,7 +770,7 @@
     "name": "Dinari ADBE",
     "symbol": "ADBED",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53861/thumb/d-token-200.png?1737614564"
+    "logoURI": "https://assets.coingecko.com/coins/images/53861/small/d-token-200.png?1737614564"
   },
   {
     "chainId": 81457,
@@ -778,7 +778,7 @@
     "name": "Dinari FBTC",
     "symbol": "FBTCD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53866/thumb/d-token-200.png?1737615424"
+    "logoURI": "https://assets.coingecko.com/coins/images/53866/small/d-token-200.png?1737615424"
   },
   {
     "chainId": 81457,
@@ -786,7 +786,7 @@
     "name": "Dinari MSTR",
     "symbol": "MSTRD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53672/thumb/d-token-200.png?1737007903"
+    "logoURI": "https://assets.coingecko.com/coins/images/53672/small/d-token-200.png?1737007903"
   },
   {
     "chainId": 81457,
@@ -794,7 +794,7 @@
     "name": "Dinari AVGO",
     "symbol": "AVGOD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53862/thumb/d-token-200.png?1737614626"
+    "logoURI": "https://assets.coingecko.com/coins/images/53862/small/d-token-200.png?1737614626"
   },
   {
     "chainId": 81457,
@@ -802,7 +802,7 @@
     "name": "Dinari NLY",
     "symbol": "NLYD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53869/thumb/d-token-200.png?1737615761"
+    "logoURI": "https://assets.coingecko.com/coins/images/53869/small/d-token-200.png?1737615761"
   },
   {
     "chainId": 81457,
@@ -810,7 +810,7 @@
     "name": "Dinari BITB",
     "symbol": "BITBD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53863/thumb/d-token-200.png?1737614680"
+    "logoURI": "https://assets.coingecko.com/coins/images/53863/small/d-token-200.png?1737614680"
   },
   {
     "chainId": 81457,
@@ -818,7 +818,7 @@
     "name": "Dinari GBTC",
     "symbol": "GBTCD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53867/thumb/d-token-200.png?1737615504"
+    "logoURI": "https://assets.coingecko.com/coins/images/53867/small/d-token-200.png?1737615504"
   },
   {
     "chainId": 81457,
@@ -826,7 +826,7 @@
     "name": "Dinari MARA",
     "symbol": "MARAD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53868/thumb/d-token-200.png?1737615592"
+    "logoURI": "https://assets.coingecko.com/coins/images/53868/small/d-token-200.png?1737615592"
   },
   {
     "chainId": 81457,
@@ -834,7 +834,7 @@
     "name": "Dinari WOOD",
     "symbol": "WOODD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53871/thumb/d-token-200.png?1737616705"
+    "logoURI": "https://assets.coingecko.com/coins/images/53871/small/d-token-200.png?1737616705"
   },
   {
     "chainId": 81457,
@@ -842,7 +842,7 @@
     "name": "Dinari WEAT",
     "symbol": "WEATD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53872/thumb/d-token-200.png?1737617091"
+    "logoURI": "https://assets.coingecko.com/coins/images/53872/small/d-token-200.png?1737617091"
   },
   {
     "chainId": 81457,
@@ -850,7 +850,7 @@
     "name": "Dinari SLX",
     "symbol": "SLXD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53874/thumb/d-token-200.png?1737617906"
+    "logoURI": "https://assets.coingecko.com/coins/images/53874/small/d-token-200.png?1737617906"
   },
   {
     "chainId": 81457,
@@ -858,7 +858,7 @@
     "name": "Dinari ARKB",
     "symbol": "ARKBD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53944/thumb/d-token-200.png?1737787573"
+    "logoURI": "https://assets.coingecko.com/coins/images/53944/small/d-token-200.png?1737787573"
   },
   {
     "chainId": 81457,
@@ -866,7 +866,7 @@
     "name": "Dinari ETHE",
     "symbol": "ETHED",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53949/thumb/d-token-200.png?1737788495"
+    "logoURI": "https://assets.coingecko.com/coins/images/53949/small/d-token-200.png?1737788495"
   },
   {
     "chainId": 81457,
@@ -874,7 +874,7 @@
     "name": "Dinari IBIT",
     "symbol": "IBITD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53950/thumb/d-token-200.png?1737788536"
+    "logoURI": "https://assets.coingecko.com/coins/images/53950/small/d-token-200.png?1737788536"
   },
   {
     "chainId": 81457,
@@ -882,7 +882,7 @@
     "name": "Dinari JNJ",
     "symbol": "JNJD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53951/thumb/d-token-200.png?1737788564"
+    "logoURI": "https://assets.coingecko.com/coins/images/53951/small/d-token-200.png?1737788564"
   },
   {
     "chainId": 81457,
@@ -890,7 +890,7 @@
     "name": "Dinari BLK",
     "symbol": "BLKD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53952/thumb/d-token-200.png?1737788600"
+    "logoURI": "https://assets.coingecko.com/coins/images/53952/small/d-token-200.png?1737788600"
   },
   {
     "chainId": 81457,
@@ -898,7 +898,7 @@
     "name": "Dinari MCD",
     "symbol": "MCDD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53954/thumb/d-token-200.png?1737789312"
+    "logoURI": "https://assets.coingecko.com/coins/images/53954/small/d-token-200.png?1737789312"
   },
   {
     "chainId": 81457,
@@ -906,7 +906,7 @@
     "name": "Dinari QQQ",
     "symbol": "QQQD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53957/thumb/d-token-200.png?1737790123"
+    "logoURI": "https://assets.coingecko.com/coins/images/53957/small/d-token-200.png?1737790123"
   },
   {
     "chainId": 81457,
@@ -914,7 +914,7 @@
     "name": "Dinari TQQQ",
     "symbol": "TQQQD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53958/thumb/d-token-200.png?1737790158"
+    "logoURI": "https://assets.coingecko.com/coins/images/53958/small/d-token-200.png?1737790158"
   },
   {
     "chainId": 81457,
@@ -922,7 +922,7 @@
     "name": "Dinari ARKK",
     "symbol": "ARKKD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53945/thumb/d-token-200.png?1737787680"
+    "logoURI": "https://assets.coingecko.com/coins/images/53945/small/d-token-200.png?1737787680"
   },
   {
     "chainId": 81457,
@@ -930,7 +930,7 @@
     "name": "Dinari AZN",
     "symbol": "AZND",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53946/thumb/d-token-200.png?1737787723"
+    "logoURI": "https://assets.coingecko.com/coins/images/53946/small/d-token-200.png?1737787723"
   },
   {
     "chainId": 81457,
@@ -938,7 +938,7 @@
     "name": "Dinari ARKX",
     "symbol": "ARKXD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54037/thumb/d-token-200.png?1738075900"
+    "logoURI": "https://assets.coingecko.com/coins/images/54037/small/d-token-200.png?1738075900"
   },
   {
     "chainId": 81457,
@@ -946,7 +946,7 @@
     "name": "Dinari BA",
     "symbol": "BAD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54038/thumb/d-token-200.png?1738075918"
+    "logoURI": "https://assets.coingecko.com/coins/images/54038/small/d-token-200.png?1738075918"
   },
   {
     "chainId": 81457,
@@ -954,7 +954,7 @@
     "name": "Dinari BRRR",
     "symbol": "BRRRD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54039/thumb/d-token-200.png?1738075951"
+    "logoURI": "https://assets.coingecko.com/coins/images/54039/small/d-token-200.png?1738075951"
   },
   {
     "chainId": 81457,
@@ -962,7 +962,7 @@
     "name": "Dinari BTCO",
     "symbol": "BTCOD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54048/thumb/d-token-200.png?1738103322"
+    "logoURI": "https://assets.coingecko.com/coins/images/54048/small/d-token-200.png?1738103322"
   },
   {
     "chainId": 81457,
@@ -970,7 +970,7 @@
     "name": "Dinari BAC",
     "symbol": "BACD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54049/thumb/d-token-200.png?1738103338"
+    "logoURI": "https://assets.coingecko.com/coins/images/54049/small/d-token-200.png?1738103338"
   },
   {
     "chainId": 81457,
@@ -978,7 +978,7 @@
     "name": "Dinari BTCW",
     "symbol": "BTCWD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54050/thumb/d-token-200.png?1738103595"
+    "logoURI": "https://assets.coingecko.com/coins/images/54050/small/d-token-200.png?1738103595"
   },
   {
     "chainId": 81457,
@@ -986,7 +986,7 @@
     "name": "Dinari CAT",
     "symbol": "CATD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54051/thumb/d-token-200.png?1738103623"
+    "logoURI": "https://assets.coingecko.com/coins/images/54051/small/d-token-200.png?1738103623"
   },
   {
     "chainId": 81457,
@@ -994,7 +994,7 @@
     "name": "Dinari DEFI",
     "symbol": "DEFID",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54052/thumb/d-token-200.png?1738103629"
+    "logoURI": "https://assets.coingecko.com/coins/images/54052/small/d-token-200.png?1738103629"
   },
   {
     "chainId": 81457,
@@ -1002,7 +1002,7 @@
     "name": "Dinari HODL",
     "symbol": "HODLD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54053/thumb/d-token-200.png?1738103664"
+    "logoURI": "https://assets.coingecko.com/coins/images/54053/small/d-token-200.png?1738103664"
   },
   {
     "chainId": 81457,
@@ -1010,7 +1010,7 @@
     "name": "Dinari HOOD",
     "symbol": "HOODD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671"
+    "logoURI": "https://assets.coingecko.com/coins/images/54054/small/d-token-200.png?1738103671"
   },
   {
     "chainId": 81457,
@@ -1018,7 +1018,7 @@
     "name": "Dinari HUT",
     "symbol": "HUTD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54079/thumb/d-token-200.png?1738175759"
+    "logoURI": "https://assets.coingecko.com/coins/images/54079/small/d-token-200.png?1738175759"
   },
   {
     "chainId": 81457,
@@ -1026,7 +1026,7 @@
     "name": "Dinari IAU",
     "symbol": "IAUD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54080/thumb/d-token-200.png?1738175780"
+    "logoURI": "https://assets.coingecko.com/coins/images/54080/small/d-token-200.png?1738175780"
   },
   {
     "chainId": 81457,
@@ -1034,7 +1034,7 @@
     "name": "Dinari V",
     "symbol": "VD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54081/thumb/d-token-200.png?1738176162"
+    "logoURI": "https://assets.coingecko.com/coins/images/54081/small/d-token-200.png?1738176162"
   },
   {
     "chainId": 81457,
@@ -1042,7 +1042,7 @@
     "name": "Dinari VWO",
     "symbol": "VWOD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54082/thumb/d-token-200.png?1738176178"
+    "logoURI": "https://assets.coingecko.com/coins/images/54082/small/d-token-200.png?1738176178"
   },
   {
     "chainId": 81457,
@@ -1050,7 +1050,7 @@
     "name": "Star",
     "symbol": "STAR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31277/thumb/coin-icon_Star-200x200.png?1732742256"
+    "logoURI": "https://assets.coingecko.com/coins/images/31277/small/coin-icon_Star-200x200.png?1732742256"
   },
   {
     "chainId": 81457,
@@ -1058,7 +1058,7 @@
     "name": "Dinari JPM",
     "symbol": "JPMD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54184/thumb/d-token-200.png?1738682276"
+    "logoURI": "https://assets.coingecko.com/coins/images/54184/small/d-token-200.png?1738682276"
   },
   {
     "chainId": 81457,
@@ -1066,7 +1066,7 @@
     "name": "Dinari KO",
     "symbol": "KOD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54185/thumb/d-token-200.png?1738682465"
+    "logoURI": "https://assets.coingecko.com/coins/images/54185/small/d-token-200.png?1738682465"
   },
   {
     "chainId": 81457,
@@ -1074,7 +1074,7 @@
     "name": "Dinari PHO",
     "symbol": "PHOD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54187/thumb/d-token-200.png?1738682583"
+    "logoURI": "https://assets.coingecko.com/coins/images/54187/small/d-token-200.png?1738682583"
   },
   {
     "chainId": 81457,
@@ -1082,7 +1082,7 @@
     "name": "Dinari YUM",
     "symbol": "YUMD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54188/thumb/d-token-200.png?1738682602"
+    "logoURI": "https://assets.coingecko.com/coins/images/54188/small/d-token-200.png?1738682602"
   },
   {
     "chainId": 81457,
@@ -1090,7 +1090,7 @@
     "name": "Dinari XOM",
     "symbol": "XOMD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54189/thumb/d-token-200.png?1738682617"
+    "logoURI": "https://assets.coingecko.com/coins/images/54189/small/d-token-200.png?1738682617"
   },
   {
     "chainId": 81457,
@@ -1098,7 +1098,7 @@
     "name": "Dinari WALRF",
     "symbol": "WALRFD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54222/thumb/d-token-200.png?1738860922"
+    "logoURI": "https://assets.coingecko.com/coins/images/54222/small/d-token-200.png?1738860922"
   },
   {
     "chainId": 81457,
@@ -1106,7 +1106,7 @@
     "name": "Dinari RBLX",
     "symbol": "RBLXD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54223/thumb/d-token-200.png?1738860997"
+    "logoURI": "https://assets.coingecko.com/coins/images/54223/small/d-token-200.png?1738860997"
   },
   {
     "chainId": 81457,
@@ -1114,7 +1114,7 @@
     "name": "Dinari SIVR",
     "symbol": "SIVRD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54224/thumb/d-token-200.png?1738861015"
+    "logoURI": "https://assets.coingecko.com/coins/images/54224/small/d-token-200.png?1738861015"
   },
   {
     "chainId": 81457,
@@ -1122,7 +1122,7 @@
     "name": "Dinari SONY",
     "symbol": "SONYD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54225/thumb/d-token-200.png?1738861032"
+    "logoURI": "https://assets.coingecko.com/coins/images/54225/small/d-token-200.png?1738861032"
   },
   {
     "chainId": 81457,
@@ -1130,7 +1130,7 @@
     "name": "Dinari COST",
     "symbol": "COSTD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54226/thumb/d-token-200.png?1738861053"
+    "logoURI": "https://assets.coingecko.com/coins/images/54226/small/d-token-200.png?1738861053"
   },
   {
     "chainId": 81457,
@@ -1138,7 +1138,7 @@
     "name": "Dinari DAL",
     "symbol": "DALD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54227/thumb/d-token-200.png?1738861070"
+    "logoURI": "https://assets.coingecko.com/coins/images/54227/small/d-token-200.png?1738861070"
   },
   {
     "chainId": 81457,
@@ -1146,7 +1146,7 @@
     "name": "Dinari GLD",
     "symbol": "GLDD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54228/thumb/d-token-200.png?1738861086"
+    "logoURI": "https://assets.coingecko.com/coins/images/54228/small/d-token-200.png?1738861086"
   },
   {
     "chainId": 81457,
@@ -1154,7 +1154,7 @@
     "name": "Dinari SQ",
     "symbol": "SQD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54229/thumb/d-token-200.png?1738861102"
+    "logoURI": "https://assets.coingecko.com/coins/images/54229/small/d-token-200.png?1738861102"
   },
   {
     "chainId": 81457,
@@ -1162,7 +1162,7 @@
     "name": "Dinari ERO",
     "symbol": "EROD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54230/thumb/d-token-200.png?1738861119"
+    "logoURI": "https://assets.coingecko.com/coins/images/54230/small/d-token-200.png?1738861119"
   },
   {
     "chainId": 81457,
@@ -1170,7 +1170,7 @@
     "name": "Dinari EZBC",
     "symbol": "EZBCD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54267/thumb/d-token-200.png?1738994496"
+    "logoURI": "https://assets.coingecko.com/coins/images/54267/small/d-token-200.png?1738994496"
   },
   {
     "chainId": 81457,
@@ -1178,7 +1178,7 @@
     "name": "Dinari PG",
     "symbol": "PGD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54269/thumb/d-token-200.png?1738994720"
+    "logoURI": "https://assets.coingecko.com/coins/images/54269/small/d-token-200.png?1738994720"
   },
   {
     "chainId": 81457,
@@ -1186,7 +1186,7 @@
     "name": "Dinari PALL",
     "symbol": "PALLD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54270/thumb/d-token-200.png?1738994765"
+    "logoURI": "https://assets.coingecko.com/coins/images/54270/small/d-token-200.png?1738994765"
   },
   {
     "chainId": 81457,
@@ -1194,7 +1194,7 @@
     "name": "Dinari CCL",
     "symbol": "CCLD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54275/thumb/d-token-200.png?1738998063"
+    "logoURI": "https://assets.coingecko.com/coins/images/54275/small/d-token-200.png?1738998063"
   },
   {
     "chainId": 81457,
@@ -1202,7 +1202,7 @@
     "name": "Dinari F",
     "symbol": "FD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54276/thumb/d-token-200.png?1738998264"
+    "logoURI": "https://assets.coingecko.com/coins/images/54276/small/d-token-200.png?1738998264"
   },
   {
     "chainId": 81457,
@@ -1210,7 +1210,7 @@
     "name": "Dinari RKLB",
     "symbol": "RKLBD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54280/thumb/d-token-200.png?1738998854"
+    "logoURI": "https://assets.coingecko.com/coins/images/54280/small/d-token-200.png?1738998854"
   },
   {
     "chainId": 81457,
@@ -1218,7 +1218,7 @@
     "name": "Dinari CSCO",
     "symbol": "CSCOD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54277/thumb/d-token-200.png?1738998301"
+    "logoURI": "https://assets.coingecko.com/coins/images/54277/small/d-token-200.png?1738998301"
   },
   {
     "chainId": 81457,
@@ -1226,7 +1226,7 @@
     "name": "Dinari ITA",
     "symbol": "ITAD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54278/thumb/d-token-200.png?1738998357"
+    "logoURI": "https://assets.coingecko.com/coins/images/54278/small/d-token-200.png?1738998357"
   },
   {
     "chainId": 81457,
@@ -1234,7 +1234,7 @@
     "name": "Dinari BOXX",
     "symbol": "BOXXD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54359/thumb/d-token-200.png?1739401220"
+    "logoURI": "https://assets.coingecko.com/coins/images/54359/small/d-token-200.png?1739401220"
   },
   {
     "chainId": 81457,
@@ -1242,7 +1242,7 @@
     "name": "Dinari SBUX",
     "symbol": "SBUXD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54364/thumb/d-token-200.png?1739401368"
+    "logoURI": "https://assets.coingecko.com/coins/images/54364/small/d-token-200.png?1739401368"
   },
   {
     "chainId": 81457,
@@ -1250,7 +1250,7 @@
     "name": "Dinari CVX",
     "symbol": "CVXD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54360/thumb/d-token-200.png?1739401251"
+    "logoURI": "https://assets.coingecko.com/coins/images/54360/small/d-token-200.png?1739401251"
   },
   {
     "chainId": 81457,
@@ -1258,7 +1258,7 @@
     "name": "Dinari EEM",
     "symbol": "EEMD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54361/thumb/d-token-200.png?1739401272"
+    "logoURI": "https://assets.coingecko.com/coins/images/54361/small/d-token-200.png?1739401272"
   },
   {
     "chainId": 81457,
@@ -1266,7 +1266,7 @@
     "name": "Dinari HYMB",
     "symbol": "HYMBD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54362/thumb/d-token-200.png?1739401319"
+    "logoURI": "https://assets.coingecko.com/coins/images/54362/small/d-token-200.png?1739401319"
   },
   {
     "chainId": 81457,
@@ -1274,7 +1274,7 @@
     "name": "Dinari MELI",
     "symbol": "MELID",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54363/thumb/d-token-200.png?1739401339"
+    "logoURI": "https://assets.coingecko.com/coins/images/54363/small/d-token-200.png?1739401339"
   },
   {
     "chainId": 81457,
@@ -1282,7 +1282,7 @@
     "name": "Dinari SNOW",
     "symbol": "SNOWD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54365/thumb/d-token-200.png?1739401375"
+    "logoURI": "https://assets.coingecko.com/coins/images/54365/small/d-token-200.png?1739401375"
   },
   {
     "chainId": 81457,
@@ -1290,7 +1290,7 @@
     "name": "Dinari SOXL",
     "symbol": "SOXLD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54366/thumb/d-token-200.png?1739401385"
+    "logoURI": "https://assets.coingecko.com/coins/images/54366/small/d-token-200.png?1739401385"
   },
   {
     "chainId": 81457,
@@ -1298,7 +1298,7 @@
     "name": "Dinari USHY",
     "symbol": "USHYD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54367/thumb/d-token-200.png?1739401403"
+    "logoURI": "https://assets.coingecko.com/coins/images/54367/small/d-token-200.png?1739401403"
   },
   {
     "chainId": 81457,
@@ -1306,7 +1306,7 @@
     "name": "Dinari SPSK",
     "symbol": "SPSKD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54391/thumb/d-token-200.png?1739485728"
+    "logoURI": "https://assets.coingecko.com/coins/images/54391/small/d-token-200.png?1739485728"
   },
   {
     "chainId": 81457,
@@ -1314,7 +1314,7 @@
     "name": "Dinari SPTE",
     "symbol": "SPTED",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54392/thumb/d-token-200.png?1739485749"
+    "logoURI": "https://assets.coingecko.com/coins/images/54392/small/d-token-200.png?1739485749"
   },
   {
     "chainId": 81457,
@@ -1322,7 +1322,7 @@
     "name": "Dinari SPUS",
     "symbol": "SPUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54393/thumb/d-token-200.png?1739485765"
+    "logoURI": "https://assets.coingecko.com/coins/images/54393/small/d-token-200.png?1739485765"
   },
   {
     "chainId": 81457,
@@ -1330,7 +1330,7 @@
     "name": "Dinari SPWO",
     "symbol": "SPWOD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54394/thumb/d-token-200.png?1739485782"
+    "logoURI": "https://assets.coingecko.com/coins/images/54394/small/d-token-200.png?1739485782"
   },
   {
     "chainId": 81457,
@@ -1338,7 +1338,7 @@
     "name": "Dinari UFO",
     "symbol": "UFOD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54395/thumb/d-token-200.png?1739485800"
+    "logoURI": "https://assets.coingecko.com/coins/images/54395/small/d-token-200.png?1739485800"
   },
   {
     "chainId": 81457,
@@ -1346,7 +1346,7 @@
     "name": "Dinari VXX",
     "symbol": "VXXD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54396/thumb/d-token-200.png?1739485820"
+    "logoURI": "https://assets.coingecko.com/coins/images/54396/small/d-token-200.png?1739485820"
   },
   {
     "chainId": 81457,
@@ -1354,7 +1354,7 @@
     "name": "Dinari TJX",
     "symbol": "TJXD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54397/thumb/d-token-200.png?1739485840"
+    "logoURI": "https://assets.coingecko.com/coins/images/54397/small/d-token-200.png?1739485840"
   },
   {
     "chainId": 81457,
@@ -1626,7 +1626,7 @@
     "name": "ynETH MAX",
     "symbol": "YNETHX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
+    "logoURI": "https://assets.coingecko.com/coins/images/51623/small/ynETHx.png?1731659494"
   },
   {
     "chainId": 81457,
@@ -1634,7 +1634,7 @@
     "name": "Few Wrapped Juice",
     "symbol": "FWJUICE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55677/thumb/juice-logo.png?1746978537"
+    "logoURI": "https://assets.coingecko.com/coins/images/55677/small/juice-logo.png?1746978537"
   },
   {
     "chainId": 81457,
@@ -1642,7 +1642,7 @@
     "name": "Few Wrapped Wrapped Ether",
     "symbol": "FWWETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55674/thumb/wrapped-eth-logo.png?1746978129"
+    "logoURI": "https://assets.coingecko.com/coins/images/55674/small/wrapped-eth-logo.png?1746978129"
   },
   {
     "chainId": 81457,
@@ -1650,7 +1650,7 @@
     "name": "Few Wrapped Duo USD",
     "symbol": "FWDUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55678/thumb/usdb-logo.png?1746978644"
+    "logoURI": "https://assets.coingecko.com/coins/images/55678/small/usdb-logo.png?1746978644"
   },
   {
     "chainId": 81457,
@@ -1658,7 +1658,7 @@
     "name": "Few Wrapped USDB",
     "symbol": "FWUSDB",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55673/thumb/usdb-logo.png?1746977964"
+    "logoURI": "https://assets.coingecko.com/coins/images/55673/small/usdb-logo.png?1746977964"
   },
   {
     "chainId": 81457,
@@ -1666,7 +1666,7 @@
     "name": "Few Wrapped Wrapped BTC",
     "symbol": "FWWBTC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55679/thumb/wrapped-btc-logo.png?1746978816"
+    "logoURI": "https://assets.coingecko.com/coins/images/55679/small/wrapped-btc-logo.png?1746978816"
   },
   {
     "chainId": 81457,
@@ -1674,7 +1674,7 @@
     "name": "Few Wrapped Duo ETH",
     "symbol": "FWDETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55680/thumb/duo-eth-logo.png?1746978931"
+    "logoURI": "https://assets.coingecko.com/coins/images/55680/small/duo-eth-logo.png?1746978931"
   },
   {
     "chainId": 81457,
@@ -1682,7 +1682,7 @@
     "name": "Few Wrapped Blast",
     "symbol": "FWBLAST",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55675/thumb/blast-logo.png?1746978286"
+    "logoURI": "https://assets.coingecko.com/coins/images/55675/small/blast-logo.png?1746978286"
   },
   {
     "chainId": 81457,
@@ -1690,7 +1690,7 @@
     "name": "Few Wrapped Orbit Protocol",
     "symbol": "FWORBIT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55676/thumb/orbit-protocol-logo.png?1746978419"
+    "logoURI": "https://assets.coingecko.com/coins/images/55676/small/orbit-protocol-logo.png?1746978419"
   },
   {
     "chainId": 81457,
@@ -1698,7 +1698,7 @@
     "name": "Blast Bridged USDE  Blast ",
     "symbol": "USDE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/68281/thumb/usde.jpg?1755239722"
+    "logoURI": "https://assets.coingecko.com/coins/images/68281/small/usde.jpg?1755239722"
   },
   {
     "chainId": 81457,
@@ -1706,7 +1706,7 @@
     "name": "Chainlink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1696502009"
   },
   {
     "chainId": 81457,
@@ -1714,7 +1714,7 @@
     "name": "Ethena Staked USDe",
     "symbol": "SUSDE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
+    "logoURI": "https://assets.coingecko.com/coins/images/33669/small/sUSDe-Symbol-Color.png?1716307680"
   },
   {
     "chainId": 81457,
@@ -1722,7 +1722,7 @@
     "name": "Ethena",
     "symbol": "ENA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
+    "logoURI": "https://assets.coingecko.com/coins/images/36530/small/ethena.png?1711701436"
   },
   {
     "chainId": 81457,
@@ -1730,7 +1730,7 @@
     "name": "Wrapped FRAX",
     "symbol": "WFRAX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/small/wfrax_64.png?1745993624"
   },
   {
     "chainId": 81457,
@@ -1738,6 +1738,6 @@
     "name": "Frax USD",
     "symbol": "FRXUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+    "logoURI": "https://assets.coingecko.com/coins/images/53963/small/frxUSD.png?1737792154"
   }
 ]

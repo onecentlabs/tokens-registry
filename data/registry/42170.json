@@ -5,7 +5,7 @@
     "name": "Arbitrum Bridged USDC  Arbitrum Nova ",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/35259/thumb/USDC_Icon.png?1708007444"
+    "logoURI": "https://assets.coingecko.com/coins/images/35259/small/USDC_Icon.png?1708007444"
   },
   {
     "chainId": 42170,
@@ -13,7 +13,7 @@
     "name": "MakerDAO Arbitrum Nova DAI Bridge  Arbi",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39804/thumb/dai.png?1724126141"
+    "logoURI": "https://assets.coingecko.com/coins/images/39804/small/dai.png?1724126141"
   },
   {
     "chainId": 42170,
@@ -21,7 +21,7 @@
     "name": "r CryptoCurrency Moons",
     "symbol": "MOON",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11222/thumb/Moons.png?1696511153"
+    "logoURI": "https://assets.coingecko.com/coins/images/11222/small/Moons.png?1696511153"
   },
   {
     "chainId": 42170,
@@ -29,7 +29,7 @@
     "name": "r FortNiteBR Bricks",
     "symbol": "BRICK",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11223/thumb/Brick.png?1696511154"
+    "logoURI": "https://assets.coingecko.com/coins/images/11223/small/Brick.png?1696511154"
   },
   {
     "chainId": 42170,
@@ -37,7 +37,7 @@
     "name": "MoonsDust",
     "symbol": "MOOND",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22050/thumb/moondlogo.png?1696521394"
+    "logoURI": "https://assets.coingecko.com/coins/images/22050/small/moondlogo.png?1696521394"
   },
   {
     "chainId": 42170,
@@ -45,7 +45,7 @@
     "name": "Arbitrum Bridged WETH  Arbitrum Nova ",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39697/thumb/weth.png?1723671407"
+    "logoURI": "https://assets.coingecko.com/coins/images/39697/small/weth.png?1723671407"
   },
   {
     "chainId": 42170,
@@ -53,7 +53,7 @@
     "name": "Superpower Squad",
     "symbol": "SQUAD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28466/thumb/SQUAD200X200.png?1696527460"
+    "logoURI": "https://assets.coingecko.com/coins/images/28466/small/SQUAD200X200.png?1696527460"
   },
   {
     "chainId": 42170,
@@ -61,7 +61,7 @@
     "name": "Zoomer",
     "symbol": "ZOOMER",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30894/thumb/zoooooooooomer.jpg?1696529740"
+    "logoURI": "https://assets.coingecko.com/coins/images/30894/small/zoooooooooomer.jpg?1696529740"
   },
   {
     "chainId": 42170,
@@ -69,7 +69,7 @@
     "name": "Arbitrum",
     "symbol": "ARB",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16547/thumb/arb.jpg?1721358242"
+    "logoURI": "https://assets.coingecko.com/coins/images/16547/small/arb.jpg?1721358242"
   },
   {
     "chainId": 42170,
@@ -77,7 +77,7 @@
     "name": "Arbius",
     "symbol": "AIUS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35246/thumb/arbius-200x-logo.png?1707987961"
+    "logoURI": "https://assets.coingecko.com/coins/images/35246/small/arbius-200x-logo.png?1707987961"
   },
   {
     "chainId": 42170,
@@ -85,7 +85,7 @@
     "name": "Reboot",
     "symbol": "GG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31228/thumb/gg_cyan_black_square.png?1703749951"
+    "logoURI": "https://assets.coingecko.com/coins/images/31228/small/gg_cyan_black_square.png?1703749951"
   },
   {
     "chainId": 42170,
@@ -93,6 +93,6 @@
     "name": "Godcoin",
     "symbol": "GOD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53848/thumb/GodcoinTickerIcon_02.png?1737582816"
+    "logoURI": "https://assets.coingecko.com/coins/images/53848/small/GodcoinTickerIcon_02.png?1737582816"
   }
 ]

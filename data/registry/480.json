@@ -64,5 +64,13 @@
       "opListId": "extended",
       "opTokenId": "MVP"
     }
+  },
+  {
+    "chainId": 480,
+    "address": "0xFdCa15bd55F350a36E63C47661914d80411d2C22",
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28452/small/ARUsPeNQ_400x400.jpeg?1696527447"
   }
 ]

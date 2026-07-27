@@ -288,7 +288,7 @@
     "name": "Swarm",
     "decimals": 16,
     "chainId": 100,
-    "logoURI": "https://assets.coingecko.com/coins/images/16509/standard/Circle_Orange_onWhite.png?1696516071"
+    "logoURI": "https://assets.coingecko.com/coins/images/16509/small/Circle_Orange_onWhite.png?1696516071"
   },
   {
     "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
@@ -5360,5 +5360,13 @@
     "name": "Super Savings xDAI",
     "decimals": 18,
     "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/sdai.webp"
+  },
+  {
+    "symbol": "EURe",
+    "name": "Monerium EUR emoney v2",
+    "address": "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://files.cow.fi/token-lists/images/100/0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430/logo.png"
   }
 ]
