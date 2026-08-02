@@ -35550,5 +35550,21 @@
     "symbol": "HYGWON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102174744/small/hygwon_160x160.png?1784769740"
+  },
+  {
+    "name": "GRVT",
+    "chainId": 56,
+    "symbol": "GRVT",
+    "address": "0x46F2564E0FA8248d15125E7e54173cfbdEf91Be7",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x46F2564E0FA8248d15125E7e54173cfbdEf91Be7.png"
+  },
+  {
+    "name": "MarsCoin",
+    "chainId": 56,
+    "symbol": "MarsCoin",
+    "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777.png"
   }
 ]

@@ -1308,5 +1308,13 @@
     "symbol": "EVAUSDC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102173288/small/token-evaUSDC.png?1778830856"
+  },
+  {
+    "chainId": 59144,
+    "address": "0x10f04e61bd6019d6c9b0bf4907e805a64b92ee3e",
+    "name": "1INCH",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13469/small/1inch-logo.jpeg?1759404663"
   }
 ]

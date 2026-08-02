@@ -5368,5 +5368,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://files.cow.fi/token-lists/images/100/0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430/logo.png"
+  },
+  {
+    "address": "0x8e34bfec4f6eb781f9743d9b4af99cd23f9b7053",
+    "symbol": "GBPe",
+    "name": "Monerium GBPe",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://files.cow.fi/token-lists/images/100/0x8e34bfec4f6eb781f9743d9b4af99cd23f9b7053/logo.png"
   }
 ]
