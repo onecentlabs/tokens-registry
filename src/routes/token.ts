@@ -24,15 +24,24 @@ export class TokenRegistry {
     this.tokens = new Map()
     this.chainMap = {
       ETH: '1',
+      ETHEREUM: '1',
       BNB: '56',
+      BSC: '56',
+      BINANCE: '56',
       ARB: '42161',
+      ARBITRUM: '42161',
       BASE: '8453',
       GNOSIS: '100',
+      XDAI: '100',
       POL: '137',
+      POLYGON: '137',
       OPTIMISM: '10',
+      OP: '10',
+      AVAX: '43114',
       AVALANCHE: '43114',
       LINEA: '59144',
       BERACHAIN: '80094',
+      BERA: '80094',
       MANTLE: '5000',
       SCROLL: '534352',
       TAIKO: '167000',
@@ -41,10 +50,20 @@ export class TokenRegistry {
       BLAST: '81457',
       UNICHAIN: '130',
       HYPEREVM: '999',
+      HYPE: '999',
       PLASMA: '9745',
       HEMI: '43111',
       ROBINHOOD: '4663',
+      HOOD: '4663',
       SOLANA: '501000101',
+      SOL: '501000101',
+      FTM: '250',
+      FANTOM: '250',
+      CELO: '42220',
+      ZKSYNC: '324',
+      POLYGON_ZKEVM: '1101',
+      RONIN: '2020',
+      CRONOS: '25',
     }
 
     this.tags = [
@@ -68,25 +87,23 @@ export class TokenRegistry {
     try {
       const files = readdirSync(this.registryPath)
 
-      const chainNames: string[] = Object.values(this.chainMap)
       files
         .filter((file) => file.endsWith('.json'))
         .forEach((file) => {
           const filePath = join(this.registryPath, file)
           const fileContent = readFileSync(filePath, 'utf-8')
           const chainname = file.replace('.json', '')
-          if (!chainNames.includes(chainname)) {
-            return
-          }
           try {
             const chainData = JSON.parse(fileContent)
-            this.tokens.set(chainname, chainData)
+            if (Array.isArray(chainData)) {
+              this.tokens.set(chainname, chainData)
+            }
           } catch (parseError) {
             console.error(`Error parsing JSON file ${file}:`, parseError)
           }
         })
 
-      console.log(`Loaded ${this.tokens.size} tokens from registry`)
+      console.log(`Loaded ${this.tokens.size} token lists from registry path: ${this.registryPath}`)
     } catch (error) {
       console.error('Error loading token registry:', error)
     }
@@ -230,7 +247,8 @@ export class TokenRegistry {
   }
 
   public getToken(tokenName: string, chainName: string): Token | undefined {
-    const chainId = this.chainMap[chainName] || chainName
+    const key = chainName.toUpperCase()
+    const chainId = this.chainMap[key] || this.chainMap[chainName] || chainName
     const chainData = this.tokens.get(chainId)
     if (!chainData) return
     const name = tokenName.toLowerCase()
@@ -280,7 +298,8 @@ export class TokenRegistry {
     }
     const tokens = new Map<string, Token[]>()
     chains.forEach((chain) => {
-      const cid = this.chainMap[chain] || chain
+      const key = chain.toUpperCase()
+      const cid = this.chainMap[key] || this.chainMap[chain] || chain
       const chainData = this.tokens.get(cid)
       if (chainData) {
         tokens.set(cid, chainData)
