@@ -1,0 +1,14 @@
+[
+  {
+    "chainId": 4801,
+    "address": "0xD4d6764EDbc53bB1eb5e1De68CE8a6d1CB39b023",
+    "name": "Amie Token",
+    "symbol": "AMIE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AMIE/logo.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "AMIE"
+    }
+  }
+]

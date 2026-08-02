@@ -1,0 +1,65 @@
+[
+  {
+    "chainId": 4202,
+    "address": "0x8a21CF9Ba08Ae709D64Cb25AfAA951183EC9FF6D",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LSK"
+    }
+  },
+  {
+    "chainId": 4202,
+    "address": "0x03F1259b4986b8ae9040E250f958CEf09DaD8b6C",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0xb150759C71073Edf7D90d3D053aB5e67ea731Aa2",
+      "opListId": "default",
+      "opTokenId": "wstETH"
+    }
+  },
+  {
+    "chainId": 4202,
+    "address": "0x4b82a31EBCD41fD4b98123cF141853aCD1166875",
+    "name": "UTUCoinMock",
+    "symbol": "UTUM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UTU/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "UTU"
+    }
+  },
+  {
+    "chainId": 4202,
+    "address": "0xD63029C1a3dA68b51c67c6D1DeC3DEe50D681661",
+    "name": "IDRX",
+    "symbol": "IDRX",
+    "decimals": 2,
+    "logoURI": "https://ethereum-optimism.github.io/data/IDRX/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "IDRX"
+    }
+  },
+  {
+    "chainId": 4202,
+    "address": "0x6cdf5aDbB9e1673811A7a36540D79429045E7891",
+    "name": "ENSC",
+    "symbol": "ENSC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ENSC/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "ENSC"
+    }
+  }
+]

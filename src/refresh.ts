@@ -108,17 +108,21 @@ const main = async () => {
     const chainId = parseInt(chainIdStr, 10)
     const newTokens = tokensByChain[chainId]
 
-    // Use data/registry/ directory
-    const registryPath = path.join(__dirname, '..', 'data', 'registry', `${chainId}.json`)
+    const dataRegistryPath = path.join(__dirname, '..', 'data', 'registry', `${chainId}.json`)
+    const rootRegistryPath = path.join(__dirname, '..', 'registry', `${chainId}.json`)
 
-    if (!fs.existsSync(path.dirname(registryPath))) {
-      fs.mkdirSync(path.dirname(registryPath), { recursive: true })
+    if (!fs.existsSync(path.dirname(dataRegistryPath))) {
+      fs.mkdirSync(path.dirname(dataRegistryPath), { recursive: true })
+    }
+    if (!fs.existsSync(path.dirname(rootRegistryPath))) {
+      fs.mkdirSync(path.dirname(rootRegistryPath), { recursive: true })
     }
 
     let existingTokens: Token[] = []
-    if (fs.existsSync(registryPath)) {
+    const readPath = fs.existsSync(dataRegistryPath) ? dataRegistryPath : (fs.existsSync(rootRegistryPath) ? rootRegistryPath : null)
+    if (readPath) {
       try {
-        const fileData = fs.readFileSync(registryPath, 'utf8')
+        const fileData = fs.readFileSync(readPath, 'utf8')
         existingTokens = JSON.parse(fileData)
       } catch (error) {
         console.warn(`Failed to parse existing tokens for chainId=${chainId}`, error)
@@ -140,7 +144,7 @@ const main = async () => {
 
     let finalTokens = Object.values(deduped)
 
-    // Process Ban List (data/ban or ban)
+    // Process Ban List
     const banPath = fs.existsSync(path.join(__dirname, '..', 'data', 'ban', `${chainId}.json`))
       ? path.join(__dirname, '..', 'data', 'ban', `${chainId}.json`)
       : path.join(__dirname, '..', 'ban', `${chainId}.json`)
@@ -158,7 +162,7 @@ const main = async () => {
       }
     }
 
-    // Custom Tokens (data/custom or custom)
+    // Custom Tokens
     const customPath = fs.existsSync(path.join(__dirname, '..', 'data', 'custom', `${chainId}.json`))
       ? path.join(__dirname, '..', 'data', 'custom', `${chainId}.json`)
       : path.join(__dirname, '..', 'custom', `${chainId}.json`)
@@ -188,7 +192,7 @@ const main = async () => {
       }
     }
 
-    // Major Tokens (data/major or major)
+    // Major Tokens
     const majorPath = fs.existsSync(path.join(__dirname, '..', 'data', 'major', `${chainId}.json`))
       ? path.join(__dirname, '..', 'data', 'major', `${chainId}.json`)
       : path.join(__dirname, '..', 'major', `${chainId}.json`)
@@ -223,8 +227,20 @@ const main = async () => {
       return token
     })
 
-    fs.writeFileSync(registryPath, JSON.stringify(finalTokens, null, 2), 'utf8')
-    console.log(`✅ Wrote ${finalTokens.length} tokens to ${registryPath}`)
+    const formattedJson = JSON.stringify(finalTokens, null, 2)
+    fs.writeFileSync(dataRegistryPath, formattedJson, 'utf8')
+    fs.writeFileSync(rootRegistryPath, formattedJson, 'utf8')
+    console.log(`✅ Wrote ${finalTokens.length} tokens to ${dataRegistryPath} and ${rootRegistryPath}`)
+  }
+
+  // Sync chain metadata files if data/chains exists
+  const dataChainsDir = path.join(__dirname, '..', 'data', 'chains')
+  const rootChainsDir = path.join(__dirname, '..', 'chains')
+  if (fs.existsSync(dataChainsDir) && fs.existsSync(rootChainsDir)) {
+    const chainFiles = fs.readdirSync(dataChainsDir).filter(f => f.endsWith('.json'))
+    for (const f of chainFiles) {
+      fs.copyFileSync(path.join(dataChainsDir, f), path.join(rootChainsDir, f))
+    }
   }
 }
 

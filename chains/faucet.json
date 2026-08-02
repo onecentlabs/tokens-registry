@@ -1,0 +1,64 @@
+[
+  {
+    "identifier": "monad",
+    "name": "Monad",
+    "mode": "testnet",
+    "description": "Monad is the re-invention of Ethereum to enable parallel execution, asynchronous execution and a high performance consensus mechanism enabling realtime throughput of 10k TPS",
+    "icon": "https://cdn.prod.website-files.com/667c57e6f9254a4b6d914440/67b135627be8437b3cda15ae_Monad%20Logomark.svg",
+    "token": {
+      "name": "MON",
+      "symbol": "MON",
+      "decimals": 18
+    },
+    "ui": {
+      "color": {
+        "primary": "#200052",
+        "secondary": "#836EF9"
+      },
+      "socials": [
+        {
+          "key": "X",
+          "url": "https://x.com/monad_xyz"
+        },
+        {
+          "key": "LINKEDIN",
+          "url": "https://www.linkedin.com/company/monad-foundation"
+        },
+        {
+          "key": "DISCORD",
+          "url": "https://discord.com/invite/monad"
+        },
+        {
+          "key": "TELEGRAM",
+          "url": "https://t.me/monad_xyz"
+        }
+      ]
+    },
+    "threshold": {
+      "drip": 0.025,
+      "period": 12
+    },
+    "rpc": [
+      "https://testnet-rpc.monad.xyz/"
+    ],
+    "explorer": [
+      "https://testnet.monadexplorer.com/"
+    ],
+    "conditions": [
+      {
+        "key": "transactions",
+        "description": "3+ Transactions or valid ENS",
+        "args": {
+          "minimum": 3
+        }
+      },
+      {
+        "key": "balance",
+        "description": "0.02+ ETH Balance",
+        "args": {
+          "minimum": "0.02"
+        }
+      }
+    ]
+  }
+]

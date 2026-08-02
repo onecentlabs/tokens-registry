@@ -1,0 +1,14 @@
+[
+  {
+    "chainId": 11142220,
+    "address": "0x2ce73dc897a3e10b3ff3f86470847c36ddb735cf",
+    "name": "Wrapped Ether (Celo native bridge)",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+    "extensions": {
+      "opListId": "default",
+      "opTokenId": "WETH"
+    }
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "name": "USDCoin",
+    "address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 1868,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        }
+      }
+    }
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 1868,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        }
+      }
+    }
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 1868,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 1868,
+    "address": "0x6ef08F42C936f5d101B76160c816D3c8181C9867",
+    "name": "QuickSwap",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/QUICK/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "QUICK"
+    }
+  },
+  {
+    "chainId": 1868,
+    "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+    "name": "Stargate USD₮0 (Bridged)",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
+    }
+  },
+  {
+    "chainId": 1868,
+    "address": "0xf93322688ddfE432c21c0B4E709d77DEab7e923F",
+    "name": "TRALA TOKEN",
+    "symbol": "TRALA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TRALA/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TRALA"
+    }
+  },
+  {
+    "chainId": 1868,
+    "address": "0xF765356C901a064A74Fa4560622f21C91048c3D7",
+    "name": "SuperVerse",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SUPER/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SUPER"
+    }
+  },
+  {
+    "chainId": 1868,
+    "address": "0xBC63230d1C4d0Cd241D66F5AaE75f3D1d6C0949a",
+    "name": "ELYSIA",
+    "symbol": "EL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/EL/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "EL"
+    }
+  },
+  {
+    "chainId": 1868,
+    "address": "0x94Cac393f3444cEf63a651FfC18497E7e8bd036a",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "rETH"
+    }
+  }
+]
