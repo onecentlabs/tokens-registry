@@ -80627,5 +80627,21 @@
     "symbol": "WBESC",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/68170/small/IMG_20250811_025232_632.png?1754993709"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3078bcf707e457d3af2f938a2a478bbeea50a942",
+    "name": "BlackRock Daily Reinvestment Stablecoin Reserve Vehicle",
+    "symbol": "BRSRV",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175222/small/brsrv_logo.png?1785776164"
+  },
+  {
+    "chainId": 1,
+    "address": "0xad05253a381feade280ca50bf875dc8113e8a746",
+    "name": "Propbase",
+    "symbol": "PROPS",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/32932/small/PROP_BASE_%286%29.png?1699870054"
   }
 ]

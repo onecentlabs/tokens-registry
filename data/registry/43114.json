@@ -8410,5 +8410,13 @@
     "symbol": "SPCX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175178/small/dinari-logo-green-with-margin.png?1785403479"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x96178a1443039e806f8ffd56dce7a80f2161aaa2",
+    "name": "XPowermine.com APOW",
+    "symbol": "APOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66955/small/logo-apower-360-round.png?1751259027"
   }
 ]
