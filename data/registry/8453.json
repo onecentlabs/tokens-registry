@@ -30559,5 +30559,21 @@
     "symbol": "SPCX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175178/small/dinari-logo-green-with-margin.png?1785403479"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1a44233FAe8D50F1AeB3a5d58dd426ff4814Cb53",
+    "name": "Squid",
+    "symbol": "QUID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174404/small/squid.jpg?1783587866"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000231d6c1f1ce455ba32",
+    "name": "B420",
+    "symbol": "B420",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175249/small/b420logo.png?1785946055"
   }
 ]

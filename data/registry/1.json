@@ -80643,5 +80643,21 @@
     "symbol": "PROPS",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/32932/small/PROP_BASE_%286%29.png?1699870054"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4827c7ecce4f07adfe44a97165f06a199e7d2505",
+    "name": "NYLIM US High Yield Bond Fund",
+    "symbol": "HYB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175244/small/hyblogo.png?1785922721"
+  },
+  {
+    "chainId": 1,
+    "address": "0x93e62845c1dd5822ebc807ab71a5fb750decd15a",
+    "name": "Wrapped NVIDIA xStock",
+    "symbol": "WNVDAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55770/small/Ticker_NVDA__Company_Name_NVIDIA_Corp__size_200x200_2x.png?1747330806"
   }
 ]

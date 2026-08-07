@@ -14497,5 +14497,13 @@
     "symbol": "PYUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/31212/small/PYUSD_Token_Logo_2x.png?1765987788"
+  },
+  {
+    "chainId": 137,
+    "address": "0xaf95ca99aedb29d6bcba20246c98b852efce16b8",
+    "name": "IFUNBOX",
+    "symbol": "FUN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175247/small/coingecko-fun-token-200.png?1785934854"
   }
 ]
