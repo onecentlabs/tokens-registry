@@ -80659,5 +80659,69 @@
     "symbol": "WNVDAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55770/small/Ticker_NVDA__Company_Name_NVIDIA_Corp__size_200x200_2x.png?1747330806"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe5544a2a5fa9b175da60d8eec67add5582bb31b0",
+    "name": "HashToken",
+    "symbol": "HTK",
+    "decimals": 16,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175300/small/1000037182.png?1786076966"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7e1eff4301defc24936470b30bd1c686d2a295dc",
+    "name": "Wise Telecom Nodes USDC",
+    "symbol": "WTNUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175432/small/wtnUSDC_500x500.png?1786299730"
+  },
+  {
+    "chainId": 1,
+    "address": "0x951f086a127e280724fd93ccc543f65065afeb5e",
+    "name": "DAPPOS",
+    "symbol": "DOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175433/small/DOS.png?1786300290"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcf6a0a7826fa124b7705d6f3c675ead76f1e540d",
+    "name": "AUGUR",
+    "symbol": "REPV2_YES_1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175316/small/REPv2_Icon_-_Full_Color_over_Black.png?1786089410"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb4fa28e9dba552df8a55579bc9494f0f7486d215",
+    "name": "Vektes",
+    "symbol": "VEK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175329/small/28165.png?1786096794"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeef3f3a04e28895f3d5163d910474901981183d",
+    "name": "3F x Steakhouse USDC Morpho Vault",
+    "symbol": "3F-STEAKUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175380/small/logo_3F_white.png?1786205327"
+  },
+  {
+    "chainId": 1,
+    "address": "0x888888f6b7570637a0c89c3290d82afdbdca6666",
+    "name": "PolyFlow Payment ID",
+    "symbol": "PID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175389/small/polyflow-logo-200x200-transparent.png?1786212980"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6dd0e17ec6fe56c5f58a0fe2bb813b9b5cc25990",
+    "name": "Nodle Network",
+    "symbol": "NODL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27019/small/nodle.png?1696526071"
   }
 ]
