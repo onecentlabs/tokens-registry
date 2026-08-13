@@ -14505,5 +14505,13 @@
     "symbol": "FUN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175247/small/coingecko-fun-token-200.png?1785934854"
+  },
+  {
+    "chainId": 137,
+    "address": "0xbd4dfc058eb95b8de5ceaf39966a1a70f5556f78",
+    "name": "AllUnity CHF",
+    "symbol": "CHFAU",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172300/small/CHFAU_red.png?1782278502"
   }
 ]

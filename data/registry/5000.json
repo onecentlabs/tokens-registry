@@ -961,5 +961,29 @@
     "symbol": "WNVDAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55770/small/Ticker_NVDA__Company_Name_NVIDIA_Corp__size_200x200_2x.png?1747330806"
+  },
+  {
+    "chainId": 5000,
+    "address": "0xa90872aca656ebe47bdebf3b19ec9dd9c5adc7f8",
+    "name": "Wrapped Circle xStock",
+    "symbol": "WCRCLX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175317/small/wrapped_circl.webp?1786090416"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x1630f08370917e79df0b7572395a5e907508bbbc",
+    "name": "Wrapped Alphabet xStock",
+    "symbol": "WGOOGLX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55796/small/Ticker_GOOG__Company_Name_Alphabet_Inc.__size_200x200_2x.png?1747382754"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x43680abf18cf54898be84c6ef78237cfbd441883",
+    "name": "Wrapped Tesla xStock",
+    "symbol": "WTSLAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55826/small/Ticker_TSLA__Company_Name_Tesla_Inc.__size_200x200_2x.png?1747384693"
   }
 ]

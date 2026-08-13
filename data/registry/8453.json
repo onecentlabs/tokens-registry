@@ -30575,5 +30575,45 @@
     "symbol": "B420",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175249/small/b420logo.png?1785946055"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x07848a7b542a9cd856122c6c4ab9ec87c44f8b63",
+    "name": "Vanar",
+    "symbol": "VANRY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175459/small/Profile_Photo.png?1786370609"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdddff4be1a90cd6f05ce1e977c674ff3aa556c97",
+    "name": "Institutional USD Yield Vault",
+    "symbol": "EXAUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175478/small/gtUSDa_icon.webp?1786378224"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x25c448101c36d7306ed8053b96b090bb56a87b07",
+    "name": "BOTCOIN",
+    "symbol": "BOTCOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172233/small/square-botcoin-logo.png?1774577559"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9c2dcdbdb3f0a0f628d1112bbcabd9ae75353df3",
+    "name": "Syntetika Bitcoin",
+    "symbol": "HBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/70490/small/photo_2026-07-24_11-47-51.jpg?1786585957"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbd4dfc058eb95b8de5ceaf39966a1a70f5556f78",
+    "name": "AllUnity CHF",
+    "symbol": "CHFAU",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172300/small/CHFAU_red.png?1782278502"
   }
 ]

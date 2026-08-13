@@ -80723,5 +80723,29 @@
     "symbol": "NODL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/27019/small/nodle.png?1696526071"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeb7a9ad524ca0bcad732e971339990d112c2002c",
+    "name": "EarthMeta",
+    "symbol": "EMT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175482/small/logo__200x200.png?1786435089"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4e72025984424e52838cf8953e2863eff036b67a",
+    "name": "Midas Wellington Income Opportunities",
+    "symbol": "MWIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175486/small/mwin-C0GLFwdJ.png?1786440933"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf196c68233464a16cfda319a47c21f4ceca62001",
+    "name": "Vetro BTC",
+    "symbol": "VETBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175515/small/vetBTC-tokenLogo.png?1786535292"
   }
 ]

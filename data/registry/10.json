@@ -5464,5 +5464,13 @@
     "symbol": "AVLT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172640/small/AVLT_200x200_Kopie.png?1774446611"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1eaf7cceaa5dc6d605760718722fbcc58579b3ff",
+    "name": "Midas Fasanara Global Open",
+    "symbol": "MGLO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174031/small/mglobal-Cm4yjVTI.png?1781967852"
   }
 ]
