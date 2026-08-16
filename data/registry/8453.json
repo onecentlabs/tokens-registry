@@ -30615,5 +30615,29 @@
     "symbol": "CHFAU",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102172300/small/CHFAU_red.png?1782278502"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5e03f8965e2957291b3c6990c6cb9023c36d3d30",
+    "name": "jvhhVault",
+    "symbol": "JVHHUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175547/small/prime-usdc.png?1786738034"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x53f39e5c53ee40bbc3da97c3b47bd2968d110a8d",
+    "name": "Aligned",
+    "symbol": "ALIGN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53011/small/signal-2024-12-23-194306_002.png?1735012833"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9958f2d5b6f8b08c6da3b3b013112f9ca6cec6dc",
+    "name": "Strategic Super Reserve",
+    "symbol": "SSR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53882/small/STRATEGIC_SUPER_RESERVE_LOGO.jpg?1770996241"
   }
 ]

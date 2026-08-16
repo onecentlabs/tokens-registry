@@ -1777,5 +1777,13 @@
     "symbol": "LMTS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69506/small/Green_-_Sign_%282%29_-_token-circle-200.png?1777709640"
+  },
+  {
+    "chainId": 999,
+    "address": "0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691",
+    "name": "FLOCK",
+    "symbol": "FLOCK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53178/small/FLock_Token_Logo.png?1735561398"
   }
 ]

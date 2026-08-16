@@ -35582,5 +35582,13 @@
     "address": "0xB0f09ea9ae0515C3551080D4a745C8115aA30e37",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xB0f09ea9ae0515C3551080D4a745C8115aA30e37.png"
+  },
+  {
+    "name": "Kiichain",
+    "chainId": 56,
+    "symbol": "KII",
+    "address": "0xEEC6574eAbBa52bac3f0277F2cD5Ac7e67197886",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xEEC6574eAbBa52bac3f0277F2cD5Ac7e67197886.png"
   }
 ]

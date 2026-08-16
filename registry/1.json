@@ -80747,5 +80747,29 @@
     "symbol": "VETBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175515/small/vetBTC-tokenLogo.png?1786535292"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf9d82660828d8f5d121b14a9dc9c677d91f60065",
+    "name": "STBL USST",
+    "symbol": "USST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175554/small/USST_.jpg?1786822508"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3cdb41027d61c413e064e84d9c21812b6ef004f1",
+    "name": "Prometheus",
+    "symbol": "PROMETHEUS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175555/small/WXxf6QWQ.jpg?1786822701"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691",
+    "name": "FLOCK",
+    "symbol": "FLOCK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53178/small/FLock_Token_Logo.png?1735561398"
   }
 ]
