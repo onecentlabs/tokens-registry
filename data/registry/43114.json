@@ -8418,5 +8418,29 @@
     "symbol": "APOW",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66955/small/logo-apower-360-round.png?1751259027"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x25c2067d8b04931a6e2eb078ea8d65c8b8500031",
+    "name": "Midas Fasanara Global",
+    "symbol": "MGLOBAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172980/small/mglobal-Cm4yjVTI.png?1776956923"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x61daeeb998bc5415df8512a4be1b71f4275ef314",
+    "name": "Midas Wellington Income Opportunities",
+    "symbol": "MWIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175486/small/mwin-C0GLFwdJ.png?1786440933"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xf5fa39a16449b1ee07aa52ae79c6b00567c59f83",
+    "name": "Neuberger Securitize High Income Tokenized Fund",
+    "symbol": "HINC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175595/small/hinc.png?1787066199"
   }
 ]

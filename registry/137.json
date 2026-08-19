@@ -14513,5 +14513,13 @@
     "symbol": "CHFAU",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102172300/small/CHFAU_red.png?1782278502"
+  },
+  {
+    "chainId": 137,
+    "address": "0xEEC6574eAbBa52bac3f0277F2cD5Ac7e67197886",
+    "name": "Kiichain",
+    "symbol": "KII",
+    "decimals": 18,
+    "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fvz4uzyti7ibz7t9c23rb6jp6lbep&w=128&q=75"
   }
 ]

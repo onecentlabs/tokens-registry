@@ -30639,5 +30639,69 @@
     "symbol": "SSR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53882/small/STRATEGIC_SUPER_RESERVE_LOGO.jpg?1770996241"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3EBA6644819546C44Eb3e7c3A92f034f921dcA80",
+    "name": "Kiichain",
+    "symbol": "KII",
+    "decimals": 18,
+    "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fvz4uzyti7ibz7t9c23rb6jp6lbep&w=128&q=75"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000b8d3746d2e56596578",
+    "name": "KittehCoin",
+    "symbol": "MEOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175584/small/kitteh_400x400.jpg?1786969637"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x85635006d808030e97f3174c8ea1b4aa1f1feba3",
+    "name": "Venice Deity",
+    "symbol": "VVVEITY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175561/small/vkywzpjyc1f4r6xx246afkmfwpxt.?1786867401"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002d0ba3164cc74f58b7",
+    "name": "Alphabet (Coinbase Tokenized Stock)",
+    "symbol": "GOOGLC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175598/small/goog_200x200.png?1787068802"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000c2e324d24d7eecd1fb",
+    "name": "Apple (Coinbase Tokenized Stock)",
+    "symbol": "AAPLC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175597/small/aapl_200x200.png?1787068801"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000008bc8786b856e61707c",
+    "name": "Meta (Coinbase Tokenized Stock)",
+    "symbol": "METAC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175599/small/meta_200x200.png?1787068803"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0f61edbfe6cd86024c0f210c0695b08df55fdfc9",
+    "name": "BaseStonk",
+    "symbol": "BSTONK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175606/small/bases_400x400.jpg?1787073649"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000078ee7ce2fe4908108c",
+    "name": "NVIDIA (Coinbase Tokenized Stock)",
+    "symbol": "NVDAC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175596/small/nvda_200x200.png?1787068801"
   }
 ]
