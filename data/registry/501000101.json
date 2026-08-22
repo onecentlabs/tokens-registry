@@ -1248,6 +1248,14 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/51281/small/GDN_USDG_Token_200x200.png?1730484111"
   },
   {
+    "chainId": 501000101,
+    "address": "72puLt71H93Z9CzHuBRTwFpL4TG3WZUhnoCC7p8gxigu",
+    "name": "USDGO",
+    "symbol": "USDGO",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172077/small/USDGO_%287%29.png?1771437018"
+  },
+  {
     "name": "Pax Dollar",
     "address": "HVbpJAQGNpkgBaYBZQBR1t7yFdvaYVp2vCQQfKKEN4tM",
     "symbol": "USDP",
@@ -8607,21 +8615,6 @@
     "symbol": "GOATED",
     "decimals": 6,
     "logoURI": "https://gateway.irys.xyz/FsDo2WFaweYVwZUD73ZPuBrtDfa6dw4yLhWEBhtc3AuV",
-    "tags": [
-      "VERIFIED"
-    ],
-    "extensions": {
-      "organicScore": 0,
-      "isVerified": true
-    }
-  },
-  {
-    "chainId": 501000101,
-    "address": "72puLt71H93Z9CzHuBRTwFpL4TG3WZUhnoCC7p8gxigu",
-    "name": "USDGO",
-    "symbol": "USDGO",
-    "decimals": 6,
-    "logoURI": "https://static.anchorage-production.com/stablecoins/USDGO/icon.png",
     "tags": [
       "VERIFIED"
     ],

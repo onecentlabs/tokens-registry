@@ -985,5 +985,13 @@
     "symbol": "WTSLAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55826/small/Ticker_TSLA__Company_Name_Tesla_Inc.__size_200x200_2x.png?1747384693"
+  },
+  {
+    "chainId": 5000,
+    "address": "0xeec6574eabba52bac3f0277f2cd5ac7e67197886",
+    "name": "KiiChain",
+    "symbol": "KII",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175539/small/KII.jpg?1786688852"
   }
 ]

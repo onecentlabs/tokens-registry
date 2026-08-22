@@ -1785,5 +1785,61 @@
     "symbol": "FLOCK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53178/small/FLock_Token_Logo.png?1735561398"
+  },
+  {
+    "chainId": 999,
+    "address": "0x14f0dfc32e8af769961b31ba3e89389bd6797652",
+    "name": "Matrixdock Gold",
+    "symbol": "XAUM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/51962/small/xaum_200px_logo_1x.png?1733560735"
+  },
+  {
+    "chainId": 999,
+    "address": "0x5515b8079793caa680df5391a6ef4c73911a3920",
+    "name": "Aztec",
+    "symbol": "AZTEC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70681/small/aztec.png?1763091883"
+  },
+  {
+    "chainId": 999,
+    "address": "0xbc28beac0b6765429c8ee7a6acab2af5a4e7a679",
+    "name": "Kite",
+    "symbol": "KITE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70426/small/KITE-ICON.png?1762328605"
+  },
+  {
+    "chainId": 999,
+    "address": "0xaa3871e64ca8c09fbdded327b1269224643cb83c",
+    "name": "Hybridge Bridged AAVE",
+    "symbol": "AAVE0",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175743/small/aave0.png?1787293474"
+  },
+  {
+    "chainId": 999,
+    "address": "0xf6f58c4a961759e4127523224bb0ec0f55460ac8",
+    "name": "SOON",
+    "symbol": "SOON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55124/small/red_2.PNG?1743843131"
+  },
+  {
+    "chainId": 999,
+    "address": "0xba63418b8e247df4b3f97aa39bef2b6804664054",
+    "name": "Hybridge Bridged AVAX",
+    "symbol": "AVAX0",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175746/small/avax0.png?1787303592"
+  },
+  {
+    "chainId": 999,
+    "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+    "name": "Unit Ethena",
+    "symbol": "UENA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175650/small/uethana.png?1787249817"
   }
 ]

@@ -30703,5 +30703,60 @@
     "symbol": "NVDAC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/102175596/small/nvda_200x200.png?1787068801"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x001AAd84c21A5CD4d696C56d44866e9703c43F77",
+    "name": "Cluster Protocol",
+    "symbol": "CP",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb3d6c47379abb4713acffffa27483b726ee67db",
+    "name": "Slinky Layer",
+    "symbol": "SLINKY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175643/small/slinky_logo_200.jpg?1787212911"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf3081494b87e8d5fb7960f066e931d1d0e6e3d67",
+    "name": "Bittensor (CCIP-Bridged)",
+    "symbol": "TAO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175633/small/image_292.png?1787146280"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6e8568ba7b43138d9210959a9523155e274550c9",
+    "name": "SK Hynix (Anchored Tokenized Stock)",
+    "symbol": "ASKHY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175661/small/coingecko-aSKHY.png?1787279624"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4fc5b9f8933597d3ecf84d0611687e1dc8dd576f",
+    "name": "SPDR Bloomberg 1-3 Month T-Bill ETF (Anchored Tokenized ETF)",
+    "symbol": "ABIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175631/small/coingecko-aBIL.png?1787145231"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6",
+    "name": "Corn",
+    "symbol": "CORN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54471/small/corn.jpg?1739933588"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x12473790e09d415abac7441401f7abec64fa959c",
+    "name": "SpaceX (Anchored Tokenized Stock)",
+    "symbol": "ASPCX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175662/small/coingecko-aSPCX.png?1787279738"
   }
 ]

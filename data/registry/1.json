@@ -80795,5 +80795,61 @@
     "symbol": "HINC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102175595/small/hinc.png?1787066199"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0cb9d84d4bcec8d3d5b2d99a6f07f4605325987e",
+    "name": "Staked Vetro BTC",
+    "symbol": "SVETBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175624/small/svetBTC.png?1787141430"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5d8ab16a943204a031fc94ef6cb4d7a8c7e59602",
+    "name": "Syndicate of Vigilantes",
+    "symbol": "VIGI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69874/small/Icon-yellow.png?1759917461"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa551285b49a29cbdbae7fc5c6a61fadc918ad224",
+    "name": "Ensuro Senior Pool",
+    "symbol": "EUSDCSR",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175641/small/eToken-Sr-white.png?1787211678"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1ad89e03f01880d16d63c33b3abb0e9fd680262b",
+    "name": "Svalbard BTC",
+    "symbol": "SVBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175747/small/default.jpeg?1787306866"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4fc5b9f8933597d3ecf84d0611687e1dc8dd576f",
+    "name": "SPDR Bloomberg 1-3 Month T-Bill ETF (Anchored Tokenized ETF)",
+    "symbol": "ABIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175631/small/coingecko-aBIL.png?1787145231"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e8568ba7b43138d9210959a9523155e274550c9",
+    "name": "SK Hynix (Anchored Tokenized Stock)",
+    "symbol": "ASKHY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175661/small/coingecko-aSKHY.png?1787279624"
+  },
+  {
+    "chainId": 1,
+    "address": "0x12473790e09d415abac7441401f7abec64fa959c",
+    "name": "SpaceX (Anchored Tokenized Stock)",
+    "symbol": "ASPCX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175662/small/coingecko-aSPCX.png?1787279738"
   }
 ]
