@@ -35590,5 +35590,13 @@
     "address": "0xEEC6574eAbBa52bac3f0277F2cD5Ac7e67197886",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xEEC6574eAbBa52bac3f0277F2cD5Ac7e67197886.png"
+  },
+  {
+    "name": "DGrid AI",
+    "chainId": 56,
+    "symbol": "DGAI",
+    "address": "0x10D4183389e99233db3cc981c43443Ebd28Ebd5e",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x10D4183389e99233db3cc981c43443Ebd28Ebd5e.png"
   }
 ]

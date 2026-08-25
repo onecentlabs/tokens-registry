@@ -80851,5 +80851,29 @@
     "symbol": "ASPCX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175662/small/coingecko-aSPCX.png?1787279738"
+  },
+  {
+    "chainId": 1,
+    "address": "0x000025b3816630ad283267d4eb3a5fc8b0200000",
+    "name": "Matrix",
+    "symbol": "MTX",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175774/small/Logo.png?1787488488"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1ba3ccb98d4c189c69398bece48fcca4354dd90a",
+    "name": "Amino",
+    "symbol": "AMINO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53626/small/amino.jpg?1736908953"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72dfb2e44f59c5ad2bafe84314e5b99a7cd5075e",
+    "name": "Circle Wrapped BTC",
+    "symbol": "CIRBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172745/small/cirbtc.jpg?1775204071"
   }
 ]

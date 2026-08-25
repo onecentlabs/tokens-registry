@@ -1841,5 +1841,37 @@
     "symbol": "UENA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175650/small/uethana.png?1787249817"
+  },
+  {
+    "chainId": 999,
+    "address": "0xb75d5ee14708e7efbea939311090061d72265608",
+    "name": "egg",
+    "symbol": "EGG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175761/small/egg.jpg?1787470704"
+  },
+  {
+    "chainId": 999,
+    "address": "0x3155faaf0e4453229c3dcb3c70fdbf78113219fb",
+    "name": "TESTICLES",
+    "symbol": "TESTICLES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175798/small/test_400x400.jpg?1787583746"
+  },
+  {
+    "chainId": 999,
+    "address": "0xddfed493a114d610c5709fefd22baef40dc23428",
+    "name": "chameleon",
+    "symbol": "CHAMELEON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175777/small/chameleon.jpg?1787556057"
+  },
+  {
+    "chainId": 999,
+    "address": "0xa51dc81944a15623874981181a99d6c56b20ed56",
+    "name": "​​Stable",
+    "symbol": "STABLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69242/small/stable-logotype-framed-square-light.png?1762753913"
   }
 ]

@@ -30758,5 +30758,45 @@
     "symbol": "ASPCX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175662/small/coingecko-aSPCX.png?1787279738"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000004c27f6523082f41d01",
+    "name": "Basecat",
+    "symbol": "BASECAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175780/small/zi54rndmdx59nblfgry3d1pyckch.?1787558766"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000046390aed221043f01",
+    "name": "Base Juice",
+    "symbol": "BASEJUICE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175784/small/9813.jpg?1787563039"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001b0d6290f211117201",
+    "name": "BLUECHIP",
+    "symbol": "BLUECHIP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175781/small/IMG_0867.jpeg?1787559400"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf1e9baa65d418a9025e1851dd2d37f1ad208bba3",
+    "name": "Ratspeak",
+    "symbol": "RATSPEAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175756/small/ratspeak.jpg?1787469476"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x19640000000ba88d36206beb10d0e86011c8d08c",
+    "name": "RALLY",
+    "symbol": "RALLY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66842/small/rallytoken.png?1750764317"
   }
 ]
