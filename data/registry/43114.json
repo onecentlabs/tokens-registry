@@ -8442,5 +8442,13 @@
     "symbol": "HINC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102175595/small/hinc.png?1787066199"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xba515304d8153c4b162dc79f867e152df9c127eb",
+    "name": "Unity",
+    "symbol": "UTY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66299/small/u.png?1775549867"
   }
 ]

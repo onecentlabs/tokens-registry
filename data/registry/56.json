@@ -35598,5 +35598,21 @@
     "address": "0x10D4183389e99233db3cc981c43443Ebd28Ebd5e",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x10D4183389e99233db3cc981c43443Ebd28Ebd5e.png"
+  },
+  {
+    "chainId": 56,
+    "address": "0x458CB0959b8FdC71ebBD92911777F8c9E814C29c",
+    "name": "Permacast",
+    "symbol": "PWT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175793/small/permacast.jpg?1787581166"
+  },
+  {
+    "name": "Teller",
+    "chainId": 56,
+    "symbol": "DEBIT",
+    "address": "0x66661c7229901F568F16BD1551b3bA826F83cE49",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x66661c7229901F568F16BD1551b3bA826F83cE49.png"
   }
 ]
