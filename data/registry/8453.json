@@ -31486,5 +31486,21 @@
     "symbol": "ASDS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175719/small/SDS.png?1787292380"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xca18a528ea897040f715edc92e6e4572780c5ca1",
+    "name": "Kairence",
+    "symbol": "KAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176542/small/QmSfRb4v3uxnjq792Nwq1f5DE34Aur6VbgS1RQXQMqhEWv_copy.png?1788029178"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000503d889fdcbe48b801",
+    "name": "RAWR",
+    "symbol": "RAWR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176523/small/rawr.jpg?1788020239"
   }
 ]

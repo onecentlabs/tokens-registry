@@ -431,5 +431,21 @@
     "symbol": "EUROP",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/52132/small/europ-symbol-rgb.jpg?1732634862"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x2d661c89d812261039af9764eceaaee884f5f67f",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USDC.png?1769615602"
+  },
+  {
+    "chainId": 9745,
+    "address": "0x3ee196e78d4d4248b849b8e1c7f44c5457fafd2c",
+    "name": "EURC",
+    "symbol": "EURC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/26045/small/EURC.png?1769615705"
   }
 ]

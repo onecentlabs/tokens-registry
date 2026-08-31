@@ -86414,5 +86414,13 @@
     "symbol": "ZTSX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102176477/small/ZTSx.png?1787823121"
+  },
+  {
+    "chainId": 1,
+    "address": "0x056b269eb1f75477a8666ae8c7fe01b64dd55ecc",
+    "name": "3Jane USD3",
+    "symbol": "USD3",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176550/small/20.png?1788098498"
   }
 ]
