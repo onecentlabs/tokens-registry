@@ -86422,5 +86422,13 @@
     "symbol": "USD3",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102176550/small/20.png?1788098498"
+  },
+  {
+    "chainId": 1,
+    "address": "0xda6a067d9435a28549d75dd459c0016911c26e54",
+    "name": "Sivo DeFi",
+    "symbol": "SLP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173475/small/SVO-Square.png?1788221766"
   }
 ]
