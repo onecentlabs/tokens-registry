@@ -2693,5 +2693,13 @@
     "name": "Zeta Global Holdings Corp.",
     "symbol": "ZETA",
     "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0xCEC185eB182c47d1bA1EFc84e6959e18cd620Be4",
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/40143/small/cbbtc.webp?1726136727"
   }
 ]

@@ -86430,5 +86430,69 @@
     "symbol": "SLP",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102173475/small/SVO-Square.png?1788221766"
+  },
+  {
+    "chainId": 1,
+    "address": "0x093df218d70ea6036afa26704a1c70d12010b908",
+    "name": "aptUSD",
+    "symbol": "APTUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176657/small/aptusd.png?1788419762"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0c862c4aff0c87f3b4e93350ecf2dd6ada0c5400",
+    "name": "ZRDAO Token",
+    "symbol": "ZRT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176582/small/ZR_Logo_Small.png?1788267860"
+  },
+  {
+    "chainId": 1,
+    "address": "0xee53ee4c6532cf81b63ea49be4bbdb0c2ab398be",
+    "name": "mArb",
+    "symbol": "MARB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176631/small/mwin-C0GLFwdJ.png?1788351427"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf44bcadd42f1dace4e2e52fe3bda082148bcbfd3",
+    "name": "Midas Hyperithm Arbitrage BTC",
+    "symbol": "MARBBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176632/small/mhyper-ae4OaufE.png?1788351516"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6d8a6e97446d858a1d1564bbdb4638429015dbe8",
+    "name": "Midas Hyperithm Arbitrage ETH",
+    "symbol": "MARBETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176633/small/mHYPER_icon_32x32.png?1788351621"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6f80a22a57c7f0257094ea8d426af3f747defbc7",
+    "name": "Junior DOLA",
+    "symbol": "JRDOLA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172347/small/jrDOLA.png?1788415137"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3a54e9b53f32fd3441a87e1a95c853e595c8326f",
+    "name": "Dohrnii",
+    "symbol": "DHN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176649/small/DHN_logo_200x200_CMC.png?1788416001"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4d0ba049c430a7a80a61e7ebdf50b6daac6c3bd6",
+    "name": "SHEIN xStock",
+    "symbol": "SHEINX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176611/small/sheinxstock.png?1788327462"
   }
 ]

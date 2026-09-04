@@ -20106,5 +20106,13 @@
     "symbol": "TMUSX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69658/small/Ticker_TMUSx__Company_Name_T-Mobile__size_200x200.png?1759233844"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4d0ba049c430a7a80a61e7ebdf50b6daac6c3bd6",
+    "name": "SHEIN xStock",
+    "symbol": "SHEINX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176611/small/sheinxstock.png?1788327462"
   }
 ]

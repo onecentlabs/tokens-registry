@@ -31502,5 +31502,45 @@
     "symbol": "RAWR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102176523/small/rawr.jpg?1788020239"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB200000000000000000000451d033a5000cb479e",
+    "name": "Coinbase Wrapped Hyperliquid",
+    "symbol": "cbHYPE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102176592/small/Coinbase_Wrapped_Staked_Hype_%28cbHYPE%29.png?1788278142"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB2000000000000000000008501b13360000cb2EC",
+    "name": "Coinbase Wrapped ZEC",
+    "symbol": "cbZEC",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102176591/small/Coinbase_Wrapped_ZEC_%28cbZEC%29.png?1788278133"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000000ff4a547c891ab1b01",
+    "name": "BaseUnc",
+    "symbol": "BASEUNC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176583/small/IMG_2330.jpeg?1788268186"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcef8db49e456f872e288e1c042f916e9ced7c781",
+    "name": "Reserve Magnificent 7 DTF",
+    "symbol": "MAG7",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176650/small/mag7_200x200.png?1788418119"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x119b63b1605be3a8ff4543c7f76f7f1f79eecd1f",
+    "name": "Opal",
+    "symbol": "OPAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69738/small/Opal.jpg?1759477517"
   }
 ]

@@ -6599,5 +6599,29 @@
     "symbol": "TMUSX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69658/small/Ticker_TMUSx__Company_Name_T-Mobile__size_200x200.png?1759233844"
+  },
+  {
+    "chainId": 999,
+    "address": "0x122b03fbd590826ffcfbed4cf53b251e914520e1",
+    "name": "Terminal",
+    "symbol": "TERMINAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176613/small/Terminal.png?1788332136"
+  },
+  {
+    "chainId": 999,
+    "address": "0x4f9e014f620d83b08342c8bdff3043fb2220b727",
+    "name": "qONE",
+    "symbol": "QONE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176616/small/qONE_logo.jpg?1788348346"
+  },
+  {
+    "chainId": 999,
+    "address": "0x4d0ba049c430a7a80a61e7ebdf50b6daac6c3bd6",
+    "name": "SHEIN xStock",
+    "symbol": "SHEINX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176611/small/sheinxstock.png?1788327462"
   }
 ]
