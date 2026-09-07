@@ -31542,5 +31542,21 @@
     "symbol": "OPAL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69738/small/Opal.jpg?1759477517"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000cfbdf64a8706a94a01",
+    "name": "BLUE CHIP",
+    "symbol": "BLUECHIP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176736/small/bluechip.jpg?1788619359"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1ea8deb921aa6015f4938010c848140b98108dd2",
+    "name": "vAPI Network",
+    "symbol": "VAPI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176750/small/photo_2026-08-31_13-05-24.jpg?1788635830"
   }
 ]
