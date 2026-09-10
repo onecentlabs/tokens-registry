@@ -20114,5 +20114,13 @@
     "symbol": "SHEINX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102176611/small/sheinxstock.png?1788327462"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8bc265393fa781105d0308f46023014b7cc5441d",
+    "name": "Rhubarb",
+    "symbol": "RHUB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176883/small/rhubarb_pfp.jpg?1788961078"
   }
 ]

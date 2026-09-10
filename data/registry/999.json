@@ -6623,5 +6623,21 @@
     "symbol": "SHEINX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102176611/small/sheinxstock.png?1788327462"
+  },
+  {
+    "chainId": 999,
+    "address": "0x993ec0a5882935825de3498e6e27517875330999",
+    "name": "PRIVATA",
+    "symbol": "PRIVATA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176846/small/privata_400x400.jpg?1788879507"
+  },
+  {
+    "chainId": 999,
+    "address": "0xa0e0ce74d20975b025260109ff3a27ab96640999",
+    "name": "Hypercat",
+    "symbol": "HYPERCAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176813/small/cyezlbs25edb4ro61liptucvaccp.?1788774709"
   }
 ]

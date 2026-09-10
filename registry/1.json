@@ -86526,5 +86526,109 @@
     "symbol": "SUSDX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102176747/small/susdx-logo-transparent-200.png?1788634948"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdaa3b81a3acfcb60b875eba1d26852376bc38486",
+    "name": "Recursion Pharmaceuticals (Ondo Tokenized Stock)",
+    "symbol": "RXRXON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176865/small/rxron.png?1788933201"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7e95779d2d7b4a654a4ac80cb6423ae8998cf1e7",
+    "name": "Hertz Global Holdings (Ondo Tokenized Stock)",
+    "symbol": "HTZON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176866/small/htzon.png?1788933417"
+  },
+  {
+    "chainId": 1,
+    "address": "0x613518b520241f90c3e023bb6006c63a5019ca7b",
+    "name": "Wendy's (Ondo Tokenized Stock)",
+    "symbol": "WENON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176867/small/wendys.png?1788933700"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8602b2fd8d105a56d3152e936e66b1d414142148",
+    "name": "Artificial Pepe",
+    "symbol": "",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176807/small/arpe_400x400.jpg?1788771935"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe109dfbf450ec2b9944900830b8da22eaa59f1a3",
+    "name": "iShares High Yield Systematic Bond ETF (Ondo Tokenized ETF)",
+    "symbol": "HYDBON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176868/small/hybdon.png?1788933998"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6830f7bbfd274e393a32846918da9de210879ae4",
+    "name": "iShares Broad USD High Yield Corporate Bond ETF (Ondo Tokeni",
+    "symbol": "USHYON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176869/small/ushyon.png?1788934277"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb51edddd8c47856d81c8681ea71404cec93e92c6",
+    "name": "Wrapped Aave Ethereum PYUSD",
+    "symbol": "WAETHPYUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176849/small/wrapped_aave.png?1788937718"
+  },
+  {
+    "chainId": 1,
+    "address": "0x36b90adcdc99be31bf39a3c031288baa0b457e10",
+    "name": "Alphabet Class C (Ondo Tokenized Stock)",
+    "symbol": "GOOGON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176871/small/googleon.png?1788934734"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4554ad55cca5e7cb97b77813f486aaf6d4d9ab62",
+    "name": "C3.ai (Ondo Tokenized Stock)",
+    "symbol": "AION",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176872/small/aion.png?1788935037"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf86dc8e9668198af81231c342658808d7481bf8e",
+    "name": "ATOLLAR",
+    "symbol": "ATOLLAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176827/small/Atolar_200px.png?1788861375"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdbd572502c554076e61fa31dcfef35e054f55150",
+    "name": "ATOY",
+    "symbol": "ATOY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176828/small/atoy_200px.png?1788861395"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7f450d4b135853aff06864d2677a1338bbb5ef9c",
+    "name": "ATOS(Verifying)",
+    "symbol": "ATOS(VERIFYING)",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176829/small/atoshhi2_200px.png?1788861511"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa6707a8a00e94d1834ccda2856c9cf948941078d",
+    "name": "Metal Dollar",
+    "symbol": "XMD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/30898/small/icon-token-metal-dollar-200x.png?1696529744"
   }
 ]
