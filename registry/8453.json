@@ -31606,5 +31606,165 @@
     "symbol": "VNX",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/55605/small/VNX_Token_Icon.png?1746858432"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x35fde767dbfaa610d12cf99914bcd6cfeda73b7b",
+    "name": "Playboy (ST0x Tokenized Stock)",
+    "symbol": "WTPLBY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178259/small/PLBY.png?1789228950"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6aed8b1acfb04f4e0e6db580f12ff41438a394e5",
+    "name": "FGI Industries (ST0x Tokenized Stock)",
+    "symbol": "WTFGI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178262/small/FGI.png?1789229573"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1db49ff8bee88ec73f82f395b0bead372bdcadb7",
+    "name": "Krispy Kreme (ST0x Tokenized Stock)",
+    "symbol": "WTDNUT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178258/small/DNUT.png?1789228385"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0883f32d23ed5535057a4b5e3eb1970fe08606af",
+    "name": "Nike (ST0x Tokenized Stock)",
+    "symbol": "WTNKE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178263/small/NKE.png?1789229785"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x433fd2fc0964b07e9820e4cd01774ede59d1f002",
+    "name": "Tootsie Roll Industries (ST0x Tokenized Stock)",
+    "symbol": "WTTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178261/small/TR.png?1789229345"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x31fa821f8b1bdea7db357ec9622d1a2f6afe903d",
+    "name": "Wendy's (ST0x Tokenized Stock)",
+    "symbol": "WTWEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178257/small/WEN.png?1789228175"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1197e6fa778c4d13e47875bd1761c68c22c928e0",
+    "name": "Grindr (ST0x Tokenized Stock)",
+    "symbol": "WTGRND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178255/small/GRND.png?1789227636"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc6405d7a226e1c18e559be2f335f74c01ad07bf5",
+    "name": "Stockify",
+    "symbol": "STFY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176941/small/stfy.jpg?1789051024"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfcd17ac4c4bf6a72c93018096f3fc09e66573ff9",
+    "name": "SK hynix (ST0x Tokenized Stock)",
+    "symbol": "WTSKHY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178289/small/SKHY.png?1789234755"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7ecae30ed8ee4f72653ada7b0941bde7a0a8ee8d",
+    "name": "McDonald's (ST0x Tokenized Stock)",
+    "symbol": "WTMCD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178260/small/MCD.png?1789229240"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000d9192b6b456483c2e8",
+    "name": "Amazon (Coinbase Tokenized Stock)",
+    "symbol": "AMZNC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178280/small/amzn-200.png?1789233782"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1e46d7efef64a833afb1cd49299a7ad5b439f4d8",
+    "name": "iShares Gold Trust (ST0x Tokenized ETF)",
+    "symbol": "WTIAU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178290/small/ishares.png?1789234934"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000004884b426556b92883d",
+    "name": "MicroStrategy (Coinbase Tokenized Stock)",
+    "symbol": "MSTRC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178282/small/mstr-200.png?1789233935"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000ab99cfa739e253872b",
+    "name": "Microsoft (Coinbase Tokenized Stock)",
+    "symbol": "MSFTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178281/small/msft-200.png?1789233933"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000397293cb8cda9a10c5",
+    "name": "SanDisk (Coinbase Tokenized Stock)",
+    "symbol": "SNDKC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178283/small/sndk-200.png?1789234014"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001e800a7f5189430cd0",
+    "name": "Tesla (Coinbase Tokenized Stocks)",
+    "symbol": "TSLAC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178285/small/tsla-200.png?1789234081"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000007b9fcbd005511acbd5",
+    "name": "SpaceX (Coinbase Tokenized Stock)",
+    "symbol": "SPCXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178284/small/spcx-200.png?1789234077"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc5e4a819113074b5c3b48f1f873cf51ab19fced2",
+    "name": "Bullbit",
+    "symbol": "BUBI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178286/small/Bullbit-Logo_Icon_512x512_%281%29.png?1789234317"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdc5b4b00f98347e95b9f94911213dab4c687e1e3",
+    "name": "SODAX",
+    "symbol": "SODA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55710/small/sodax.jpg?1747127833"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe205b4e7ac03e3f7b2060c3edf2171aa7126c0d5",
+    "name": "ZAR Universal",
+    "symbol": "ZARU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176926/small/ZARU_Symbol_Primary.png?1789035266"
   }
 ]

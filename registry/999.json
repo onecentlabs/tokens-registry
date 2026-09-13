@@ -6639,5 +6639,29 @@
     "symbol": "HYPERCAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102176813/small/cyezlbs25edb4ro61liptucvaccp.?1788774709"
+  },
+  {
+    "chainId": 999,
+    "address": "0x12494229eb04ec88931f7ea02ecf544d6560d999",
+    "name": "HUD",
+    "symbol": "HUD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178250/small/hud.jpg?1789200841"
+  },
+  {
+    "chainId": 999,
+    "address": "0x8f5e6feb5c838b3a031ace481844dfeae4ec564f",
+    "name": "kPURR",
+    "symbol": "KPURR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178269/small/a5af4925-5a98-4dcf-9a35-df3e068ee4b7_%281%29.png?1789232652"
+  },
+  {
+    "chainId": 999,
+    "address": "0xf09703969cf55aa8a05ee9c76ab3013477283666",
+    "name": "Signal",
+    "symbol": "SIGNAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176973/small/signal.jpg?1789111548"
   }
 ]

@@ -35672,5 +35672,18 @@
     "address": "0x097acf27503753e77bCA940277806156C5925B81",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x097acf27503753e77bCA940277806156C5925B81.png"
+  },
+  {
+    "name": "ProShares UltraPro Short QQQ",
+    "chainId": 56,
+    "symbol": "SQQQB",
+    "address": "0x25e572B466D152604D9E6C3e53B432B978825342",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x25e572B466D152604D9E6C3e53B432B978825342.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
   }
 ]

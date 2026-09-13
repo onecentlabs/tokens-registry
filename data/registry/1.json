@@ -86630,5 +86630,100 @@
     "symbol": "XMD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/30898/small/icon-token-metal-dollar-200x.png?1696529744"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0A092E544DA31150b439a1aAA1A3a2214a867F46",
+    "name": "Concrete",
+    "symbol": "CT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xb1c2db5d6ca03fce73dbd304d320bf76c55ae1b1",
+    "name": "Tangent USG",
+    "symbol": "USG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178266/small/USG.png?1789231299"
+  },
+  {
+    "chainId": 1,
+    "address": "0x35bff778d3fc53a561486bf28e761428499232eb",
+    "name": "Strata Senior PRIME",
+    "symbol": "SRPRIME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176937/small/sr200.jpg?1789036530"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf4c91f24e20ee8ed5eda905e501a1136334c2f27",
+    "name": "Strata Junior PRIME",
+    "symbol": "JRPRIME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176938/small/jr200.jpg?1789036670"
+  },
+  {
+    "chainId": 1,
+    "address": "0x114c7f70be175b1c5a1740eabb8d33bb6dc8b675",
+    "name": "OLY",
+    "symbol": "OLY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176943/small/OLY_LOGO_CLEAN.png?1789068230"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc6694e05b750015f54ac646544a4a9d33cbe4086",
+    "name": "Bitcoin Dollar",
+    "symbol": "BTCD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176919/small/BTCD_Logo.png?1789034187"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1b2b8cfef0b7b1fad216b55fefeeb0c3349da141",
+    "name": "Strata Junior nOPAL",
+    "symbol": "JRNOPAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176959/small/jr200.jpg?1789108967"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd3ddb098a529a14d920203ed5015482c9226f9b9",
+    "name": "Jackpotter",
+    "symbol": "$JPT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176963/small/Token_icons_200x200_purple_%281%29.png?1789110306"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8a646edc4633adba5ec87dedaf3af958e268fe96",
+    "name": "Strata Senior nOPAL",
+    "symbol": "SRNOPAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176960/small/sr200.jpg?1789109021"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5925525658c86d2c3117f79c0c88203cbec812c1",
+    "name": "STRATO SILVST Tokenized Silver",
+    "symbol": "SILVST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172802/small/SILVST-200x200.png?1789196312"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4a1c82744cddee675a255fb289cb0917a482e7c7",
+    "name": "SODAX",
+    "symbol": "SODA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55710/small/sodax.jpg?1747127833"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe205b4e7ac03e3f7b2060c3edf2171aa7126c0d5",
+    "name": "ZAR Universal",
+    "symbol": "ZARU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176926/small/ZARU_Symbol_Primary.png?1789035266"
   }
 ]
