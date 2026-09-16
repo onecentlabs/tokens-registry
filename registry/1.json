@@ -86725,5 +86725,285 @@
     "symbol": "ZARU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102176926/small/ZARU_Symbol_Primary.png?1789035266"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc6d3856d9e49b3e54c28179fbf758bb299f1ed51",
+    "name": "PALCOIN Ventures",
+    "symbol": "PALCOIN",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/51317/small/PalcoinNewLogo.jpg?1753325856"
+  },
+  {
+    "chainId": 1,
+    "address": "0x67c51c928d5d8383f3a58fc591a4e6f6463949ed",
+    "name": "Ansem Cat",
+    "symbol": "ANSEMCAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174690/small/logo.png?1784628480"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2744ea5ac9b11cb5e3cd63d3a88e858336aeddc2",
+    "name": "rsFIRO",
+    "symbol": "RSFIRO",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178326/small/rsFiro-icon.png?1789316517"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a77e39240da69ea788e4cf93663d2c41ea4b12b",
+    "name": "Spiral",
+    "symbol": "SPIRAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178319/small/10121.jpg?1789314741"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe1e495fa46eed2b6da96fcedc051de23166fa892",
+    "name": "Waton Financial Limited aStock",
+    "symbol": "AWTF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178329/small/awtf.png?1789372492"
+  },
+  {
+    "chainId": 1,
+    "address": "0xab7d864bc08f4322de2f94fabaf14d71a687d7c5",
+    "name": "Propetro Holding Corp aStock",
+    "symbol": "APUMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178330/small/propetro.png?1789372860"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6f75b1b886bd1b1295325c9619f9f6b9fb760588",
+    "name": "Roundhill Meme Stock ETF aStock",
+    "symbol": "AMEME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178331/small/ameme.png?1789373158"
+  },
+  {
+    "chainId": 1,
+    "address": "0xff7fb9f9044523dfcab1f65f204ac79e6327a1cc",
+    "name": "Webull Corp aStock",
+    "symbol": "ABULL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178332/small/abull.png?1789373412"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2f5d2eace3890e5e53dd4e5462ba252c3746feef",
+    "name": "Petco Health and Wellness Company Inc aStock",
+    "symbol": "AWOOF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178333/small/awoof.png?1789373638"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf90bf694935638374b238de65222139010592c8f",
+    "name": "Roundhill Memory ETF aStock",
+    "symbol": "ADRAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178336/small/adran.png?1789375096"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72584a4d919b7969ce030fb58f7f56e2137af9b0",
+    "name": "World Acceptance Corp aStock",
+    "symbol": "AWRLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178337/small/awrld.png?1789375799"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9b76297343f272481f23dd0bbd4f20a9a227b392",
+    "name": "Hertz Global Holdings Inc aStock",
+    "symbol": "AHTZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178338/small/ahtz.png?1789376091"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8eee4aab4acbe84182c0f2cdbc906e39c6b076e8",
+    "name": "Groupon Inc aStock",
+    "symbol": "AGRPN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178339/small/agrpn.png?1789376674"
+  },
+  {
+    "chainId": 1,
+    "address": "0x049cbb2180dcced2b69fcad0a98f6d046cce1c6e",
+    "name": "Ondas Inc aStock",
+    "symbol": "AONDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178340/small/aondas.png?1789376839"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5d04786d76a9ea0c91c6a2f25fd4922846527c4c",
+    "name": "Xponential Fitness Inc aStock",
+    "symbol": "AXPOF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178341/small/axpof.png?1789377385"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3197fb576b8daa0a5a9c1c5923e91a4d41d25d71",
+    "name": "SoundHound AI Inc aStock",
+    "symbol": "ASOUN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178342/small/asound.png?1789377540"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd13163b837a3736c0ac4da9239b108fe0e04dbae",
+    "name": "GeneDx Holdings Corp aStock",
+    "symbol": "AWGS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178343/small/sema4.png?1789377734"
+  },
+  {
+    "chainId": 1,
+    "address": "0x59a036fc042b5b15cb36a4e1fe1bccfcf18f8d63",
+    "name": "C3.ai Inc aStock",
+    "symbol": "AAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178344/small/aai.png?1789377917"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3a013978cbd3ed7b270c92009e6a6d1be8e6ac25",
+    "name": "1-800-Flowers.Com Inc aStock",
+    "symbol": "AFLWS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178345/small/FLWS.png?1789379159"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6031e48580fd0d8ed23d6a9ad89b69758adcf7b2",
+    "name": "Newegg Commerce Inc aStock",
+    "symbol": "ANEGG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178346/small/anegg.png?1789379329"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa359b67304f183d3308577d856eed0d98dfb715d",
+    "name": "WhiteFiber Inc aStock",
+    "symbol": "AWYFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178347/small/whitefiber.png?1789379562"
+  },
+  {
+    "chainId": 1,
+    "address": "0x13077a525ae6ca771e04fc91871b2f8f55ecfe3a",
+    "name": "Purecycle Technologies Inc aStock",
+    "symbol": "APCT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178348/small/purecycle.png?1789379807"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa886aaac8752548cbd9ffd7940b99b9b46eab219",
+    "name": "Recursion Pharmaceuticals Inc aStock",
+    "symbol": "ARXRX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178349/small/arxrx.png?1789380038"
+  },
+  {
+    "chainId": 1,
+    "address": "0x297df276f30a22c1f94eab7daf1e280e54bc439a",
+    "name": "Ramaco Resources Inc aStock",
+    "symbol": "AMETC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178350/small/ramaco.png?1789380536"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa69b48373f8a34a6a53dbe188db3a664a4e6a7fc",
+    "name": "Chaince Digital Holdings Inc aStock",
+    "symbol": "ACD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178351/small/chaince.png?1789381428"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1076356059c5fe9fad3a053c4c84a32efd116274",
+    "name": "Serve Robotics Inc aStock",
+    "symbol": "ASERV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178352/small/serve.png?1789383427"
+  },
+  {
+    "chainId": 1,
+    "address": "0x490c6311948ae3e3a6a96d3842e333302034d4d3",
+    "name": "Lucid Group Inc aStock",
+    "symbol": "ALCID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178353/small/lucid.png?1789383587"
+  },
+  {
+    "chainId": 1,
+    "address": "0x11917c87b177e134116d1a538acc9f832b76d0f2",
+    "name": "Quantum Computing Inc aStock",
+    "symbol": "AQUBT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178354/small/qci.png?1789383764"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb2eaa18aaab01d049edf2b845c9ea0480f72c18a",
+    "name": "Rackspace Technology Inc aStock",
+    "symbol": "ARXT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178355/small/rackspace.png?1789384008"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7fe49b79e7acf9fbd840c8f11035c618425c36ca",
+    "name": "indie Semiconductor Inc aStock",
+    "symbol": "AINDI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178356/small/indi.png?1789384212"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe8bc8f7ce09d0b3b9f2cc017bbbf0ef0535ca573",
+    "name": "Immunitybio Inc aStock",
+    "symbol": "AIBRX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178357/small/immunity.png?1789384401"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd70b950fd70e96933ebd991005fe6f37aef1354f",
+    "name": "Better Home & Finance Holding Co aStock",
+    "symbol": "ABETR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178358/small/better.png?1789384654"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfa63f789664f761e38e39f83a3617dbc1c8e0226",
+    "name": "Fluence Energy Inc aStock",
+    "symbol": "AFLNC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178359/small/fluence.png?1789384812"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5c55e3da9d7bbfad6c5fdb4b6b4dac85c9d6e5c7",
+    "name": "Xerox Holdings Corp aStock",
+    "symbol": "AXRX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178360/small/xerox.png?1789384981"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5f3b897deea4ea0cb6aefe50bd2ae556cf6f4b63",
+    "name": "RoboStrategy Inc aStock",
+    "symbol": "ABOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178361/small/abot.png?1789385140"
   }
 ]
