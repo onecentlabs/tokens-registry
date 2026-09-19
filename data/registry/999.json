@@ -6663,5 +6663,21 @@
     "symbol": "SIGNAL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102176973/small/signal.jpg?1789111548"
+  },
+  {
+    "chainId": 999,
+    "address": "0xa28c70f92a1b2513edcddd29c2e5195a4b785ab2",
+    "name": "SODAX",
+    "symbol": "SODA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55710/small/sodax.jpg?1747127833"
+  },
+  {
+    "chainId": 999,
+    "address": "0x4cecb08bd796ba8b685208f6dd6cabf9628cafbb",
+    "name": "BlockTrader365",
+    "symbol": "BT365",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/67777/small/bt365-logo-new.png?1789566906"
   }
 ]

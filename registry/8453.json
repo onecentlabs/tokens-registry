@@ -32062,5 +32062,45 @@
     "symbol": "ABOT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102178361/small/abot.png?1789385140"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe8b22a4844aae9f68553a2e210e0b96d7ded1703",
+    "name": "IHODL",
+    "symbol": "IHODL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178453/small/Logo-IHodlLife-Full-Blackbackround.jpg?1789570201"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe0c0f44a84cc4a60206360006eba237a5e8fc2dd",
+    "name": "Stobox Token",
+    "symbol": "STBU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12637/small/stbu-logo-coingecko-200.png?1789713305"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe34356dcd3d7bb991248f322e4ec31b5d60bc54e",
+    "name": "Delivery Guy",
+    "symbol": "DGUY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178440/small/logonew.png?1789568452"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6f63d869011f95274498023b4abfc00b30c34378",
+    "name": "OpenRoboto",
+    "symbol": "SN80",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66445/small/Image_Container.png?1789264897"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61a10e8556bed032ea176330e7f17d6a12a10000",
+    "name": "Unity USD",
+    "symbol": "UUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172413/small/UUSD.png?1773390929"
   }
 ]

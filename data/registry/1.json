@@ -87005,5 +87005,117 @@
     "symbol": "ABOT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102178361/small/abot.png?1789385140"
+  },
+  {
+    "chainId": 1,
+    "address": "0x126f5ece91d971f8ad62fa4fc1054456b8bd1111",
+    "name": "Fuse",
+    "symbol": "FUSE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178484/small/fusing_logo_light-200px.png?1789702432"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2f8bae126b8d416c009b82ccd60e4f9cabbd7702",
+    "name": "Midas Fasanara Global Euro",
+    "symbol": "MGLOEURO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178485/small/mGLOeuro.png?1789702675"
+  },
+  {
+    "chainId": 1,
+    "address": "0xee69f45715bfa6a4cffe2bb7e0d71093b9d58705",
+    "name": "Ondo Magnificent 7 and Crypto Portfolio",
+    "symbol": "MAG7XON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178490/small/mag7xon_160x160.png?1789709376"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d7a1fcfaf626f8db3852c12d4cdc863d9441283",
+    "name": "Ondo AI Leaders Portfolio",
+    "symbol": "BRAINON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178491/small/brainon_160x160.png?1789709616"
+  },
+  {
+    "chainId": 1,
+    "address": "0x31eea0edeb85b0cb65c1400bd2f4e487fd61b537",
+    "name": "Tread.fi",
+    "symbol": "TREAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174405/small/TREAD_token_mark_500x500_black.png?1788233589"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3d68e46ba86ebe702b2399245730dde2f7e4b077",
+    "name": "Ondo 5 Targeted Income TR Portfolio",
+    "symbol": "YLD5ON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178492/small/brainon_160x160.png?1789709823"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa045c4477fb0a0630a50e7915a7fb4d82ede362b",
+    "name": "Ondo 8 Targeted Income TR Portfolio",
+    "symbol": "YLD8ON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178493/small/brainon_160x160.png?1789709953"
+  },
+  {
+    "chainId": 1,
+    "address": "0x787769d6fc857169f5243ef66d3f0a954149d3ba",
+    "name": "Ondo High Income Powered by BlackRock",
+    "symbol": "BLKHION",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178494/small/brainon_160x160.png?1789710092"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e17534a1fc047907d8f422ca166944d6469e053",
+    "name": "Ondo Diversified Growth Powered by BlackRock",
+    "symbol": "BLKDIGON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178495/small/brainon_160x160.png?1789710250"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc90341cb9cb8d65af044fab23b659b7b4279399b",
+    "name": "Ondo High Growth Powered by BlackRock",
+    "symbol": "BLKGRWON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178496/small/brainon_160x160.png?1789710384"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc4f0b390abbb11082b10c2391c50e2217227adaf",
+    "name": "Spiral",
+    "symbol": "SPIRAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178319/small/10121.jpg?1789314741"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfed863b6a995be69c2bbc5089bcda5414793ce24",
+    "name": "CZR Token",
+    "symbol": "CZR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178442/small/Adobe_Express_-_file.jpg?1789568963"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa98b4a70e17e55045cde4972b95bc2e8cec22a0f",
+    "name": "Agua Global Carry Vault",
+    "symbol": "AGUAUSDCGC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178473/small/Frame_316126235.png?1789698699"
+  },
+  {
+    "chainId": 1,
+    "address": "0x61a10e8556bed032ea176330e7f17d6a12a10000",
+    "name": "Unity USD",
+    "symbol": "UUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172413/small/UUSD.png?1773390929"
   }
 ]
