@@ -32102,5 +32102,37 @@
     "symbol": "UUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172413/small/UUSD.png?1773390929"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4a63776249a2c02dba269139e5d05d94ee3f5ba3",
+    "name": "Sentysis",
+    "symbol": "SENT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178521/small/Sentysis_Logo_Mark.jpg.jpeg?1789839204"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfdcc845c048ad96b5c80b6a55d65c20a98d37777",
+    "name": "VCAT",
+    "symbol": "VCAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178562/small/vcat.jpg?1790000907"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb7c10146ba1b618956a38605ab6496523d450871",
+    "name": "ESHARE",
+    "symbol": "ESHARE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178548/small/eshare-logo-dexscreener-original.png?1789934095"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5c7169eeb3f1a858a9d2c9a083b7ac02adf93dfd",
+    "name": "Dragon Coin",
+    "symbol": "DGN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/51986/small/IMG_0773.jpg?1732293578"
   }
 ]

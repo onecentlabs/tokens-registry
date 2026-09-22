@@ -10355,5 +10355,13 @@
     "symbol": "SHEINX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102176611/small/sheinxstock.png?1788327462"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1f22279c89b213944b7ea41dacb0a868ddcdfd13",
+    "name": "SODAX",
+    "symbol": "SODA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55710/small/sodax.jpg?1747127833"
   }
 ]

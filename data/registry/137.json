@@ -14529,5 +14529,13 @@
     "symbol": "USDX",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102175778/small/Logo_USDX_200.jpg?1787556554"
+  },
+  {
+    "chainId": 137,
+    "address": "0xddf645f33edad18fc23e01416ed0267a1bf59d45",
+    "name": "SODAX",
+    "symbol": "SODA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55710/small/sodax.jpg?1747127833"
   }
 ]

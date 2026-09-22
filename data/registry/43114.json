@@ -8450,5 +8450,13 @@
     "symbol": "UTY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66299/small/u.png?1775549867"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x390ceed555905ec225da330a188ea04e85570f00",
+    "name": "SODAX",
+    "symbol": "SODA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55710/small/sodax.jpg?1747127833"
   }
 ]

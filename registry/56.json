@@ -35693,5 +35693,21 @@
     "address": "0x72a22fAA6a522C81A8F5d508381e18af3dA0921E",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x72a22fAA6a522C81A8F5d508381e18af3dA0921E.png"
+  },
+  {
+    "name": "Paimon Polymarket SPV Token",
+    "chainId": 56,
+    "symbol": "pPOLY",
+    "address": "0x1D80392D12CAAaF9E333Bb0bb7f021eaCf297Fe6",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1D80392D12CAAaF9E333Bb0bb7f021eaCf297Fe6.png"
+  },
+  {
+    "name": "Gstock",
+    "chainId": 56,
+    "symbol": "GSTOCK",
+    "address": "0xcAFdBCE93477261Db8250e42BdAe6E66733F9E20",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xcAFdBCE93477261Db8250e42BdAe6E66733F9E20.png"
   }
 ]
