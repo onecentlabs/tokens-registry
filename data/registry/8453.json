@@ -32134,5 +32134,61 @@
     "symbol": "DGN",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/51986/small/IMG_0773.jpg?1732293578"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbc2029b41cedf44cfdd7baee9c50b02bf0c8f79c",
+    "name": "TPRO Network",
+    "symbol": "TPRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26694/small/tpro-token-icon-200.png?1790072643"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000070f6c1a66d7c1e4d01",
+    "name": "SPIKE",
+    "symbol": "SPIKE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178759/small/spike.jpg?1790220697"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7e13b43065380acdec1c2d138c579cbbbafa0731",
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178774/small/tel.png?1790269038"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xddde5965d49e69b6362bd8743e139a45dbfeb7b3",
+    "name": "Pareton",
+    "symbol": "SN10",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66310/small/icon.png?1787813856"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6458d4844ccaad06dbf566d1df93d8815f89d9b0",
+    "name": "Waterdrop Inc aStock",
+    "symbol": "AWDH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178731/small/aWDH-logo.png?1790168204"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x23cd099eb438cca50349ee2bc809196b1ae00861",
+    "name": "Wrapped 0G",
+    "symbol": "W0G",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69681/small/0g.png?1759289984"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0000006238e3c7797ae71827da303560bae1b125",
+    "name": "Nora Brazil Real",
+    "symbol": "BRS",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178766/small/brs-icone-verde-1254.png?1790233416"
   }
 ]

@@ -8458,5 +8458,13 @@
     "symbol": "SODA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55710/small/sodax.jpg?1747127833"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe508ff190ce1d94edd1a28256eaeedfab7cc2222",
+    "name": "summitpad.fun",
+    "symbol": "SUMMIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178589/small/summitpad_400x400.png?1790089787"
   }
 ]
