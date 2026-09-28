@@ -11267,5 +11267,13 @@
     "symbol": "XRXX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102178723/small/XRXx.png?1790152880"
+  },
+  {
+    "chainId": 10,
+    "address": "0x03cc5fef38896537c10fcb30a53a1b12be101da6",
+    "name": "Wowbit",
+    "symbol": "WWB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178838/small/wwb-logo-200.png?1790450450"
   }
 ]

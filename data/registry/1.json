@@ -88149,5 +88149,21 @@
     "symbol": "XRXX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102178723/small/XRXx.png?1790152880"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd7956afcff5ebb0a84a2470aed3d8147cc00e617",
+    "name": "aarna atvPTmax",
+    "symbol": "ATVPTMAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70963/small/atvPTmax_pendle_coin_gecko.png?1770870945"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8c9984b06281f1ca9416e493c2e602aab08513db",
+    "name": "Sectora",
+    "symbol": "SECT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178857/small/sectora-200x200.png?1790513094"
   }
 ]

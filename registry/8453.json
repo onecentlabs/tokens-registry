@@ -32190,5 +32190,29 @@
     "symbol": "BRS",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102178766/small/brs-icone-verde-1254.png?1790233416"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0cbf291ba052174879d90bf781df1a5f2bc5bb07",
+    "name": "boar",
+    "symbol": "BOAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178848/small/w81p1dsba20f2viocdhmy2c5ek1n.?1790493250"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe883efe16e97afd09550bdb6bc977bad14fdf3cd",
+    "name": "Zeno Divergent",
+    "symbol": "ZENO",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178780/small/photo_2026-09-23_17.10.34.jpeg?1790311517"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6e2feee56bc5f0db2104ab1dac2cf1fb0334eb49",
+    "name": "Umi",
+    "symbol": "SN78",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71103/small/2026-09-24_09.53.11.jpg?1790319672"
   }
 ]
