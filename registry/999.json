@@ -7599,5 +7599,13 @@
     "symbol": "XRXX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102178723/small/XRXx.png?1790152880"
+  },
+  {
+    "chainId": 999,
+    "address": "0xd5ee1c81fe161e985dce6b90713c965f9979cf80",
+    "name": "Tread.fi",
+    "symbol": "TREAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174405/small/TREAD_token_mark_500x500_black.png?1788233589"
   }
 ]

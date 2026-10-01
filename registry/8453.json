@@ -32214,5 +32214,61 @@
     "symbol": "SN78",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71103/small/2026-09-24_09.53.11.jpg?1790319672"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6cd1c7d41f589b5ce6b88b1c90bc2f29b0439ea1",
+    "name": "Gyndore",
+    "symbol": "GYND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178877/small/GYND-logo-200.png?1790581758"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x07b3d902783c3c12b077508c3b5c00113d1291d0",
+    "name": "Doppler Finance",
+    "symbol": "XDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175227/small/03_Doppler_Symbol_Gradient_onDark_withBG.png?1785842913"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000007d16372840df4dabbe",
+    "name": "Palantir (Coinbase Tokenized Stock)",
+    "symbol": "PLTRC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178880/small/PLTR.png?1790582134"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000fd2f87532b90095211",
+    "name": "Micron Technology Inc. (Coinbase Tokenized Stock)",
+    "symbol": "MUC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178881/small/MU.png?1790582164"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9470ef4e54520f0369ac850e239205bacf27008a",
+    "name": "affine",
+    "symbol": "SN120",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69755/small/affine-logo.jpeg?1759487699"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002feb517dfec7415344",
+    "name": "Open USD",
+    "symbol": "OUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174264/small/open_standard.png?1782864430"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x25deff1892ce2cb5b47500e39a02b19a85be2e2b",
+    "name": "Gavun Wud",
+    "symbol": "WUD",
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/53409/small/logo_small.png?1766718628"
   }
 ]

@@ -14553,5 +14553,13 @@
     "symbol": "BRS",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102178766/small/brs-icone-verde-1254.png?1790233416"
+  },
+  {
+    "chainId": 137,
+    "address": "0xf31a621a0e75d90fda320eee52956d718fa34615",
+    "name": "MELEGA",
+    "symbol": "MARCO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27568/small/MELEGA_logo_halo_200x200px.png?1696526602"
   }
 ]

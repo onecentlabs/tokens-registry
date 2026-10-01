@@ -35709,5 +35709,13 @@
     "address": "0xcAFdBCE93477261Db8250e42BdAe6E66733F9E20",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xcAFdBCE93477261Db8250e42BdAe6E66733F9E20.png"
+  },
+  {
+    "name": "Concrete Token",
+    "chainId": 56,
+    "symbol": "CT",
+    "address": "0x0A092E544DA31150b439a1aAA1A3a2214a867F46",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0A092E544DA31150b439a1aAA1A3a2214a867F46.png"
   }
 ]
