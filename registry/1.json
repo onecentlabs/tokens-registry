@@ -88237,5 +88237,69 @@
     "symbol": "USDGO",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102172077/small/USDGO_Primary_Icon.png?1789694084"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5caf5a86f39073637ac7c8a7b5290871de80cb9b",
+    "name": "Wrapped Aave Ethereum DAI",
+    "symbol": "WAETHDAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179020/small/waethdai.png?1790933404"
+  },
+  {
+    "chainId": 1,
+    "address": "0x476a2d04ab8a7fb93e13ac14f2c077866ff13500",
+    "name": "Wrapped Aave Ethereum EURC",
+    "symbol": "WAETHEURC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179021/small/EURC.png?1790933922"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5f9d59db355b4a60501544637b00e94082ca575b",
+    "name": "Wrapped Aave Ethereum USDe",
+    "symbol": "WAETHUSDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179022/small/waEthUSDe.png?1790934358"
+  },
+  {
+    "chainId": 1,
+    "address": "0x852724426b2851487b278a3377449bf26b06c1ba",
+    "name": "BTC Concrete Custodial Asset",
+    "symbol": "BTCCX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179023/small/btc.png?1790934807"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8407f7245dbb72e1570fdee4fecb267dd3edbb0d",
+    "name": "Revolut GBP",
+    "symbol": "GBPR",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174783/small/GBP-Light.png?1784807113"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7adbfd873084db714a57ed648ee69aa4627cb998",
+    "name": "Alberich Token",
+    "symbol": "ALBRH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179047/small/Alberich_Token_%28ALBRH%29_Official_Logo_%282%29.png?1791046137"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb6cd7fee2daa8a2e7e4c0e194468af0f08be527d",
+    "name": "Gibi Swap",
+    "symbol": "GIBI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179061/small/Gibi_Token_Image.png?1791048370"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3c3959052f60cbddc498b384958841b718112353",
+    "name": "SilverChat",
+    "symbol": "SC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179007/small/500ssss.png?1790907541"
   }
 ]

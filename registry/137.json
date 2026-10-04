@@ -14561,5 +14561,13 @@
     "symbol": "MARCO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/27568/small/MELEGA_logo_halo_200x200px.png?1696526602"
+  },
+  {
+    "chainId": 137,
+    "address": "0x220b60aeafa5cfa22d92c20dc2f0ff4a389bb152",
+    "name": "TTAJ",
+    "symbol": "TTAJ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179028/small/1000022746.png?1791012206"
   }
 ]

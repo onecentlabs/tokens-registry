@@ -31342,5 +31342,85 @@
     "symbol": "USDG",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/51281/small/GDN_USDG_Token_200x200.png?1730484111"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xde8987c1b48a47abaedd8211221ae32794fc2ab0",
+    "name": "Hyundai Motor (Stove Tokenized Stock)",
+    "symbol": "HYUNDAIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179052/small/hyundais.png?1791047445"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3cd29a9c4176fa86a47d220268c5af557c265ab3",
+    "name": "Samsung Electro-Mechanics (Stove Tokenized Stock)",
+    "symbol": "SEMCOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179051/small/semcos.png?1791047440"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf07e880990287fda3dffdf10491a0bb6e9c648f1",
+    "name": "SK Square (Stove Tokenized Stock)",
+    "symbol": "SKSQUARES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179053/small/sksquares.png?1791047446"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3eda2d84dd4cee7d4cd226e4dbc9744bfb4114e8",
+    "name": "SK Hynix (Stove Tokenized Stock)",
+    "symbol": "SKHYNIXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179054/small/skhynixs.png?1791047447"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb3a4e7a03c721bf9839e4fa5fbc12d025091aa04",
+    "name": "Samsung Electronics (Stove Tokenized Stock)",
+    "symbol": "SAMSUNGS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179055/small/samsungs.png?1791047450"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0b674bc0a029ea5f3c0ce66611e4a17bb91fb4ff",
+    "name": "HD Hyundai Heavy Industries (Stove Tokenized Stock)",
+    "symbol": "HDHHIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179056/small/hdhhis.png?1791047522"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2043befff0ce5c755d6b2669d43c790111679e14",
+    "name": "Samsung Biologics (Stove Tokenized Stock)",
+    "symbol": "SMSNBIOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179059/small/smsnbios.png?1791047530"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf16dfb7db59a884f2947e6e742cc611c9af7c68d",
+    "name": "Samsung Life Insurance (Stove Tokenized Stock)",
+    "symbol": "SLIFES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179057/small/slifes.png?1791047523"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc827dbbcb8359632d9e021ab0f165b0c90ada230",
+    "name": "KB Financial Group (Stove Tokenized Stock)",
+    "symbol": "KBFGS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179058/small/kbfgs.png?1791047526"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9d524b3ecc11fab1bda0a990b1e08259a0bda717",
+    "name": "LG Energy Solution (Stove Tokenized Stock)",
+    "symbol": "LGESS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179060/small/lgess.png?1791047537"
   }
 ]
