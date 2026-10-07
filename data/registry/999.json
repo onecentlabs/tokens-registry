@@ -7607,5 +7607,13 @@
     "symbol": "TREAD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102174405/small/TREAD_token_mark_500x500_black.png?1788233589"
+  },
+  {
+    "chainId": 999,
+    "address": "0x78118293a39b6338bfc2e68fb54ef8282938d56d",
+    "name": "RigoBlock",
+    "symbol": "GRG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/1532/small/Symbol-RigoblockRGB.png?1696502572"
   }
 ]

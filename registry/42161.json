@@ -31422,5 +31422,85 @@
     "symbol": "LGESS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179060/small/lgess.png?1791047537"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4f43fc1e1973dcd6d99624f9e92010ade308294a",
+    "name": "SoFi Technologies (Stove Tokenized Stock)",
+    "symbol": "SOFIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179103/small/SOFIs.png?1791189192"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x349b2a95fea36e8ec786e7b5a79d531a5b567834",
+    "name": "SpaceX (Stove Tokenized Stock)",
+    "symbol": "SPCXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179109/small/SPCXs.png?1791190167"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x581880247c693f85fb9b20f463f80a6096c958ae",
+    "name": "Kia (Stove Tokenized Stock)",
+    "symbol": "KIAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179098/small/kias.png?1791189011"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xcf435620a39daab43a12437d2ebe41dd751e9ce9",
+    "name": "Tesla (Stove Tokenized Stock)",
+    "symbol": "TSLAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179107/small/TSLAs.png?1791190122"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9a140f6aa3b5899bd2b7616e15d83e33e5070f94",
+    "name": "Micron Technology (Stove Tokenized Stock)",
+    "symbol": "MUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179108/small/MUs.png?1791190143"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb41e59b27fcd33de0825e07d1d79261542081293",
+    "name": "American Airlines (Stove Tokenized Stock)",
+    "symbol": "AALS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179101/small/AALs.png?1791189130"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x55e9e4b5e3c46e828b9f25f334a2bcdfb1e2ac2b",
+    "name": "NVIDIA (Stove Tokenized Stock)",
+    "symbol": "NVDAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179100/small/NVDAs.png?1791189101"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdd5fcafa66ae64bca2dbb508a9fd225a9eeac0ee",
+    "name": "Hanwha Aerospace (Stove Tokenized Stock)",
+    "symbol": "HANWHAAEROS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179099/small/hanwhaaeros.png?1791189079"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x016d89c0d9682345a935f9fe2e0d1cd206a0b3fe",
+    "name": "Apple (Stove Tokenized Stock)",
+    "symbol": "AAPLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179104/small/AAPLs.png?1791189212"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfc44f6399e2b248b1586f6641b1f0cd056bceee4",
+    "name": "Intel (Stove Tokenized Stock)",
+    "symbol": "INTCS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179102/small/INTCs.png?1791189174"
   }
 ]

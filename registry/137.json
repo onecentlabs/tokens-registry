@@ -14569,5 +14569,13 @@
     "symbol": "TTAJ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179028/small/1000022746.png?1791012206"
+  },
+  {
+    "chainId": 137,
+    "address": "0xc93134162fbe458b9d73ae25437041b335cad911",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/small/SecureChainAI.jpg?1746500907"
   }
 ]

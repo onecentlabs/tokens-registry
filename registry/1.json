@@ -88301,5 +88301,77 @@
     "symbol": "SC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179007/small/500ssss.png?1790907541"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9d98c61d1136cfa2ac263be355350c97ca41c110",
+    "name": "Tajir",
+    "symbol": "TJR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179201/small/IMG_4428.PNG?1791310985"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb344e331a3cda61d329fb3cca2be5942da87c418",
+    "name": "Bitwise AUSD Morpho Vault",
+    "symbol": "PAPY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178572/small/bitwise_64.png?1790046551"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb6026518463ec80f1cb33e4318e802487c27f995",
+    "name": "Super Intelligent Identity",
+    "symbol": "SIMD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179159/small/logo.jpg?1791299003"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1201dcfc7c0b2ce46c7604bf104234ab42a56bbd",
+    "name": "OpenAI (Ondo Private Market Note)",
+    "symbol": "OPAIPON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179129/small/opaipon_160x160.png?1791271287"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9925805b9b0dda34418798ccf95bcff5633f9176",
+    "name": "Sendover",
+    "symbol": "SENDOVER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179137/small/IMG_3610.jpeg?1791292866"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7ad1a8fc42ac150b04ded5825d21a0c90b6d28d8",
+    "name": "ConConAI",
+    "symbol": "CON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179114/small/Logo_ConConAI.png?1791192536"
+  },
+  {
+    "chainId": 1,
+    "address": "0x63401cdd577478f9389a1683e866a937f072d1c2",
+    "name": "Apex Gold Ledger",
+    "symbol": "AGL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179145/small/agl.png?1791294802"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1b54e762aa34cf6e28e9c082f2848e28e45da6b8",
+    "name": "claus",
+    "symbol": "CLAUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179148/small/claus-listing-200.png?1791296472"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc93134162fbe458b9d73ae25437041b335cad911",
+    "name": "SecureChain AI",
+    "symbol": "SCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55524/small/SecureChainAI.jpg?1746500907"
   }
 ]
