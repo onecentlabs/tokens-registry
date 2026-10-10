@@ -32630,5 +32630,357 @@
     "symbol": "SCAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55524/small/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000432a1d2bd864acec82",
+    "name": "TeraWulf Inc. (Coinbase Tokenized Stock)",
+    "symbol": "WULFC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179247/small/WULFc-icon-200.png?1791375046"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000008fc2a8c23cf5937b66",
+    "name": "Philip Morris International Inc. (Coinbase Tokenized Stock)",
+    "symbol": "PMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179259/small/PMc-icon-200.png?1791375082"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaa8319bff7898f24780b6f80839b1ea13f02a4b8",
+    "name": "QSAVE Wealth Fund",
+    "symbol": "QSAVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179281/small/qsave-token-icon-red-whitefill-200.png?1791411838"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000066242d4067724cb7a1",
+    "name": "Reddit, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "RDDTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179256/small/RDDTc-icon-200.png?1791375073"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000ca425ab42e07c35bc3",
+    "name": "Quantum Computing Inc. (Coinbase Tokenized Stock)",
+    "symbol": "QUBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179258/small/QUBTc-icon-200.png?1791375079"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000f720c26062bc3067da",
+    "name": "Take-Two Interactive Software, Inc. (Coinbase Tokenized Stoc",
+    "symbol": "TTWOC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179263/small/TTWOc-icon-200.png?1791375817"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000428e3a3eebbb20692b",
+    "name": "Trump Media & Technology Group Corp. (Coinbase Tokenized Sto",
+    "symbol": "DJTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179271/small/DJTc-icon-200.png?1791375840"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000005bd7ae89b9e6189bb5",
+    "name": "Roblox Corporation (Coinbase Tokenized Stock)",
+    "symbol": "RBLXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179257/small/RBLXc-icon-200.png?1791375077"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003e4249c65bd6c037d9",
+    "name": "Rivian Automotive, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "RIVNC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179254/small/RIVNc-icon-200.png?1791375068"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000c22fff2785bb27b39a",
+    "name": "Rigetti Computing, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "RGTIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179255/small/RGTIc-icon-200.png?1791375070"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x92da5db61fb408c947ac24ebaac6c3bcbf37271c",
+    "name": "ZAMICA Token",
+    "symbol": "ZAMIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179340/small/ZAMIC_symbol_200pix.png?1791516696"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000000d3176ee4af1102d",
+    "name": "Rocket Companies, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "RKTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179253/small/4dde0edccaaf5a6e62a814beeef58402cc8a1aba58ca6aab50f65b2ae28d1127.png?1791375064"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000004aa2b559ca0a0bbf5d",
+    "name": "Root, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ROOTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179252/small/ROOTc-icon-200.png?1791375061"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002137743d4a01fe4e88",
+    "name": "SoundHound AI, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SOUNC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179251/small/SOUNc-icon-200.png?1791375057"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000b8f841940325db6b2c",
+    "name": "TKO Group Holdings, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "TKOC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179250/small/TKOc-icon-200.png?1791375054"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000089221e238277d52515",
+    "name": "WW International, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "WWC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179246/small/WWc-icon-200.png?1791375043"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000044e3cd7a0e1028e57a",
+    "name": "Wendy's Co (Coinbase Tokenized Stock)",
+    "symbol": "WENC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179249/small/WENc-icon-200.png?1791375052"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000281c973bf2555dd94b",
+    "name": "Wingstop Inc. (Coinbase Tokenized Stock)",
+    "symbol": "WINGC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179248/small/WINGc-icon-200.png?1791375049"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000ea2df44a307cab279c",
+    "name": "BitMine Immersion Technologies, Inc. (Coinbase Tokenized Sto",
+    "symbol": "BMNRC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179275/small/BMNR.png?1791375852"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000024170488e788cbbcb4",
+    "name": "Berkshire Hathaway Inc. Class B (Coinbase Tokenized Stock)",
+    "symbol": "BRK.BC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179245/small/BRK.Bc-icon-200.png?1791375041"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000009426b660396ebcf343",
+    "name": "StablecoinX Inc. (Coinbase Tokenized Stock)",
+    "symbol": "USDEC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179262/small/USDEc-icon-200.png?1791375815"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001aaa9010cd65f82c5e",
+    "name": "Core Scientific, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "CORZC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179244/small/CORZc-icon-200.png?1791375038"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x31168aba53e790d04ea17e0b7a086383e4ca5c68",
+    "name": "Alpha Arcade",
+    "symbol": "ALPHA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179324/small/bR1K0vn8_400x400.jpg?1791449855"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000bd0c7627b663c581a6",
+    "name": "Riot Platforms, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "RIOTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179243/small/RIOTc-icon-200.png?1791375036"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000979ef4dd6a001b58b1",
+    "name": "Viking Therapeutics, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "VKTXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179261/small/VKTXc-icon-200.png?1791375812"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000082f7fea8f2ee8f438",
+    "name": "BJ's Wholesale Club Holdings, Inc. (Coinbase Tokenized Stock",
+    "symbol": "BJC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179276/small/BJc-icon-200.png?1791375854"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000004161b4168d03841511",
+    "name": "Celsius Holdings, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "CELHC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179274/small/CELHc-icon-200.png?1791375848"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000535fe96f18204bfd96",
+    "name": "Smartbird, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "BIRDC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179277/small/BIRD.png?1791375858"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000fec679b39992f67627",
+    "name": "Valvoline Inc (Coinbase Tokenized Stock)",
+    "symbol": "VVVC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179260/small/VVVc-icon-200.png?1791375810"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000008fde21a1f5c69fec0b",
+    "name": "Western Digital Corporation (Coinbase Tokenized Stock)",
+    "symbol": "WDCC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179242/small/WDCc-icon-200.png?1791375033"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000115bf2283265fb04db",
+    "name": "Twenty One Capital, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "XXIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179241/small/symbol-small.png?1791375030"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000055e63c4c1cdc6b7a36",
+    "name": "Clover Health Investments, Corp. (Coinbase Tokenized Stock)",
+    "symbol": "CLOVC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179273/small/CLOVc-icon-200.png?1791375846"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000431a5c1e48e3b1d130",
+    "name": "Crocs, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "CROXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179272/small/CROXc-icon-200.png?1791375843"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000808e9cca9ed8e4da61",
+    "name": "Brinker International, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "EATC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179270/small/EATc-icon-200.png?1791375838"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000006b7f6966ee0453e251",
+    "name": "e.l.f. Beauty, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ELFC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179269/small/ELFc-icon-200.png?1791375835"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000eda6c2c6f11e0f838f",
+    "name": "Lumentum Holdings Inc (Coinbase Tokenized Stock)",
+    "symbol": "LITEC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179267/small/LITEc-icon-200.png?1791375829"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000a63e35e673e3776b88",
+    "name": "Eastman Kodak Company (Coinbase Tokenized Stock)",
+    "symbol": "KODKC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179268/small/KODKc-icon-200.png?1791375832"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000d5c0393796e92fcab0",
+    "name": "Southwest Airlines Company (Coinbase Tokenized Stock)",
+    "symbol": "LUVC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179266/small/LUVc-icon-200.png?1791375825"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000011b20aebe0bd567f1c",
+    "name": "Planet Fitness, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "PLNTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179265/small/PLNTc-icon-200.png?1791375824"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000000c1f8acd3c4496a762",
+    "name": "Sezzle Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SEZLC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179264/small/SEZLc-icon-200.png?1791375821"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9e00fc92493451eba1c63dd3880d68b622037ba3",
+    "name": "A Society For AI Agents",
+    "symbol": "1F916",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179299/small/1f916-logo-200.png?1791444722"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x024f68013b8b7e8e2ab85f3716ee1fe8511b3968",
+    "name": "OpenTokens",
+    "symbol": "TOKEN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179296/small/opentoken-200.png?1791443455"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9b61660cb1a6920e9c912570cd210020b956f34e",
+    "name": "Vortex Bridged KOIN",
+    "symbol": "VKOIN",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179323/small/koinos-logo-200.png?1791448382"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x10d348ca3e8a8a9ce67c39ccaf2dd4f99bb19bd8",
+    "name": "R0AR Token",
+    "symbol": "1R0R",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66194/small/R0ARToken200x200.png?1748641994"
   }
 ]

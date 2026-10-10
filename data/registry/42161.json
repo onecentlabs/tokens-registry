@@ -31502,5 +31502,237 @@
     "symbol": "INTCS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179102/small/INTCs.png?1791189174"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2d06fc3711fb2bd7e716fb5fd6193a9ada5b82cb",
+    "name": "Coinbase (Stove Tokenized Stock)",
+    "symbol": "COINS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179319/small/COINs.png?1791446846"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xbe3195d042402bdcebe857c73b7fe2c0976211e8",
+    "name": "Circle (Stove Tokenized Stock)",
+    "symbol": "CRCLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179230/small/CRCLs.png?1791366497"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x365898ad4531fb2154a6ebd2e4317198ab06e599",
+    "name": "Verizon (Stove Tokenized Stock)",
+    "symbol": "VZS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179307/small/VZs.png?1791446585"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xddad311a85cd1eaa0eca878d58d2cdd4f60fd6e3",
+    "name": "Robinhood (Stove Tokenized Stock)",
+    "symbol": "HOODS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179308/small/HOODs.png?1791446606"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xcbf37f78944ff0ec8d4ffc47c7a727c1b01fe0c2",
+    "name": "Meta Platforms (Stove Tokenized Stock)",
+    "symbol": "METAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179321/small/METAs.png?1791446886"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x90ce53ec0b73f3cbb2a4f07be371b44c16ac1638",
+    "name": "Pfizer (Stove Tokenized Stock)",
+    "symbol": "PFES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179309/small/PFEs.png?1791446625"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb920600d083daf64527d754457a2ddb57b31ade2",
+    "name": "Nike (Stove Tokenized Stock)",
+    "symbol": "NKES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179322/small/NKEs.png?1791446909"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3d0bdb4e74a1d24dd2206367370157cdebc24df6",
+    "name": "PepsiCo (Stove Tokenized Stock)",
+    "symbol": "PEPS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179317/small/PEPs.png?1791446807"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xce6c2305476b7294542b4a5be826e71afd93f451",
+    "name": "Strategy (Stove Tokenized Stock)",
+    "symbol": "MSTRS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179231/small/MSTRs.png?1791366500"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xbb7dd7e3ec6de8a16f8845690993da4a0a9388ab",
+    "name": "Alphabet-A (Stove Tokenized Stock)",
+    "symbol": "GOOGLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179310/small/GOOGs.png?1791446652"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd80331148827a47ddc682264311e2133d3ad5b20",
+    "name": "Amazon (Stove Tokenized Stock)",
+    "symbol": "AMZNS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179311/small/AMZNs.png?1791446671"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7e8040a39aa1b32b419a6995af627f7f1163cfe2",
+    "name": "Hana Financial Group (Stove Tokenized Stock)",
+    "symbol": "HANAFGS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179227/small/hanafgs.png?1791366472"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6cd151e096dc92d5d046f923a69bb9d4ca1607b5",
+    "name": "Doosan Enerbility (Stove Tokenized Stock)",
+    "symbol": "DOOSANS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179224/small/doosans.png?1791366465"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdaa75a61825d9955c183f1abf93729e63339f246",
+    "name": "Coca-Cola (Stove Tokenized Stock)",
+    "symbol": "KOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179312/small/KOs.png?1791446702"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc0a102c22921e15e1e1ade447e4e7383e28c79a9",
+    "name": "SK (Stove Tokenized Stock)",
+    "symbol": "SKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179229/small/sks.png?1791366477"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xddad39e08f9dcfcf081fb387e2cce347a3405e84",
+    "name": "SanDisk (Stove Tokenized Stock)",
+    "symbol": "SNDKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179313/small/SNDKs.png?1791446733"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc36990f829f8c3c6cef431ea39874d07c01cc830",
+    "name": "Marvell Technology (Stove Tokenized Stock)",
+    "symbol": "MRVLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179318/small/MRVLs.png?1791446827"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1b8568d1f74fb95196b5c141bd165a8fcb7c2af1",
+    "name": "Comcast (Stove Tokenized Stock)",
+    "symbol": "CMCSAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179314/small/CMCSAs.png?1791446754"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x93afd8c059e97932f41b3b5aef4c2be3a99eacfe",
+    "name": "PayPal (Stove Tokenized Stock)",
+    "symbol": "PYPLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179315/small/PYPLs.png?1791446772"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4449fa2df1c81742453020ed7b7f844e69bb722b",
+    "name": "Super Micro Computer (Stove Tokenized Stock)",
+    "symbol": "SMCIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179316/small/SMCIs.png?1791446789"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xcf385c0a8f0ef1f81fc895de147d8380aad0a70c",
+    "name": "Coeur Mining (Stove Tokenized Stock)",
+    "symbol": "CDES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179320/small/CDEs.png?1791446864"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2a72a0b4e2cb555a18a94e215fc12e291ded897e",
+    "name": "Hyundai Mobis (Stove Tokenized Stock)",
+    "symbol": "MOBISS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179225/small/mobiss.png?1791366467"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x258c1dde5e39fa10ad271c810177fbd8b2a8e768",
+    "name": "Shinhan Financial Group (Stove Tokenized Stock)",
+    "symbol": "SHINHANS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179223/small/shinhans.png?1791366449"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x56a765d3917b8d4f0d6c26727c54f94e2f2c1451",
+    "name": "Celltrion (Stove Tokenized Stock)",
+    "symbol": "CELLTRIONS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179226/small/celltrions.png?1791366469"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x89b05bec374267b93af502cab1695ce7fd116456",
+    "name": "Samsung SDI (Stove Tokenized Stock)",
+    "symbol": "SMSDISS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179228/small/smsdiss.png?1791366475"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc4d4ba785dddb467689aa7e840319dedb7ab532a",
+    "name": "Oracle (Stove Tokenized Stock)",
+    "symbol": "ORCLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179302/small/ORCLs.png?1791445801"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe65b3b4ed39feec5dbafb5cf3283f749fa2b8c83",
+    "name": "Rivian Automotive (Stove Tokenized Stock)",
+    "symbol": "RIVNS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179304/small/RIVNs.png?1791446529"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc8c76fb02c267e7d309bc489275959878d5de809",
+    "name": "Palantir (Stove Tokenized Stock)",
+    "symbol": "PLTRS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179305/small/PLTRs.png?1791446547"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf85ba504e7dc33865598384a31e060d1e4f63fd",
+    "name": "Microsoft (Stove Tokenized Stock)",
+    "symbol": "MSFTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179306/small/MSFTs.png?1791446566"
   }
 ]

@@ -88373,5 +88373,109 @@
     "symbol": "SCAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55524/small/SecureChainAI.jpg?1746500907"
+  },
+  {
+    "chainId": 1,
+    "address": "0x41a4594575557efbf85cd950749bb0c1e99bcefd",
+    "name": "Bunker Mode",
+    "symbol": "BUNKER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179363/small/logo.png?1791546623"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2b82cdeb8477415d541799abb0cc48044c8ea5f3",
+    "name": "EmberEVO",
+    "symbol": "EMBEO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179367/small/embeo-logo.png?1791570939"
+  },
+  {
+    "chainId": 1,
+    "address": "0x41cf62ddb12bd287958616d43f5e1953cb422aac",
+    "name": "TAU FA",
+    "symbol": "TAUFA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179369/small/P6KS0NoD_400x400.png?1791590766"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd520e9f57ad0076b470af4d2eb1577b60604a233",
+    "name": "ohmvault.xyz",
+    "symbol": "OHMV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179342/small/ohmv-logo-1024.png?1791517608"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdc1c0534109e2db74fe800c84096547541607859",
+    "name": "Nuva HOME Coin",
+    "symbol": "NVHOME",
+    "decimals": 12,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179338/small/Darkmode.png?1791516127"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9e2435cb2abff805d6ae1f775a4b5f51bc259f04",
+    "name": "VeriVault Chain",
+    "symbol": "VERV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179345/small/photo_2026-10-06_17-19-46.jpg?1791519801"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5df882f8788071b67d0283f958ca3cdc17f1ae2b",
+    "name": "Zevio",
+    "symbol": "ZEVIO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179300/small/Zevio.png?1791445574"
+  },
+  {
+    "chainId": 1,
+    "address": "0x02d54e48ea4dd76a408a7175d466bb8f578c0e93",
+    "name": "Pheasant Network Token",
+    "symbol": "PNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179221/small/PNT.png?1791365502"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc552b5706baa14c1f0104e95380ea3dc102a481f",
+    "name": "AsenseAI",
+    "symbol": "ASENSE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179328/small/asense.png?1791465945"
+  },
+  {
+    "chainId": 1,
+    "address": "0xac49952f9ded5f8e7106642a6c991a6418a97536",
+    "name": "YASHIX",
+    "symbol": "YASH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179236/small/1000095436.jpg?1791367731"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa50ad3a559a10f384a5bb2e27516f63e0b937b1a",
+    "name": "Vortex Bridged KOIN",
+    "symbol": "VKOIN",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179323/small/koinos-logo-200.png?1791448382"
+  },
+  {
+    "chainId": 1,
+    "address": "0x51dd8687ecc330e337e62acbf931dc251802ffff",
+    "name": "Bitreum",
+    "symbol": "BTE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179336/small/Bitreum-Logo-200.png?1791486592"
+  },
+  {
+    "chainId": 1,
+    "address": "0x901f7802cf78c79e9b8cc4426923649107d9c93f",
+    "name": "QSAVE Wealth Fund",
+    "symbol": "QSAVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179281/small/qsave-token-icon-red-whitefill-200.png?1791411838"
   }
 ]

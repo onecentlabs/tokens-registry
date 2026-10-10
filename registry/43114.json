@@ -8474,5 +8474,13 @@
     "symbol": "9MM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102178996/small/9mm-fmj-black-200.png?1790839294"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x45617d14ff85f0f93ac9ab33f4344e87ea6669fd",
+    "name": "KRW1",
+    "symbol": "KRW1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71665/small/_KRW1_Logo_v1.1-01.png?1768820330"
   }
 ]
