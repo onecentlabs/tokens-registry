@@ -88477,5 +88477,69 @@
     "symbol": "QSAVE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179281/small/qsave-token-icon-red-whitefill-200.png?1791411838"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7706b1a531a7a8cb4c26d24cdc9ae4094a3e0302",
+    "name": "Sierra OpenTrade Prime Plus Yield",
+    "symbol": "SPLUS",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179375/small/SPLUS.png?1791648276"
+  },
+  {
+    "chainId": 1,
+    "address": "0xefe3c772c7020f14d5f6b9d7436f1b8dfa8fb5af",
+    "name": "Wrapped emUSD",
+    "symbol": "WEMUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179383/small/wemusd-logo-png.png?1791652922"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc26a6fa2c37b38e549a4a1807543801db684f99c",
+    "name": "Pareto AA Tranche FalconX USDC",
+    "symbol": "AA_FALCONXUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179380/small/FalconX_Credit_Vault_icon_256x256.png?1791651632"
+  },
+  {
+    "chainId": 1,
+    "address": "0x61a075979fd5d9fc3b4f3db8ac77b710b03ecdc2",
+    "name": "Brix emUSD",
+    "symbol": "EMUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179382/small/emusd-logo-png.png?1791652850"
+  },
+  {
+    "chainId": 1,
+    "address": "0x600225fc4741929e39fbafed7c9de8fa2aeafb1e",
+    "name": "Claudia",
+    "symbol": "CLAUDIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179394/small/claudia.jpg?1791702764"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4e4b899fbc7cda4de894873b82c0012052f0a019",
+    "name": "Alto Staked DUSD",
+    "symbol": "SDUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179400/small/sDUSD_1.png?1791734704"
+  },
+  {
+    "chainId": 1,
+    "address": "0x73df7018cbcb919ccde48c3f12f4326688ac4446",
+    "name": "Doge Pepe",
+    "symbol": "DOPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179426/small/logo.png?1791744674"
+  },
+  {
+    "chainId": 1,
+    "address": "0x39772d019ed525f667a7cbbf8e64b07120378402",
+    "name": "DNA",
+    "symbol": "DNA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179428/small/dnalog.png?1791751529"
   }
 ]

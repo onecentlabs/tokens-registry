@@ -32982,5 +32982,181 @@
     "symbol": "1R0R",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66194/small/R0ARToken200x200.png?1748641994"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000b57f99acec3a7490d0",
+    "name": "Sweetgreen, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SGC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179422/small/SGc-icon-200.png?1791738033"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000c8a7223510467d8563",
+    "name": "PDD Holdings Inc. (Coinbase Tokenized Stock)",
+    "symbol": "PDDC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179413/small/PDDc-icon-200.png?1791736627"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd5a09d20652b58872a2e0f302de6ad2326db3b84",
+    "name": "GachaPad",
+    "symbol": "GACHA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179387/small/gacha-token-icon-transparent-200.png?1791654783"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002d2b5dc53c61f1ba06",
+    "name": "NIO Inc. (Coinbase Tokenized Stock)",
+    "symbol": "NIOC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179411/small/NIOc-icon-200.png?1791736415"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000008d5328e9208773dc58",
+    "name": "Novo Nordisk A/S (Coinbase Tokenized Stock)",
+    "symbol": "NVOC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179412/small/NVOc-icon-200.png?1791736529"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000da6f64c306234127e0",
+    "name": "SAP SE (Coinbase Tokenized Stock)",
+    "symbol": "SAPC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179416/small/SAPc-icon-200.png?1791737205"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000187f7071d6e321a7d2",
+    "name": "SK hynix Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SKHYC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179420/small/SKHYc-icon-200_%281%29.png?1791737580"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000e8e50cbbb9a3861a3c",
+    "name": "Rocket Lab Corporation (Coinbase Tokenized Stock)",
+    "symbol": "RKLBC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179415/small/RKLBc-icon-200.png?1791736984"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000ffb10718f880a48274",
+    "name": "Carvana Co. (Coinbase Tokenized Stock)",
+    "symbol": "CVNAC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179408/small/CVNAc-icon-200.png?1791735924"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000009c52748e1d1cbd5fd6",
+    "name": "Gemini Space Station, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "GEMIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179409/small/GEMIc-icon-200.png?1791736129"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000a26326a922ffa87f6c",
+    "name": "Sony Group Corporation (Coinbase Tokenized Stock)",
+    "symbol": "SONYC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179421/small/SONYc-icon-200.png?1791737658"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003088798f6d0722aaac",
+    "name": "Sea Limited (Coinbase Tokenized Stock)",
+    "symbol": "SEC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179417/small/SEc-icon-200.png?1791737292"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000082cd2c7801305808df",
+    "name": "ServiceNow, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "NOWC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179418/small/NOWc-icon-200.png?1791737404"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000063376b142c0764b489",
+    "name": "Vale S.A. (Coinbase Tokenized Stock)",
+    "symbol": "VALEC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179424/small/VALEc-icon-200.png?1791738152"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000008a7508619c717a7106",
+    "name": "Walmart Inc. (Coinbase Tokenized Stock)",
+    "symbol": "WMTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179425/small/WMTc-icon-200.png?1791738156"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003ef37a7c863dc1482a",
+    "name": "SoFi Technologies, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SOFIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179419/small/SOFIc-icon-200.png?1791737478"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000d2b7d9aee52f6c6bef",
+    "name": "Baidu, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "BIDUC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179407/small/BIDUc-icon-200.png?1791735788"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000cd7dfaef0423f1f103",
+    "name": "Redwire Corporation (Coinbase Tokenized Stock)",
+    "symbol": "RDWC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179414/small/RDWc-icon-200.png?1791736883"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000c36ce081dd09e86ca2",
+    "name": "Anheuser-Busch InBev SA/NV (Coinbase Tokenized Stock)",
+    "symbol": "BUDC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179388/small/BUDc-icon-200.png?1791655282"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000902f48cba1f39149f7",
+    "name": "Unity Software Inc. (Coinbase Tokenized Stock)",
+    "symbol": "UC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179423/small/Uc-icon-200.png?1791738054"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000005bcde0a6926919fef9",
+    "name": "Monster Beverage Corporation (Coinbase Tokenized Stock)",
+    "symbol": "MNSTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179410/small/MNSTc-icon-200.png?1791736194"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf3d5b4c34ed623478cc5141861776e6cf7ae3a1e",
+    "name": "KGeN",
+    "symbol": "KGEN",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/69816/small/kgen.png?1759733785"
   }
 ]

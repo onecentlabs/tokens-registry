@@ -7631,5 +7631,13 @@
     "symbol": "SYN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18024/small/synapse_social_icon.png?1696517540"
+  },
+  {
+    "chainId": 999,
+    "address": "0x75ad598b0049cff8509007790d1d4ae6c2ad6678",
+    "name": "Uwu Mode",
+    "symbol": "UWU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179393/small/uwu.jpg?1791701923"
   }
 ]
