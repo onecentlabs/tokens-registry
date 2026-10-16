@@ -31734,5 +31734,125 @@
     "symbol": "MSFTS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179306/small/MSFTs.png?1791446566"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x39f29e930d5178606e53015890beb39cd50ea8a9",
+    "name": "Moderna (Stove Tokenized Stock)",
+    "symbol": "MRNAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179536/small/MRNAs.png?1792053822"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1d93030fb835066cc599216fc83eb6cf65d64d00",
+    "name": "AST SpaceMobile (Stove Tokenized Stock)",
+    "symbol": "ASTSS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179541/small/ASTSs.png?1792054439"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x93ea3b15f26d0411e05d4777f3f4258cf3503500",
+    "name": "Walmart (Stove Tokenized Stock)",
+    "symbol": "WMTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179535/small/WMTs.png?1792053759"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xeadf70280c24456caa3eeb4406f097ef1db89199",
+    "name": "Lumentum (Stove Tokenized Stock)",
+    "symbol": "LITES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179542/small/LITEs.png?1792054589"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x14e02ea3d9119188509fbf614898f48d7cd57faa",
+    "name": "Cerebras Systems (Stove Tokenized Stock)",
+    "symbol": "CBRSS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179543/small/CBRSs.png?1792054674"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6f59bd5446ec4b06138686fc3341905cd489e869",
+    "name": "Seagate Technology (Stove Tokenized Stock)",
+    "symbol": "STXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179544/small/STXs.png?1792054870"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7e69c73c71eac1bd3e6a7a3ed7f64e25ae6a90b4",
+    "name": "Broadcom (Stove Tokenized Stock)",
+    "symbol": "AVGOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179539/small/AVGOs.png?1792054282"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfcf8a981faef857b294c97485e89fe0317dd416d",
+    "name": "Advanced Micro Devices (Stove Tokenized Stock)",
+    "symbol": "AMDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179537/small/AMDs.png?1792054138"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe968432c1e62af95f4157321791e3f32ebe97b3c",
+    "name": "Hims & Hers Health (Stove Tokenized Stock)",
+    "symbol": "HIMSS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179538/small/HIMSs.png?1792054213"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe3c2937cd4fa5e512d2dbda1fbb9a44595dcca1b",
+    "name": "Costco (Stove Tokenized Stock)",
+    "symbol": "COSTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179540/small/COSTs.png?1792054338"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe7e553cd128f0011777323a0b44a7b96ea1cb540",
+    "name": "Wrapped SP500 xStock",
+    "symbol": "WSPYX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179483/small/wspyx.png?1791952080"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x27d62249488fc66ecbb92c8da3f56f700b8e8501",
+    "name": "Wrapped TSMC xStock",
+    "symbol": "WTSMX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179498/small/tsmcx.png?1791956389"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4c1ae29c159838fc1b224636e28e086eb69101f7",
+    "name": "Wrapped Nasdaq xStock",
+    "symbol": "WQQQX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179491/small/wqqqx.png?1791956037"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdad5623b32c81aeaa75478fcfe934e9e97018c58",
+    "name": "Wrapped Bitmine xStock",
+    "symbol": "WBMNRX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179500/small/bmnrx.png?1791956702"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe1b0dc5a21b10f1634fbfbe9976fba2ee2e1c762",
+    "name": "syrupUSDG",
+    "symbol": "SYRUPUSDG",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174289/small/syrupUSDG.png?1790836053"
   }
 ]

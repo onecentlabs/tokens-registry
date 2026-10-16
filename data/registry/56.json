@@ -35717,5 +35717,21 @@
     "address": "0x0A092E544DA31150b439a1aAA1A3a2214a867F46",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x0A092E544DA31150b439a1aAA1A3a2214a867F46.png"
+  },
+  {
+    "address": "0x7ab8d02cbb51ff7223fde700eaaa2a91bf750314",
+    "symbol": "TART",
+    "name": "TartSwap",
+    "decimals": 9,
+    "chainId": 56,
+    "logoURI": "https://files.cow.fi/token-lists/images/56/0x7ab8d02cbb51ff7223fde700eaaa2a91bf750314/logo.png"
+  },
+  {
+    "name": "DE NEO AGENT",
+    "chainId": 56,
+    "symbol": "DNA",
+    "address": "0xA991F61940095AEA0724ef54077223B048c5CF7b",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA991F61940095AEA0724ef54077223B048c5CF7b.png"
   }
 ]

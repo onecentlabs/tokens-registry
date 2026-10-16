@@ -88541,5 +88541,61 @@
     "symbol": "DNA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179428/small/dnalog.png?1791751529"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba41ff65fd0a19aa75dd4e6a04e9d3c15acab887",
+    "name": "DOGEBALL",
+    "symbol": "DOGEBALL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179475/small/GIv8LZTJ_400x400.jpg?1791902036"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4602e48a5b2e53f83b9bacf36249ccd443b3a430",
+    "name": "Temo",
+    "symbol": "TEMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179482/small/logo.jpg?1791932129"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd7c9f42a35c8d13b71d4c0b024ae9eb0e77b9cff",
+    "name": "Wrapped Compound USDT",
+    "symbol": "WCUSDTV3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179466/small/compoundcUSDT_32.png.webp?1791890085"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc7eb9aa5b9ae154c1bab08872e90fc44e522e463",
+    "name": "Wrapped Compound Institutional USDC",
+    "symbol": "WCIUSDCV3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179467/small/Compound_USDC.webp?1791890162"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbbde7efb7a1ab3ed9122a14b33dc5c07d982367e",
+    "name": "Incentiv",
+    "symbol": "CENT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179471/small/cent.jpg?1791893945"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2d8b65306a6c23da6342cb94d4251fb4302a624f",
+    "name": "iShares 0-1 Year Treasury Bond ETF (Ondo Tokenized ETF)",
+    "symbol": "SHVON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179484/small/SHVON.png?1791952585"
+  },
+  {
+    "chainId": 1,
+    "address": "0x89dd54ab898944bb4cb8a2c403b7d511f88f9e73",
+    "name": "Wrapped Compound USDC",
+    "symbol": "WCUSDCV3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179465/small/Compound_USDC.webp?1791888946"
   }
 ]

@@ -33158,5 +33158,117 @@
     "symbol": "KGEN",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/69816/small/kgen.png?1759733785"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000d61efd9f54a23ef9eb",
+    "name": "Li Auto Inc. (Coinbase Tokenized Stock)",
+    "symbol": "LIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179461/small/LIc-icon-200.png?1791884716"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000005c8324136de0f4134a",
+    "name": "YUM! Brands, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "YUMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179496/small/YUMc-icon-200.png?1791956249"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000501ef81f911eb57656",
+    "name": "Recursion Pharmaceuticals, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "RXRXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179495/small/RXRXc-icon-200.png?1791956242"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000a5e12a1842dfcdb118",
+    "name": "Chewy, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "CHWYC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179493/small/CHWYc-icon-200.png?1791956207"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000349ef3aa93a0897476",
+    "name": "Unilever Plc (Coinbase Tokenized Stock)",
+    "symbol": "ULC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179463/small/ULc-icon-200.png?1791884721"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001ac12227a8ae0ef3ac",
+    "name": "Constellation Brands, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "STZC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179494/small/STZc-icon-200.png?1791956237"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001b6e407239eb31edcf",
+    "name": "CAVA Group, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "CAVAC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179492/small/CAVAc-icon-200.png?1791956127"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000e88efe88d8ade3f0da",
+    "name": "WeRide Inc. (Coinbase Tokenized Stock)",
+    "symbol": "WRDC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179464/small/WRDc-icon-200.png?1791884725"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000005ac674f707e357409c",
+    "name": "Nokia Corporation (Coinbase Tokenized Stock)",
+    "symbol": "NOKC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179462/small/NOKc-icon-200.png?1791884719"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000f6b0417af5f52341fc",
+    "name": "Infosys Limited (Coinbase Tokenized Stock)",
+    "symbol": "INFYC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179460/small/INFYc-icon-200.png?1791884713"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000f3049f4aa834b23b64",
+    "name": "Hesai Group (Coinbase Tokenized Stock)",
+    "symbol": "HSAIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179459/small/HSAIc-icon-200.png?1791884710"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000ca7c6d1438e7245eb6",
+    "name": "Bilibili Inc. (Coinbase Tokenized Stock)",
+    "symbol": "BILIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179458/small/BILIc-icon-200.png?1791884707"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000017bb66e9301e913a99",
+    "name": "Banco Santander, S.A. (Coinbase Tokenized Stock)",
+    "symbol": "SANC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179457/small/SANc-icon-200.png?1791884704"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000026215d755356e5043f",
+    "name": "Arm Holdings plc (Coinbase Tokenized Stock)",
+    "symbol": "ARMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179456/small/ARMc-icon-200.png?1791884689"
   }
 ]

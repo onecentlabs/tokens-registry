@@ -7639,5 +7639,21 @@
     "symbol": "UWU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179393/small/uwu.jpg?1791701923"
+  },
+  {
+    "chainId": 999,
+    "address": "0xe7e553cd128f0011777323a0b44a7b96ea1cb540",
+    "name": "Wrapped SP500 xStock",
+    "symbol": "WSPYX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179483/small/wspyx.png?1791952080"
+  },
+  {
+    "chainId": 999,
+    "address": "0x4c1ae29c159838fc1b224636e28e086eb69101f7",
+    "name": "Wrapped Nasdaq xStock",
+    "symbol": "WQQQX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179491/small/wqqqx.png?1791956037"
   }
 ]
