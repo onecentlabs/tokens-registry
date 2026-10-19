@@ -33270,5 +33270,13 @@
     "symbol": "ARMC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/102179456/small/ARMc-icon-200.png?1791884689"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc2d8236c326c6effe0657185c61d7395be9c80e2",
+    "name": "DGEN",
+    "symbol": "DGEN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/31294/small/dgen-new-200-200.png?1696530114"
   }
 ]

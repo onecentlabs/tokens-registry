@@ -88597,5 +88597,13 @@
     "symbol": "WCUSDCV3",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179465/small/Compound_USDC.webp?1791888946"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd58813e2bdb4647bd63d42304bd1d50cef605261",
+    "name": "Claudia",
+    "symbol": "CLAUDIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179592/small/6fceee375c29c74313f2919656bf2b29_v2l.png?1792291278"
   }
 ]
