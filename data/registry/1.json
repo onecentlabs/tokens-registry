@@ -88605,5 +88605,53 @@
     "symbol": "CLAUDIA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179592/small/6fceee375c29c74313f2919656bf2b29_v2l.png?1792291278"
+  },
+  {
+    "chainId": 1,
+    "address": "0x54ce4b27caabba24926865f035d432dbde2901f7",
+    "name": "Dacity Coin",
+    "symbol": "DACITY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179652/small/logo.webp?1792510837"
+  },
+  {
+    "chainId": 1,
+    "address": "0x47accd13264d8f954105256faac8376ce6a55999",
+    "name": "Send",
+    "symbol": "SEND",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179627/small/sender_hd.png?1792401406"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3ec03cd2763a729339aff9927be679c76325d1bf",
+    "name": "Flowing Hair",
+    "symbol": "FGH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179624/small/fgh_200x200.png?1792400779"
+  },
+  {
+    "chainId": 1,
+    "address": "0xac8d365ecc9074a679f75b3e6b2bbf303e466728",
+    "name": "wQIE",
+    "symbol": "WQIE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172173/small/IMG_5171.jpeg?1772007566"
+  },
+  {
+    "chainId": 1,
+    "address": "0xde57a152d893205b175f7e61c472c3dfa000b600",
+    "name": "Stral",
+    "symbol": "STRAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179679/small/stral-token-200x200.png?1792576791"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb2906cced1b2c8330480414cefa1eb52bdbd73a3",
+    "name": "JPM Coin",
+    "symbol": "JPMD",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/70674/small/Untitled_design_%287%29.png?1772607352"
   }
 ]

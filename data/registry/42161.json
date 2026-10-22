@@ -31854,5 +31854,13 @@
     "symbol": "SYRUPUSDG",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102174289/small/syrupUSDG.png?1790836053"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x834e80509b23dc82d79f982510a32348986b06b5",
+    "name": "Neron Lyra",
+    "symbol": "NLYRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178456/small/NLYRA-logo-200x200.png?1789570403"
   }
 ]

@@ -33278,5 +33278,133 @@
     "symbol": "DGEN",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/31294/small/dgen-new-200-200.png?1696530114"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001ca01a48688ec7d3cc",
+    "name": "ChargePoint Holdings, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "CHPTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179611/small/CHPTc-icon-200.png?1792396656"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000879a74c76c73a27d71",
+    "name": "Under Armour, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "UAAC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179620/small/UAAc-icon-200.png?1792399760"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000613c15f118df2b189b",
+    "name": "YETI Holdings, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "YETIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179623/small/YETIc-icon-200.png?1792400165"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000077d13d6c79b6c11c5a",
+    "name": "ImmunityBio, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "IBRXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179615/small/IBRXc-icon-200.png?1792398041"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000007a90b2d9ed101035a8",
+    "name": "Enphase Energy, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ENPHC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179614/small/ENPHc-icon-200.png?1792397965"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000068987dacde1db79cd4",
+    "name": "Papa John’s International, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "PZZAC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179616/small/PZZAc-icon-200.png?1792398436"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000087d144f2c70cd1a5f6",
+    "name": "Dave & Buster’s Entertainment, Inc. (Coinbase Tokenized Stoc",
+    "symbol": "PLAYC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179613/small/PLAYc-icon-200.png?1792397655"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000045beafafbe0dc7664",
+    "name": "Airbnb, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ABNBC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179607/small/ABNBc-icon-200.png?1792396018"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000089bc72c3e637a02adb",
+    "name": "Wayfair Inc. (Coinbase Tokenized Stock)",
+    "symbol": "WC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179621/small/Wc-icon-200.png?1792400009"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003e5e2892158e25dd7b",
+    "name": "Boot Barn Holdings, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "BOOTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179609/small/BOOTc-icon-200.png?1792396141"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001409f816682b7772b7",
+    "name": "The Simply Good Foods Company (Coinbase Tokenized Stock)",
+    "symbol": "SMPLC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179617/small/SMPLc-icon-200_%281%29.png?1792398702"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000008baf7bb82e4c37743f",
+    "name": "The Trade Desk, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "TTDC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179619/small/TTDc-icon-200.png?1792399602"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000006f910a0e7bbd3c168",
+    "name": "AppLovin Corporation (Coinbase Tokenized Stock)",
+    "symbol": "APPC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179606/small/APPc-icon-200.png?1792395863"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000747bffa52fe2c2510b",
+    "name": "Ball Corporation (Coinbase Tokenized Stock)",
+    "symbol": "BALLC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179608/small/BALLc-icon-200.png?1792396081"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5be75e3b0aff5d1a042a5363ae36acb1d6d755ea",
+    "name": "Axis Robotics",
+    "symbol": "AXIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178869/small/axisrobotics.png?1790578974"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000008df9bc22db1d7da2a5",
+    "name": "Wolfspeed, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "WOLFC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179622/small/WOLFc-icon-200.png?1792400089"
   }
 ]
