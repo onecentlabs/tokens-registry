@@ -33406,5 +33406,205 @@
     "symbol": "WOLFC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/102179622/small/WOLFc-icon-200.png?1792400089"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000007cbdf8fa3861e51721",
+    "name": "Applied Digital Corporation (Coinbase Tokenized Stock)",
+    "symbol": "APLDC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179708/small/APLDc-icon-200.png?1792659175"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000072b5c2b2d18ee8a2a5",
+    "name": "C3.ai, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "AIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179709/small/AIc-icon-200.png?1792659280"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000004fc7a0c25178a0d633",
+    "name": "Firefly Aerospace Inc. (Coinbase Tokenized Stock)",
+    "symbol": "FLYC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179712/small/FLYc-icon-200.png?1792659466"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001ecfaccd9047d3b544",
+    "name": "Dutch Bros Inc. (Coinbase Tokenized Stock)",
+    "symbol": "BROSC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179711/small/BROSc-icon-200.png?1792659410"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000006d1bc7faa266eb099d",
+    "name": "PepsiCo, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "PEPC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179715/small/PEPc-icon-200.png?1792659669"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdc200537d99d8b4f0c89d59a68e29b67057d2c5f",
+    "name": "Thai Baht TrueMoney",
+    "symbol": "THBT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179753/small/200x200.png?1792860506"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000674e1325dbdf06b309",
+    "name": "Intuitive Machines, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "LUNRC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179713/small/LUNRc-icon-200.png?1792659546"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9557dd9e241bc9636732623b672b4090af519396",
+    "name": "Crynux",
+    "symbol": "CNX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179698/small/crynux-logo.png?1792651328"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000000bd75bf439a38bf7df",
+    "name": "The Walt Disney Company (Coinbase Tokenized Stock)",
+    "symbol": "DISC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179718/small/DISc-icon-200.png?1792660154"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000019641b253b3e2c8a24",
+    "name": "Abercrombie & Fitch Co. (Coinbase Tokenized Stock)",
+    "symbol": "ANFC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179707/small/ANFc-icon-200.png?1792658916"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000069d694d397b9388dac",
+    "name": "NANO Nuclear Energy Inc. (Coinbase Tokenized Stock)",
+    "symbol": "NNEC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179714/small/NNEc-icon-200.png?1792659615"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002b9ac07a0544688079",
+    "name": "Sidus Space, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SIDUC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179766/small/SIDUc-icon-200_%281%29.png?1792862577"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000000f28146eb28ea2835b",
+    "name": "RUM Group Inc. (Coinbase Tokenized Stock)",
+    "symbol": "RUMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179716/small/RUMc-icon-200.png?1792659725"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3f5bf3edac59d650d8fdf9657a71f2f904a3a4ee",
+    "name": "Aero",
+    "symbol": "AERO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179737/small/aero-token.png?1792751076"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000000199ae48796c61909e",
+    "name": "Six Flags Entertainment Corporation (Coinbase Tokenized Stoc",
+    "symbol": "FUNC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179767/small/FUNc-icon-200.png?1792862580"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003fe90a64263b7f9e74",
+    "name": "Smith & Wesson Brands, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SWBIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179717/small/SWBIc-icon-200.png?1792659972"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002a0ec8f8861ce98983",
+    "name": "Navitas Semiconductor Corporation (Coinbase Tokenized Stock)",
+    "symbol": "NVTSC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179765/small/NVTSc-icon-200.png?1792862422"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003bd46dbde905508b16",
+    "name": "Comcast Corporation (Coinbase Tokenized Stock)",
+    "symbol": "CMCSAC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179710/small/CMCSAc-icon-200.png?1792659341"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000005c41b0018612629072",
+    "name": "Krispy Kreme, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "DNUTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179764/small/DNUTc-icon-200.png?1792862251"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4cd9a847f39106e19a4e41aea8a232e915c82af5",
+    "name": "Mente",
+    "symbol": "MENTE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179739/small/mente-200x200.png?1792797351"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0c3035ed38660e826eae5e90533272e1935c5c03",
+    "name": "Palermo Fan Token",
+    "symbol": "PMO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179700/small/PMO.png?1792654403"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcf5a015d8c602e6a6a3b94b95e9d4c1a431cadb1",
+    "name": "Epic Chain",
+    "symbol": "EPIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54734/small/PFP.png?1753421273"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x07a184b0b642b9363409a876af55ae56b237b740",
+    "name": "Zeno Paradox",
+    "symbol": "ZENO",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179693/small/photo_2026-10-18_13.53.29.jpeg?1792644725"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa5073c2e9ca348c0550198b582af50ec7f2a48d4",
+    "name": "Olympique de Marseille Fan Token",
+    "symbol": "OM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179728/small/OM.png?1792730853"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa551def8a44ea423caa58da45b3f5764004286ea",
+    "name": "Pangea",
+    "symbol": "PANGEA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179697/small/pangea.jpg?1792650662"
   }
 ]
