@@ -88733,5 +88733,29 @@
     "symbol": "GEN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175632/small/imresizer-resize-Gen_Token_x512.jpg?1791350001"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbcc01eae6f6217e7bd3d4670b96400c803d93ef2",
+    "name": "Elon 2028",
+    "symbol": "ELON2028",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179796/small/logo.jpg?1793096579"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf2fe457d03302ea6c3b1f23038adeea88aeb0761",
+    "name": "GinnanCoin",
+    "symbol": "GINNAN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179792/small/logo.jpg?1793064945"
+  },
+  {
+    "chainId": 1,
+    "address": "0x28fc5ad6db958713014d962c06999191addff199",
+    "name": "Shirushi Coin",
+    "symbol": "SISC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179806/small/SISC_logo_200x200.png?1793102145"
   }
 ]

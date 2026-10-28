@@ -33606,5 +33606,37 @@
     "symbol": "PANGEA",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/102179697/small/pangea.jpg?1792650662"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000585fd80c20af698f01",
+    "name": "one life, its worth an attempt",
+    "symbol": "WORTH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179793/small/worth.jpg?1793088281"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0039d6a1773888cbe38addeeb2054fe145333dfb",
+    "name": "Dispatch",
+    "symbol": "DSP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179785/small/dispatch-app-icon-blue-1024.png?1792999004"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x734f85d78babbfb6030193f13f60b5bc34288bc1",
+    "name": "Bucket Shop",
+    "symbol": "BUCKET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175842/small/bucket-shop-logo-200.png?1789713079"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xef869c6ff019a6331227c014a630d3e90e9afc8e",
+    "name": "SN21 AdTAO",
+    "symbol": "SN21",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66376/small/omega-any-to-any-logo.webp?1749275775"
   }
 ]

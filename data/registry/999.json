@@ -7663,5 +7663,13 @@
     "symbol": "PEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50484/small/pearlogo.jpg?1727897446"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9e86af070e1b05a3e857b4d1e31dfd860da245c0",
+    "name": "Reroll",
+    "symbol": "REROLL",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179772/small/reroll.jpg?1792912756"
   }
 ]
