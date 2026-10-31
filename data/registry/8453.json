@@ -33638,5 +33638,117 @@
     "symbol": "SN21",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66376/small/omega-any-to-any-logo.webp?1749275775"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd3679306360705ba3580bc4130b56460fb4e6926",
+    "name": "Kor Protocol",
+    "symbol": "KOR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179879/small/Frame_29.jpg?1793329019"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001faa7fa5ef4184ede5",
+    "name": "Harley-Davidson, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "HOGC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179875/small/HOGc-icon-200.png?1793261314"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001775bd17f2289de527",
+    "name": "Aehr Test Systems (Coinbase Tokenized Stock)",
+    "symbol": "AEHRC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179871/small/AEHRc-icon-200.png?1793261050"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000695b10dd3e1b0ea070",
+    "name": "Fluence Energy, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "FLNCC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179874/small/FLNCc-icon-200_%281%29.png?1793261257"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000004acdc9a922fcfbcc7f",
+    "name": "Snowflake Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SNOWC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179877/small/SNOWc-icon-200.png?1793261815"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003ae0817c304acbb1de",
+    "name": "Unusual Machines, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "UMACC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179878/small/UMACc-icon-200.png?1793261871"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000645c1ec509e4261682",
+    "name": "Blackstone Inc. (Coinbase Tokenized Stock)",
+    "symbol": "BXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179873/small/BXc-icon-200.png?1793261202"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xce154d6c180526905c0e26514055afb99f833fdd",
+    "name": "zMAG7",
+    "symbol": "ZMAG7",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179885/small/zMAG7_32x32.png?1793331782"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2e39d91ebbf9d032fe119aef84be115f13db5b0c",
+    "name": "Cat wif Box",
+    "symbol": "DCAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179898/small/GR3YvlhL_400x400_%281%29.jpg?1793335005"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000004feb8d277dd14b08bb",
+    "name": "American Airlines Group Inc. (Coinbase Tokenized Stock)",
+    "symbol": "AALC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179872/small/AALc-icon-200_%281%29.png?1793261149"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000006432a3a7991e718dbb",
+    "name": "Salesforce, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "CRMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179876/small/CRMc-icon-200.png?1793261594"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x44b63af715d5ef02cc3646a6ce96875e11d69e85",
+    "name": "Cambria",
+    "symbol": "RSGP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172274/small/cambria-logo.png?1793295821"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x174a0de0fa1c4771ca980a42553c0041016e5a67",
+    "name": "Warden",
+    "symbol": "WARD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68867/small/Warden_Icon_Lime.png?1756841513"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5e63E9C06c3F2c779EF29a8071F94F5a724eB5e4",
+    "name": "CAD Coin",
+    "symbol": "CADC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/14149/small/CADC_FINAL_PNG.png?1768979043"
   }
 ]

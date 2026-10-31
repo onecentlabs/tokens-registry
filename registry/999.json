@@ -7671,5 +7671,13 @@
     "symbol": "REROLL",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/102179772/small/reroll.jpg?1792912756"
+  },
+  {
+    "chainId": 999,
+    "address": "0x502c7b9a06b509532f969eb4d2419af52d762bf8",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/385/small/LSK-logo.png?1788508326"
   }
 ]
