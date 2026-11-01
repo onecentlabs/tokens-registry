@@ -32190,5 +32190,85 @@
     "symbol": "CRMS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179868/small/CRMs.png?1793260506"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3ef4c8e22a3442a6d9870ab5eb89c0db027d74f2",
+    "name": "Microchip Technology (Stove Tokenized Stock)",
+    "symbol": "MCHPS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179957/small/MCHPs.png?1793468122"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5096a0f33d8c40bcb864f0cae9165ebbdbdf9de1",
+    "name": "The Kraft Heinz (Stove Tokenized Stock)",
+    "symbol": "KHCS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179959/small/KHCs.png?1793468253"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfbb80703eefb6c98d3ee68f7c6439cbee23d0d15",
+    "name": "NextEra Energy (Stove Tokenized Stock)",
+    "symbol": "NEES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179960/small/NEEs.png?1793468302"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xcd6100aa9f282544dddc7d62886a62db76d65183",
+    "name": "Copart (Stove Tokenized Stock)",
+    "symbol": "CPRTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179958/small/CPRTs.png?1793468174"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x735c2c0c7ebb9bbf0ccee7b227f80a957b6e861c",
+    "name": "Booking Holdings (Stove Tokenized Stock)",
+    "symbol": "BKNGS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179961/small/BKNGs.png?1793468360"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdf8f2f065ba0ba16a2173dc3cf0f2e61541e39be",
+    "name": "CSX Corp (Stove Tokenized Stock)",
+    "symbol": "CSXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179962/small/CSXs.png?1793468436"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x29d5a40ac6316f74b83108d5a86ca7de4cefb842",
+    "name": "Exxon Mobil (Stove Tokenized Stock)",
+    "symbol": "XOMS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179963/small/XOMs.png?1793468477"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x772ff80bb64297de30f91ed0271c6bde7479cbd3",
+    "name": "HP Inc (Stove Tokenized Stock)",
+    "symbol": "HPQS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179964/small/HPQs.png?1793468543"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x61f88567d4e8f4408d2a91e39ae425f25891b7da",
+    "name": "Freeport-McMoRan (Stove Tokenized Stock)",
+    "symbol": "FCXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179965/small/FCXs.png?1793468593"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf38648867253359dac30e837fdfe489ef8da9077",
+    "name": "O'Reilly Automotive (Stove Tokenized Stock)",
+    "symbol": "ORLYS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179966/small/ORLYs.png?1793468645"
   }
 ]

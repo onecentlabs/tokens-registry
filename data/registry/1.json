@@ -89013,5 +89013,93 @@
     "symbol": "USDN",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102179217/small/USDN_LOGO_Avatar.png?1791362351"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9f293778c23da45eb7126dd4a8cb3923547e0c3d",
+    "name": "ESGIN",
+    "symbol": "ESGIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179943/small/esgin_logo_200.png?1793466143"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeeff07d991c04cd640de9f15c08ba59c4fedeb7",
+    "name": "Steakhouse High Yield USDT",
+    "symbol": "BBQUSDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179948/small/Name_usdt__Confidential_false.png?1793467421"
+  },
+  {
+    "chainId": 1,
+    "address": "0x500ae64100d7dbdb640531085c2f5d40cdc8930d",
+    "name": "Wintermute USDT Select",
+    "symbol": "ARMUSDTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179952/small/Name_usdt__Confidential_false.png?1793467776"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5dc53a23adc9f2bed98de6f59f7f309a7c71ff2b",
+    "name": "Wintermute USDC Prime",
+    "symbol": "ARMUSDCP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179953/small/false.png?1793467816"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe0181090c22579b6a217f1522cbf8c9f1f0c1965",
+    "name": "RockawayX USDC Yield",
+    "symbol": "ROXUSDCY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179954/small/false.png?1793467868"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa2eaad0d586cf9fd73bb2c09cf6a7e3e187d68cd",
+    "name": "Wintermute USDC Select",
+    "symbol": "ARMUSDCS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179947/small/true.png?1793467384"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbf29043164660c60a2a72cd15ffe2304e87b6838",
+    "name": "Wintermute USDT Prime",
+    "symbol": "ARMUSDTP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179949/small/Name_usdt__Confidential_false.png?1793467487"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32401b9fb79065bc15949de0bd43927492f02f0c",
+    "name": "Flowdesk AUSD RWA Strategy",
+    "symbol": "FAUSDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179950/small/Name_ausd__Confidential_false.png?1793467614"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeeffabcd0db09589dd21854aa760c52ab4bf04f",
+    "name": "Steakhouse tGBP",
+    "symbol": "BBQTGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179951/small/Name_tgbp__Confidential_false.png?1793467730"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeeff2c5bf38f90e3482a8b19f12e5a6d2fca757",
+    "name": "Steakhouse High Yield USDC",
+    "symbol": "BBQUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179956/small/false.png?1793467958"
+  },
+  {
+    "chainId": 1,
+    "address": "0x55c1b6e461a6334b567baf0feb5d728715446f05",
+    "name": "Pendle Ecosystem USDC",
+    "symbol": "PENDLEUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179955/small/false.png?1793467910"
   }
 ]
