@@ -33750,5 +33750,189 @@
     "symbol": "CADC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/14149/small/CADC_FINAL_PNG.png?1768979043"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3dcce9e05fc9c30a6a4e9fc1c0ec1ff15c16e0b5",
+    "name": "GromaCoin",
+    "symbol": "GRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179986/small/groma-orange-circle.png?1793635935"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4cfcdd76df7f00f7f7d911263947a9b5ed0b0fe5",
+    "name": "Notus",
+    "symbol": "NOTUS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180040/small/logo_oficial.png?1793697295"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000034533ed3961f222cd4",
+    "name": "Adobe Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ADBEC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179987/small/ADBEc-icon-200.png?1793689762"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000049d38a179c97e33381",
+    "name": "Amgen Inc. (Coinbase Tokenized Stock)",
+    "symbol": "AMGNC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179988/small/AMGNc-icon-200_%281%29.png?1793689765"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000476c5a355abe1a2794",
+    "name": "Astera Labs, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ALABC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179989/small/ALABc-icon-200.png?1793689769"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000004217b9b4f6f6acb7b8",
+    "name": "Atlassian Corporation (Coinbase Tokenized Stock)",
+    "symbol": "TEAMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179990/small/TEAMc-icon-200.png?1793689771"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000005de7f2e0aca219c070",
+    "name": "Caterpillar Inc. (Coinbase Tokenized Stock)",
+    "symbol": "CATC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179991/small/CATc-icon-200.png?1793689774"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003bf350e420c13e431a",
+    "name": "Chevron Corporation (Coinbase Tokenized Stock)",
+    "symbol": "CVXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179992/small/CVXc-icon-200.png?1793689778"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000015776ea82655c4f034",
+    "name": "Cisco Systems, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "CSCOC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179993/small/CSCOc-icon-200_%281%29.png?1793689783"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002c99976e240ed773e6",
+    "name": "Datadog, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "DDOGC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179994/small/DDOGc-icon-200.png?1793689787"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000034975347ff1848aab9",
+    "name": "Lam Research Corporation (Coinbase Tokenized Stock)",
+    "symbol": "LRCXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179995/small/LRCXc-icon-200.png?1793689790"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000241fe94fe97fcbf034",
+    "name": "Merck & Co., Inc. (Coinbase Tokenized Stock)",
+    "symbol": "MRKC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179996/small/MRKc-icon-200_%281%29.png?1793689793"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002570652530a5e0f771",
+    "name": "Okta, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "OKTAC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179998/small/OKTAc-icon-200.png?1793690329"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000004ec7c19212979672f9",
+    "name": "Blink Charging Co. (Coinbase Tokenized Stock)",
+    "symbol": "BLNKC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180004/small/BLNKc-icon-200.png?1793690354"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003086b1355bd43e25da",
+    "name": "Offerpad Solutions Inc. (Coinbase Tokenized Stock)",
+    "symbol": "OPADC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180005/small/OPADc-icon-200.png?1793690356"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003958003d801724f9d3",
+    "name": "MP Materials Corp. (Coinbase Tokenized Stock)",
+    "symbol": "MPC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179997/small/MPc-icon-200.png?1793690326"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000314b9f5f580168766a",
+    "name": "Ouster, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "OUSTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179999/small/OUSTc-icon-200.png?1793690331"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000005672d78eff30d24665",
+    "name": "Qualcomm Incorporated (Coinbase Tokenized Stock)",
+    "symbol": "QCOMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180000/small/QCOMc-icon-200.png?1793690334"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003f265ab1f74dd89ac0",
+    "name": "Snap Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SNAPC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180001/small/SNAPc-icon-200.png?1793690336"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000054b11fd279a4f7d4ef",
+    "name": "Visa Inc. (Coinbase Tokenized Stock)",
+    "symbol": "VC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180002/small/Vc-icon-200.png?1793690338"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000000e63b7b0b6bc5b9213",
+    "name": "Zoom Communications, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ZMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180003/small/ZMc-icon-200.png?1793690340"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x456ac19c8a72aed16376d57c367640d69ff9e6ea",
+    "name": "one coin",
+    "symbol": "ONECOIN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179975/small/32724B4E-EC80-4FA4-9BC0-4DAEF3CFD60A.jpeg?1793539703"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4a7634d050cefe28748f03f6f47e157506a1d0ef",
+    "name": "Bucket Shop",
+    "symbol": "BUCKET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175842/small/bucket-shop-logo-200.png?1789713079"
   }
 ]

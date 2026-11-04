@@ -35741,5 +35741,13 @@
     "address": "0xf5cB7cc90040aa717a16887C8b7D7c10a7c60984",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xf5cB7cc90040aa717a16887C8b7D7c10a7c60984.png"
+  },
+  {
+    "name": "Supro Vault",
+    "chainId": 56,
+    "symbol": "supUSDT",
+    "address": "0x2795F40bF9A20575125A8f42Daa6461B4c0E5615",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2795F40bF9A20575125A8f42Daa6461B4c0E5615.png"
   }
 ]

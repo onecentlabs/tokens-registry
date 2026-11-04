@@ -32270,5 +32270,253 @@
     "symbol": "ORLYS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179966/small/ORLYs.png?1793468645"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xecaf88696846cdc7d4eab62704318f4c931108bf",
+    "name": "Regal Rexnord (Stove Tokenized Stock)",
+    "symbol": "RRXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180011/small/Stove_logo.png?1793690994"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x94986c51ca52ddd6f0825ae58390700b39729c86",
+    "name": "Steel Dynamics (Stove Tokenized Stock)",
+    "symbol": "STLDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180007/small/STLDs.png?1793690983"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf5a5caedcdffcd34effc3bdc89855af559c44c2a",
+    "name": "SS&C Technologies (Stove Tokenized Stock)",
+    "symbol": "SSNCS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180008/small/SSNCs.png?1793690987"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe476c6eb81f50dc668dc9d906b83e85d62774e8b",
+    "name": "Allstate (Stove Tokenized Stock)",
+    "symbol": "ALLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180009/small/Stove_logo.png?1793690990"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x067f12dbbf5f0a0d79569cf5c7cc532dfa1c7ce3",
+    "name": "HF Sinclair (Stove Tokenized Stock)",
+    "symbol": "DINOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180010/small/Stove_logo.png?1793690992"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf1ca62f5db3e4b718861a9b9a8918879d9b8a911",
+    "name": "Xylem (Stove Tokenized Stock)",
+    "symbol": "XYLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180012/small/Stove_logo.png?1793690999"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf594838fd9d44d98e8db313b13e8f2a3a0111d21",
+    "name": "Manulife Financial (Stove Tokenized Stock)",
+    "symbol": "MFCS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180013/small/MFCs.png?1793691001"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0f95d31f55760a249f77b84fae3261f69ca56b06",
+    "name": "Raymond James Financial (Stove Tokenized Stock)",
+    "symbol": "RJFS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180014/small/RJFs.png?1793691004"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x29c007e730b8b8c6a8de3087328b4fee7f7f4836",
+    "name": "Columbia Banking System (Stove Tokenized Stock)",
+    "symbol": "COLBS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180015/small/COLBs.png?1793691007"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf6c73d76f805d3cc47a7738aa9b5c95288ee699f",
+    "name": "Diamondback Energy (Stove Tokenized Stock)",
+    "symbol": "FANGS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180016/small/FANGs.png?1793691009"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xcbefe6d32eab3c4e0afa3e7d7eda4465a1991be5",
+    "name": "Eli Lilly and Co (Stove Tokenized Stock)",
+    "symbol": "LLYS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180017/small/LLYs.png?1793691011"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5bd3732238d58f83a5542cd7827d23e27c437203",
+    "name": "Best Buy (Stove Tokenized Stock)",
+    "symbol": "BBYS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180018/small/BBYs.png?1793691014"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8fdb39fa1e519bb2dbc4e57be518c9bf6245986e",
+    "name": "Blackstone (Stove Tokenized Stock)",
+    "symbol": "BXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180019/small/BXs.png?1793691016"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x51344cc44fc22687647c7e3b845b5064c7c097b6",
+    "name": "Figure Technology Solutions (Stove Tokenized Stock)",
+    "symbol": "FIGRS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180020/small/FIGRs.png?1793691020"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x051a0c09b9a907896b4fca46e82b45d71bc046e6",
+    "name": "Fidelity National Information Services (Stove Tokenized Stoc",
+    "symbol": "FISS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180021/small/FISs.png?1793691023"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x28f45ca89f6421ae770d9c8ef9c23073a37ad357",
+    "name": "PPL Corp (Stove Tokenized Stock)",
+    "symbol": "PPLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180022/small/PPLs.png?1793691027"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x56246bad18ad4ca39c56e26c9f3942fca7be04df",
+    "name": "Abbott Laboratories (Stove Tokenized Stock)",
+    "symbol": "ABTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180023/small/ABTs.png?1793691030"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4491a339432c1afa730fb033cb1ec533e9bfbb4b",
+    "name": "Wells Fargo & Co (Stove Tokenized Stock)",
+    "symbol": "WFCS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180024/small/WFCs.png?1793691033"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x45a065adc93711b9f7263cbccbac9f714742a00e",
+    "name": "The Trade Desk (Stove Tokenized Stock)",
+    "symbol": "TTDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180025/small/TTDs.png?1793691035"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x82e1146582edb7713274edd25c3093eadef92a50",
+    "name": "Kenvue (Stove Tokenized Stock)",
+    "symbol": "KVUES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180026/small/KVUEs.png?1793691037"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x955a3ab2c41ac542fef3a4a7eb16522747c55109",
+    "name": "VICI Properties (Stove Tokenized Stock)",
+    "symbol": "VICIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180027/small/VICIs.png?1793691039"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3480d6a08200ff005858fad0693ac9c57527eafb",
+    "name": "SLB Ltd (Stove Tokenized Stock)",
+    "symbol": "SLBS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180028/small/SLBs.png?1793691042"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdc0bd30e37b4762723b38e3205e437e2fdab9c42",
+    "name": "Dow Inc (Stove Tokenized Stock)",
+    "symbol": "DOWS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180029/small/DOWs.png?1793691044"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7f92055f1599ac0969e2748ee5b3f1ef7f060784",
+    "name": "MongoDB (Stove Tokenized Stock)",
+    "symbol": "MDBS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180041/small/MDBs.png?1793701891"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe7bcb858a5ce33f51b779864f8472e2f1161e55b",
+    "name": "Baker Hughes (Stove Tokenized Stock)",
+    "symbol": "BKRS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180030/small/BKRs.png?1793691047"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x84033a402f89f89c3623dd8c7ca19130b67edbcb",
+    "name": "Allison Transmission (Stove Tokenized Stock)",
+    "symbol": "ALSNS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180031/small/ALSNs.png?1793691051"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4fa86ff926a90253601d76151950faa9689390e4",
+    "name": "Exelon (Stove Tokenized Stock)",
+    "symbol": "EXCS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180032/small/EXCs.png?1793691053"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1e6fa6ec87e620a9dc7e0767794c419c1336a097",
+    "name": "General Mills (Stove Tokenized Stock)",
+    "symbol": "GISS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180035/small/GISs.png?1793691060"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfeaf22bee4d8933355dcec883437ca0ce8e058de",
+    "name": "Block (Stove Tokenized Stock)",
+    "symbol": "XYZS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180033/small/XYZs.png?1793691055"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x973e4f41bc37993b34192edddbfa721ad24f12b7",
+    "name": "Honeywell (Stove Tokenized Stock)",
+    "symbol": "HONS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180034/small/HONs.png?1793691058"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x60d4678cde19f6bdfa476caace6dca14b76cc489",
+    "name": "PG&E Corp (Stove Tokenized Stock)",
+    "symbol": "PCGS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180006/small/PCGs.png?1793690979"
   }
 ]
