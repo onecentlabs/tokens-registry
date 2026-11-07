@@ -32518,5 +32518,253 @@
     "symbol": "PCGS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180006/small/PCGs.png?1793690979"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x21bf7e5c61e0531838d7cc7a62ab92ed3761c137",
+    "name": "Celsius Holdings (Stove Tokenized Stock)",
+    "symbol": "CELHS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180118/small/CELHs.png?1793940796"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9c0984029d993ee71f9c2cc2368bde589994c5e2",
+    "name": "Canadian Natural Resources (Stove Tokenized Stock)",
+    "symbol": "CNQS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180119/small/CNQs.png?1793940884"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2c176ce4518c33c0cce3fb76485dfeea19a4ac04",
+    "name": "Procter & Gamble (Stove Tokenized Stock)",
+    "symbol": "PGS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180120/small/PGs.png?1793940887"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa287b1fb761109af0b040f47a2b16d65263c4d69",
+    "name": "Twilio (Stove Tokenized Stock)",
+    "symbol": "TWLOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180063/small/TWLOs.png?1793800355"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x17c358620647018ec7f849ab5ce7e0e56b0f362c",
+    "name": "Chewy (Stove Tokenized Stock)",
+    "symbol": "CHWYS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180076/small/CHWYs.png?1793800389"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2f2663fc06d265b2eddb71f96501c15d5026b1e8",
+    "name": "Bristol-Myers Squibb (Stove Tokenized Stock)",
+    "symbol": "BMYS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180075/small/BMYs.png?1793800387"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x909369940f22dc1c143ac78753a33f41597138b1",
+    "name": "Anthropic xStock",
+    "symbol": "ANTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180104/small/ANTx.png?1793861573"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe8d9456465f394df4c182000f923928dd5b1aee1",
+    "name": "Texas Instruments (Stove Tokenized Stock)",
+    "symbol": "TXNS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180074/small/TXNs.png?1793800385"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe400b3bdcea0dbd6253bb4a84e7505dba742e55b",
+    "name": "Arista Networks (Stove Tokenized Stock)",
+    "symbol": "ANETS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180073/small/ANETs.png?1793800379"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xed592e35dbff1b4d5e678d54373e560c071b51ec",
+    "name": "HCA Healthcare (Stove Tokenized Stock)",
+    "symbol": "HCAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180065/small/HCAs.png?1793800360"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x52aa81f3b22142b68fbbb1495d3c5b30f1eacbfa",
+    "name": "Kinross Gold (Stove Tokenized Stock)",
+    "symbol": "KGCS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180122/small/KGCs.png?1793940974"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x95f704519c89b6a3699779a8e7e6d852efd4fc36",
+    "name": "Fiserv (Stove Tokenized Stock)",
+    "symbol": "FISVS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180121/small/FISVs.png?1793940970"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x30ff5c0dafc2111e2430a04c85a816bdc56886db",
+    "name": "CrowdStrike (Stove Tokenized Stock)",
+    "symbol": "CRWDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180078/small/CRWDs.png?1793800394"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xeec02eaba9a3b4238a5a8c7d251abe1f7986cfae",
+    "name": "Oklo Inc (Stove Tokenized Stock)",
+    "symbol": "OKLOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180070/small/OKLOs.png?1793800371"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3daabe5627ff2211810fa9fbf863690459e3930a",
+    "name": "CBRE Group (Stove Tokenized Stock)",
+    "symbol": "CBRES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180066/small/CBREs.png?1793800362"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdb9b17419c1559cba19f85a6c28d0b12f01bd7ca",
+    "name": "Chevron (Stove Tokenized Stock)",
+    "symbol": "CVXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180069/small/CVXs.png?1793800369"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3d7a0fb606bec2448361ae01ed6ef3a78719ba19",
+    "name": "Qiagen NV (Stove Tokenized Stock)",
+    "symbol": "QGENS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180068/small/QGENs.png?1793800367"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x00764fa902a1c47a916a18b35396cdedc7f91194",
+    "name": "Ares Management (Stove Tokenized Stock)",
+    "symbol": "ARESS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180064/small/ARESs.png?1793800358"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xad8c63b7f0c7c935c7ae6daad723c4a372b4bc9d",
+    "name": "Guidewire Software (Stove Tokenized Stock)",
+    "symbol": "GWRES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180062/small/GWREs.png?1793800352"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfa41752350e534a96c5ab735c7b0fe70e1977db9",
+    "name": "JM Smucker (Stove Tokenized Stock)",
+    "symbol": "SJMS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180060/small/SJMs.png?1793800348"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0735e01722a6692cca0f95a6823147e133ae0321",
+    "name": "Masco (Stove Tokenized Stock)",
+    "symbol": "MASS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180061/small/MASs.png?1793800350"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe1a26cd49a7a1f343c9007bae2959d3f4b45cc6b",
+    "name": "Omega Healthcare Investors Inc (Stove Tokenized Stock)",
+    "symbol": "OHIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180059/small/OHIs.png?1793800346"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdf6385cdfa2e173e13243628c3a47d23b4bbb1a8",
+    "name": "Medtronic (Stove Tokenized Stock)",
+    "symbol": "MDTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180072/small/MDTs.png?1793800376"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x97fa1d833f9918735eba53e1d391e3b46bb4d09d",
+    "name": "Elevance Health (Stove Tokenized Stock)",
+    "symbol": "ELVS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180067/small/ELVs.png?1793800365"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8fa9e2443d47bf8b585839ce997601ce8414dc39",
+    "name": "Toast (Stove Tokenized Stock)",
+    "symbol": "TOSTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180077/small/TOSTs.png?1793800392"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xae2356cafa3d7c8b170f7378e0ef29c3164b8df1",
+    "name": "Cognizant (Stove Tokenized Stock)",
+    "symbol": "CTSHS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180113/small/CTSHs.png?1793940514"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0fdd4fabe3211d9ce0e2e8160782fa5d54358727",
+    "name": "Kinder Morgan (Stove Tokenized Stock)",
+    "symbol": "KMIS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180114/small/KMIs.png?1793940561"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x38285788b74774c554fe23a27948fd0d19f47865",
+    "name": "Medline (Stove Tokenized Stock)",
+    "symbol": "MDLNS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180071/small/MDLNs.png?1793800374"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x099ad5296629b3f5de51c45509603cb28ec7df68",
+    "name": "Halliburton (Stove Tokenized Stock)",
+    "symbol": "HALS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180115/small/HALs.png?1793940635"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8d9857d2b29f8180e5f58149b9a7b6e10dce615a",
+    "name": "CNH Industrial (Stove Tokenized Stock)",
+    "symbol": "CNHS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180116/small/CNHs.png?1793940664"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4afe5fced3167e217457ac3def0e7ad509cf24e4",
+    "name": "Tractor Supply (Stove Tokenized Stock)",
+    "symbol": "TSCOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180117/small/TSCOs.png?1793940766"
   }
 ]

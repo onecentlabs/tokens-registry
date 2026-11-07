@@ -89157,5 +89157,53 @@
     "symbol": "EXO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15590/small/LOGO_200x200_CIRCLE.png?1696515225"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa314a620827b87a08ec21941ada465066585b5b8",
+    "name": "SNOWMOON",
+    "symbol": "SNOWMOON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180110/small/1000070888.jpg?1793928340"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0dc4bc369ff564543738ebb04f2f1e6f4343f3b7",
+    "name": "Dacity Coin",
+    "symbol": "DACITY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180086/small/logo.png?1793830170"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb70a8eae57d4228de4db45eb06859eeb5e41de33",
+    "name": "Manifest Network",
+    "symbol": "MFX",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180082/small/MANIFEST_LOGO_DARK_GRAY_BLUE_BACKGROUND_.png?1793803074"
+  },
+  {
+    "chainId": 1,
+    "address": "0x14733c30d82356e8af53c6589a7ed0566945df2d",
+    "name": "Schroder ISF Emerging Market Bond Fund",
+    "symbol": "SISF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180107/small/SISF-200.png?1793865972"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7fa16ced60019ade15edd0cdb03d689d557b6d1e",
+    "name": "Silencio",
+    "symbol": "SLC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53710/small/Logo_Silencio_black_128x128_%281%29.png?1758264368"
+  },
+  {
+    "chainId": 1,
+    "address": "0x909369940f22dc1c143ac78753a33f41597138b1",
+    "name": "Anthropic xStock",
+    "symbol": "ANTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180104/small/ANTx.png?1793861573"
   }
 ]

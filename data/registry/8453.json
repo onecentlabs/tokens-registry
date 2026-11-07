@@ -33934,5 +33934,149 @@
     "symbol": "BUCKET",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175842/small/bucket-shop-logo-200.png?1789713079"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000047984ecae84db5fcf9",
+    "name": "Symbotic Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SYMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180132/small/SYMc-icon-200.png?1793942302"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000049b9fc3b3c8c9402ff",
+    "name": "The Timken Company (Coinbase Tokenized Stock)",
+    "symbol": "TKRC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180133/small/TKRc-icon-200.png?1793942406"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000051b531471096c5caf6",
+    "name": "Vishay Precision Group, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "VPGC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180134/small/VPGc-icon-200.png?1793942508"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6f18277e5566090ad8ab35e401ce9155739bfb07",
+    "name": "Reboot",
+    "symbol": "REBOOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180094/small/np44swwf5ly7a2cacunkj41ipk2i.?1793854050"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0bddfa9a0a1eb326593262c7af47ee091db9cb70",
+    "name": "DENIM",
+    "symbol": "DENIM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180084/small/logo_DENIM.png?1793814593"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb1c3a6ac90e324c4072ad4b2a71c5d9382f9565c",
+    "name": "Bootr",
+    "symbol": "BOOTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180096/small/u58a4ijfpzukfvhistg69k5f3a5d.?1793854358"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001a114de6d32433f3c0",
+    "name": "Serve Robotics Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SERVC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180130/small/SERVc-icon-200.png?1793942093"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000020790305a981e88a67",
+    "name": "Richtech Robotics Inc. (Coinbase Tokenized Stock)",
+    "symbol": "RRC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180136/small/RRc-icon-200.png?1793943151"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002cd78d7c981e97c330",
+    "name": "Strive, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ASSTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180131/small/ASSTc-icon-200.png?1793942224"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002c8b0e3d7ff26f81a0",
+    "name": "Amkor Technology, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "AMKRC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180123/small/AMKRc-icon-200.png?1793941166"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002451af655ae942308d",
+    "name": "Cognex Corporation (Coinbase Tokenized Stock)",
+    "symbol": "CGNXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180124/small/CGNXc-icon-200.png?1793941235"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000000d46361d597f543d06",
+    "name": "D-Wave Quantum Inc. (Coinbase Tokenized Stock)",
+    "symbol": "QBTSC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180125/small/QBTSc-icon-200.png?1793941312"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000050fe6d1ef35b02e8fd",
+    "name": "Dell Technologies Inc. (Coinbase Tokenized Stock)",
+    "symbol": "DELLC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180126/small/DELLc-icon-200.png?1793941386"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003fa80315bfd87efed8",
+    "name": "Figma, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "FIGC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180127/small/FIGc-icon-200.png?1793941440"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe125872d91a5a67704fa782aa74014adff7cae7e",
+    "name": "Reboot",
+    "symbol": "REBOOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180085/small/logo.png?1793822340"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002f7bd112b645574214",
+    "name": "Intuitive Surgical, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ISRGC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180128/small/ISRGc-icon-200.png?1793941713"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000252c42b75f49dacf59",
+    "name": "Rockwell Automation, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ROKC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180129/small/ROKc-icon-200.png?1793941868"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000011eea811eaedb29156",
+    "name": "Allient Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ALNTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180135/small/ALNTc-icon-200.png?1793942847"
   }
 ]

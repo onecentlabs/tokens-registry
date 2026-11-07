@@ -14585,5 +14585,13 @@
     "symbol": "CADC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/14149/small/CADC_FINAL_PNG.png?1768979043"
+  },
+  {
+    "chainId": 137,
+    "address": "0x0a55e7248b8e590b1c89d442d27bb30743f83b37",
+    "name": "RWAT",
+    "symbol": "RWAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180144/small/RWA.png?1793959394"
   }
 ]

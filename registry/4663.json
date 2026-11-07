@@ -2701,5 +2701,13 @@
     "symbol": "cbBTC",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/40143/small/cbbtc.webp?1726136727"
+  },
+  {
+    "address": "0x492641f648a4986844848e0befe66d14817bce34",
+    "symbol": "LINK",
+    "name": "Chain Link",
+    "decimals": 18,
+    "chainId": 4663,
+    "logoURI": "https://files.cow.fi/token-lists/images/4663/0x492641f648a4986844848e0befe66d14817bce34/logo.png"
   }
 ]

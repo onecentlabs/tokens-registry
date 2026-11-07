@@ -6772,5 +6772,21 @@
     "symbol": "XRXX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102178723/small/XRXx.png?1790152880"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x4dc985bb2043a7ecbeff2a281351862a012ff1fc",
+    "name": "Kor Protocol",
+    "symbol": "KOR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179879/small/Frame_29.jpg?1793329019"
+  },
+  {
+    "chainId": 5000,
+    "address": "0x909369940f22dc1c143ac78753a33f41597138b1",
+    "name": "Anthropic xStock",
+    "symbol": "ANTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180104/small/ANTx.png?1793861573"
   }
 ]
