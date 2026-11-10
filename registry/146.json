@@ -1185,5 +1185,13 @@
     "symbol": "EVAUSDC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102173288/small/token-evaUSDC.png?1778830856"
+  },
+  {
+    "chainId": 146,
+    "address": "0xf7d85ec4e7710f71992752eac2111312e73e9c9c",
+    "name": "Flying Tulip USD",
+    "symbol": "FTUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172348/small/flyingtulip_ftusd_200.png?1773039176"
   }
 ]

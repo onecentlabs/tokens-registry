@@ -32766,5 +32766,13 @@
     "symbol": "TSCOS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180117/small/TSCOs.png?1793940766"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x19d33c4b6ef26591cb6e74028454a82f24a4a4b9",
+    "name": "Phoenic Token",
+    "symbol": "PNIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37667/small/IMG_20240506_181047_087.jpg?1715181260"
   }
 ]

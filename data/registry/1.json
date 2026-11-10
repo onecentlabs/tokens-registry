@@ -89205,5 +89205,37 @@
     "symbol": "ANTX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180104/small/ANTx.png?1793861573"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1b86e4f7a2052ba7382fe4cf6c0cc1cae451cc10",
+    "name": "Machina",
+    "symbol": "MACHINA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173693/small/X_-_Linkedin_dark.png?1781004019"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32bab5424ee3e7cdb828efa9759bc4f91a7c92aa",
+    "name": "Kaon",
+    "symbol": "KAON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180145/small/kaon.jpg?1794034242"
+  },
+  {
+    "chainId": 1,
+    "address": "0x77deb0d6288b26edc3f813e16cef2e36c645941b",
+    "name": "Be Like José",
+    "symbol": "JOSÉ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180174/small/Untitled-2.png?1794128091"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa24c70209c857cb5a5a0ff0758a6f50000233d2f",
+    "name": "Xsolla Gas",
+    "symbol": "XLA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180175/small/Xsolla_-_XLA_Gold_Gas_Logo_200x200.png?1794130637"
   }
 ]

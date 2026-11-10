@@ -34078,5 +34078,37 @@
     "symbol": "ALNTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/102180135/small/ALNTc-icon-200.png?1793942847"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1a85b97f8b0e1cee4d5500e093f5970a2aeb3fb8",
+    "name": "Aerostrategy",
+    "symbol": "AEROSTRAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180152/small/Frame_3.png?1794066783"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1b23704e3f4bc7081fb00cec582183e3fe43cef7",
+    "name": "Alien Base",
+    "symbol": "ALB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31301/small/ALB.png?1720133373"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd86800d5b021f5d79350c2f742bbb1ecc010bf82",
+    "name": "Pumper",
+    "symbol": "PUMPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176824/small/pumper_logo.jpg?1788859946"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb80194e3868511b8f43e1d5d6e255cd9e7c3e7dd",
+    "name": "Kinetiq",
+    "symbol": "KNTQ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70252/small/kntq.png?1761279547"
   }
 ]

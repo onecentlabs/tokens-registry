@@ -7687,5 +7687,93 @@
     "symbol": "ANTX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180104/small/ANTx.png?1793861573"
+  },
+  {
+    "chainId": 999,
+    "address": "0x07a76acced707de999a54d39aff62a2d7ac4cc81",
+    "name": "SPDR S&P 500 ETF Trust (EQX Tokenized ETF)",
+    "symbol": "EQSPY",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180155/small/eqx-SPY.png?1794069243"
+  },
+  {
+    "chainId": 999,
+    "address": "0x4720b40c89ff3a74c6be8ea34cf40fae5eaced79",
+    "name": "Alphabet Class A (EQX Tokenized Stock)",
+    "symbol": "EQGOOG",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180160/small/eqx-GOOGL.png?1794069723"
+  },
+  {
+    "chainId": 999,
+    "address": "0x883dad2aa97175c0d1569e1de61204ac47b2b8fb",
+    "name": "Tesla (EQX Tokenized Stock)",
+    "symbol": "EQTSLA",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180162/small/eqx-TSLA.png?1794069850"
+  },
+  {
+    "chainId": 999,
+    "address": "0x095cca17f0619596115ea09bbe1d80431685ba1a",
+    "name": "Invesco QQQ Trust (EQX Tokenized ETF)",
+    "symbol": "EQQQQ",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180156/small/eqx-QQQ.png?1794069470"
+  },
+  {
+    "chainId": 999,
+    "address": "0x15d82780780ca72570818f91587b752562d655bc",
+    "name": "Apple (EQX Tokenized Stock)",
+    "symbol": "EQAAPL",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180158/small/eqx-AAPL.png?1794069522"
+  },
+  {
+    "chainId": 999,
+    "address": "0x9164fd5f67fe4188ff79675182183512bc37d66d",
+    "name": "Micron Technology (EQX Tokenized Stock)",
+    "symbol": "EQMU",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180161/small/eqx-MU.png?1794069846"
+  },
+  {
+    "chainId": 999,
+    "address": "0xa23afe6bd466bdb806a83afdda76f644fc4347cf",
+    "name": "NVIDIA (EQX Tokenized Stock)",
+    "symbol": "EQNVDA",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180164/small/eqx-NVDA.png?1794069857"
+  },
+  {
+    "chainId": 999,
+    "address": "0xca911a8ae21baaf9cdec0baa45259c64ec8ae59e",
+    "name": "Microsoft (EQX Tokenized Stock)",
+    "symbol": "EQMSFT",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180157/small/eqx-MSFT.png?1794069519"
+  },
+  {
+    "chainId": 999,
+    "address": "0xf5c6190d9178097563372a4aca15d52ec24f129a",
+    "name": "Meta Platforms (EQX Tokenized Stock)",
+    "symbol": "EQMETA",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180163/small/eqx-META.png?1794069854"
+  },
+  {
+    "chainId": 999,
+    "address": "0x582c6add0eb720ea1c2e2019ff9b7c21fe99288f",
+    "name": "Amazon (EQX Tokenized Stock)",
+    "symbol": "EQAMZN",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180159/small/eqx-AMZN.png?1794069715"
+  },
+  {
+    "chainId": 999,
+    "address": "0xf115ff708a795cd0e06531dec57ed716138be8bd",
+    "name": "SpaceX (EQX Tokenized Stock)",
+    "symbol": "EQSPCX",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180182/small/EQSPCX.png?1794208773"
   }
 ]
