@@ -8482,5 +8482,13 @@
     "symbol": "KRW1",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71665/small/_KRW1_Logo_v1.1-01.png?1768820330"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe916beb9addfecc2c7c12c241d8ec65e0c55897f",
+    "name": "Peak",
+    "symbol": "PEAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180222/small/Peak.jpg?1794393866"
   }
 ]

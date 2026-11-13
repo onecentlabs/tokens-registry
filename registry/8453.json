@@ -34110,5 +34110,125 @@
     "symbol": "KNTQ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70252/small/kntq.png?1761279547"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001dfd8c413ecd6ec630",
+    "name": "Pinterest, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "PINSC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180255/small/PINSc-icon-200.png?1794538155"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000000cd31253817b36f88a",
+    "name": "QXO, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "QXOC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180256/small/QXOc-icon-200.png?1794538215"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000000c431e2a7c0ce7ea31",
+    "name": "SELLAS Life Sciences Group, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "SLSC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180257/small/SLSc-icon-200_%281%29.png?1794538279"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001bcf8e5022d7f61919",
+    "name": "MicroVision, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "MVISC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180198/small/MVISc-icon-200.png?1794315131"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000001bcf0441201d513fa5",
+    "name": "Danaher Corporation (Coinbase Tokenized Stock)",
+    "symbol": "DHRC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180250/small/DHRc-icon-200.png?1794537430"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000005befa57b9b871e737",
+    "name": "DigitalOcean Holdings, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "DOCNC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180251/small/DOCNc-icon-200.png?1794537575"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000042cbbae483635c3774",
+    "name": "Gartner, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ITC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180252/small/ITc-icon-200.png?1794537657"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003aa0410688baf4da88",
+    "name": "Newmont Corporation (Coinbase Tokenized Stock)",
+    "symbol": "NEMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180254/small/NEMc-icon-200.png?1794538049"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000005717baa337022c782",
+    "name": "Lyft, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "LYFTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180253/small/LYFTc-icon-200.png?1794537713"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000178d4c37485ea47ef6",
+    "name": "Omeros Corporation (Coinbase Tokenized Stock)",
+    "symbol": "OMERC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180258/small/OMERc-icon-200.png?1794538668"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000010718397aca876a20a",
+    "name": "Absci Corporation (Coinbase Tokenized Stock)",
+    "symbol": "ABSIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180249/small/ABSIc-official.png?1794537365"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003a67b9f116f25513d6",
+    "name": "TG Therapeutics, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "TGTXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180259/small/TGTXc-icon-200_%281%29.png?1794538799"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe904aea5e1b110c9174728fa2effc8aed19e98ef",
+    "name": "PAX Gold",
+    "symbol": "PAXG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9519/small/asset-paxg.png?1785284785"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9f4c76f421f47b3c234f841f477897f1d895177d",
+    "name": "InfiniFi Token",
+    "symbol": "INFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180232/small/photo_2026-11-09_14-06-39.jpg?1794424791"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
+    "name": "Wormhole Bridged HYPE",
+    "symbol": "HYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68481/small/hype.png?1755878697"
   }
 ]

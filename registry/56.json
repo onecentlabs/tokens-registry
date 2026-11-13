@@ -35749,5 +35749,13 @@
     "address": "0x2795F40bF9A20575125A8f42Daa6461B4c0E5615",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x2795F40bF9A20575125A8f42Daa6461B4c0E5615.png"
+  },
+  {
+    "name": "Ondo Magnificent 7 and Crypto Portfolio",
+    "chainId": 56,
+    "symbol": "MAG7Xon",
+    "address": "0x50436eC45316A98E72b03Ead5752E8543f11ec09",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x50436eC45316A98E72b03Ead5752E8543f11ec09.png"
   }
 ]

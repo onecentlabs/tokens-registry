@@ -89237,5 +89237,101 @@
     "symbol": "XLA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180175/small/Xsolla_-_XLA_Gold_Gas_Logo_200x200.png?1794130637"
+  },
+  {
+    "chainId": 1,
+    "address": "0x38342f9c040e8b9291886e3df9ce8e7c88cf1948",
+    "name": "Pyrank",
+    "symbol": "PYRT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180245/small/PYRT.png?1794534554"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2914b239a5d5f2f14bc8dd4635a47370a7759b44",
+    "name": "AudaCity",
+    "symbol": "AUDACITY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180247/small/logo-user.png?1794535246"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf40c07d7cd45f291b93ca674db66a15c8a98957e",
+    "name": "InfiniFi Token",
+    "symbol": "INFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180232/small/photo_2026-11-09_14-06-39.jpg?1794424791"
+  },
+  {
+    "chainId": 1,
+    "address": "0x10fdf1c42bcdb1de5da1393176dbd0fa3892d2dd",
+    "name": "Rocco",
+    "symbol": "ROCCO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180223/small/logo_Rocco.png?1794393940"
+  },
+  {
+    "chainId": 1,
+    "address": "0x15e9752e8e41adb5f4831dbf46dd1ca2488423e1",
+    "name": "Ondo US 500 Capital Shielded Portfolio",
+    "symbol": "SPYSHIELDON",
+    "decimals": 15,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180227/small/spyshieldon_160x160.png?1794409238"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6f866bdee4b603bc907098ad596552a7af0f1de3",
+    "name": "Ondo Big 5 Core Allocation Portfolio",
+    "symbol": "BIG5ON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180228/small/big5on_160x160.png?1794409556"
+  },
+  {
+    "chainId": 1,
+    "address": "0x35ebe010cdd541284fcfd2f85992a392a488f989",
+    "name": "Seppuku",
+    "symbol": "SEPPUKU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180212/small/7391MuF0_400x400.jpg?1794324486"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc4700ae5a5e6cd6b70e7190a0458e568089e98e2",
+    "name": "AudaCity",
+    "symbol": "DACITYCOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180213/small/5.png?1794332841"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf06ad17b0db75dbf71dbddfcde93e85c660f916c",
+    "name": "AstraAI",
+    "symbol": "ASTRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33138/small/20241215_231624.jpg?1734318326"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb3a6add33f777ac6ea0ec88bdf533573c8bbbc03",
+    "name": "ni hao cat",
+    "symbol": "MIHAO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180218/small/logo.jpg?1794391774"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd86800d5b021f5d79350c2f742bbb1ecc010bf82",
+    "name": "Pumper",
+    "symbol": "PUMPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176824/small/pumper_logo.jpg?1788859946"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf4c13d631450de6b12a19829e37c8e2826891dc4",
+    "name": "Avant USD",
+    "symbol": "AVUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53527/small/token-avusd.png?1736579003"
   }
 ]
