@@ -7775,5 +7775,13 @@
     "symbol": "EQSPCX",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/102180182/small/EQSPCX.png?1794208773"
+  },
+  {
+    "chainId": 999,
+    "address": "0xeb22ec1b402dcc4155b9d8d2e1db2f2d229162cc",
+    "name": "Ensemble VOL Vault Share",
+    "symbol": "VOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180281/small/approved_token_200.png?1794682898"
   }
 ]

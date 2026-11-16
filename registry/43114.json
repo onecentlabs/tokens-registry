@@ -8490,5 +8490,13 @@
     "symbol": "PEAK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180222/small/Peak.jpg?1794393866"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x898d93e5bf6ee61a03f50cb0cdbf9c3751da8dc7",
+    "name": "Avax Hook",
+    "symbol": "HOOK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180277/small/hookavax-coin-logo.png?1794662661"
   }
 ]
