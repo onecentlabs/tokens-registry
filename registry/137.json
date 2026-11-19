@@ -14593,5 +14593,13 @@
     "symbol": "RWAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180144/small/RWA.png?1793959394"
+  },
+  {
+    "chainId": 137,
+    "address": "0x0b16f64948468a54ab3736a5da1a8eb83d46d602",
+    "name": "Uruguayan Peso",
+    "symbol": "WUYU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180291/small/wuyu_logo_outline_200x200.png?1794830161"
   }
 ]

@@ -7783,5 +7783,13 @@
     "symbol": "VOL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180281/small/approved_token_200.png?1794682898"
+  },
+  {
+    "chainId": 999,
+    "address": "0x0b16f64948468a54ab3736a5da1a8eb83d46d602",
+    "name": "Uruguayan Peso",
+    "symbol": "WUYU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180291/small/wuyu_logo_outline_200x200.png?1794830161"
   }
 ]

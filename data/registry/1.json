@@ -89405,5 +89405,141 @@
     "symbol": "WASTED",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180266/small/logo.png?1794659607"
+  },
+  {
+    "chainId": 1,
+    "address": "0x81c3060ba8e87c06a493a5549e202ee3741a794c",
+    "name": "Symbiosis Bridged BTC (Ethereum)",
+    "symbol": "SYMBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180324/small/symBTC.png?1794998272"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5200f539478f58d9aea962095ba3b16b5e550e00",
+    "name": "Clearpool",
+    "symbol": "CLEAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180289/small/Clearpool_New_Icon_-_Light.png?1794820665"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0b16f64948468a54ab3736a5da1a8eb83d46d602",
+    "name": "Uruguayan Peso",
+    "symbol": "WUYU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180291/small/wuyu_logo_outline_200x200.png?1794830161"
+  },
+  {
+    "chainId": 1,
+    "address": "0x43b31245dc64e26951d2712f623eda973d71e865",
+    "name": "WASTED",
+    "symbol": "WASTED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180327/small/logo.png?1795002824"
+  },
+  {
+    "chainId": 1,
+    "address": "0x43a0943893474f246aa58e9921d975ad60adee59",
+    "name": "Anthropic (Ondo Tokenized Stock)",
+    "symbol": "ANTON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180295/small/anton_160x160.png?1794897940"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6c190f0b8f7525244c6dcf0363a1241a99509101",
+    "name": "Take-Two Interactive Software (Ondo Tokenized Stock)",
+    "symbol": "TTWOON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180296/small/ttwoon_160x160.png?1794898150"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7fa8725e25b0c005a22499461aaa3f1b1c2962fe",
+    "name": "Franklin US Equity Bitcoin DRIP Index ETF (Ondo Tokenized ET",
+    "symbol": "FBEQON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180297/small/fbeqon_160x160.png?1794898433"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbd79b7db6f70979df7f4124e161eb3586085d140",
+    "name": "Lithosphere Algorithmic",
+    "symbol": "LAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180298/small/Lax_Logo.png?1794902129"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3ccf4f79b5d6aceb786c20f74b8df07c7e14160f",
+    "name": "Franklin US Equity Index ETF (Ondo Tokenized ETF)",
+    "symbol": "USPXON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180309/small/uspxon_160x160.png?1794909512"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf1f558c95b14ad95d4da1822770dc4ff0f1bcc30",
+    "name": "Franklin US Core Bond ETF (Ondo Tokenized ETF)",
+    "symbol": "FLCBON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180310/small/flcbon_160x160.png?1794909969"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfeebbddda97d26605050e85099e697fd9567d597",
+    "name": "Franklin US Treasury Bond ETF (Ondo Tokenized ETF)",
+    "symbol": "FLGVON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180311/small/flgvon_160x160.png?1794910224"
+  },
+  {
+    "chainId": 1,
+    "address": "0xede6a93741f2466decfd709158e235fbfaf001a1",
+    "name": "Lucia",
+    "symbol": "LUCIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180313/small/logo.png?1795053500"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa1313eb9f3a445606d9583bcac3ebeb56a858279",
+    "name": "Tacit Token",
+    "symbol": "TAC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180330/small/tac-logo.png?1795054885"
+  },
+  {
+    "chainId": 1,
+    "address": "0x160a8a73059d54f68d77ac1626c08425ec2ec0e0",
+    "name": "Wanted Star",
+    "symbol": "WSTAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180314/small/logo.png?1794991621"
+  },
+  {
+    "chainId": 1,
+    "address": "0x79e4c36c462a3a4fb17b0ba96fbf85034279268b",
+    "name": "Chunkee The Manatee",
+    "symbol": "CHUNKEE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180316/small/logo1.png?1794993235"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc1a5d2a623c44408553fe720570530e1710b9f46",
+    "name": "ephemeral",
+    "symbol": "EPH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180331/small/IMG_3407.jpeg?1795055002"
+  },
+  {
+    "chainId": 1,
+    "address": "0x53d0ea0a685220718dc6a0a6e4617194c6f37921",
+    "name": "Inference Backed Endogenous Financial Reserve",
+    "symbol": "INFER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180318/small/7Y4RNshV_400x400.jpg?1794993609"
   }
 ]

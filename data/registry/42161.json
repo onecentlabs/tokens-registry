@@ -32774,5 +32774,13 @@
     "symbol": "PNIC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37667/small/IMG_20240506_181047_087.jpg?1715181260"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa8940698fda5a07abaef4a5ccdf2f1bb525b47a2",
+    "name": "Brazilian Digital",
+    "symbol": "BRZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/8472/small/MicrosoftTeams-image_%286%29.png?1696508657"
   }
 ]

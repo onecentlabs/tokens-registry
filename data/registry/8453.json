@@ -34230,5 +34230,101 @@
     "symbol": "HYPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68481/small/hype.png?1755878697"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8888cdad9ef66382f89e68f95ec384d89ec28888",
+    "name": "Nami",
+    "symbol": "NAMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180326/small/PNG_image.png?1794999259"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000264d3a9dea68aa6631",
+    "name": "The Goodyear Tire & Rubber Company (Coinbase Tokenized Stock",
+    "symbol": "GTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180301/small/GTc-icon-200.png?1794903151"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000211a2ed33fad95b0b3",
+    "name": "The RealReal, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "REALC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180300/small/REALc-icon-200.png?1794903142"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000033be01089cf02a2025",
+    "name": "The Western Union Company (Coinbase Tokenized Stock)",
+    "symbol": "WUC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180304/small/WUc-official.png?1794904038"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003cdb2c0f94e4ebf605",
+    "name": "CLEAR Secure, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "YOUC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180299/small/YOUc-official.png?1794903051"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000038e9982fe875b7e066",
+    "name": "Coupang, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "CPNGC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180302/small/CPNGc-official.png?1794903158"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000007b4fcc48e2d70dcc6",
+    "name": "Cohu, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "COHUC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180320/small/COHUc-icon-200.png?1794997682"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000030945cb9c538d0b326",
+    "name": "Visteon Corporation (Coinbase Tokenized Stock)",
+    "symbol": "VCC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180321/small/VCc-icon-200.png?1794997814"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002756093a39e13e08c6",
+    "name": "FMC Corporation (Coinbase Tokenized Stock)",
+    "symbol": "FMCC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180323/small/FMCc-icon-200.png?1794997821"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003fc6f17c8b775bca78",
+    "name": "Ubiquiti Inc. (Coinbase Tokenized Stock)",
+    "symbol": "UIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180322/small/UIc-icon-200.png?1794997818"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe7645444eb4e8e04d886c7038dd0152d331d3680",
+    "name": "Lithosphere Algorithmic",
+    "symbol": "LAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180298/small/Lax_Logo.png?1794902129"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0b16f64948468a54ab3736a5da1a8eb83d46d602",
+    "name": "Uruguayan Peso",
+    "symbol": "WUYU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180291/small/wuyu_logo_outline_200x200.png?1794830161"
   }
 ]

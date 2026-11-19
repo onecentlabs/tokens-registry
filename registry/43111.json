@@ -118,5 +118,13 @@
     "symbol": "UNIBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/39599/small/uniBTC_200px.png?1723064455"
+  },
+  {
+    "chainId": 43111,
+    "address": "0xd3599ae62ee280709a22268a46d23164214e345b",
+    "name": "Vetro USD",
+    "symbol": "VUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16253/small/VUSD-tokenLogo.png?1776433851"
   }
 ]
