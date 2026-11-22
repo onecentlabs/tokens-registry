@@ -32782,5 +32782,21 @@
     "symbol": "BRZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/8472/small/MicrosoftTeams-image_%286%29.png?1696508657"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc5a46ad2bf662abeee0ba8e8f4d8a97af21d1ed5",
+    "name": "Anthropic (Stove Tokenized Stock)",
+    "symbol": "ANTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180374/small/ANTs.png?1795263272"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5614deffc4ed6e40f795fc79cdb415e52a6227e5",
+    "name": "Anthropic PBC (Anchored Tokenized Stock)",
+    "symbol": "AANT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180351/small/aANT-logo.png?1795167069"
   }
 ]

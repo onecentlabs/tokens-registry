@@ -7791,5 +7791,53 @@
     "symbol": "WUYU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180291/small/wuyu_logo_outline_200x200.png?1794830161"
+  },
+  {
+    "chainId": 999,
+    "address": "0xe12f47589a272665203ce727854cf3fef8a8ed94",
+    "name": "Ensemble BEAR",
+    "symbol": "BEAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180368/small/ensemble.jpg?1795169713"
+  },
+  {
+    "chainId": 999,
+    "address": "0xd2778440c4c1934185a2f8cb7e09a9a7a7cc21f0",
+    "name": "Ensemble iBULL",
+    "symbol": "IBULL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180367/small/ensemble.jpg?1795169534"
+  },
+  {
+    "chainId": 999,
+    "address": "0xb0808ffd220541568f70efe9774c795cd0c310aa",
+    "name": "Ensemble iBEAR",
+    "symbol": "IBEAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180369/small/ensemble.jpg?1795169904"
+  },
+  {
+    "chainId": 999,
+    "address": "0x2d561b24e754b105bb0df34a3345aac1fe805210",
+    "name": "Ensemble BULL",
+    "symbol": "BULL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180366/small/ensemble.jpg?1795169198"
+  },
+  {
+    "chainId": 999,
+    "address": "0x59a72a4b8d632005112f7d2bc0d035e06be043d9",
+    "name": "Ensemble iVOL",
+    "symbol": "IVOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180370/small/ensemble.jpg?1795171842"
+  },
+  {
+    "chainId": 999,
+    "address": "0x5fc54614bc8bc9ab519ff6ea8e0fd56e7859f242",
+    "name": "Anthropic (EQX Tokenized Stock)",
+    "symbol": "EQANT",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180373/small/EQANT.png?1795263244"
   }
 ]

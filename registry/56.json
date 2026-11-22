@@ -45989,5 +45989,18 @@
     "symbol": "ZMAYON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102179904/small/zmonthon.png?1793343479"
+  },
+  {
+    "name": "Ryde Group",
+    "chainId": 56,
+    "symbol": "RYDE4",
+    "address": "0x6a2b0B704650A93F7495d728C3b851A1c5f73172",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6a2b0B704650A93F7495d728C3b851A1c5f73172.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
   }
 ]

@@ -89541,5 +89541,85 @@
     "symbol": "INFER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180318/small/7Y4RNshV_400x400.jpg?1794993609"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9a8ce0ee0a939c7e7fb2af177a57273fd7e07da4",
+    "name": "AlloX",
+    "symbol": "ALLOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180343/small/ALLOX_TOKEN_ICON_200x200.png?1795160154"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3a050fd9cc79d0d9f22eb0da381dcd6f1e238f95",
+    "name": "Variational X",
+    "symbol": "VAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180344/small/7.png?1795160837"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa038a26bf960451b8ce75ec4c92013c6307f8e4e",
+    "name": "GDollar",
+    "symbol": "GDLR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180377/small/coingecko-gdlr-token-icon-200.png?1795264853"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd27cf10e7805fb4022af8aa76291249989f39fe0",
+    "name": "Popo The Turtle",
+    "symbol": "POPO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180378/small/logo_Popo.png?1795265048"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5614deffc4ed6e40f795fc79cdb415e52a6227e5",
+    "name": "Anthropic PBC (Anchored Tokenized Stock)",
+    "symbol": "AANT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180351/small/aANT-logo.png?1795167069"
+  },
+  {
+    "chainId": 1,
+    "address": "0x181e5738d593ce29ccdc91bc562d45da3c480796",
+    "name": "Re7 Confidential Ondo USDC",
+    "symbol": "RE7COUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180352/small/true.png?1795167496"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7f876bf31089a8d13ccf8f1158ef7bfeca2ddf94",
+    "name": "Saturn Confidential Tokenized Equity Vault",
+    "symbol": "SATCUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180353/small/true.png?1795167527"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc15bbf1ad6129859628d06115a64581006ec62ac",
+    "name": "Yuzu Confidential Yield",
+    "symbol": "YZPRVT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180354/small/true.png?1795167548"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f8f5e8c6579f8e183a1140868b70d67233eb213",
+    "name": "PIPI",
+    "symbol": "PIPI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180364/small/pipilogo.png?1795168737"
+  },
+  {
+    "chainId": 1,
+    "address": "0x99cd4ec3f88a45940936f469e4bb72a2a701eeb9",
+    "name": "Sky Staked USDS",
+    "symbol": "STUSDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180365/small/stusds.png?1795168942"
   }
 ]

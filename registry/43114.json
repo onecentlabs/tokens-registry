@@ -8498,5 +8498,21 @@
     "symbol": "HOOK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180277/small/hookavax-coin-logo.png?1794662661"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9a174160148cec7ca62dd7b44849e7fcce4891b9",
+    "name": "Avadaq",
+    "symbol": "ADAQ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180345/small/adaq-logo-transparant.png?1795166011"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9a5926fd88f747c357738b1e82afb46ab80f0a6b",
+    "name": "USAT",
+    "symbol": "USAT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71792/small/usat_logo_200x200.png?1769440161"
   }
 ]

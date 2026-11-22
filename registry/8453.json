@@ -34326,5 +34326,141 @@
     "symbol": "WUYU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180291/small/wuyu_logo_outline_200x200.png?1794830161"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11110ecc00d927f70be6e35adb24bb7d3dc11111",
+    "name": "OG Nami",
+    "symbol": "OGNAMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180342/small/PNG_image.png?1795159849"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000e3e784cdf88df2959d",
+    "name": "Bank of America Corporation (Coinbase Tokenized Stock)",
+    "symbol": "BACC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180349/small/BACc-official.png?1795166850"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000e4a60215e10d6d8c2b",
+    "name": "Chipotle Mexican Grill, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "CMGC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180350/small/CMGc-official.png?1795166978"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000df14b76c292a32982d",
+    "name": "GitLab Inc. (Coinbase Tokenized Stock)",
+    "symbol": "GTLBC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180355/small/GTLBc-official.png?1795167581"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000090658e3f9b29e2f5c2",
+    "name": "Johnson & Johnson (Coinbase Tokenized Stock)",
+    "symbol": "JNJC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180356/small/JNJc-official.png?1795167721"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000989dc22d3656717734",
+    "name": "lululemon athletica inc. (Coinbase Tokenized Stock)",
+    "symbol": "LULUC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180357/small/LULUc-official.png?1795167798"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000d2f4cf2f7debb244bb",
+    "name": "McDonald's Corporation (Coinbase Tokenized Stock)",
+    "symbol": "MCDC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180358/small/MCDc-official.png?1795167965"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000006f944897540579d3f2",
+    "name": "Robinhood Markets, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "HOODC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180359/small/HOODc-official.png?1795168147"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000e71d4e45d1421251cb",
+    "name": "Arista Networks, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ANETC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180348/small/ANETc-official.png?1795166756"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000c367d37d07150182a2",
+    "name": "UnitedHealth Group Incorporated (Coinbase Tokenized Stock)",
+    "symbol": "UNHC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180361/small/UNHc-official.png?1795168374"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000b2e8dba585b1ffb158",
+    "name": "Vertiv Holdings Co (Coinbase Tokenized Stock)",
+    "symbol": "VRTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180362/small/VRTc-official.png?1795168458"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000ffef181db6dc5ed6a3",
+    "name": "The Coca-Cola Company (Coinbase Tokenized Stock)",
+    "symbol": "KOC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180360/small/KOc-official.png?1795168306"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000079dc24fe2fbd09110f",
+    "name": "Vistra Corp. (Coinbase Tokenized Stock)",
+    "symbol": "VSTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180363/small/VSTc-official.png?1795168527"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000016e38fd364d271ba28",
+    "name": "Anthropic, PBC (Coinbase Tokenized Stock)",
+    "symbol": "ANTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180335/small/ANTc-official.png?1795105161"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5614deffc4ed6e40f795fc79cdb415e52a6227e5",
+    "name": "Anthropic PBC (Anchored Tokenized Stock)",
+    "symbol": "AANT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180351/small/aANT-logo.png?1795167069"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9c1450eb79317fba40772e7db5911a3f4be2ff88",
+    "name": "Blockchain USD",
+    "symbol": "USDB",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178483/small/IMG_1772.jpeg?1789702296"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcc09d13db42f4ed99e21101ec1f8da1aa9d2db77",
+    "name": "Atlantis Coin",
+    "symbol": "ATC",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/71696/small/1000751251.png?1788414575"
   }
 ]
