@@ -89621,5 +89621,53 @@
     "symbol": "STUSDS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180365/small/stusds.png?1795168942"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb1dc57ed65b3bce06e1d5645d0304fe84cc8963d",
+    "name": "Non-Playable Shiba",
+    "symbol": "NPS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180410/small/logo.png?1795530697"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9579dde255f9a982d2598ff87fdcf2887ea8a273",
+    "name": "Pepe Intelligence",
+    "symbol": "PEI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180390/small/logo.png?1795386812"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0b57b7333c43fe900d17a81bddc67c88c825afd6",
+    "name": "SDollar",
+    "symbol": "SDLR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180395/small/coingecko-sdlr-token-icon-200.png?1795388241"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1d71ffe68520ea660bf7ef453d02345dffd9775a",
+    "name": "wojak",
+    "symbol": "WOJAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180396/small/f14_6-yP_400x400.png?1795407773"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe018d1e8747ac44d87d35197ba1e9a73a721097c",
+    "name": "Pepe Wojak",
+    "symbol": "PEJAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180398/small/3.png?1795413326"
+  },
+  {
+    "chainId": 1,
+    "address": "0x33fbc08bd84e61e04e51ea0f32885aa77f7d5eca",
+    "name": "ALEO",
+    "symbol": "ALEO",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/27916/small/secondary-icon-dark.png?1726770428"
   }
 ]

@@ -34462,5 +34462,13 @@
     "symbol": "ATC",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/71696/small/1000751251.png?1788414575"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb8cd0b8e056a91c00fd388eddb37e6e445844b21",
+    "name": "COMPUTE.r",
+    "symbol": "COMPUTE.R",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180325/small/icon-compute-laptop.webp?1794998901"
   }
 ]
