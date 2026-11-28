@@ -34470,5 +34470,117 @@
     "symbol": "COMPUTE.R",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102180325/small/icon-compute-laptop.webp?1794998901"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000acccfe56da68b19a0d",
+    "name": "Gilead Sciences, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "GILDC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180428/small/GILDc-official.png?1795615298"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000b096f2f6021ac39617",
+    "name": "First Solar, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "FSLRC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180429/small/FSLRc-official.png?1795615301"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000bf391678bf2e38cedb",
+    "name": "DoorDash, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "DASHC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180430/small/DASHc-official.png?1795615304"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000c33e458d1f892a7917",
+    "name": "Analog Devices, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ADIC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180431/small/ADIc-official.png?1795615306"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000896d4cf2f1866d9bce",
+    "name": "Affirm Holdings, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "AFRMC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180432/small/AFRMc-icon-200.png?1795615309"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000077bbd6469ecfe8c0b4",
+    "name": "Biogen Inc. (Coinbase Tokenized Stock)",
+    "symbol": "BIIBC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180433/small/BIIBc-official.png?1795615607"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000bba79a25edfd4b66c0",
+    "name": "The Gap, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "GAPC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180423/small/GAPc-official.png?1795615285"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000b92922f6d0c592a456",
+    "name": "Vertex Pharmaceuticals Incorporated (Coinbase Tokenized Stoc",
+    "symbol": "VRTXC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180421/small/ULTAc-official.png?1795615277"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000053d000bac95662d1e4",
+    "name": "Ulta Beauty, Inc. (Coinbase Tokenized Stock)",
+    "symbol": "ULTAC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180422/small/ULTAc-official.png?1795615280"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc947c4c1aa52d1651cee45d63c7f08aaa140adf3",
+    "name": "Numen",
+    "symbol": "NUMN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102178577/small/Numen_Logo.png?1790084836"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000989432cd85947ee845",
+    "name": "Intuit Inc. (Coinbase Tokenized Stock)",
+    "symbol": "INTUC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180427/small/INTUc-official.png?1795615294"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000005b1e5ad3c6aeabeddd",
+    "name": "Nordson Corporation (Coinbase Tokenized Stock)",
+    "symbol": "NDSNC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180426/small/NDSNc-official.png?1795615292"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000085367ee92c15b5f613",
+    "name": "ON Semiconductor Corporation (Coinbase Tokenized Stock)",
+    "symbol": "ONC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180425/small/ONc-official.png?1795615289"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000a0390525880c1ac72b",
+    "name": "Permian Resources Corporation (Coinbase Tokenized Stock)",
+    "symbol": "PRC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180424/small/PRc-official.png?1795615288"
   }
 ]

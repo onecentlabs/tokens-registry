@@ -89669,5 +89669,29 @@
     "symbol": "ALEO",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/27916/small/secondary-icon-dark.png?1726770428"
+  },
+  {
+    "chainId": 1,
+    "address": "0x231b1e6d55f163a55629c4ada2dfe714349ae237",
+    "name": "COOLDOG",
+    "symbol": "COOLDOG",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180438/small/cooldog.jpg?1795668871"
+  },
+  {
+    "chainId": 1,
+    "address": "0x660ef3737ca6bf60a192b6561b1d246a98fbe587",
+    "name": "zkFOL",
+    "symbol": "ZKFOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180447/small/zkfol-transp-200x200.png?1795681689"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7b43495c05581bd2d9326fe9c1c18c62c63dd2fc",
+    "name": "Popo The Turtle",
+    "symbol": "POPO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180461/small/Popo_The_Turtle.png?1795757397"
   }
 ]
